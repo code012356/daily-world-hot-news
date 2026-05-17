@@ -7,6 +7,7 @@ import os
 import re
 import sys
 import textwrap
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from collections import Counter
@@ -25,6 +26,62 @@ DEFAULT_FEEDS = [
     "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
 ]
+TRANSLATE_ENDPOINT = "https://translate.googleapis.com/translate_a/single"
+
+KEYWORD_ZH_OVERRIDES = {
+    "abu": "阿布",
+    "attack": "袭击",
+    "attacks": "袭击",
+    "bank": "银行",
+    "banks": "银行",
+    "china": "中国",
+    "chinese": "中国",
+    "dead": "死亡",
+    "death": "死亡",
+    "deaths": "死亡",
+    "diplomatic": "外交",
+    "drone": "无人机",
+    "drones": "无人机",
+    "economy": "经济",
+    "election": "选举",
+    "energy": "能源",
+    "gaza": "加沙",
+    "government": "政府",
+    "iran": "伊朗",
+    "israel": "以色列",
+    "killed": "死亡",
+    "killing": "造成死亡",
+    "kills": "造成死亡",
+    "large-scale": "大规模",
+    "market": "市场",
+    "markets": "市场",
+    "military": "军事",
+    "missile": "导弹",
+    "moscow": "莫斯科",
+    "nuclear": "核",
+    "oil": "石油",
+    "plant": "设施",
+    "power": "电力",
+    "president": "总统",
+    "prices": "价格",
+    "russia": "俄罗斯",
+    "russian": "俄罗斯",
+    "sanctions": "制裁",
+    "security": "安全",
+    "strike": "袭击",
+    "strikes": "袭击",
+    "surrounding": "周边地区",
+    "tariff": "关税",
+    "tariffs": "关税",
+    "trade": "贸易",
+    "trump": "特朗普",
+    "uae": "阿联酋",
+    "ukraine": "乌克兰",
+    "ukrainian": "乌克兰",
+    "war": "战争",
+    "wave": "一波袭击",
+    "wounding": "受伤",
+}
 
 STOPWORDS = {
     "about",
@@ -39,32 +96,46 @@ STOPWORDS = {
     "at",
     "be",
     "been",
+    "bbc",
+    "bloomberg",
     "but",
     "by",
     "can",
+    "cnn",
     "could",
     "for",
     "from",
+    "guardian",
     "has",
     "have",
     "how",
     "into",
     "its",
+    "journal",
+    "least",
     "may",
     "more",
     "new",
+    "news",
+    "npr",
     "not",
     "now",
     "off",
     "on",
     "or",
     "over",
+    "post",
+    "reuters",
+    "report",
+    "reports",
     "says",
+    "street",
     "than",
     "that",
     "the",
     "their",
     "this",
+    "times",
     "to",
     "up",
     "was",
@@ -76,6 +147,8 @@ STOPWORDS = {
     "will",
     "with",
     "world",
+    "year",
+    "york",
 }
 
 CATEGORY_RULES = [
@@ -175,6 +248,8 @@ class InterpretedNewsItem:
     category_en: str
     category_zh: str
     keywords: list[str]
+    keywords_zh: list[str]
+    description_zh: str
     summary_en: str
     summary_zh: str
     detailed_en: str
@@ -333,18 +408,76 @@ def sentence_from_keywords(keywords: list[str]) -> str:
     return ", ".join(keywords[:-1]) + f", and {keywords[-1]}"
 
 
+def translate_to_zh(text: str) -> str:
+    text = clean_text(text)
+    if not text:
+        return ""
+
+    query = urllib.parse.urlencode(
+        {
+            "client": "gtx",
+            "sl": "auto",
+            "tl": "zh-CN",
+            "dt": "t",
+            "q": text[:4500],
+        }
+    )
+    request = urllib.request.Request(
+        f"{TRANSLATE_ENDPOINT}?{query}",
+        headers={"User-Agent": "daily-world-hot-news/1.0 (+https://github.com/)"},
+    )
+    with urllib.request.urlopen(request, timeout=30) as response:
+        payload = json.loads(response.read().decode("utf-8"))
+
+    translated_parts = []
+    for segment in payload[0]:
+        if segment and segment[0]:
+            translated_parts.append(str(segment[0]))
+    return clean_text("".join(translated_parts))
+
+
+def safe_translate_to_zh(text: str) -> str:
+    try:
+        return translate_to_zh(text)
+    except Exception as exc:  # noqa: BLE001 - translation should not break the daily update.
+        print(f"Translation failed: {exc}", file=sys.stderr)
+        return clean_text(text)
+
+
+def translate_keywords_to_zh(keywords: list[str]) -> list[str]:
+    if not keywords:
+        return []
+    translated_keywords: list[str] = []
+    for keyword in keywords:
+        normalized = keyword.lower()
+        translated = KEYWORD_ZH_OVERRIDES.get(normalized) or safe_translate_to_zh(keyword)
+        translated = translated.strip()
+        if translated and translated not in translated_keywords:
+            translated_keywords.append(translated)
+    return translated_keywords
+
+
+def chinese_keyword_sentence(keywords_zh: list[str]) -> str:
+    if not keywords_zh:
+        return "主要事实仍需后续报道确认"
+    return "、".join(keywords_zh)
+
+
 def interpret_item(item: NewsItem) -> InterpretedNewsItem:
     keywords = extract_keywords(item)
+    keywords_zh = translate_keywords_to_zh(keywords)
     rule = matched_rule(item, keywords)
     keyword_sentence = sentence_from_keywords(keywords[:5])
+    keyword_sentence_zh = chinese_keyword_sentence(keywords_zh[:5])
     description = item.description or "The RSS feed does not provide a longer excerpt, so the interpretation is based on the headline, source, and extracted keywords."
+    description_zh = safe_translate_to_zh(description)
 
     detailed_en = (
         f"Key signals: {keyword_sentence}. The available excerpt says: {description} "
         f"Read together with the source and timing, the story appears important because {rule['impact_en']}"
     )
     detailed_zh = (
-        f"关键词信号：{keyword_sentence}。RSS 摘要显示：{description} "
+        f"关键词信号：{keyword_sentence_zh}。RSS 中文摘要显示：{description_zh} "
         f"结合来源与发布时间看，这条新闻值得关注，因为{rule['impact_zh']}"
     )
 
@@ -353,6 +486,8 @@ def interpret_item(item: NewsItem) -> InterpretedNewsItem:
         category_en=str(rule["category_en"]),
         category_zh=str(rule["category_zh"]),
         keywords=keywords,
+        keywords_zh=keywords_zh,
+        description_zh=description_zh,
         summary_en=str(rule["summary_en"]),
         summary_zh=str(rule["summary_zh"]),
         detailed_en=detailed_en,
@@ -380,7 +515,9 @@ def write_latest(items: list[InterpretedNewsItem], generated_at: str) -> None:
                 "url": interpreted.item.link,
                 "published_at": interpreted.item.published_at,
                 "description": interpreted.item.description,
+                "description_zh": interpreted.description_zh,
                 "keywords": interpreted.keywords,
+                "keywords_zh": interpreted.keywords_zh,
                 "category": {
                     "en": interpreted.category_en,
                     "zh": interpreted.category_zh,
@@ -424,14 +561,17 @@ def update_readme(items: list[InterpretedNewsItem], generated_at: str) -> None:
         item = interpreted.item
         published = f" Published: `{item.published_at}`." if item.published_at else ""
         keyword_text = ", ".join(interpreted.keywords) if interpreted.keywords else "N/A"
+        keyword_zh_text = "、".join(interpreted.keywords_zh) if interpreted.keywords_zh else "N/A"
         watch_en = "; ".join(interpreted.what_to_watch_en)
         watch_zh = "；".join(interpreted.what_to_watch_zh)
 
         lines.append(f"### {index}. [{item.title}]({item.link})\n\n")
         lines.append(f"- Source / 来源: {item.source}.{published}\n")
         lines.append(f"- Keywords / 关键词: {keyword_text}\n")
+        lines.append(f"- 中文关键词: {keyword_zh_text}\n")
         lines.append(f"- Category / 分类: {interpreted.category_en} / {interpreted.category_zh}\n")
         lines.append(f"- RSS Excerpt / RSS 摘要: {item.description or 'N/A'}\n")
+        lines.append(f"- RSS 中文摘要: {interpreted.description_zh or 'N/A'}\n")
         lines.append(f"- EN Summary: {interpreted.summary_en}\n")
         lines.append(f"- 中文概要: {interpreted.summary_zh}\n")
         lines.append(f"- EN Detailed Reading: {interpreted.detailed_en}\n")
