@@ -23,6 +23,13 @@ jobs:
 
       - name: Fetch latest news
         run: python scripts/update_news.py
+        env:
+          NEWS_EMAIL_TO: wang_zian@cscec.ae
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
 
       - name: Commit and push changes
         run: |
