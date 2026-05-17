@@ -10,9 +10,18 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-05-17T19:33:29+00:00` UTC.
+Generated at `2026-05-17T19:48:02+00:00` UTC.
 
-### 1. [Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others - NPR](https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEZNS0VaNUFjMmJMWmRvbmMwQW5wQkdzbk1vVmh5akxSdjBiM3lDTEVadUljUnVSZ05WRWRwOE1uU2psbWJCNU14MWNTcS1rYVlvS1haTUxuWVlXb1V5bEZjNEJTMk45LVFmSTBsdUJfRUNxNHdCelpZZmk2dE9sYVFvbXRQNHBUT2FSN2JhckZYc3B0YW9B?oc=5)
+### 1. [Bill Cassidy: Republican senator who voted to convict Trump loses re-election bid - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wVDVXREFrcG5ycWdzOXJVcl9kRHJHanZvaXZXSDQxVzNlZ0MzTE1ueXVGOUNwVHdWOENFM21XUU5qaHVNT2wxNC1VOXlFUms3T3ZXT2FxOEVqUQ?oc=5)
+
+- Source / 来源: BBC. Published: `2026-05-17T16:25:28+00:00`.
+- Category / 分类: Politics and governance / 政治与治理
+- EN Summary: This story is about a political decision, leadership contest, or public mandate.
+- 中文概要: 这条新闻涉及政治决策、领导权竞争或公众授权。
+- EN Why it matters: Political shifts can change policy direction, regulation, alliances, and market expectations.
+- 中文解读: 政治变化可能改变政策方向、监管环境、联盟关系和市场预期。
+
+### 2. [Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others - NPR](https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEZNS0VaNUFjMmJMWmRvbmMwQW5wQkdzbk1vVmh5akxSdjBiM3lDTEVadUljUnVSZ05WRWRwOE1uU2psbWJCNU14MWNTcS1rYVlvS1haTUxuWVlXb1V5bEZjNEJTMk45LVFmSTBsdUJfRUNxNHdCelpZZmk2dE9sYVFvbXRQNHBUT2FSN2JhckZYc3B0YW9B?oc=5)
 
 - Source / 来源: NPR. Published: `2026-05-17T14:49:07+00:00`.
 - Category / 分类: Geopolitics and security / 地缘政治与安全
@@ -21,36 +30,27 @@ Generated at `2026-05-17T19:33:29+00:00` UTC.
 - EN Why it matters: It may affect regional stability, sanctions, energy markets, defense planning, or diplomatic negotiations.
 - 中文解读: 它可能影响地区稳定、制裁、能源市场、防务安排或外交谈判。
 
-### 2. [Sen. Bill Cassidy loses Louisiana Republican Senate primary - Axios](https://news.google.com/rss/articles/CBMijAFBVV95cUxQa09lSkJCUncwZ2lpS0RTYlhpMzA4TjI5eGVVSjRXRE93QXVYenpwa2lYemtJYi03eGwxMUYwZld6SjVNUlc4US03ZmZrZnctOFdpSFlDb3cyRXNyMGJyVWdHcndoQkRuWS0wWUIwTkNCMnZsN1g3dkRLb0drSFZmcTFaY3ZaWS1MbS1iNA?oc=5)
+### 3. [UAE reports drone strike at nuclear power plant as Iran war deadlock persists - Reuters](https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ0p3bmFPRU5fWHFVZ2dfeVZsWDBfekhCN3I4d3V6aEpnN1dJdHdBa0RIVlYzcXdpVUVRVGZXY25EVjJVWndxaVdhM2ZVZDBiVVNEeHhCTWlla0RESXU2VGVFREI5OHJ3bFhMamZBZllRSnc1Snh6czJ4bk9sWmFTSTVSdVNLZmVYM18zT2p3YWlDWE1TbjdJc0ZHSXJKQjhLWU92YnA3bGVRbHduMktycE5Fb011UGJvall1MlgwY3VzWE5jYXJ4Tk9rd2V5dw?oc=5)
 
-- Source / 来源: Axios. Published: `2026-05-17T12:19:31+00:00`.
-- Category / 分类: Global affairs / 全球事务
-- EN Summary: This story is gaining attention because it may signal a broader change or public concern.
-- 中文概要: 这条新闻受到关注，可能说明某个更大趋势或公共议题正在升温。
-- EN Why it matters: Watch whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文解读: 需要继续观察它是否会演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
-
-### 3. [Fire sparked after drone strike at UAE nuclear plant - politico.eu](https://news.google.com/rss/articles/CBMingFBVV95cUxQMG5rbmpvbjB4X19wZjdnanNWQWFDaGNEZzdyakFvTnpjcmxlc0xyTzIyNnNJejBtd0dzYlZ0WnptVXJicW85SUdIQ2dTX2xoLTlYaTdTN25TUGlCSWs4RGdaZkIydmVxQ1NaU0VxbGEtN1lETDNUamI3ZXdGcElTcmVMc2FZZ19jRFhBQ2JlRWRTbTltbklHbUIwM1BQdw?oc=5)
-
-- Source / 来源: politico.eu. Published: `2026-05-17T17:37:00+00:00`.
+- Source / 来源: Reuters. Published: `2026-05-17T18:18:57+00:00`.
 - Category / 分类: Geopolitics and security / 地缘政治与安全
 - EN Summary: This story points to a live security or diplomatic flashpoint.
 - 中文概要: 这条新闻指向正在变化的安全或外交热点。
 - EN Why it matters: It may affect regional stability, sanctions, energy markets, defense planning, or diplomatic negotiations.
 - 中文解读: 它可能影响地区稳定、制裁、能源市场、防务安排或外交谈判。
 
-### 4. [Thousands flock to the National Mall in Washington for an America-themed prayer rally - AP News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOEd1WDVSVWszLVd0bU1DSlRESFJRUl9tN2ZjUWxuSzRBWDJyajJmTnRrajdhbW5IbXNYZmNEbGNRU3M4Q0hxbFozQWtKbUFVNHVDcFpqSUNfTDNqTzMyeGVxRGtlQ3NkSmFQSXIwWnlXRWE4R2g1amprUWM1RldqamViMlROUy1BUGMxT2Jkb0NqbE5vOXBKN1FXR0pLSkY5WW5maUtNUmI?oc=5)
+### 4. [Crowds pack into Washington's National Mall for prayer rally - PBS](https://news.google.com/rss/articles/CBMingFBVV95cUxPaXJxX3Z4TkhzRDBQUEY3VkNfOFFyTGYzZW83Z0k0cTZfeEFCUS1iMmVndklrT2RsdEJ2YzlKSUdaWkY4SjVGcjRrd2dQUEFOeUFZTkZUbDBKQzVjdkRPYWZQVFh3ekNwZjU4LUpWTUhCSmRvZ3YzZ19ZZFNGdm92Rk1jQ1VVVkpSLWgtQm9nbzJ1ME9YX2NtN1R3V3czQQ?oc=5)
 
-- Source / 来源: AP News. Published: `2026-05-17T15:24:00+00:00`.
+- Source / 来源: PBS. Published: `2026-05-17T16:55:42+00:00`.
 - Category / 分类: Global affairs / 全球事务
 - EN Summary: This story is gaining attention because it may signal a broader change or public concern.
 - 中文概要: 这条新闻受到关注，可能说明某个更大趋势或公共议题正在升温。
 - EN Why it matters: Watch whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
 - 中文解读: 需要继续观察它是否会演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
 
-### 5. [Trump warns 'clock is ticking' for Iran as peace deal progress stalls - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE01R2lYa2NMU1Joc2U4RFJUYnRTaHVReEc1VGdzdWRmYUhLYjlsbVVjak9NM2w1dlc5aTFZcHQ5MEZOZm10MDZmUk9CdlNMVnhqbGJzbEVGUFJhQQ?oc=5)
+### 5. [Trump warns Iran to 'get moving' or 'there won’t be anything left' - CNBC](https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlFYSjY4QmxHX3ZqRjZILWxGbXNGbUxkLVpObDVqY0c1ck9XQ0RpQkRIM0FBckdWanZJQ2Nxb0NxMUNNS095LXNaUmRJTTZwaHhzUzE1Qnh0SWwyZDRXZDVCel8wUW5QREJ4dTJfN0laWDVOV25oWVhsaTNXU2YxMdIBhgFBVV95cUxQUE9OYlZDbDR0Z2tUNE13dDZwejJGWEpmWEVjRkRCRHpBbXE1ODJTZzdPY1lhWk15cldISUYtQ1diWGFmaWVac0t1Vm8yZVJTUWxWTjRZVDNJQXhLTDVsUl9XWDVZZGMxUi1LdndnOTFYamZPcUFhWGlwTXlkTExfX2JkQV9KQQ?oc=5)
 
-- Source / 来源: BBC. Published: `2026-05-17T19:23:20+00:00`.
+- Source / 来源: CNBC. Published: `2026-05-17T17:43:12+00:00`.
 - Category / 分类: Geopolitics and security / 地缘政治与安全
 - EN Summary: This story points to a live security or diplomatic flashpoint.
 - 中文概要: 这条新闻指向正在变化的安全或外交热点。
