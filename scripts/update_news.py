@@ -429,7 +429,10 @@ def main() -> None:
     items = interpret_news(collect_news(configured_feeds(), limit))
     write_latest(items, generated_at)
     update_readme(items, generated_at)
-    send_email(items, generated_at)
+    try:
+        send_email(items, generated_at)
+    except Exception as exc:  # noqa: BLE001 - keep the news update working if mail delivery is blocked.
+        print(f"Email delivery failed: {exc}", file=sys.stderr)
     print(f"Updated {len(items)} interpreted bilingual news items.")
 
 
