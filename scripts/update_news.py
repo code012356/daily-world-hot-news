@@ -8,6 +8,7 @@ import re
 import smtplib
 import sys
 import textwrap
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass
@@ -27,6 +28,7 @@ DEFAULT_FEEDS = [
     "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
 ]
 DEFAULT_EMAIL_TO = "wang_zian@cscec.ae"
+GRAPH_SCOPE = "https://graph.microsoft.com/.default"
 
 
 @dataclass(frozen=True)
@@ -337,7 +339,9 @@ def update_readme(items: list[InterpretedNewsItem], generated_at: str) -> None:
         - `NEWS_RSS_FEEDS`: pipe-separated RSS feed URLs.
         - `NEWS_LIMIT`: number of items to keep. Defaults to `10`.
         - `NEWS_EMAIL_TO`: recipient email address. Defaults to `wang_zian@cscec.ae`.
-        - `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`: SMTP settings for email delivery.
+        - `MS_TENANT_ID`, `MS_CLIENT_ID`, `MS_CLIENT_SECRET`: Microsoft Graph app credentials for email delivery.
+        - `GRAPH_SENDER`: mailbox used by Microsoft Graph to send the message. Defaults to `SMTP_USERNAME`, then `NEWS_EMAIL_TO`.
+        - `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`: optional SMTP fallback.
         """
     )
     README.write_text("".join(lines) + footer, encoding="utf-8")
@@ -397,7 +401,86 @@ def build_email_html(items: list[InterpretedNewsItem], generated_at: str) -> str
     """
 
 
-def send_email(items: list[InterpretedNewsItem], generated_at: str) -> None:
+def post_form(url: str, form_data: dict[str, str]) -> dict[str, object]:
+    encoded = urllib.parse.urlencode(form_data).encode("utf-8")
+    request = urllib.request.Request(
+        url,
+        data=encoded,
+        headers={"Content-Type": "application/x-www-form-urlencoded"},
+        method="POST",
+    )
+    with urllib.request.urlopen(request, timeout=30) as response:
+        return json.loads(response.read().decode("utf-8"))
+
+
+def post_json(url: str, payload: dict[str, object], access_token: str) -> None:
+    body = json.dumps(payload).encode("utf-8")
+    request = urllib.request.Request(
+        url,
+        data=body,
+        headers={
+            "Authorization": f"Bearer {access_token}",
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+    with urllib.request.urlopen(request, timeout=30):
+        return
+
+
+def graph_configured() -> bool:
+    return all(
+        os.environ.get(name)
+        for name in ("MS_TENANT_ID", "MS_CLIENT_ID", "MS_CLIENT_SECRET")
+    )
+
+
+def send_email_with_graph(items: list[InterpretedNewsItem], generated_at: str) -> None:
+    tenant_id = os.environ["MS_TENANT_ID"]
+    client_id = os.environ["MS_CLIENT_ID"]
+    client_secret = os.environ["MS_CLIENT_SECRET"]
+    recipient = os.environ.get("NEWS_EMAIL_TO", DEFAULT_EMAIL_TO)
+    sender = os.environ.get("GRAPH_SENDER") or os.environ.get("SMTP_USERNAME") or recipient
+
+    token_payload = post_form(
+        f"https://login.microsoftonline.com/{tenant_id}/oauth2/v2.0/token",
+        {
+            "client_id": client_id,
+            "client_secret": client_secret,
+            "scope": GRAPH_SCOPE,
+            "grant_type": "client_credentials",
+        },
+    )
+    access_token = token_payload.get("access_token")
+    if not isinstance(access_token, str):
+        raise RuntimeError("Microsoft Graph token response did not include an access_token.")
+
+    mail_payload = {
+        "message": {
+            "subject": f"Daily World Hot News / 每日全球热点新闻 - {generated_at[:10]}",
+            "body": {
+                "contentType": "HTML",
+                "content": build_email_html(items, generated_at),
+            },
+            "toRecipients": [
+                {
+                    "emailAddress": {
+                        "address": recipient,
+                    }
+                }
+            ],
+        },
+        "saveToSentItems": True,
+    }
+    post_json(
+        f"https://graph.microsoft.com/v1.0/users/{urllib.parse.quote(sender)}/sendMail",
+        mail_payload,
+        access_token,
+    )
+    print(f"Sent email digest to {recipient} with Microsoft Graph as {sender}.")
+
+
+def send_email_with_smtp(items: list[InterpretedNewsItem], generated_at: str) -> None:
     smtp_host = os.environ.get("SMTP_HOST")
     smtp_port = int(os.environ.get("SMTP_PORT", "587"))
     smtp_username = os.environ.get("SMTP_USERNAME")
@@ -421,6 +504,13 @@ def send_email(items: list[InterpretedNewsItem], generated_at: str) -> None:
         server.login(smtp_username, smtp_password)
         server.send_message(message)
     print(f"Sent email digest to {recipient}.")
+
+
+def send_email(items: list[InterpretedNewsItem], generated_at: str) -> None:
+    if graph_configured():
+        send_email_with_graph(items, generated_at)
+        return
+    send_email_with_smtp(items, generated_at)
 
 
 def main() -> None:

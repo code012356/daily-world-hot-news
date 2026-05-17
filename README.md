@@ -10,18 +10,9 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-05-17T19:48:02+00:00` UTC.
+Generated at `2026-05-17T19:51:31+00:00` UTC.
 
-### 1. [Bill Cassidy: Republican senator who voted to convict Trump loses re-election bid - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wVDVXREFrcG5ycWdzOXJVcl9kRHJHanZvaXZXSDQxVzNlZ0MzTE1ueXVGOUNwVHdWOENFM21XUU5qaHVNT2wxNC1VOXlFUms3T3ZXT2FxOEVqUQ?oc=5)
-
-- Source / 来源: BBC. Published: `2026-05-17T16:25:28+00:00`.
-- Category / 分类: Politics and governance / 政治与治理
-- EN Summary: This story is about a political decision, leadership contest, or public mandate.
-- 中文概要: 这条新闻涉及政治决策、领导权竞争或公众授权。
-- EN Why it matters: Political shifts can change policy direction, regulation, alliances, and market expectations.
-- 中文解读: 政治变化可能改变政策方向、监管环境、联盟关系和市场预期。
-
-### 2. [Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others - NPR](https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEZNS0VaNUFjMmJMWmRvbmMwQW5wQkdzbk1vVmh5akxSdjBiM3lDTEVadUljUnVSZ05WRWRwOE1uU2psbWJCNU14MWNTcS1rYVlvS1haTUxuWVlXb1V5bEZjNEJTMk45LVFmSTBsdUJfRUNxNHdCelpZZmk2dE9sYVFvbXRQNHBUT2FSN2JhckZYc3B0YW9B?oc=5)
+### 1. [Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others - NPR](https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEZNS0VaNUFjMmJMWmRvbmMwQW5wQkdzbk1vVmh5akxSdjBiM3lDTEVadUljUnVSZ05WRWRwOE1uU2psbWJCNU14MWNTcS1rYVlvS1haTUxuWVlXb1V5bEZjNEJTMk45LVFmSTBsdUJfRUNxNHdCelpZZmk2dE9sYVFvbXRQNHBUT2FSN2JhckZYc3B0YW9B?oc=5)
 
 - Source / 来源: NPR. Published: `2026-05-17T14:49:07+00:00`.
 - Category / 分类: Geopolitics and security / 地缘政治与安全
@@ -29,6 +20,15 @@ Generated at `2026-05-17T19:48:02+00:00` UTC.
 - 中文概要: 这条新闻指向正在变化的安全或外交热点。
 - EN Why it matters: It may affect regional stability, sanctions, energy markets, defense planning, or diplomatic negotiations.
 - 中文解读: 它可能影响地区稳定、制裁、能源市场、防务安排或外交谈判。
+
+### 2. [Sen. Bill Cassidy loses Louisiana Republican Senate primary - Axios](https://news.google.com/rss/articles/CBMijAFBVV95cUxQa09lSkJCUncwZ2lpS0RTYlhpMzA4TjI5eGVVSjRXRE93QXVYenpwa2lYemtJYi03eGwxMUYwZld6SjVNUlc4US03ZmZrZnctOFdpSFlDb3cyRXNyMGJyVWdHcndoQkRuWS0wWUIwTkNCMnZsN1g3dkRLb0drSFZmcTFaY3ZaWS1MbS1iNA?oc=5)
+
+- Source / 来源: Axios. Published: `2026-05-17T12:19:31+00:00`.
+- Category / 分类: Global affairs / 全球事务
+- EN Summary: This story is gaining attention because it may signal a broader change or public concern.
+- 中文概要: 这条新闻受到关注，可能说明某个更大趋势或公共议题正在升温。
+- EN Why it matters: Watch whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
+- 中文解读: 需要继续观察它是否会演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
 
 ### 3. [UAE reports drone strike at nuclear power plant as Iran war deadlock persists - Reuters](https://news.google.com/rss/articles/CBMizgFBVV95cUxPQ0p3bmFPRU5fWHFVZ2dfeVZsWDBfekhCN3I4d3V6aEpnN1dJdHdBa0RIVlYzcXdpVUVRVGZXY25EVjJVWndxaVdhM2ZVZDBiVVNEeHhCTWlla0RESXU2VGVFREI5OHJ3bFhMamZBZllRSnc1Snh6czJ4bk9sWmFTSTVSdVNLZmVYM18zT2p3YWlDWE1TbjdJc0ZHSXJKQjhLWU92YnA3bGVRbHduMktycE5Fb011UGJvall1MlgwY3VzWE5jYXJ4Tk9rd2V5dw?oc=5)
 
@@ -48,9 +48,9 @@ Generated at `2026-05-17T19:48:02+00:00` UTC.
 - EN Why it matters: Watch whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
 - 中文解读: 需要继续观察它是否会演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
 
-### 5. [Trump warns Iran to 'get moving' or 'there won’t be anything left' - CNBC](https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlFYSjY4QmxHX3ZqRjZILWxGbXNGbUxkLVpObDVqY0c1ck9XQ0RpQkRIM0FBckdWanZJQ2Nxb0NxMUNNS095LXNaUmRJTTZwaHhzUzE1Qnh0SWwyZDRXZDVCel8wUW5QREJ4dTJfN0laWDVOV25oWVhsaTNXU2YxMdIBhgFBVV95cUxQUE9OYlZDbDR0Z2tUNE13dDZwejJGWEpmWEVjRkRCRHpBbXE1ODJTZzdPY1lhWk15cldISUYtQ1diWGFmaWVac0t1Vm8yZVJTUWxWTjRZVDNJQXhLTDVsUl9XWDVZZGMxUi1LdndnOTFYamZPcUFhWGlwTXlkTExfX2JkQV9KQQ?oc=5)
+### 5. [Trump warns 'clock is ticking' for Iran as peace deal progress stalls - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE01R2lYa2NMU1Joc2U4RFJUYnRTaHVReEc1VGdzdWRmYUhLYjlsbVVjak9NM2w1dlc5aTFZcHQ5MEZOZm10MDZmUk9CdlNMVnhqbGJzbEVGUFJhQQ?oc=5)
 
-- Source / 来源: CNBC. Published: `2026-05-17T17:43:12+00:00`.
+- Source / 来源: BBC. Published: `2026-05-17T19:23:20+00:00`.
 - Category / 分类: Geopolitics and security / 地缘政治与安全
 - EN Summary: This story points to a live security or diplomatic flashpoint.
 - 中文概要: 这条新闻指向正在变化的安全或外交热点。
@@ -66,9 +66,9 @@ Generated at `2026-05-17T19:48:02+00:00` UTC.
 - EN Why it matters: Political shifts can change policy direction, regulation, alliances, and market expectations.
 - 中文解读: 政治变化可能改变政策方向、监管环境、联盟关系和市场预期。
 
-### 7. [Taiwan representative to U.S. says "we want peace and stability," but "we're not the ones creating all this trouble" with China - CBS News](https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUtYQ3pENmt0NU5HY2hFX0ZXVlpBX3hGTEd5bmk2OEoyZHNXOXItYnJ3Y1RPbHo1ZU1kZy03ekxfSzFNX1QxeVFQQnJvbU0za3RsRmVSd3ZiVW02MXN5RlE0MXE4dkxLY3lsM1FfajlKdVI2alQ1bUg5X0xvb2VoSU44eXA5YnPSAYwBQVVfeXFMTmFMYktRLVYxUEVSUmVGaWdDdXpaSE4xaTlrc3VOU1l6SWVVVExiZDRsU25yY1dkR2V0QmNLSHlhaVZnQjBJY010Vy1XV1FQV0FjNzZWVlhscmtMRjUzVlBhZV9RRXBzSmRLR2ZBWXR6SURUNExIUTc1ckstLVVxLTZrU2V1MnNYQ2c4dko?oc=5)
+### 7. [Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry - The White House (.gov)](https://news.google.com/rss/articles/CBMi_wFBVV95cUxQd1l6bmdlUWZjMllmVk93azJNODE1LVFOYlhjelU2ZXFYUFVwaWVhYkZKb0IwWEl3UjQ4MnluWjRZdkswMnM0a0NaLTNNUXVBb285RV9FWUlLWElscUs3UHcwT2gzY3E0X00yU19CVkxnNVpwOEppd1d5NHNWN1dubi1ybTVpalhid24xdlRNYUpRZlRub3VMVWdIMFVzOHpUYnU1VXBOcTVHUUpXRl8zcl9ramQzRkRxbE5QeWU4a3JQLVpQU2VDNnFqT2p2ZWwteF9iSFFzN2ItU3pydlo3VXpFSGtkZXo5bzZrRE5RZmpmaDZ2OTBZdnRvR1p3ZGs?oc=5)
 
-- Source / 来源: CBS News. Published: `2026-05-17T15:42:10+00:00`.
+- Source / 来源: The White House (.gov). Published: `2026-05-17T17:15:13+00:00`.
 - Category / 分类: Geopolitics and security / 地缘政治与安全
 - EN Summary: This story points to a live security or diplomatic flashpoint.
 - 中文概要: 这条新闻指向正在变化的安全或外交热点。
@@ -124,4 +124,6 @@ Optional environment variables:
 - `NEWS_RSS_FEEDS`: pipe-separated RSS feed URLs.
 - `NEWS_LIMIT`: number of items to keep. Defaults to `10`.
 - `NEWS_EMAIL_TO`: recipient email address. Defaults to `wang_zian@cscec.ae`.
-- `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`: SMTP settings for email delivery.
+- `MS_TENANT_ID`, `MS_CLIENT_ID`, `MS_CLIENT_SECRET`: Microsoft Graph app credentials for email delivery.
+- `GRAPH_SENDER`: mailbox used by Microsoft Graph to send the message. Defaults to `SMTP_USERNAME`, then `NEWS_EMAIL_TO`.
+- `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`: optional SMTP fallback.

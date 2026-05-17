@@ -1,27 +1,10 @@
 {
-  "generated_at": "2026-05-17T19:48:02+00:00",
+  "generated_at": "2026-05-17T19:51:31+00:00",
   "timezone": "UTC",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "Bill Cassidy: Republican senator who voted to convict Trump loses re-election bid - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9wVDVXREFrcG5ycWdzOXJVcl9kRHJHanZvaXZXSDQxVzNlZ0MzTE1ueXVGOUNwVHdWOENFM21XUU5qaHVNT2wxNC1VOXlFUms3T3ZXT2FxOEVqUQ?oc=5",
-      "published_at": "2026-05-17T16:25:28+00:00",
-      "category": {
-        "en": "Politics and governance",
-        "zh": "政治与治理"
-      },
-      "interpretation": {
-        "summary_en": "This story is about a political decision, leadership contest, or public mandate.",
-        "summary_zh": "这条新闻涉及政治决策、领导权竞争或公众授权。",
-        "why_it_matters_en": "Political shifts can change policy direction, regulation, alliances, and market expectations.",
-        "why_it_matters_zh": "政治变化可能改变政策方向、监管环境、联盟关系和市场预期。"
-      }
-    },
-    {
-      "rank": 2,
       "title": "Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others - NPR",
       "source": "NPR",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOEZNS0VaNUFjMmJMWmRvbmMwQW5wQkdzbk1vVmh5akxSdjBiM3lDTEVadUljUnVSZ05WRWRwOE1uU2psbWJCNU14MWNTcS1rYVlvS1haTUxuWVlXb1V5bEZjNEJTMk45LVFmSTBsdUJfRUNxNHdCelpZZmk2dE9sYVFvbXRQNHBUT2FSN2JhckZYc3B0YW9B?oc=5",
@@ -35,6 +18,23 @@
         "summary_zh": "这条新闻指向正在变化的安全或外交热点。",
         "why_it_matters_en": "It may affect regional stability, sanctions, energy markets, defense planning, or diplomatic negotiations.",
         "why_it_matters_zh": "它可能影响地区稳定、制裁、能源市场、防务安排或外交谈判。"
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Sen. Bill Cassidy loses Louisiana Republican Senate primary - Axios",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQa09lSkJCUncwZ2lpS0RTYlhpMzA4TjI5eGVVSjRXRE93QXVYenpwa2lYemtJYi03eGwxMUYwZld6SjVNUlc4US03ZmZrZnctOFdpSFlDb3cyRXNyMGJyVWdHcndoQkRuWS0wWUIwTkNCMnZsN1g3dkRLb0drSFZmcTFaY3ZaWS1MbS1iNA?oc=5",
+      "published_at": "2026-05-17T12:19:31+00:00",
+      "category": {
+        "en": "Global affairs",
+        "zh": "全球事务"
+      },
+      "interpretation": {
+        "summary_en": "This story is gaining attention because it may signal a broader change or public concern.",
+        "summary_zh": "这条新闻受到关注，可能说明某个更大趋势或公共议题正在升温。",
+        "why_it_matters_en": "Watch whether it develops into policy action, market reaction, diplomatic response, or wider social debate.",
+        "why_it_matters_zh": "需要继续观察它是否会演变为政策行动、市场反应、外交回应或更广泛的社会讨论。"
       }
     },
     {
@@ -73,10 +73,10 @@
     },
     {
       "rank": 5,
-      "title": "Trump warns Iran to 'get moving' or 'there won’t be anything left' - CNBC",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdlFYSjY4QmxHX3ZqRjZILWxGbXNGbUxkLVpObDVqY0c1ck9XQ0RpQkRIM0FBckdWanZJQ2Nxb0NxMUNNS095LXNaUmRJTTZwaHhzUzE1Qnh0SWwyZDRXZDVCel8wUW5QREJ4dTJfN0laWDVOV25oWVhsaTNXU2YxMdIBhgFBVV95cUxQUE9OYlZDbDR0Z2tUNE13dDZwejJGWEpmWEVjRkRCRHpBbXE1ODJTZzdPY1lhWk15cldISUYtQ1diWGFmaWVac0t1Vm8yZVJTUWxWTjRZVDNJQXhLTDVsUl9XWDVZZGMxUi1LdndnOTFYamZPcUFhWGlwTXlkTExfX2JkQV9KQQ?oc=5",
-      "published_at": "2026-05-17T17:43:12+00:00",
+      "title": "Trump warns 'clock is ticking' for Iran as peace deal progress stalls - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01R2lYa2NMU1Joc2U4RFJUYnRTaHVReEc1VGdzdWRmYUhLYjlsbVVjak9NM2w1dlc5aTFZcHQ5MEZOZm10MDZmUk9CdlNMVnhqbGJzbEVGUFJhQQ?oc=5",
+      "published_at": "2026-05-17T19:23:20+00:00",
       "category": {
         "en": "Geopolitics and security",
         "zh": "地缘政治与安全"
@@ -107,10 +107,10 @@
     },
     {
       "rank": 7,
-      "title": "Taiwan representative to U.S. says \"we want peace and stability,\" but \"we're not the ones creating all this trouble\" with China - CBS News",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcUtYQ3pENmt0NU5HY2hFX0ZXVlpBX3hGTEd5bmk2OEoyZHNXOXItYnJ3Y1RPbHo1ZU1kZy03ekxfSzFNX1QxeVFQQnJvbU0za3RsRmVSd3ZiVW02MXN5RlE0MXE4dkxLY3lsM1FfajlKdVI2alQ1bUg5X0xvb2VoSU44eXA5YnPSAYwBQVVfeXFMTmFMYktRLVYxUEVSUmVGaWdDdXpaSE4xaTlrc3VOU1l6SWVVVExiZDRsU25yY1dkR2V0QmNLSHlhaVZnQjBJY010Vy1XV1FQV0FjNzZWVlhscmtMRjUzVlBhZV9RRXBzSmRLR2ZBWXR6SURUNExIUTc1ckstLVVxLTZrU2V1MnNYQ2c4dko?oc=5",
-      "published_at": "2026-05-17T15:42:10+00:00",
+      "title": "Fact Sheet: President Donald J. Trump Secures Historic Deals with China, Delivering for American Workers, Farmers, and Industry - The White House (.gov)",
+      "source": "The White House (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQd1l6bmdlUWZjMllmVk93azJNODE1LVFOYlhjelU2ZXFYUFVwaWVhYkZKb0IwWEl3UjQ4MnluWjRZdkswMnM0a0NaLTNNUXVBb285RV9FWUlLWElscUs3UHcwT2gzY3E0X00yU19CVkxnNVpwOEppd1d5NHNWN1dubi1ybTVpalhid24xdlRNYUpRZlRub3VMVWdIMFVzOHpUYnU1VXBOcTVHUUpXRl8zcl9ramQzRkRxbE5QeWU4a3JQLVpQU2VDNnFqT2p2ZWwteF9iSFFzN2ItU3pydlo3VXpFSGtkZXo5bzZrRE5RZmpmaDZ2OTBZdnRvR1p3ZGs?oc=5",
+      "published_at": "2026-05-17T17:15:13+00:00",
       "category": {
         "en": "Geopolitics and security",
         "zh": "地缘政治与安全"
