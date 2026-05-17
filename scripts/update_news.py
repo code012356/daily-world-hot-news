@@ -5,15 +5,13 @@ import html
 import json
 import os
 import re
-import smtplib
 import sys
 import textwrap
-import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
+from collections import Counter
 from dataclasses import dataclass
 from datetime import datetime, timezone
-from email.message import EmailMessage
 from pathlib import Path
 from typing import Iterable
 
@@ -27,8 +25,138 @@ DEFAULT_FEEDS = [
     "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
     "https://news.google.com/rss/headlines/section/topic/WORLD?hl=en-US&gl=US&ceid=US:en",
 ]
-DEFAULT_EMAIL_TO = "wang_zian@cscec.ae"
-GRAPH_SCOPE = "https://graph.microsoft.com/.default"
+
+STOPWORDS = {
+    "about",
+    "after",
+    "again",
+    "against",
+    "amid",
+    "among",
+    "and",
+    "are",
+    "as",
+    "at",
+    "be",
+    "been",
+    "but",
+    "by",
+    "can",
+    "could",
+    "for",
+    "from",
+    "has",
+    "have",
+    "how",
+    "into",
+    "its",
+    "may",
+    "more",
+    "new",
+    "not",
+    "now",
+    "off",
+    "on",
+    "or",
+    "over",
+    "says",
+    "than",
+    "that",
+    "the",
+    "their",
+    "this",
+    "to",
+    "up",
+    "was",
+    "were",
+    "what",
+    "when",
+    "who",
+    "why",
+    "will",
+    "with",
+    "world",
+}
+
+CATEGORY_RULES = [
+    {
+        "keywords": ("war", "drone", "missile", "ukraine", "russia", "israel", "iran", "gaza", "taiwan", "china", "military"),
+        "category_en": "Geopolitics and security",
+        "category_zh": "地缘政治与安全",
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "impact_en": "The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "impact_zh": "主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "watch_en": ("official responses", "civilian and infrastructure impact", "sanctions or diplomatic talks"),
+        "watch_zh": ("官方回应", "平民与基础设施影响", "制裁或外交谈判"),
+    },
+    {
+        "keywords": ("election", "vote", "senator", "president", "minister", "parliament", "campaign", "runoff", "trump", "primary"),
+        "category_en": "Politics and governance",
+        "category_zh": "政治与治理",
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "impact_en": "Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "impact_zh": "政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "watch_en": ("polling or vote margins", "party reactions", "policy promises after the result"),
+        "watch_zh": ("民调或票差", "党派反应", "结果后的政策承诺"),
+    },
+    {
+        "keywords": ("market", "stock", "inflation", "rate", "tariff", "trade", "oil", "bank", "fed", "economy", "prices"),
+        "category_en": "Economy and markets",
+        "category_zh": "经济与市场",
+        "summary_en": "This story is tied to business conditions, financial expectations, or the cost of goods and capital.",
+        "summary_zh": "这条新闻与商业环境、金融预期或商品与资金成本相关。",
+        "impact_en": "The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.",
+        "impact_zh": "实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。",
+        "watch_en": ("price movements", "company and government guidance", "second-round supply-chain effects"),
+        "watch_zh": ("价格变化", "企业与政府指引", "供应链二次影响"),
+    },
+    {
+        "keywords": ("ai", "tech", "cyber", "data", "software", "chip", "semiconductor", "app", "platform"),
+        "category_en": "Technology",
+        "category_zh": "科技",
+        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
+        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
+        "impact_en": "Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "impact_zh": "科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "watch_en": ("regulatory reaction", "enterprise adoption", "security or privacy consequences"),
+        "watch_zh": ("监管反应", "企业采用情况", "安全或隐私后果"),
+    },
+    {
+        "keywords": ("climate", "storm", "flood", "fire", "earthquake", "weather", "heat", "hurricane", "nuclear"),
+        "category_en": "Climate, environment, and safety",
+        "category_zh": "气候、环境与安全",
+        "summary_en": "This story concerns environmental risk, infrastructure safety, or public emergency response.",
+        "summary_zh": "这条新闻关系到环境风险、基础设施安全或公共应急响应。",
+        "impact_en": "The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.",
+        "impact_zh": "影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。",
+        "watch_en": ("damage assessment", "public safety advisories", "policy or infrastructure reviews"),
+        "watch_zh": ("损害评估", "公共安全提示", "政策或基础设施复盘"),
+    },
+    {
+        "keywords": ("dead", "killed", "injured", "crash", "strike", "shooting", "attack", "hospital", "disease"),
+        "category_en": "Public safety and society",
+        "category_zh": "公共安全与社会",
+        "summary_en": "This story centers on harm to people, emergency response, or social disruption.",
+        "summary_zh": "这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。",
+        "impact_en": "The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.",
+        "impact_zh": "关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。",
+        "watch_en": ("official investigation", "confirmed casualty numbers", "prevention measures"),
+        "watch_zh": ("官方调查", "确认伤亡数字", "预防措施"),
+    },
+]
+
+DEFAULT_RULE = {
+    "category_en": "Global affairs",
+    "category_zh": "全球事务",
+    "summary_en": "This story is drawing attention because it may signal a broader public concern or changing global trend.",
+    "summary_zh": "这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。",
+    "impact_en": "Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.",
+    "impact_zh": "它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。",
+    "watch_en": ("follow-up reporting", "official statements", "regional or market reaction"),
+    "watch_zh": ("后续报道", "官方声明", "地区或市场反应"),
+}
 
 
 @dataclass(frozen=True)
@@ -36,6 +164,7 @@ class NewsItem:
     title: str
     link: str
     source: str
+    description: str
     published_at: str | None
     rank_score: int
 
@@ -45,77 +174,20 @@ class InterpretedNewsItem:
     item: NewsItem
     category_en: str
     category_zh: str
+    keywords: list[str]
     summary_en: str
     summary_zh: str
-    why_it_matters_en: str
-    why_it_matters_zh: str
+    detailed_en: str
+    detailed_zh: str
+    what_to_watch_en: list[str]
+    what_to_watch_zh: list[str]
 
 
-CATEGORY_RULES = [
-    (
-        ("war", "drone", "missile", "ukraine", "russia", "israel", "iran", "gaza", "taiwan", "china", "military"),
-        "Geopolitics and security",
-        "地缘政治与安全",
-        "This story points to a live security or diplomatic flashpoint.",
-        "这条新闻指向正在变化的安全或外交热点。",
-        "It may affect regional stability, sanctions, energy markets, defense planning, or diplomatic negotiations.",
-        "它可能影响地区稳定、制裁、能源市场、防务安排或外交谈判。",
-    ),
-    (
-        ("election", "vote", "senator", "president", "minister", "parliament", "campaign", "runoff", "trump"),
-        "Politics and governance",
-        "政治与治理",
-        "This story is about a political decision, leadership contest, or public mandate.",
-        "这条新闻涉及政治决策、领导权竞争或公众授权。",
-        "Political shifts can change policy direction, regulation, alliances, and market expectations.",
-        "政治变化可能改变政策方向、监管环境、联盟关系和市场预期。",
-    ),
-    (
-        ("market", "stock", "inflation", "rate", "tariff", "trade", "oil", "bank", "fed", "economy"),
-        "Economy and markets",
-        "经济与市场",
-        "This story has a direct connection to business conditions or financial expectations.",
-        "这条新闻与商业环境或金融预期直接相关。",
-        "It can influence investor sentiment, prices, supply chains, and household costs.",
-        "它可能影响投资者情绪、价格、供应链和居民成本。",
-    ),
-    (
-        ("ai", "tech", "cyber", "data", "software", "chip", "semiconductor", "app", "platform"),
-        "Technology",
-        "科技",
-        "This story reflects a change in technology, digital infrastructure, or platform power.",
-        "这条新闻反映了技术、数字基础设施或平台影响力的变化。",
-        "Technology stories often reshape competition, privacy, security, and productivity.",
-        "科技新闻常常会重塑竞争格局、隐私安全和生产效率。",
-    ),
-    (
-        ("climate", "storm", "flood", "fire", "earthquake", "weather", "heat", "hurricane", "nuclear"),
-        "Climate, environment, and safety",
-        "气候、环境与安全",
-        "This story concerns environmental risk, infrastructure safety, or public emergency response.",
-        "这条新闻关系到环境风险、基础设施安全或公共应急响应。",
-        "Such events can create human, economic, insurance, and policy consequences beyond the immediate location.",
-        "这类事件可能在事发地之外带来人道、经济、保险和政策层面的连锁影响。",
-    ),
-    (
-        ("dead", "killed", "injured", "crash", "strike", "shooting", "attack", "hospital", "disease"),
-        "Public safety and society",
-        "公共安全与社会",
-        "This story centers on harm to people, emergency response, or social disruption.",
-        "这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。",
-        "The key follow-up is whether authorities identify causes, prevent recurrence, and support affected communities.",
-        "后续关键在于相关部门能否查明原因、防止复发，并支持受影响群体。",
-    ),
-]
-
-DEFAULT_INTERPRETATION = (
-    "Global affairs",
-    "全球事务",
-    "This story is gaining attention because it may signal a broader change or public concern.",
-    "这条新闻受到关注，可能说明某个更大趋势或公共议题正在升温。",
-    "Watch whether it develops into policy action, market reaction, diplomatic response, or wider social debate.",
-    "需要继续观察它是否会演变为政策行动、市场反应、外交回应或更广泛的社会讨论。",
-)
+def clean_text(value: str) -> str:
+    value = html.unescape(value)
+    value = re.sub(r"<[^>]+>", " ", value)
+    value = re.sub(r"\s+", " ", value)
+    return value.strip()
 
 
 def text_of(parent: ET.Element, name: str) -> str:
@@ -123,13 +195,6 @@ def text_of(parent: ET.Element, name: str) -> str:
     if node is None or node.text is None:
         return ""
     return clean_text(node.text)
-
-
-def clean_text(value: str) -> str:
-    value = html.unescape(value)
-    value = re.sub(r"<[^>]+>", "", value)
-    value = re.sub(r"\s+", " ", value)
-    return value.strip()
 
 
 def normalize_title(title: str) -> str:
@@ -154,9 +219,7 @@ def parse_date(value: str) -> str | None:
 def fetch_feed(url: str) -> list[NewsItem]:
     request = urllib.request.Request(
         url,
-        headers={
-            "User-Agent": "daily-world-hot-news/1.0 (+https://github.com/)",
-        },
+        headers={"User-Agent": "daily-world-hot-news/1.0 (+https://github.com/)"},
     )
     with urllib.request.urlopen(request, timeout=30) as response:
         body = response.read()
@@ -172,14 +235,13 @@ def fetch_feed(url: str) -> list[NewsItem]:
         link = text_of(item, "link")
         if not title or not link:
             continue
-        source = text_of(item, "source") or "Unknown source"
-        published_at = parse_date(text_of(item, "pubDate"))
         items.append(
             NewsItem(
                 title=title,
                 link=link,
-                source=source,
-                published_at=published_at,
+                source=text_of(item, "source") or "Unknown source",
+                description=text_of(item, "description"),
+                published_at=parse_date(text_of(item, "pubDate")),
                 rank_score=max(0, 100 - position),
             )
         )
@@ -225,29 +287,78 @@ def collect_news(feeds: Iterable[str], limit: int) -> list[NewsItem]:
     return ranked[:limit]
 
 
-def interpret_item(item: NewsItem) -> InterpretedNewsItem:
-    title = item.title.lower()
-    for keywords, category_en, category_zh, summary_en, summary_zh, why_en, why_zh in CATEGORY_RULES:
-        if any(keyword in title for keyword in keywords):
-            return InterpretedNewsItem(
-                item=item,
-                category_en=category_en,
-                category_zh=category_zh,
-                summary_en=summary_en,
-                summary_zh=summary_zh,
-                why_it_matters_en=why_en,
-                why_it_matters_zh=why_zh,
-            )
+def extract_keywords(item: NewsItem, limit: int = 10) -> list[str]:
+    text = f"{item.title} {item.description}"
+    tokens = [
+        token.lower()
+        for token in re.findall(r"[A-Za-z][A-Za-z0-9'-]{2,}", text)
+        if token.lower() not in STOPWORDS
+    ]
+    counts = Counter(tokens)
 
-    category_en, category_zh, summary_en, summary_zh, why_en, why_zh = DEFAULT_INTERPRETATION
+    title_tokens = {
+        token.lower()
+        for token in re.findall(r"[A-Za-z][A-Za-z0-9'-]{2,}", item.title)
+        if token.lower() not in STOPWORDS
+    }
+    scored = sorted(
+        counts,
+        key=lambda token: (counts[token] + (2 if token in title_tokens else 0), len(token)),
+        reverse=True,
+    )
+
+    keywords: list[str] = []
+    for token in scored:
+        clean = token.strip("-'")
+        if clean and clean not in keywords:
+            keywords.append(clean)
+        if len(keywords) >= limit:
+            break
+    return keywords
+
+
+def matched_rule(item: NewsItem, keywords: list[str]) -> dict[str, object]:
+    text = f"{item.title} {item.description} {' '.join(keywords)}".lower()
+    for rule in CATEGORY_RULES:
+        if any(str(keyword) in text for keyword in rule["keywords"]):
+            return rule
+    return DEFAULT_RULE
+
+
+def sentence_from_keywords(keywords: list[str]) -> str:
+    if not keywords:
+        return "the main facts still need follow-up reporting"
+    if len(keywords) == 1:
+        return keywords[0]
+    return ", ".join(keywords[:-1]) + f", and {keywords[-1]}"
+
+
+def interpret_item(item: NewsItem) -> InterpretedNewsItem:
+    keywords = extract_keywords(item)
+    rule = matched_rule(item, keywords)
+    keyword_sentence = sentence_from_keywords(keywords[:5])
+    description = item.description or "The RSS feed does not provide a longer excerpt, so the interpretation is based on the headline, source, and extracted keywords."
+
+    detailed_en = (
+        f"Key signals: {keyword_sentence}. The available excerpt says: {description} "
+        f"Read together with the source and timing, the story appears important because {rule['impact_en']}"
+    )
+    detailed_zh = (
+        f"关键词信号：{keyword_sentence}。RSS 摘要显示：{description} "
+        f"结合来源与发布时间看，这条新闻值得关注，因为{rule['impact_zh']}"
+    )
+
     return InterpretedNewsItem(
         item=item,
-        category_en=category_en,
-        category_zh=category_zh,
-        summary_en=summary_en,
-        summary_zh=summary_zh,
-        why_it_matters_en=why_en,
-        why_it_matters_zh=why_zh,
+        category_en=str(rule["category_en"]),
+        category_zh=str(rule["category_zh"]),
+        keywords=keywords,
+        summary_en=str(rule["summary_en"]),
+        summary_zh=str(rule["summary_zh"]),
+        detailed_en=detailed_en,
+        detailed_zh=detailed_zh,
+        what_to_watch_en=list(rule["watch_en"]),
+        what_to_watch_zh=list(rule["watch_zh"]),
     )
 
 
@@ -268,6 +379,8 @@ def write_latest(items: list[InterpretedNewsItem], generated_at: str) -> None:
                 "source": interpreted.item.source,
                 "url": interpreted.item.link,
                 "published_at": interpreted.item.published_at,
+                "description": interpreted.item.description,
+                "keywords": interpreted.keywords,
                 "category": {
                     "en": interpreted.category_en,
                     "zh": interpreted.category_zh,
@@ -275,8 +388,10 @@ def write_latest(items: list[InterpretedNewsItem], generated_at: str) -> None:
                 "interpretation": {
                     "summary_en": interpreted.summary_en,
                     "summary_zh": interpreted.summary_zh,
-                    "why_it_matters_en": interpreted.why_it_matters_en,
-                    "why_it_matters_zh": interpreted.why_it_matters_zh,
+                    "detailed_en": interpreted.detailed_en,
+                    "detailed_zh": interpreted.detailed_zh,
+                    "what_to_watch_en": interpreted.what_to_watch_en,
+                    "what_to_watch_zh": interpreted.what_to_watch_zh,
                 },
             }
             for index, interpreted in enumerate(items, start=1)
@@ -293,9 +408,9 @@ def update_readme(items: list[InterpretedNewsItem], generated_at: str) -> None:
         """\
         # Daily World Hot News / 每日全球热点新闻
 
-        This repository automatically updates every morning with the top 10 global hot news stories and bilingual interpretation.
+        This repository automatically updates every morning with the top 10 global hot news stories, extracted keywords, and bilingual interpretation.
 
-        本仓库每天早上自动抓取全球前十热点新闻，并生成中英双语解读。
+        本仓库每天早上自动抓取全球前十热点新闻，提取关键词，并生成更详细的中英双语解读。
 
         The workflow uses public RSS feeds, writes the latest result to `data/latest.json`, refreshes this README, and commits the change back to the repository when the news list changes.
 
@@ -308,13 +423,21 @@ def update_readme(items: list[InterpretedNewsItem], generated_at: str) -> None:
     for index, interpreted in enumerate(items, start=1):
         item = interpreted.item
         published = f" Published: `{item.published_at}`." if item.published_at else ""
+        keyword_text = ", ".join(interpreted.keywords) if interpreted.keywords else "N/A"
+        watch_en = "; ".join(interpreted.what_to_watch_en)
+        watch_zh = "；".join(interpreted.what_to_watch_zh)
+
         lines.append(f"### {index}. [{item.title}]({item.link})\n\n")
         lines.append(f"- Source / 来源: {item.source}.{published}\n")
+        lines.append(f"- Keywords / 关键词: {keyword_text}\n")
         lines.append(f"- Category / 分类: {interpreted.category_en} / {interpreted.category_zh}\n")
+        lines.append(f"- RSS Excerpt / RSS 摘要: {item.description or 'N/A'}\n")
         lines.append(f"- EN Summary: {interpreted.summary_en}\n")
         lines.append(f"- 中文概要: {interpreted.summary_zh}\n")
-        lines.append(f"- EN Why it matters: {interpreted.why_it_matters_en}\n")
-        lines.append(f"- 中文解读: {interpreted.why_it_matters_zh}\n\n")
+        lines.append(f"- EN Detailed Reading: {interpreted.detailed_en}\n")
+        lines.append(f"- 中文详细解读: {interpreted.detailed_zh}\n")
+        lines.append(f"- EN What to watch: {watch_en}\n")
+        lines.append(f"- 后续关注: {watch_zh}\n\n")
 
     footer = textwrap.dedent(
         """
@@ -328,9 +451,9 @@ def update_readme(items: list[InterpretedNewsItem], generated_at: str) -> None:
 
         ## Files / 文件
 
-        - `scripts/update_news.py` fetches and ranks news items.
+        - `scripts/update_news.py` fetches news, extracts keywords, ranks items, and generates bilingual interpretation.
         - `.github/workflows/daily-news.yml` runs the script and pushes updates.
-        - `data/latest.json` stores the generated bilingual news and interpretation payload.
+        - `data/latest.json` stores the generated bilingual news, keywords, and interpretation payload.
 
         ## Configuration / 配置
 
@@ -338,179 +461,9 @@ def update_readme(items: list[InterpretedNewsItem], generated_at: str) -> None:
 
         - `NEWS_RSS_FEEDS`: pipe-separated RSS feed URLs.
         - `NEWS_LIMIT`: number of items to keep. Defaults to `10`.
-        - `NEWS_EMAIL_TO`: recipient email address. Defaults to `wang_zian@cscec.ae`.
-        - `MS_TENANT_ID`, `MS_CLIENT_ID`, `MS_CLIENT_SECRET`: Microsoft Graph app credentials for email delivery.
-        - `GRAPH_SENDER`: mailbox used by Microsoft Graph to send the message. Defaults to `SMTP_USERNAME`, then `NEWS_EMAIL_TO`.
-        - `SMTP_HOST`, `SMTP_PORT`, `SMTP_USERNAME`, `SMTP_PASSWORD`: optional SMTP fallback.
         """
     )
     README.write_text("".join(lines) + footer, encoding="utf-8")
-
-
-def build_email_text(items: list[InterpretedNewsItem], generated_at: str) -> str:
-    lines = [
-        "Daily World Hot News / 每日全球热点新闻",
-        f"Generated at {generated_at} UTC",
-        "",
-    ]
-    for index, interpreted in enumerate(items, start=1):
-        item = interpreted.item
-        lines.extend(
-            [
-                f"{index}. {item.title}",
-                f"URL: {item.link}",
-                f"Source / 来源: {item.source}",
-                f"Published / 发布时间: {item.published_at or 'Unknown'}",
-                f"Category / 分类: {interpreted.category_en} / {interpreted.category_zh}",
-                f"EN Summary: {interpreted.summary_en}",
-                f"中文概要: {interpreted.summary_zh}",
-                f"EN Why it matters: {interpreted.why_it_matters_en}",
-                f"中文解读: {interpreted.why_it_matters_zh}",
-                "",
-            ]
-        )
-    return "\n".join(lines)
-
-
-def build_email_html(items: list[InterpretedNewsItem], generated_at: str) -> str:
-    sections = []
-    for index, interpreted in enumerate(items, start=1):
-        item = interpreted.item
-        sections.append(
-            f"""
-            <section style="margin: 0 0 24px; padding-bottom: 18px; border-bottom: 1px solid #e5e7eb;">
-              <h2 style="font-size: 18px; margin: 0 0 8px;">{index}. <a href="{html.escape(item.link)}">{html.escape(item.title)}</a></h2>
-              <p style="margin: 0 0 8px; color: #4b5563;">Source / 来源: {html.escape(item.source)} | Published / 发布时间: {html.escape(item.published_at or "Unknown")}</p>
-              <p style="margin: 0 0 8px;"><strong>Category / 分类:</strong> {html.escape(interpreted.category_en)} / {html.escape(interpreted.category_zh)}</p>
-              <p style="margin: 0 0 8px;"><strong>EN Summary:</strong> {html.escape(interpreted.summary_en)}</p>
-              <p style="margin: 0 0 8px;"><strong>中文概要:</strong> {html.escape(interpreted.summary_zh)}</p>
-              <p style="margin: 0 0 8px;"><strong>EN Why it matters:</strong> {html.escape(interpreted.why_it_matters_en)}</p>
-              <p style="margin: 0;"><strong>中文解读:</strong> {html.escape(interpreted.why_it_matters_zh)}</p>
-            </section>
-            """
-        )
-    return f"""
-    <!doctype html>
-    <html>
-      <body style="font-family: Arial, 'Microsoft YaHei', sans-serif; line-height: 1.55; color: #111827;">
-        <h1 style="font-size: 24px; margin: 0 0 8px;">Daily World Hot News / 每日全球热点新闻</h1>
-        <p style="margin: 0 0 24px; color: #4b5563;">Generated at {html.escape(generated_at)} UTC</p>
-        {''.join(sections)}
-      </body>
-    </html>
-    """
-
-
-def post_form(url: str, form_data: dict[str, str]) -> dict[str, object]:
-    encoded = urllib.parse.urlencode(form_data).encode("utf-8")
-    request = urllib.request.Request(
-        url,
-        data=encoded,
-        headers={"Content-Type": "application/x-www-form-urlencoded"},
-        method="POST",
-    )
-    with urllib.request.urlopen(request, timeout=30) as response:
-        return json.loads(response.read().decode("utf-8"))
-
-
-def post_json(url: str, payload: dict[str, object], access_token: str) -> None:
-    body = json.dumps(payload).encode("utf-8")
-    request = urllib.request.Request(
-        url,
-        data=body,
-        headers={
-            "Authorization": f"Bearer {access_token}",
-            "Content-Type": "application/json",
-        },
-        method="POST",
-    )
-    with urllib.request.urlopen(request, timeout=30):
-        return
-
-
-def graph_configured() -> bool:
-    return all(
-        os.environ.get(name)
-        for name in ("MS_TENANT_ID", "MS_CLIENT_ID", "MS_CLIENT_SECRET")
-    )
-
-
-def send_email_with_graph(items: list[InterpretedNewsItem], generated_at: str) -> None:
-    tenant_id = os.environ["MS_TENANT_ID"]
-    client_id = os.environ["MS_CLIENT_ID"]
-    client_secret = os.environ["MS_CLIENT_SECRET"]
-    recipient = os.environ.get("NEWS_EMAIL_TO", DEFAULT_EMAIL_TO)
-    sender = os.environ.get("GRAPH_SENDER") or os.environ.get("SMTP_USERNAME") or recipient
-
-    token_payload = post_form(
-        f"https://login.microsoftonline.com/{tenant_id}/oauth2/v2.0/token",
-        {
-            "client_id": client_id,
-            "client_secret": client_secret,
-            "scope": GRAPH_SCOPE,
-            "grant_type": "client_credentials",
-        },
-    )
-    access_token = token_payload.get("access_token")
-    if not isinstance(access_token, str):
-        raise RuntimeError("Microsoft Graph token response did not include an access_token.")
-
-    mail_payload = {
-        "message": {
-            "subject": f"Daily World Hot News / 每日全球热点新闻 - {generated_at[:10]}",
-            "body": {
-                "contentType": "HTML",
-                "content": build_email_html(items, generated_at),
-            },
-            "toRecipients": [
-                {
-                    "emailAddress": {
-                        "address": recipient,
-                    }
-                }
-            ],
-        },
-        "saveToSentItems": True,
-    }
-    post_json(
-        f"https://graph.microsoft.com/v1.0/users/{urllib.parse.quote(sender)}/sendMail",
-        mail_payload,
-        access_token,
-    )
-    print(f"Sent email digest to {recipient} with Microsoft Graph as {sender}.")
-
-
-def send_email_with_smtp(items: list[InterpretedNewsItem], generated_at: str) -> None:
-    smtp_host = os.environ.get("SMTP_HOST")
-    smtp_port = int(os.environ.get("SMTP_PORT", "587"))
-    smtp_username = os.environ.get("SMTP_USERNAME")
-    smtp_password = os.environ.get("SMTP_PASSWORD")
-    recipient = os.environ.get("NEWS_EMAIL_TO", DEFAULT_EMAIL_TO)
-    sender = os.environ.get("SMTP_FROM", smtp_username or recipient)
-
-    if not smtp_host or not smtp_username or not smtp_password:
-        print("Email delivery skipped because SMTP_HOST, SMTP_USERNAME, or SMTP_PASSWORD is not configured.")
-        return
-
-    message = EmailMessage()
-    message["Subject"] = f"Daily World Hot News / 每日全球热点新闻 - {generated_at[:10]}"
-    message["From"] = sender
-    message["To"] = recipient
-    message.set_content(build_email_text(items, generated_at))
-    message.add_alternative(build_email_html(items, generated_at), subtype="html")
-
-    with smtplib.SMTP(smtp_host, smtp_port, timeout=30) as server:
-        server.starttls()
-        server.login(smtp_username, smtp_password)
-        server.send_message(message)
-    print(f"Sent email digest to {recipient}.")
-
-
-def send_email(items: list[InterpretedNewsItem], generated_at: str) -> None:
-    if graph_configured():
-        send_email_with_graph(items, generated_at)
-        return
-    send_email_with_smtp(items, generated_at)
 
 
 def main() -> None:
@@ -519,11 +472,7 @@ def main() -> None:
     items = interpret_news(collect_news(configured_feeds(), limit))
     write_latest(items, generated_at)
     update_readme(items, generated_at)
-    try:
-        send_email(items, generated_at)
-    except Exception as exc:  # noqa: BLE001 - keep the news update working if mail delivery is blocked.
-        print(f"Email delivery failed: {exc}", file=sys.stderr)
-    print(f"Updated {len(items)} interpreted bilingual news items.")
+    print(f"Updated {len(items)} detailed bilingual news items with keywords.")
 
 
 if __name__ == "__main__":
