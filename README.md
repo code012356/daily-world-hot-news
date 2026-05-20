@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-05-19T07:41:53+00:00` UTC.
+Generated at `2026-05-20T07:39:55+00:00` UTC.
 
-### 1. [Trump says he’s called off an attack on Iran to give talks more time - The Washington Post](https://news.google.com/rss/articles/CBMikwFBVV95cUxPeVdjaDlZX3JFeDhwd0o4MmNFMHA2UTJ3SUhyVEg4cHg2QjVvd0NmT0ZkdFJBcWJ3a3Z6UUpkUFRQTmtQSWFOeWt2SlFmeHp4NFVsczVuNFZxUDZjdXNiMFpyQUZhN1FuUURmaVlleGJQWExCU2Fnam4yd2RhSUEyRWtJYTM2Z19HUFFRc2UzYy01SGc?oc=5)
+### 1. [Primary Elections Live Updates: Massie Loses in Kentucky as Other Races Test Trump's Influence - The New York Times](https://news.google.com/rss/articles/CBMid0FVX3lxTE82WUZoNVZyWlYwcUxiUGVia3RGZ1JEOVktYWNVb1FFOGc5OFRITW5rYi1nZmcza3pEQTFaWUU1MjA3R2hLVFRWa1hzY2MtOUVGQ3luOUJ4eFVoMXNmVWxlUjdxMFBWWHluSUJELUJ6d0FWdzFURms4?oc=5)
 
-- Source / 来源: The Washington Post. Published: `2026-05-19T05:39:24+00:00`.
-- Keywords / 关键词: trump, iran, attack, called, washington, talks, give, time, request, allies
-- 中文关键词: 特朗普、伊朗、袭击、被称为、华盛顿、会谈、给、时间、要求、盟国
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump says he’s called off an attack on Iran to give talks more time The Washington Post Trump Threatens Iran and Then Pulls Back, All in the Same Day The New York Times Middle East crisis live: Trump claims Iran attack ‘on hold’ due to request from Gulf allies The Guardian Trump says he's called off Iran strike at request of Gulf allies NPR Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’ Al Jazeera
-- RSS 中文摘要: 特朗普表示，他已取消对伊朗的袭击，以便为谈判提供更多时间 《华盛顿邮报》 特朗普威胁伊朗，然后在同一天撤回 《纽约时报》 中东危机直播：特朗普声称应海湾盟友的要求，“暂停”对伊朗的袭击 《卫报》 特朗普表示，应海湾盟友的要求，他取消了对伊朗的袭击 NPR 伊朗战争第 81 天：特朗普推迟袭击；德黑兰表示不会“投降”半岛电视台
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, iran, attack, called, and washington. The available excerpt says: Trump says he’s called off an attack on Iran to give talks more time The Washington Post Trump Threatens Iran and Then Pulls Back, All in the Same Day The New York Times Middle East crisis live: Trump claims Iran attack ‘on hold’ due to request from Gulf allies The Guardian Trump says he's called off Iran strike at request of Gulf allies NPR Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’ Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、伊朗、袭击、被称为、华盛顿。RSS 中文摘要显示：特朗普表示，他已取消对伊朗的袭击，以便为谈判提供更多时间 《华盛顿邮报》 特朗普威胁伊朗，然后在同一天撤回 《纽约时报》 中东危机直播：特朗普声称应海湾盟友的要求，“暂停”对伊朗的袭击 《卫报》 特朗普表示，应海湾盟友的要求，他取消了对伊朗的袭击 NPR 伊朗战争第 81 天：特朗普推迟袭击；德黑兰表示不会“投降”半岛电视台 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 2. [Gunmen kill 3 people at San Diego Islamic centre in suspected hate crime - Al Jazeera](https://news.google.com/rss/articles/CBMisAFBVV95cUxPWEFxdS1WQ1RubEFtdkpfcVlvNmwxcDZUYThZQ0R4RTl5VDl4dXdoTW1yeWR4LUdlX2M3R2JIVWlEM1FucUpNRHhHQ2MwT0pwUmo3VGdoOW5kaGVJcXlKMkNsMGF2VVpfZFBqVV9rVHFqRV9zQXJCRk1lSm1hcVAwTGFqaHNjUGU4WFBhdkxJeEljd29ZT0dHUERNbmhZaXRaUkp2eGJMeXNiOTkzTmRKMtIBtgFBVV95cUxPUEo2eno3UVVUamNiR3pXNXRQNTR5RXBXeUhmOU5XOHVZWWVJeUNLa2FDRzNYTzdZU1MyUFBncjQ5NFNOMWMteUNESXNWdE5GREtjaTNUSXNTb0I0QUVJVllBOFpiRWR3N0Y1c1htUFpHMkhSNlk5aGg3STBoTnZyTDF0TzhXaUdHakY5Vkt6NnNwY1ZvT3RpLUp1d3pORXdoRnAya2xaNXh4aDlKc054ZTNMRW5YQQ?oc=5)
-
-- Source / 来源: Al Jazeera. Published: `2026-05-19T04:34:49+00:00`.
-- Keywords / 关键词: diego, san, islamic, gunmen, crime, hate, suspected, jazeera, people, centre
-- 中文关键词: 迭戈、桑、伊斯兰的、枪手、犯罪、恨、怀疑、半岛电视台、人们、中心
-- Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: Gunmen kill 3 people at San Diego Islamic centre in suspected hate crime Al Jazeera 3 killed in San Diego mosque shooting, and 2 suspects found dead fox5sandiego.com Teenage gunmen open fire on San Diego mosque, killing 3 men and then themselves NBC 7 San Diego Police investigate Islamic Center shooting as a hate-crime KPBS San Diego mosque shooting: 5 dead, including 2 suspects, in attack being investigated as a hate crime, police say Yahoo
-- RSS 中文摘要: 圣地亚哥伊斯兰中心枪手涉嫌仇恨犯罪，造成 3 人死亡 半岛电视台 圣地亚哥清真寺枪击事件造成 3 人死亡，2 名嫌疑人被发现死亡 Fox5sandiego.com 青少年枪手向圣地亚哥清真寺开枪，杀死 3 名男子，然后杀死自己 NBC 7 圣地亚哥警方将伊斯兰中心枪击事件作为仇恨犯罪调查 KPBS 圣地亚哥清真寺枪击事件：5 人死亡，包括 2 名嫌疑人，警方表示雅虎袭击事件正在作为仇恨犯罪进行调查
-- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
-- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: diego, san, islamic, gunmen, and crime. The available excerpt says: Gunmen kill 3 people at San Diego Islamic centre in suspected hate crime Al Jazeera 3 killed in San Diego mosque shooting, and 2 suspects found dead fox5sandiego.com Teenage gunmen open fire on San Diego mosque, killing 3 men and then themselves NBC 7 San Diego Police investigate Islamic Center shooting as a hate-crime KPBS San Diego mosque shooting: 5 dead, including 2 suspects, in attack being investigated as a hate crime, police say Yahoo Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：迭戈、桑、伊斯兰的、枪手、犯罪。RSS 中文摘要显示：圣地亚哥伊斯兰中心枪手涉嫌仇恨犯罪，造成 3 人死亡 半岛电视台 圣地亚哥清真寺枪击事件造成 3 人死亡，2 名嫌疑人被发现死亡 Fox5sandiego.com 青少年枪手向圣地亚哥清真寺开枪，杀死 3 名男子，然后杀死自己 NBC 7 圣地亚哥警方将伊斯兰中心枪击事件作为仇恨犯罪调查 KPBS 圣地亚哥清真寺枪击事件：5 人死亡，包括 2 名嫌疑人，警方表示雅虎袭击事件正在作为仇恨犯罪进行调查 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
-- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
-- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
-
-### 3. [Vladimir Putin and Xi Jinping to discuss huge gas project at China summit - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxNTzdqbDQxSHo1cENGWVpvT210cnUwYkJ3cmprTlRUUEhVYXBkS0pDVExwQWU2WWVzTEg3M0l0cDBNOV9ySm1Md0FfRXVUUkxjdWVlN0hpQmcyNzlKNDFmbFBPUzY0VVBFVmx4YnR1R01EbkIxM2lkMVM1bS1ySDI0M3FKX04?oc=5)
-
-- Source / 来源: Financial Times. Published: `2026-05-19T01:42:11+00:00`.
-- Keywords / 关键词: china, putin, vladimir, financial, jinping, discuss, project, summit, huge, gas
-- 中文关键词: 中国、普京、弗拉基米尔、金融的、金平、讨论、项目、首脑、巨大的、气体
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Vladimir Putin and Xi Jinping to discuss huge gas project at China summit Financial Times What really holds China and Russia together BBC Putin hails ‘unprecedented’ ties ahead of China visit hot on Trump’s heels South China Morning Post Now it’s Vladimir Putin’s turn to visit Beijing The Economist Xi’s double act: Putin set to arrive in China days after Trump’s departure CNN
-- RSS 中文摘要: 弗拉基米尔·普京和习近平将在中国峰会上讨论大型天然气项目 英国《金融时报》 真正将中俄联系在一起的是什么 BBC 普京在中国访问前欢呼“前所未有”的关系 紧随特朗普的脚步 《南华早报》 现在轮到弗拉基米尔·普京访问北京 经济学家习近平的双重行动：普京将在特朗普离开几天后抵达中国 CNN
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: china, putin, vladimir, financial, and jinping. The available excerpt says: Vladimir Putin and Xi Jinping to discuss huge gas project at China summit Financial Times What really holds China and Russia together BBC Putin hails ‘unprecedented’ ties ahead of China visit hot on Trump’s heels South China Morning Post Now it’s Vladimir Putin’s turn to visit Beijing The Economist Xi’s double act: Putin set to arrive in China days after Trump’s departure CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：中国、普京、弗拉基米尔、金融的、金平。RSS 中文摘要显示：弗拉基米尔·普京和习近平将在中国峰会上讨论大型天然气项目 英国《金融时报》 真正将中俄联系在一起的是什么 BBC 普京在中国访问前欢呼“前所未有”的关系 紧随特朗普的脚步 《南华早报》 现在轮到弗拉基米尔·普京访问北京 经济学家习近平的双重行动：普京将在特朗普离开几天后抵达中国 CNN 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 4. [Shares wobble, bonds steady as oil eases on Trump's Iran comments - Reuters](https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3JaU2E4eldYZ2ZrU0pEcUgtcXhMODZDc251Znd0U2xXeXkxdTNSdmFMcDNyUnZwWTV4czFtWGtjOVJSdlllMDRKZy0tdFJna20tZVdHbEw3Y3JwRnlMZkNsenRTdTlBSmF0eGZfZ3FjVFZBWGtPczFIN3ZtbWtkckpYc0ZXTEVIWXRoUQ?oc=5)
-
-- Source / 来源: Reuters. Published: `2026-05-19T01:26:00+00:00`.
-- Keywords / 关键词: iran, comments, trump's, shares, wobble, steady, bonds, eases, trump, oil
-- 中文关键词: 伊朗、评论、特朗普的、股票、摇晃、稳定的、债券、缓和、特朗普、石油
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Shares wobble, bonds steady as oil eases on Trump's Iran comments Reuters Trump Threatens Iran and Then Pulls Back, All in the Same Day The New York Times Middle East crisis live: Trump claims Iran attack ‘on hold’ due to request from Gulf allies The Guardian Trump says he's called off Iran strike at request of Gulf allies NPR Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’ Al Jazeera
-- RSS 中文摘要: 特朗普对伊朗的言论导致油价下跌，股市波动，债券稳定 路透社 特朗普威胁伊朗，然后又在同一天撤回 纽约时报 中东危机直播：特朗普声称应海湾盟友的要求“暂停”对伊朗的袭击 《卫报》 特朗普表示，应海湾盟友的要求，他取消了对伊朗的袭击 NPR 伊朗战争第 81 天：特朗普推迟袭击；德黑兰表示不会“投降”半岛电视台
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, comments, trump's, shares, and wobble. The available excerpt says: Shares wobble, bonds steady as oil eases on Trump's Iran comments Reuters Trump Threatens Iran and Then Pulls Back, All in the Same Day The New York Times Middle East crisis live: Trump claims Iran attack ‘on hold’ due to request from Gulf allies The Guardian Trump says he's called off Iran strike at request of Gulf allies NPR Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’ Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、评论、特朗普的、股票、摇晃。RSS 中文摘要显示：特朗普对伊朗的言论导致油价下跌，股市波动，债券稳定 路透社 特朗普威胁伊朗，然后又在同一天撤回 纽约时报 中东危机直播：特朗普声称应海湾盟友的要求“暂停”对伊朗的袭击 《卫报》 特朗普表示，应海湾盟友的要求，他取消了对伊朗的袭击 NPR 伊朗战争第 81 天：特朗普推迟袭击；德黑兰表示不会“投降”半岛电视台 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 5. [Treasury Lawyer Quits as Government Settles Trump IRS Suit - WSJ](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTHczVFNxRlBLUlFoTnc3cm9fZGhDSGNabTUwVFYtcXBlOFl6VmpOaDlLMGxsVkRZbXZZNW80QXFlUmQwNFNZTlNVR3Vvd2JlaTVRcUJrNU9IdkhvUld1QTdMSll0dWNESzR5SnhyWG14R1hJYUE3enY4UzZTdFRyNWJkRVY1c3hTOUJycHhuaG9JQk05V0xKa1VTMHZPWE5R?oc=5)
-
-- Source / 来源: WSJ. Published: `2026-05-19T03:41:00+00:00`.
-- Keywords / 关键词: trump, irs, treasury, lawyer, government, settles, quits, suit, wsj, fund
-- 中文关键词: 特朗普、国税局、国库、律师、政府、解决、退出、套装、华尔街日报、基金
+- Source / 来源: The New York Times. Published: `2026-05-20T05:04:49+00:00`.
+- Keywords / 关键词: massie, primary, elections, kentucky, other, influence, updates, trump's, loses, races
+- 中文关键词: 马西、基本的、选举、肯塔基州、其他、影响、更新、特朗普的、失去、比赛
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Treasury Lawyer Quits as Government Settles Trump IRS Suit WSJ Trump administration creates $1.776 billion fund for allies of the president after he drops lawsuit against IRS CNN DOJ rolls out nearly $1.8B ‘anti-weaponization fund’ as part of Trump’s IRS settlement Politico Top Treasury Lawyer Resigns After Creation of ‘Anti-Weaponization Fund’ The New York Times House Democrats accuse Trump of ‘corruption unparalleled’ over IRS settlement talks MS NOW
-- RSS 中文摘要: 政府和解特朗普国税局诉讼，财政部律师辞职 《华尔街日报》 特朗普政府在撤销对国税局的诉讼后，为总统的盟友设立了 17.76 亿美元的基金 CNN 美国司法部推出近 1.8 亿美元的“反武器化基金”，作为特朗普国税局和解协议的一部分 Politico 首席财政部律师在设立“反武器化基金”后辞职 《纽约时报》 众议院民主党人指责特朗普“腐败”国税局和解谈判“无与伦比” MS NOW
+- RSS Excerpt / RSS 摘要: Primary Elections Live Updates: Massie Loses in Kentucky as Other Races Test Trump's Influence The New York Times Trump-backed challenger defeats Republican rebel Massie in primary BBC Trump critic Thomas Massie defeated in Kentucky Republican House primary The Guardian Trump ousts Massie, and other takeaways from Tuesday’s primary elections CNN Inside the wild $25 million fight to oust top GOP Trump critic Thomas Massie Axios
+- RSS 中文摘要: 初选实时更新：马西在肯塔基州落败，其他种族考验特朗普的影响力 《纽约时报》 特朗普支持的挑战者在初选中击败了共和党反叛者马西 BBC 特朗普批评者托马斯·马西在肯塔基州共和党众议院初选中击败 《卫报》 特朗普驱逐马西，以及周二初选的其他要点 CNN 耗资 2500 万美元罢免共和党顶级特朗普批评者托马斯·马西 Axios 的疯狂斗争
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: trump, irs, treasury, lawyer, and government. The available excerpt says: Treasury Lawyer Quits as Government Settles Trump IRS Suit WSJ Trump administration creates $1.776 billion fund for allies of the president after he drops lawsuit against IRS CNN DOJ rolls out nearly $1.8B ‘anti-weaponization fund’ as part of Trump’s IRS settlement Politico Top Treasury Lawyer Resigns After Creation of ‘Anti-Weaponization Fund’ The New York Times House Democrats accuse Trump of ‘corruption unparalleled’ over IRS settlement talks MS NOW Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：特朗普、国税局、国库、律师、政府。RSS 中文摘要显示：政府和解特朗普国税局诉讼，财政部律师辞职 《华尔街日报》 特朗普政府在撤销对国税局的诉讼后，为总统的盟友设立了 17.76 亿美元的基金 CNN 美国司法部推出近 1.8 亿美元的“反武器化基金”，作为特朗普国税局和解协议的一部分 Politico 首席财政部律师在设立“反武器化基金”后辞职 《纽约时报》 众议院民主党人指责特朗普“腐败”国税局和解谈判“无与伦比” MS NOW 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: massie, primary, elections, kentucky, and other. The available excerpt says: Primary Elections Live Updates: Massie Loses in Kentucky as Other Races Test Trump's Influence The New York Times Trump-backed challenger defeats Republican rebel Massie in primary BBC Trump critic Thomas Massie defeated in Kentucky Republican House primary The Guardian Trump ousts Massie, and other takeaways from Tuesday’s primary elections CNN Inside the wild $25 million fight to oust top GOP Trump critic Thomas Massie Axios Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：马西、基本的、选举、肯塔基州、其他。RSS 中文摘要显示：初选实时更新：马西在肯塔基州落败，其他种族考验特朗普的影响力 《纽约时报》 特朗普支持的挑战者在初选中击败了共和党反叛者马西 BBC 特朗普批评者托马斯·马西在肯塔基州共和党众议院初选中击败 《卫报》 特朗普驱逐马西，以及周二初选的其他要点 CNN 耗资 2500 万美元罢免共和党顶级特朗普批评者托马斯·马西 Axios 的疯狂斗争 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 6. [Iran more than doubled executions in 2025 as global use of the death penalty hit 44-year high, report says - CBS News](https://news.google.com/rss/articles/CBMiogFBVV95cUxQZUY1WDlDeDhldXBVNW9pSEM1ZTlDUVQtWXFYNHlNU0lON1Z6ZWtWUDNWRHZLQXNJbDJPb3labHpfR1JhME54UHhXaUs0enZjUXpZLVNZeUxVWVdib2ZjOGtOeEFsNEw0NDA2OFB6MzlSQXhzY21oQ1BGWkhLUnZuejN5V2FtM1dzRVpid1ZlaU5BQUdVNmdTWmJGM2ZpMGVOR2fSAacBQVVfeXFMTTlsV0ZYc1RvMERaQXg1d1JHR0Y5RmJVSkJVNDItS2t6Q1FORnNBUlZsYW0wQnVlN1ZzSzBFOF92RjUzTW5nVnlZYmNhOHIwYjE2UHNDaS1PSHBFYmFuNm1YWDRYZlhrd3B5cmdvTG5JMFBEdlN5NjhVYU1RYUdWRmpDeklvSHd0U0R1TndwdFZVRk84YWM2WVBTV2dMWFFSM094eDBCM2s?oc=5)
+### 2. [Xi Jinping and Vladimir Putin meet in Beijing less than a week after Trump visit - The Guardian](https://news.google.com/rss/articles/CBMitgFBVV95cUxNMzA3czdVekgzVVhvLVFIOGh3SWZZc2I4Y0VyLVFfZzFZWlU4bVRUQW95QWVMRGY1QmVtcDdEU0NHUEo4bmRRMlRmaEFiMUdHMjExRUlEMEpwSU9GVGd6b0E5THVJMDhvNEhRN2VRTG5JZVp2bGVmdmdMdFJHeG11eVBRdjZ0MnE3RS1JMjJiTEV4eHdwdll0Qk1rZ3o2OTU0ZVBha2M4LUZLOHJSNTlCNW9LOWJhZw?oc=5)
 
-- Source / 来源: CBS News. Published: `2026-05-18T23:14:00+00:00`.
-- Keywords / 关键词: executions, doubled, global, high, hit, penalty, death, iran, use, cbs
-- 中文关键词: 处决、加倍、全球的、高的、打、惩罚、死亡、伊朗、使用、哥伦比亚广播公司
+- Source / 来源: The Guardian. Published: `2026-05-20T03:51:12+00:00`.
+- Keywords / 关键词: putin, trump, beijing, visit, vladimir, jinping, meet, less, week, independent
+- 中文关键词: 普京、特朗普、北京、访问、弗拉基米尔、金平、见面、较少的、星期、独立的
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Iran more than doubled executions in 2025 as global use of the death penalty hit 44-year high, report says CBS News GLOBAL: Executions surge to highest recorded figure in 44 years Amnesty International DeSantis, Florida singled out in report as executions surge worldwide Tallahassee Democrat Executions nearly doubled in the U.S. last year, and soared abroad NPR Executions worldwide hit 40-year high, Amnesty says DW.com
-- RSS 中文摘要: 报告称，全球死刑使用量创 44 年来新高，伊朗 2025 年处决人数增加一倍以上 哥伦比亚广播公司 (CBS) 新闻全球：处决人数激增至 44 年来最高记录 国际特赦组织称，全球处决人数激增，佛罗里达州德桑蒂斯在报告中特别指出 塔拉哈西民主党人的处决人数去年在美国几乎翻了一番，在国外也大幅飙升 国际特赦组织表示，全球处决人数创 40 年来新高德国之声
+- RSS Excerpt / RSS 摘要: Xi Jinping and Vladimir Putin meet in Beijing less than a week after Trump visit The Guardian Putin tells Xi Russia-China ties have hit 'unprecedentedly high level' BBC Ukraine-Russia war latest: Xi warns Putin that world at risk of reverting to ‘law of the jungle’ at Beijing summit The Independent Putin's China visit live: Russian leader meets Xi days after Trump Reuters The harsh economic reality for Putin as he tries to upstage Trump in China The Independent
+- RSS 中文摘要: 习近平和弗拉基米尔·普京在特朗普访华不到一周后在北京会面 《卫报》 普京告诉习近平 俄中关系已达到“前所未有的高水平” BBC 乌克兰-俄罗斯战争最新消息：习近平在北京峰会上警告普京，世界面临重回“丛林法则”的风险
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: executions, doubled, global, high, and hit. The available excerpt says: Iran more than doubled executions in 2025 as global use of the death penalty hit 44-year high, report says CBS News GLOBAL: Executions surge to highest recorded figure in 44 years Amnesty International DeSantis, Florida singled out in report as executions surge worldwide Tallahassee Democrat Executions nearly doubled in the U.S. last year, and soared abroad NPR Executions worldwide hit 40-year high, Amnesty says DW.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：处决、加倍、全球的、高的、打。RSS 中文摘要显示：报告称，全球死刑使用量创 44 年来新高，伊朗 2025 年处决人数增加一倍以上 哥伦比亚广播公司 (CBS) 新闻全球：处决人数激增至 44 年来最高记录 国际特赦组织称，全球处决人数激增，佛罗里达州德桑蒂斯在报告中特别指出 塔拉哈西民主党人的处决人数去年在美国几乎翻了一番，在国外也大幅飙升 国际特赦组织表示，全球处决人数创 40 年来新高德国之声 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: putin, trump, beijing, visit, and vladimir. The available excerpt says: Xi Jinping and Vladimir Putin meet in Beijing less than a week after Trump visit The Guardian Putin tells Xi Russia-China ties have hit 'unprecedentedly high level' BBC Ukraine-Russia war latest: Xi warns Putin that world at risk of reverting to ‘law of the jungle’ at Beijing summit The Independent Putin's China visit live: Russian leader meets Xi days after Trump Reuters The harsh economic reality for Putin as he tries to upstage Trump in China The Independent Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：普京、特朗普、北京、访问、弗拉基米尔。RSS 中文摘要显示：习近平和弗拉基米尔·普京在特朗普访华不到一周后在北京会面 《卫报》 普京告诉习近平 俄中关系已达到“前所未有的高水平” BBC 乌克兰-俄罗斯战争最新消息：习近平在北京峰会上警告普京，世界面临重回“丛林法则”的风险 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 7. [Sandy Fire in Simi Valley: More than 1,300 acres scorched, evacuations expanded - ABC7 Los Angeles](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSHNrWXFJSUU0dWNZWWZSbUR4RHlQa3BsVnNzRHNlNm9XT1JjYkNrUEZ0MHg0T20zQnVGVmJtajdLYVBEc05hd3llQWptWVc0ZkpHM3ZQRndSQmhTNmt2ZDNoRmFEYV9WR1kwZmUwT0hiMXd1NGhQTFNQYVBSV1kydF9paDdDTnRkM3BmTVh0dmtwbXJuRW5OaGQ1YnhpSjhZSElzcHlrbjRJeTQ?oc=5)
+### 3. [US President Trump, family granted immunity from pending tax audits - Al Jazeera](https://news.google.com/rss/articles/CBMirgFBVV95cUxNUEpVTzJkYWtkX25mVEFLZTlSU3ZFeVdaRzRzOTNMSUdKbC1ZTDVVcmlpeVRCQjVzT0NnbkdDLURMdUJFeXNOanpKSjRJMl94WWc0NjVKN1hFU0Z6NE1uTmx0c2hsaFdmNzZmTEplNm8xNlhTNHFyUEpnR0JQVG1mei1MZko0eXpfdDdZVjJLODVVWUtOZ1VWajhtcTZaRXQ1SExhUmg0SDFIMlZVZmfSAbMBQVVfeXFMTW9OVDRiWTVhVFV2MGpVS2dmMmpDa2JiV2pkejNPcV9PcmtuU21kRDNQcFZrNGJuY1VMU3ZQTGMwdVgtbVFqMFpOeU9UZzJFeG1ReEVMTndydUxQb3Q1NWVTNmR5QW5iUnJjdDZSTENrblF4QWNTbVk4dzBFU0RscWZYeHR2di1jR2pSM09jeWdDck5SQXM1QmM1UGExVU5JRm9ULV9fUVJUeVZPVEZqTy05Mjg?oc=5)
 
-- Source / 来源: ABC7 Los Angeles. Published: `2026-05-19T07:15:00+00:00`.
-- Keywords / 关键词: sandy, fire, angeles, valley, acres, simi, los, evacuations, scorched, expanded
-- 中文关键词: 沙、火、安吉利斯、谷、英亩、西米、洛斯、疏散、烧焦的、扩大
+- Source / 来源: Al Jazeera. Published: `2026-05-20T05:15:00+00:00`.
+- Keywords / 关键词: trump, family, audits, tax, president, immunity, granted, pending, jazeera, payouts
+- 中文关键词: 特朗普、家庭、审计、税、总统、免疫、的确、待办的、半岛电视台、支出
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Sandy Fire in Simi Valley: More than 1,300 acres scorched, evacuations expanded ABC7 Los Angeles Sandy fire spreads, prompting evacuation warnings in L.A. County Los Angeles Times California secures federal assistance to support response to Sandy Fire in Ventura County California State Portal | CA.gov Sandy Fire in Simi Valley Threatens Thousands of Homes The New York Times Sandy Fire explodes to more than 1,300 acres, spreads toward L.A. County KTLA
-- RSS 中文摘要: 西米谷桑迪火灾：超过 1,300 英亩被烧焦，疏散范围扩大 ABC7 洛杉矶 桑迪火灾蔓延，引发洛杉矶县疏散警告 洛杉矶时报 加州获得联邦援助，支持应对文图拉县桑迪火灾CA.gov 西米谷桑迪大火威胁数千户家庭 《纽约时报》桑迪大火蔓延至洛杉矶县 KTLA 面积超过 1,300 英亩
+- RSS Excerpt / RSS 摘要: US President Trump, family granted immunity from pending tax audits Al Jazeera I.R.S. to Drop Audits of Trump and Family The New York Times US acting AG doesn’t rule out Trump payouts to Capitol rioters who assaulted police The Times of Israel New settlement term bars IRS from investigating Trump, his family for past tax issues CNN DOJ official told GOP ally that big payouts were coming for Jan. 6 defendants NBC News
+- RSS 中文摘要: 美国总统特朗普及其家人获得豁免，免受待决税务审计放弃对特朗普及其家人的审计 《纽约时报》 美国代理总检察长不排除特朗普向袭击警察的国会暴乱者支付报酬 《以色列时报》 新的和解条款禁止国税局就过去的税务问题调查特朗普及其家人 CNN 司法部官员告诉共和党盟友，1 月 6 日被告将获得巨额赔偿 NBC 新闻
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: sandy, fire, angeles, valley, and acres. The available excerpt says: Sandy Fire in Simi Valley: More than 1,300 acres scorched, evacuations expanded ABC7 Los Angeles Sandy fire spreads, prompting evacuation warnings in L.A. County Los Angeles Times California secures federal assistance to support response to Sandy Fire in Ventura County California State Portal | CA.gov Sandy Fire in Simi Valley Threatens Thousands of Homes The New York Times Sandy Fire explodes to more than 1,300 acres, spreads toward L.A. County KTLA Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：沙、火、安吉利斯、谷、英亩。RSS 中文摘要显示：西米谷桑迪火灾：超过 1,300 英亩被烧焦，疏散范围扩大 ABC7 洛杉矶 桑迪火灾蔓延，引发洛杉矶县疏散警告 洛杉矶时报 加州获得联邦援助，支持应对文图拉县桑迪火灾CA.gov 西米谷桑迪大火威胁数千户家庭 《纽约时报》桑迪大火蔓延至洛杉矶县 KTLA 面积超过 1,300 英亩 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: trump, family, audits, tax, and president. The available excerpt says: US President Trump, family granted immunity from pending tax audits Al Jazeera I.R.S. to Drop Audits of Trump and Family The New York Times US acting AG doesn’t rule out Trump payouts to Capitol rioters who assaulted police The Times of Israel New settlement term bars IRS from investigating Trump, his family for past tax issues CNN DOJ official told GOP ally that big payouts were coming for Jan. 6 defendants NBC News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：特朗普、家庭、审计、税、总统。RSS 中文摘要显示：美国总统特朗普及其家人获得豁免，免受待决税务审计放弃对特朗普及其家人的审计 《纽约时报》 美国代理总检察长不排除特朗普向袭击警察的国会暴乱者支付报酬 《以色列时报》 新的和解条款禁止国税局就过去的税务问题调查特朗普及其家人 CNN 司法部官员告诉共和党盟友，1 月 6 日被告将获得巨额赔偿 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 8. [Ukraine hit Moscow with its biggest drone attack since the start of the war. Russian national TV networks all but ignored it. - Meduza](https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUWpvVWY4SU1DU05ja1F0bjY2MGYyZjB6QWI4ZUM1VFctMllONzMzMlNvbGhuODhMbkpNOTUzT2JyMy1NSEVLb2RlRmNPbTdfXzVFLVZVeENWU0VVM3JRSzRna0JXRGtpcjZOanJXRGF6b3B4UDYxVjAzbzBtWnlUSUdCN2JnOWE1azZzMUljSWFZS1VXOWQxNnlDS0hHYlNiR01WeGVtbFdlQmZLUHd3WEpZcXhydHVBYzN2ZzZmV2ZMY2NOTTVfLWY1V3ItbGlfcTFLMkVNczF5aWFGdi10dU9lYnRVdE11Rk1fUjZKSzVIdHlWMUHSAfsBQVVfeXFMT3I5SXJIYmkzaUg4eU0zVzFSUVhQUmwxOGEtVThaM1daSU43cXprQmUtLTJ0cUNwSjlyMjJpUG5kVTFsVU1RUy1ZMlJxbEtWUGpkSUNtT0RYZ012VF9UUkp5VWNua2ItX3QyN0hYNmtHUHRHTTFUNWdQWXpveUtvZGthVHJSSF9ZdV91MmxrZFpPMHJBTS1rWWxSSkpoUVJTcWJ4RTVRQ2dfRzhCTk54Q3VUdDdSc053c01DSGwyTjJUbXZxblBtT0R4Q0RlTVJGc0F2ZDV0VE1MRmVQNVQ3eF96Nm05R2VEUUNVMzctUS1BTi1OQWlKVV82SVk?oc=5)
+### 4. [Tankers exit Hormuz as Trump, Vance talk up Iran deal prospects - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGtCOC1FeFNhRG9yNTFpSUMzVVFkN2JFRXJSWGhTLUZ4SE1ueklHTzB2cEdSWGZOTy0ycE9pQkFKNDl0SHY5Y1p0UHIxdGxqZG0wX3FjS1VZZFFmcnZzU18xczQ1eUk4VGJWelp1blVYNjJMOFd6elZ2NWMxQlNqMlo1SUV0TkF0RlhFeWpyWTU0czUwM2JLLW1pUDFfQTZWUnRRNmUta1p5ckhBb2hmM2RCcDg?oc=5)
 
-- Source / 来源: Meduza. Published: `2026-05-18T17:47:00+00:00`.
-- Keywords / 关键词: moscow, drone, war, ukraine, attack, national, networks, biggest, russian, ignored
-- 中文关键词: 莫斯科、无人机、战争、乌克兰、袭击、国家的、网络、最大、俄罗斯、被忽略
+- Source / 来源: Reuters. Published: `2026-05-20T03:44:00+00:00`.
+- Keywords / 关键词: hormuz, exit, iran, tankers, trump, prospects, vance, talk, deal, chinese
+- 中文关键词: 霍尔木兹、出口、伊朗、油轮、特朗普、前景、万斯、讲话、交易、中国
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Ukraine hit Moscow with its biggest drone attack since the start of the war. Russian national TV networks all but ignored it. Meduza Ukrainian mid-range strikes deal double blow to Russia's war effort Reuters Explosions rock Russia’s Yaroslavl as authorities report drone strike on industrial facility Українська правда Ukraine’s attack on Moscow is another sign the war is not so distant anymore for Russians AP News Zelensky Hails Ukraine's Growing Drone Capability After Massive Moscow Strike Time Magazine
-- RSS 中文摘要: 乌克兰对莫斯科发动了自战争开始以来最大规模的无人机袭击。俄罗斯国家电视网几乎忽略了它。乌克兰对莫斯科的袭击是另一个迹象，表明战争对俄罗斯人来说不再那么遥远了
+- RSS Excerpt / RSS 摘要: Tankers exit Hormuz as Trump, Vance talk up Iran deal prospects Reuters South Korean, Chinese Supertankers Attempt Strait of Hormuz Exit Bloomberg.com European Countries Begin Talks With Iran Over Strait Of Hormuz Ship Passage Marine Insight Iran war updates: Chinese vessels allowed to sail Hormuz as Trump meets Xi Al Jazeera Chinese tankers exit Strait of Hormuz with 4 million barrels of crude oil, data shows Arab News
+- RSS 中文摘要: 特朗普、万斯谈论伊朗协议前景 油轮离开霍尔木兹海峡 韩国和中国超级油轮试图退出霍尔木兹海峡 彭博社 欧洲国家开始与伊朗就霍尔木兹海峡船舶通行进行谈判 伊朗战争最新消息：特朗普会见习近平时，中国船只获准航行霍尔木兹海峡 数据显示，中国油轮带着 400 万桶原油离开霍尔木兹海峡
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: moscow, drone, war, ukraine, and attack. The available excerpt says: Ukraine hit Moscow with its biggest drone attack since the start of the war. Russian national TV networks all but ignored it. Meduza Ukrainian mid-range strikes deal double blow to Russia's war effort Reuters Explosions rock Russia’s Yaroslavl as authorities report drone strike on industrial facility Українська правда Ukraine’s attack on Moscow is another sign the war is not so distant anymore for Russians AP News Zelensky Hails Ukraine's Growing Drone Capability After Massive Moscow Strike Time Magazine Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：莫斯科、无人机、战争、乌克兰、袭击。RSS 中文摘要显示：乌克兰对莫斯科发动了自战争开始以来最大规模的无人机袭击。俄罗斯国家电视网几乎忽略了它。乌克兰对莫斯科的袭击是另一个迹象，表明战争对俄罗斯人来说不再那么遥远了 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: hormuz, exit, iran, tankers, and trump. The available excerpt says: Tankers exit Hormuz as Trump, Vance talk up Iran deal prospects Reuters South Korean, Chinese Supertankers Attempt Strait of Hormuz Exit Bloomberg.com European Countries Begin Talks With Iran Over Strait Of Hormuz Ship Passage Marine Insight Iran war updates: Chinese vessels allowed to sail Hormuz as Trump meets Xi Al Jazeera Chinese tankers exit Strait of Hormuz with 4 million barrels of crude oil, data shows Arab News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：霍尔木兹、出口、伊朗、油轮、特朗普。RSS 中文摘要显示：特朗普、万斯谈论伊朗协议前景 油轮离开霍尔木兹海峡 韩国和中国超级油轮试图退出霍尔木兹海峡 彭博社 欧洲国家开始与伊朗就霍尔木兹海峡船舶通行进行谈判 伊朗战争最新消息：特朗普会见习近平时，中国船只获准航行霍尔木兹海峡 数据显示，中国油轮带着 400 万桶原油离开霍尔木兹海峡 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 9. [This Ebola outbreak raises questions about when it all began — and the U.S. response - NPR](https://news.google.com/rss/articles/CBMilAFBVV95cUxOenEwaG44QV9UQlRkSXN3QUMtVjdHc3BjenNZRFBLcF9OMnM4MWNTQjQzVjN5dzlXOG1DQlI2c2YtdVBzSVp5bkhKTm9XOHNVQk1aX1NxTmsya09lRGt4VjRmeFoxSWQxNnZXVXUyVXBCbGF4NnduWnJqSUFQYlRPalR3QmFrNm5lbUhlc1YzMnRidHhY?oc=5)
+### 5. [China’s Xi Jinping warns of ‘law of the jungle’ in meeting with Vladimir Putin - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPQnpzWUdLekNBODZfTDA1TGhwOXZGX0YtMUxnazJGdmhCMkdwTk9ZZFFJQUJIMEFLWmZBbFJTMGFyRmVOMEg0eFdtM3REVU5EQTl2ZTRqdjdabHJCOTNLWHF4OWZZRTFoWEJDOWZmb0JqVGh0ekNBYVYwSngwTTI0OTVLbU8?oc=5)
 
-- Source / 来源: NPR. Published: `2026-05-18T20:10:41+00:00`.
-- Keywords / 关键词: ebola, questions, outbreak, response, raises, began, all, emergency, american, health
-- 中文关键词: 埃博拉病毒、问题、暴发、回复、提高、开始、全部、紧急情况、美国人、健康
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: This Ebola outbreak raises questions about when it all began — and the U.S. response NPR American infected with Ebola in DRC, as US moves to limit entry from virus-hit region CNN Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO) Ebola Was Identified in Congo Weeks Before W.H.O. Declared an Emergency The New York Times American tests positive for Ebola; U.S. to screen travelers at airports The Washington Post
-- RSS 中文摘要: 这次埃博拉疫情引发了关于这一切何时开始的问题，以及美国对刚果民主共和国感染埃博拉病毒的反应，美国采取行动限制从病毒袭击地区入境。 CNN 刚果民主共和国和乌干达由本迪布焦病毒引起的埃博拉疫情确定为国际关注的突发公共卫生事件。宣布进入紧急状态 《纽约时报》美国人埃博拉病毒检测呈阳性；美国将在机场对旅客进行筛查 - 华盛顿邮报
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: ebola, questions, outbreak, response, and raises. The available excerpt says: This Ebola outbreak raises questions about when it all began — and the U.S. response NPR American infected with Ebola in DRC, as US moves to limit entry from virus-hit region CNN Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO) Ebola Was Identified in Congo Weeks Before W.H.O. Declared an Emergency The New York Times American tests positive for Ebola; U.S. to screen travelers at airports The Washington Post Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：埃博拉病毒、问题、暴发、回复、提高。RSS 中文摘要显示：这次埃博拉疫情引发了关于这一切何时开始的问题，以及美国对刚果民主共和国感染埃博拉病毒的反应，美国采取行动限制从病毒袭击地区入境。 CNN 刚果民主共和国和乌干达由本迪布焦病毒引起的埃博拉疫情确定为国际关注的突发公共卫生事件。宣布进入紧急状态 《纽约时报》美国人埃博拉病毒检测呈阳性；美国将在机场对旅客进行筛查 - 华盛顿邮报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+- Source / 来源: Financial Times. Published: `2026-05-20T01:48:58+00:00`.
+- Keywords / 关键词: putin, vladimir, jinping, jungle, china, warns, law, financial, meeting, beijing
+- 中文关键词: 普京、弗拉基米尔、金平、丛林、中国、警告、法律、金融的、会议、北京
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: China’s Xi Jinping warns of ‘law of the jungle’ in meeting with Vladimir Putin Financial Times Putin tells Xi Russia-China ties have hit 'unprecedentedly high level' BBC Ukraine-Russia war latest: Xi warns Putin that world at risk of reverting to ‘law of the jungle’ at Beijing summit The Independent Xi Jinping and Vladimir Putin meet in Beijing less than a week after Trump visit The Guardian Putin's China visit live: Russian leader meets Xi days after Trump Reuters
+- RSS 中文摘要: 中国习近平在会见弗拉基米尔·普京时警告“丛林法则” 金融时报 普京告诉习近平 俄中关系已达到“前所未有的高水平” BBC 乌克兰-俄罗斯战争最新消息：习近平在北京峰会上警告普京，世界面临恢复“丛林法则”的风险 《独立报》 特朗普访问后不到一周，习近平和弗拉基米尔·普京在北京会面 《卫报》直播普京访华：俄罗斯领导人在特朗普几天后会见习近平路透社
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: putin, vladimir, jinping, jungle, and china. The available excerpt says: China’s Xi Jinping warns of ‘law of the jungle’ in meeting with Vladimir Putin Financial Times Putin tells Xi Russia-China ties have hit 'unprecedentedly high level' BBC Ukraine-Russia war latest: Xi warns Putin that world at risk of reverting to ‘law of the jungle’ at Beijing summit The Independent Xi Jinping and Vladimir Putin meet in Beijing less than a week after Trump visit The Guardian Putin's China visit live: Russian leader meets Xi days after Trump Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：普京、弗拉基米尔、金平、丛林、中国。RSS 中文摘要显示：中国习近平在会见弗拉基米尔·普京时警告“丛林法则” 金融时报 普京告诉习近平 俄中关系已达到“前所未有的高水平” BBC 乌克兰-俄罗斯战争最新消息：习近平在北京峰会上警告普京，世界面临恢复“丛林法则”的风险 《独立报》 特朗普访问后不到一周，习近平和弗拉基米尔·普京在北京会面 《卫报》直播普京访华：俄罗斯领导人在特朗普几天后会见习近平路透社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 10. [The Supreme Court avoids taking up a fight over Voting Rights Act enforcement for now - NPR](https://news.google.com/rss/articles/CBMilAFBVV95cUxObXNQdUVFQTEtMTNueUJrYllXOEpHOVNHTXBDajB5ZlByX3I3aGNCZG9vU2xUcUY4RExsM0xyMS1obmQ3LWl5LVV6Z2pyRTNWTFU5a3NqVG10SkZ4RjdpbzJfQkpQR2tCNzhWOVBodEFoak1ZM3dmNUxKVTVvbjJoMjBJdFdwTEZHR3lGRHNNQXl6MWUw?oc=5)
+### 6. [Russia Conducts Massive Nuclear Drills as Putin Visits China - Bloomberg.com](https://news.google.com/rss/articles/CBMisAFBVV95cUxNa1htUjQyTGprZ2lkXzNaNkZYUHB0YjljaWdleVlTT0hyeTVjOGtDVFgxLVN4RHd1MWZ2b1BOa0Iya2tSVFZDa1BhMjJkWlpkX1dEeVM2Sno4bGtFVTFpVjd6MHdOQW1tWl83MTFqTko0dExJOHg3THhFZGtROGdfVXVDRlR5bk40UHJNQVUyaFJSWDB4TWZucGNPRTdCdkZzZUhLbVRxUEVkVHBqRUFPbQ?oc=5)
 
-- Source / 来源: NPR. Published: `2026-05-18T15:12:52+00:00`.
-- Keywords / 关键词: court, supreme, voting, rights, enforcement, avoids, taking, fight, act, redistricting
-- 中文关键词: 法庭、最高、表决、权利、执行、避免、采取、斗争、行为、重新划分选区
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: The Supreme Court avoids taking up a fight over Voting Rights Act enforcement for now NPR Justice Jackson slams Supreme Court’s handling of rush appeal in Louisiana redistricting case CNN US Supreme Court reverses ruling against Mississippi legislative redistricting Mississippi Today Supreme Court sends closely watched Native American voting rights decision back to lower court AP News Jackson protests as Supreme Court uses Louisiana gerrymandering ruling to instruct lower courts Fox News
-- RSS 中文摘要: 最高法院暂时避免就投票权法案的执行展开争论 NPR 法官杰克逊猛烈抨击最高法院对路易斯安那州重新划分选区案中紧急上诉的处理 CNN 美国最高法院推翻了针对密西西比州立法重新划分选区的裁决 密西西比州今天最高法院将密切关注的美国原住民投票权决定发回下级法院 美联社新闻 杰克逊抗议，因为最高法院使用路易斯安那州选区划分不公的裁决来指示下级法院 福克斯新闻
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: court, supreme, voting, rights, and enforcement. The available excerpt says: The Supreme Court avoids taking up a fight over Voting Rights Act enforcement for now NPR Justice Jackson slams Supreme Court’s handling of rush appeal in Louisiana redistricting case CNN US Supreme Court reverses ruling against Mississippi legislative redistricting Mississippi Today Supreme Court sends closely watched Native American voting rights decision back to lower court AP News Jackson protests as Supreme Court uses Louisiana gerrymandering ruling to instruct lower courts Fox News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：法庭、最高、表决、权利、执行。RSS 中文摘要显示：最高法院暂时避免就投票权法案的执行展开争论 NPR 法官杰克逊猛烈抨击最高法院对路易斯安那州重新划分选区案中紧急上诉的处理 CNN 美国最高法院推翻了针对密西西比州立法重新划分选区的裁决 密西西比州今天最高法院将密切关注的美国原住民投票权决定发回下级法院 美联社新闻 杰克逊抗议，因为最高法院使用路易斯安那州选区划分不公的裁决来指示下级法院 福克斯新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+- Source / 来源: Bloomberg.com. Published: `2026-05-19T13:46:31+00:00`.
+- Keywords / 关键词: nuclear, russia, drills, massive, com, conducts, visits, putin, china, war
+- 中文关键词: 核、俄罗斯、演习、大量的、com、进行、访问、普京、中国、战争
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Russia Conducts Massive Nuclear Drills as Putin Visits China Bloomberg.com Russian Offensive Campaign Assessment, May 19, 2026 Institute for the Study of War Russia begins nuclear drills amid intensifying drone war DW.com Belarus launches joint drills with Russia to practice nuclear weapons use AP News Russia holds massive drills of its nuclear forces NBC News
+- RSS 中文摘要: 普京访华期间俄罗斯进行大规模核演习 Bloomberg.com 俄罗斯进攻战役评估，2026 年 5 月 19 日 战争研究所 俄罗斯在无人机战争加剧之际开始核演习 DW.com 白俄罗斯与俄罗斯启动联合演习，练习核武器使用 美联社新闻 俄罗斯举行大规模核力量演习 NBC 新闻
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: nuclear, russia, drills, massive, and com. The available excerpt says: Russia Conducts Massive Nuclear Drills as Putin Visits China Bloomberg.com Russian Offensive Campaign Assessment, May 19, 2026 Institute for the Study of War Russia begins nuclear drills amid intensifying drone war DW.com Belarus launches joint drills with Russia to practice nuclear weapons use AP News Russia holds massive drills of its nuclear forces NBC News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：核、俄罗斯、演习、大量的、com。RSS 中文摘要显示：普京访华期间俄罗斯进行大规模核演习 Bloomberg.com 俄罗斯进攻战役评估，2026 年 5 月 19 日 战争研究所 俄罗斯在无人机战争加剧之际开始核演习 DW.com 白俄罗斯与俄罗斯启动联合演习，练习核武器使用 美联社新闻 俄罗斯举行大规模核力量演习 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [‘Relics of the past’: The old guard of Georgia’s GOP has fallen - Politico](https://news.google.com/rss/articles/CBMifEFVX3lxTE9rdXdNY2FXa1QzVGxyTThoTEpvMEtRQk43ZUtaZ3FrUkZPdkVicl8yTGd5NmhaamxrQ2FCbGRmN1RyUUR3Y3RZNnl2elJ0SlUwVDlYN3ZLWGZ1aU1Ga25tdDVMV25KVDh5QUN5WngxTjdzTkYyZmFoV3E2THg?oc=5)
+
+- Source / 来源: Politico. Published: `2026-05-20T05:26:18+00:00`.
+- Keywords / 关键词: georgia, gop, politico, governor, relics, fallen, guard, past, old, primary
+- 中文关键词: 乔治亚州、共和党、政治报、州长、遗迹、堕落、警卫、过去的、老的、基本的
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: ‘Relics of the past’: The old guard of Georgia’s GOP has fallen Politico Georgia Governor Primary Election 2026 Live Results: Track Rick Jackson, Burt Jones, Keisha Lance Bottoms and More NBC News Republican Primary for Georgia Governor Will Go to a Runoff The New York Times In Georgia, two GOP Trump backers vie to face former Atlanta mayor for governor NPR Results for major primary races across Georgia. Senate, governor, more Savannah Morning News
+- RSS 中文摘要: “过去的遗迹”：佐治亚州共和党的保守派已经倒下 Politico 佐治亚州州长初选 2026 年实时结果：跟踪 Rick Jackson、Burt Jones、Keisha Lance Bottoms 等 NBC 新闻 佐治亚州州长共和党初选将进入决选 《纽约时报》 在佐治亚州，两名共和党特朗普支持者将与前亚特兰大市长争夺佐治亚州主要初选州长 NPR 结果。参议院、州长等 萨凡纳晨报
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: georgia, gop, politico, governor, and relics. The available excerpt says: ‘Relics of the past’: The old guard of Georgia’s GOP has fallen Politico Georgia Governor Primary Election 2026 Live Results: Track Rick Jackson, Burt Jones, Keisha Lance Bottoms and More NBC News Republican Primary for Georgia Governor Will Go to a Runoff The New York Times In Georgia, two GOP Trump backers vie to face former Atlanta mayor for governor NPR Results for major primary races across Georgia. Senate, governor, more Savannah Morning News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：乔治亚州、共和党、政治报、州长、遗迹。RSS 中文摘要显示：“过去的遗迹”：佐治亚州共和党的保守派已经倒下 Politico 佐治亚州州长初选 2026 年实时结果：跟踪 Rick Jackson、Burt Jones、Keisha Lance Bottoms 等 NBC 新闻 佐治亚州州长共和党初选将进入决选 《纽约时报》 在佐治亚州，两名共和党特朗普支持者将与前亚特兰大市长争夺佐治亚州主要初选州长 NPR 结果。参议院、州长等 萨凡纳晨报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 8. [UK quietly issues sanctions waivers on Russian oil products - The Kyiv Independent](https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFVDUld3cnE0RlRZSzFtMkJpbEJZV0xoN3ZQVmJRdjJlNVBSQ2Fob1RVa3ZkSHVpWFlJOVQwU0tqWFhCSmRUN20wNlIwWUZBdWtoSWloYUlpUDJXTmpiWVFoTUhWVUlYZzN1WUpHZTNibjhDTkticjZqSEp2MDU0QW1WeGxxYTVlZTNjVGp1YWxxQQ?oc=5)
+
+- Source / 来源: The Kyiv Independent. Published: `2026-05-19T21:38:30+00:00`.
+- Keywords / 关键词: russian, sanctions, oil, independent, quietly, products, waivers, issues, kyiv, fuel
+- 中文关键词: 俄罗斯、制裁、石油、独立的、悄悄、产品、豁免、问题、基辅、燃料
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: UK quietly issues sanctions waivers on Russian oil products The Kyiv Independent UK loosens Russian oil sanctions as fuel prices rise BBC Ukraine war briefing: Britain to buy diesel and jet fuel made from Russian crude oil The Guardian UK allows diesel and jet fuel imports from Russian crude via sanctions carve-out The Economic Times UK quietly eases Russian oil sanctions as fuel costs surge amid Iran war The Independent
+- RSS 中文摘要: 英国悄悄发布对俄罗斯石油产品的制裁豁免 《基辅独立报》 随着燃料价格上涨，英国放松对俄罗斯石油制裁 BBC 乌克兰战争简报：英国购买由俄罗斯原油制成的柴油和航空燃油 英国卫报允许通过制裁豁免从俄罗斯原油进口柴油和航空燃油 《经济时报》 由于伊朗战争期间燃料成本飙升，英国悄悄放松了对俄罗斯石油制裁 《独立报》
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: russian, sanctions, oil, independent, and quietly. The available excerpt says: UK quietly issues sanctions waivers on Russian oil products The Kyiv Independent UK loosens Russian oil sanctions as fuel prices rise BBC Ukraine war briefing: Britain to buy diesel and jet fuel made from Russian crude oil The Guardian UK allows diesel and jet fuel imports from Russian crude via sanctions carve-out The Economic Times UK quietly eases Russian oil sanctions as fuel costs surge amid Iran war The Independent Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：俄罗斯、制裁、石油、独立的、悄悄。RSS 中文摘要显示：英国悄悄发布对俄罗斯石油产品的制裁豁免 《基辅独立报》 随着燃料价格上涨，英国放松对俄罗斯石油制裁 BBC 乌克兰战争简报：英国购买由俄罗斯原油制成的柴油和航空燃油 英国卫报允许通过制裁豁免从俄罗斯原油进口柴油和航空燃油 《经济时报》 由于伊朗战争期间燃料成本飙升，英国悄悄放松了对俄罗斯石油制裁 《独立报》 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 9. [Senate advances resolution to block further strikes on Iran - The Washington Post](https://news.google.com/rss/articles/CBMirwFBVV95cUxQdDNYakNjXzM1QkMxRjdqUFNKd0tGakhXcXJQTVpPZHRYMTE1R1FUMHdDYUplVVp5RUdMRlZJSm13eGZOd2VUNkdVUl9Uc0ZWT25Wb0JZLWRPU0d5aEFmdkwtQ3dlTmZ5UjRHNkh4Tm01aGljekVPWDNzUHIwbV9xTDlTb3VzV3BPTURGeUVqLS1IaVdoQW9ueWpOMURFcjk5RGdENi03V3dsYUx4T2tj?oc=5)
+
+- Source / 来源: The Washington Post. Published: `2026-05-20T03:17:00+00:00`.
+- Keywords / 关键词: iran, senate, resolution, advances, washington, further, strikes, block, war, measure
+- 中文关键词: 伊朗、参议院、解决、进步、华盛顿、更远、袭击、堵塞、战争、措施
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Senate advances resolution to block further strikes on Iran The Washington Post Senate Votes to Take Up Measure to Force Trump to End Iran War The New York Times Dems score win as GOP senator helps advance Iran war powers resolution Fox News Senate advances measure to end military action in Iran in rebuke to Trump CNBC Republican resistance to Iran war grows in the Senate as Murkowski flips AP News
+- RSS 中文摘要: 参议院提出阻止对伊朗进一步打击的决议 《华盛顿邮报》参议院投票采取措施迫使特朗普结束伊朗战争 《纽约时报》 民主党取得胜利，共和党参议员帮助推进伊朗战争权力决议 福克斯新闻 参议院提出终止对伊朗军事行动的措施，谴责特朗普 CNBC 随着穆尔科斯基翻转，共和党对伊朗战争的抵制在参议院增强 美联社新闻
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: iran, senate, resolution, advances, and washington. The available excerpt says: Senate advances resolution to block further strikes on Iran The Washington Post Senate Votes to Take Up Measure to Force Trump to End Iran War The New York Times Dems score win as GOP senator helps advance Iran war powers resolution Fox News Senate advances measure to end military action in Iran in rebuke to Trump CNBC Republican resistance to Iran war grows in the Senate as Murkowski flips AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、参议院、解决、进步、华盛顿。RSS 中文摘要显示：参议院提出阻止对伊朗进一步打击的决议 《华盛顿邮报》参议院投票采取措施迫使特朗普结束伊朗战争 《纽约时报》 民主党取得胜利，共和党参议员帮助推进伊朗战争权力决议 福克斯新闻 参议院提出终止对伊朗军事行动的措施，谴责特朗普 CNBC 随着穆尔科斯基翻转，共和党对伊朗战争的抵制在参议院增强 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [Trump says US could attack Iran again but that Tehran wants deal - Yahoo](https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0dIXzRtQmFEWVh6Wkp6a1dmaW9ZT0dtc2ZEVkpfdUZOekJrMkpkWlh3a3lfYnlEVVhkV21xSHJ0UW1lbFJ0bVptS3BfYzlxa0NKc29rM204Sk1mc094b3VvcU9UOFNkNnY0T0lOV3dBV0Y5X2JSNVBpUW1mZVcwRjY4dnpobUpOdzlXbw?oc=5)
+
+- Source / 来源: Yahoo. Published: `2026-05-19T15:08:21+00:00`.
+- Keywords / 关键词: trump, iran, attack, tehran, wants, deal, yahoo, resuming, attacks, meeting
+- 中文关键词: 特朗普、伊朗、袭击、德黑兰、想要、交易、雅虎、恢复、会议
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Trump says US could attack Iran again but that Tehran wants deal Yahoo How Trump backed off on resuming Iran attacks — for now CNN Late Night Could Set a Clock by Trump’s Iran Attack Delays The New York Times Trump held meeting on Iran war plans after pausing attack Axios Middle East crisis live: US and Iran trade threats but Trump insists Tehran wants deal The Guardian
+- RSS 中文摘要: 特朗普表示美国可能再次攻击伊朗，但德黑兰希望达成协议 雅虎 特朗普如何在恢复伊朗攻击方面退缩——目前 CNN 深夜可能会因特朗普的伊朗攻击延迟而设定时钟 纽约时报 特朗普在暂停攻击 Axios 后就伊朗战争计划举行会议 中东危机直播：美国和伊朗贸易威胁，但特朗普坚称德黑兰希望达成协议 卫报
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: trump, iran, attack, tehran, and wants. The available excerpt says: Trump says US could attack Iran again but that Tehran wants deal Yahoo How Trump backed off on resuming Iran attacks — for now CNN Late Night Could Set a Clock by Trump’s Iran Attack Delays The New York Times Trump held meeting on Iran war plans after pausing attack Axios Middle East crisis live: US and Iran trade threats but Trump insists Tehran wants deal The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：特朗普、伊朗、袭击、德黑兰、想要。RSS 中文摘要显示：特朗普表示美国可能再次攻击伊朗，但德黑兰希望达成协议 雅虎 特朗普如何在恢复伊朗攻击方面退缩——目前 CNN 深夜可能会因特朗普的伊朗攻击延迟而设定时钟 纽约时报 特朗普在暂停攻击 Axios 后就伊朗战争计划举行会议 中东危机直播：美国和伊朗贸易威胁，但特朗普坚称德黑兰希望达成协议 卫报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
 
 
