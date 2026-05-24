@@ -1,39 +1,92 @@
 {
-  "generated_at": "2026-05-23T06:30:49+00:00",
+  "generated_at": "2026-05-24T06:55:45+00:00",
   "timezone": "UTC",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills Over 80 in China - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQVdreTZUTzRDTmpJaUVseVpGQkFkQ0xIdmZNaEhQdjdrclRrc2tqeUw3UlFBS2d6eEdkekw4Z0FjZ012NWJCa1FSS1hpVG9xbkFyeUhpSl9XaXQ1N1V5MDFzcVdIZ09LSkJPVFhQVlZ1UlNPNzJxWlRsU3N3Z3hZV1FyOGM3Nms?oc=5",
-      "published_at": "2026-05-23T05:24:07+00:00",
-      "description": "Xi Calls for All-Out Rescue After Coal Mine Explosion Kills Over 80 in China The New York Times At least 82 dead in Chinese coal mine explosion, state media reports BBC China's Xi orders rescue efforts after Shanxi coal mine blast kills 8, traps 38 Reuters 4 dead, 90 trapped in coal mine accident in northern China: State media ABC News - Breaking News, Latest News and Videos Developing | 82 killed in China’s worst coal mine accident for more than a decade South China Morning Post",
-      "description_zh": "中国煤矿爆炸造成 80 多人死亡，习近平呼吁全力救援 《纽约时报》官方媒体报道，中国煤矿爆炸至少造成 82 人死亡，BBC 中国国家主席习近平在山西煤矿爆炸造成 8 人死亡、38 人被困后下令开展救援工作 路透社：中国北方煤矿事故造成 4 人死亡、90 人被困《南华早报》：中国十多年来最严重的煤矿事故已造成82人死亡",
+      "title": "White House shooting marks another incident in a string of political violence - NBC News",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQX05RWHR0VHF4eEJ6MWlEaW5pSzQ2Y1ZLNnJYcjVPanVyeFMwYWpLVmp2Q2JxQTV0LXVkZFhCOEhpSU81SnlVVzdsRjlySHg0eW0ySEg3eU5KX3pCS2U0eDNvelNZZXRYS1BJS09HZmtFcXFkaEZES1NQVVVQVFhvRkM4bnFkNGJMNDJDNGVSZXRueXdIMkMtSTVYSFJqdmtkS05nelRhWnVLOENHUDlsWlVTTW9TS1NRN3N1T2RFdEhyOTY4?oc=5",
+      "published_at": "2026-05-24T05:09:00+00:00",
+      "description": "White House shooting marks another incident in a string of political violence NBC News Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service The New York Times Secret Service says officers fatally shot a person who fired at them near White House CNN Suspect dead after opening fire near White House security checkpoint, Secret Service says Daily Local What we know about Nasire Best, Maryland man accused of White House shooting, sources say FOX 5 DC",
+      "description_zh": "白宫枪击事件标志着一系列政治暴力事件中的又一起事件 NBC新闻 白宫附近枪击案枪手与特勤局交火身亡 《纽约时报》特勤局表示，警察在白宫附近开枪打死了一名向他们开枪的人 CNN 特勤局称，嫌疑人在白宫安全检查站附近开枪后死亡",
       "keywords": [
-        "coal",
-        "mine",
-        "china",
-        "explosion",
-        "rescue",
-        "kills",
-        "all-out",
-        "calls",
-        "accident",
-        "state"
+        "white",
+        "house",
+        "shooting",
+        "political",
+        "incident",
+        "violence",
+        "another",
+        "string",
+        "marks",
+        "nbc"
       ],
       "keywords_zh": [
-        "煤炭",
-        "矿",
-        "中国",
-        "爆炸",
-        "救援",
-        "造成死亡",
-        "全力以赴",
-        "来电",
-        "事故",
-        "状态"
+        "白色的",
+        "房子",
+        "射击",
+        "政治的",
+        "事件",
+        "暴力",
+        "其他",
+        "细绳",
+        "标记",
+        "全国广播公司"
+      ],
+      "category": {
+        "en": "Technology",
+        "zh": "科技"
+      },
+      "interpretation": {
+        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
+        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
+        "detailed_en": "Key signals: white, house, shooting, political, and incident. The available excerpt says: White House shooting marks another incident in a string of political violence NBC News Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service The New York Times Secret Service says officers fatally shot a person who fired at them near White House CNN Suspect dead after opening fire near White House security checkpoint, Secret Service says Daily Local What we know about Nasire Best, Maryland man accused of White House shooting, sources say FOX 5 DC Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：白色的、房子、射击、政治的、事件。RSS 中文摘要显示：白宫枪击事件标志着一系列政治暴力事件中的又一起事件 NBC新闻 白宫附近枪击案枪手与特勤局交火身亡 《纽约时报》特勤局表示，警察在白宫附近开枪打死了一名向他们开枪的人 CNN 特勤局称，嫌疑人在白宫安全检查站附近开枪后死亡 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "what_to_watch_en": [
+          "regulatory reaction",
+          "enterprise adoption",
+          "security or privacy consequences"
+        ],
+        "what_to_watch_zh": [
+          "监管反应",
+          "企业采用情况",
+          "安全或隐私后果"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "title": "Exclusive: What's inside the Iran deal Trump is close to signing - Axios",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaXpnNk8yODVTQ2FWMWY0VnZDUFoyQWktY19NTElzdWk1dU1KdEtBRlBIMFFvMlZPNnBsNVFla0ZlaFR6OG96RFpXU3RJMTNNaUctcHdLdVVfNTdJYVNDTXZxRkZLUGxucEFnSm5Lb2VtSnd3VnZwWTFULUxIWkU?oc=5",
+      "published_at": "2026-05-24T03:48:39+00:00",
+      "description": "Exclusive: What's inside the Iran deal Trump is close to signing Axios Live updates: Trump says peace agreement ‘largely negotiated’ with Iran CNN Iranian Officials Say Proposed Peace Deal Would End Fighting and Open Strait The New York Times Trump says Iran ceasefire deal in final stages, to be ‘announced shortly’ The Washington Post LIVE: Trump says new Iran deal ‘largely negotiated’ with talks ‘very soon’ Al Jazeera",
+      "description_zh": "独家：伊朗协议的内容 特朗普即将签署 Axios Live 更新：特朗普表示和平协议已与伊朗“基本谈判” CNN 伊朗官员表示，拟议的和平协议将结束战斗并开放海峡 《纽约时报》 特朗普表示，伊朗停火协议已进入最后阶段，将“很快宣布” 华盛顿邮报直播：特朗普表示，新的伊朗协议“基本已谈判”，会谈“很快”",
+      "keywords": [
+        "trump",
+        "iran",
+        "deal",
+        "exclusive",
+        "signing",
+        "what's",
+        "inside",
+        "close",
+        "axios",
+        "negotiated"
+      ],
+      "keywords_zh": [
+        "特朗普",
+        "伊朗",
+        "交易",
+        "独家的",
+        "签名",
+        "什么是",
+        "里面",
+        "关闭",
+        "轴",
+        "协商的"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -42,8 +95,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: coal, mine, china, explosion, and rescue. The available excerpt says: Xi Calls for All-Out Rescue After Coal Mine Explosion Kills Over 80 in China The New York Times At least 82 dead in Chinese coal mine explosion, state media reports BBC China's Xi orders rescue efforts after Shanxi coal mine blast kills 8, traps 38 Reuters 4 dead, 90 trapped in coal mine accident in northern China: State media ABC News - Breaking News, Latest News and Videos Developing | 82 killed in China’s worst coal mine accident for more than a decade South China Morning Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：煤炭、矿、中国、爆炸、救援。RSS 中文摘要显示：中国煤矿爆炸造成 80 多人死亡，习近平呼吁全力救援 《纽约时报》官方媒体报道，中国煤矿爆炸至少造成 82 人死亡，BBC 中国国家主席习近平在山西煤矿爆炸造成 8 人死亡、38 人被困后下令开展救援工作 路透社：中国北方煤矿事故造成 4 人死亡、90 人被困《南华早报》：中国十多年来最严重的煤矿事故已造成82人死亡 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: trump, iran, deal, exclusive, and signing. The available excerpt says: Exclusive: What's inside the Iran deal Trump is close to signing Axios Live updates: Trump says peace agreement ‘largely negotiated’ with Iran CNN Iranian Officials Say Proposed Peace Deal Would End Fighting and Open Strait The New York Times Trump says Iran ceasefire deal in final stages, to be ‘announced shortly’ The Washington Post LIVE: Trump says new Iran deal ‘largely negotiated’ with talks ‘very soon’ Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：特朗普、伊朗、交易、独家的、签名。RSS 中文摘要显示：独家：伊朗协议的内容 特朗普即将签署 Axios Live 更新：特朗普表示和平协议已与伊朗“基本谈判” CNN 伊朗官员表示，拟议的和平协议将结束战斗并开放海峡 《纽约时报》 特朗普表示，伊朗停火协议已进入最后阶段，将“很快宣布” 华盛顿邮报直播：特朗普表示，新的伊朗协议“基本已谈判”，会谈“很快” 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -57,88 +110,36 @@
       }
     },
     {
-      "rank": 2,
-      "title": "Tulsi Gabbard resigns as director of national intelligence - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLWFORVI3ZXdFMUo1VDVNSHpNV05YYjE3Q2NnUDBxaTZuV2Uta3BRUU5TWm8wYThsUnY5WkZmdUFCZ2hkQlNPbTlkNFo5U252NDY1MWRUN2RMaEREMkNpX2dwUkpSWXJFYzhvNnJZRkJwdlB6QWJnaHo4ME5TZGNBcW90R2xVa1QzaGt5czlNMlk3aU5yUnR1emx5MER5bGt2S2FkRmd3RVdBVmdCQk1rVGxNNA?oc=5",
-      "published_at": "2026-05-23T04:17:51+00:00",
-      "description": "Tulsi Gabbard resigns as director of national intelligence The Washington Post Tulsi Gabbard is resigning as director of national intelligence CNN Opinion | Tulsi Gabbard self-humiliation wasn’t enough for Trump MS NOW White House forced top spy Gabbard to resign, source says Reuters Ex-CIA Officer Tapped to Replace Gabbard Blasted ‘Toxic’ DEI Culture Bloomberg.com",
-      "description_zh": "图尔西·加巴德 (Tulsi Gabbard) 辞去国家情报总监职务 华盛顿邮报 图尔西·加巴德 (Tulsi Gabbard) 辞去国家情报总监职务消息人士称，图尔西·加巴德的自我羞辱还不足以让特朗普辞职 消息人士称，白宫迫使高级间谍加巴德辞职",
-      "keywords": [
-        "gabbard",
-        "tulsi",
-        "intelligence",
-        "director",
-        "national",
-        "washington",
-        "resigns",
-        "self-humiliation",
-        "resigning",
-        "opinion"
-      ],
-      "keywords_zh": [
-        "加巴德",
-        "图尔西",
-        "智力",
-        "导演",
-        "国家的",
-        "华盛顿",
-        "辞职",
-        "自辱",
-        "观点"
-      ],
-      "category": {
-        "en": "Politics and governance",
-        "zh": "政治与治理"
-      },
-      "interpretation": {
-        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
-        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: gabbard, tulsi, intelligence, director, and national. The available excerpt says: Tulsi Gabbard resigns as director of national intelligence The Washington Post Tulsi Gabbard is resigning as director of national intelligence CNN Opinion | Tulsi Gabbard self-humiliation wasn’t enough for Trump MS NOW White House forced top spy Gabbard to resign, source says Reuters Ex-CIA Officer Tapped to Replace Gabbard Blasted ‘Toxic’ DEI Culture Bloomberg.com Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：加巴德、图尔西、智力、导演、国家的。RSS 中文摘要显示：图尔西·加巴德 (Tulsi Gabbard) 辞去国家情报总监职务 华盛顿邮报 图尔西·加巴德 (Tulsi Gabbard) 辞去国家情报总监职务消息人士称，图尔西·加巴德的自我羞辱还不足以让特朗普辞职 消息人士称，白宫迫使高级间谍加巴德辞职 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
-        "what_to_watch_en": [
-          "polling or vote margins",
-          "party reactions",
-          "policy promises after the result"
-        ],
-        "what_to_watch_zh": [
-          "民调或票差",
-          "党派反应",
-          "结果后的政策承诺"
-        ]
-      }
-    },
-    {
       "rank": 3,
-      "title": "Flotilla video: Ben-Gvir’s template of televised abuse was honed on Palestinians - The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVjhrYkdDVzB1cVJXUXU3dXRyRHZYeWdvZUZMYTROX0dDbEJfZ0xxT0E3RlBXZ2VJenVTYmV1YmtyZUhRRE8tNHdOa09pY1RPS1htRjllckZxM2drTVBqSVZWZERyYUNIT1BIT3hqMXhGWkdTZDhjNjI0U0tLeTB2UGtiRGRKUDJiY2pJUnNIZmd6NThJeVJqZ1BOcVFLT05TVHIyd3pWMGNIejY5dXRuTjVyTQ?oc=5",
-      "published_at": "2026-05-23T01:30:00+00:00",
-      "description": "Flotilla video: Ben-Gvir’s template of televised abuse was honed on Palestinians The Guardian Freed Gaza flotilla activists accuse Israeli forces of sexual violence and abuse while in custody CNN Israel’s Human Wrecking Ball The Atlantic This is the face of Israel Al Jazeera Israel Minister Taunts Pro-Palestinian Flotilla Activists in Video The New York Times",
-      "description_zh": "船队视频：本-格维尔的电视虐待模板是针对巴勒斯坦人的",
+      "title": "China lowers death toll in Shanxi coal mine disaster to 82 - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV21fTHNhTDh1R3NjY0Rjc0lOV21Va2JpZE5zZkZtTXkyZmdIYldDT2NNVmllX2pBSnBIMGY5dlpLZ2lsV3NJTWR6SjJETXhZRFhLXy12c3Y2b0NXZDRCQXEtS3MxMG5vODY4LXFuR0NDMElHSkNCMGdiVEZ6bkZfem83emhaSnRISzJ3a2hQalFFeWlfM0ZrNnJ4WndMTTZQM1E?oc=5",
+      "published_at": "2026-05-24T03:54:00+00:00",
+      "description": "China lowers death toll in Shanxi coal mine disaster to 82 Reuters China’s worst coal mining blast in over a decade kills 82 CNN Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China The New York Times 82 dead, 9 trapped in coal mine accident in northern China: State media ABC News - Breaking News, Latest News and Videos China Coal Mine Blast Tests Limits of Xi’s Energy Security Push Bloomberg",
+      "description_zh": "中国将山西煤矿事故死亡人数降至82人 路透社 中国十多年来最严重的煤矿爆炸造成82人死亡 CNN 习近平在中国煤矿爆炸造成至少82人死亡后呼吁全力救援 《纽约时报》 中国北方煤矿事故造成82人死亡、9人被困：官方媒体 美国广播公司新闻 - 突发新闻、最新新闻和视频 中国煤矿爆炸考验习近平能源安全的极限 Push Bloomberg",
       "keywords": [
-        "flotilla",
-        "video",
-        "abuse",
-        "palestinians",
-        "televised",
-        "ben-gvir",
-        "template",
-        "honed",
-        "israel",
-        "activists"
+        "china",
+        "coal",
+        "mine",
+        "disaster",
+        "lowers",
+        "shanxi",
+        "death",
+        "toll",
+        "blast",
+        "kills"
       ],
       "keywords_zh": [
-        "船队",
-        "视频",
-        "虐待",
-        "巴勒斯坦人",
-        "电视转播的",
-        "本格维尔",
-        "模板",
-        "磨练的",
-        "以色列",
-        "积极分子"
+        "中国",
+        "煤炭",
+        "矿",
+        "灾难",
+        "降低",
+        "山西",
+        "死亡",
+        "收费",
+        "爆炸",
+        "造成死亡"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -147,8 +148,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: flotilla, video, abuse, palestinians, and televised. The available excerpt says: Flotilla video: Ben-Gvir’s template of televised abuse was honed on Palestinians The Guardian Freed Gaza flotilla activists accuse Israeli forces of sexual violence and abuse while in custody CNN Israel’s Human Wrecking Ball The Atlantic This is the face of Israel Al Jazeera Israel Minister Taunts Pro-Palestinian Flotilla Activists in Video The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：船队、视频、虐待、巴勒斯坦人、电视转播的。RSS 中文摘要显示：船队视频：本-格维尔的电视虐待模板是针对巴勒斯坦人的 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: china, coal, mine, disaster, and lowers. The available excerpt says: China lowers death toll in Shanxi coal mine disaster to 82 Reuters China’s worst coal mining blast in over a decade kills 82 CNN Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China The New York Times 82 dead, 9 trapped in coal mine accident in northern China: State media ABC News - Breaking News, Latest News and Videos China Coal Mine Blast Tests Limits of Xi’s Energy Security Push Bloomberg Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：中国、煤炭、矿、灾难、降低。RSS 中文摘要显示：中国将山西煤矿事故死亡人数降至82人 路透社 中国十多年来最严重的煤矿爆炸造成82人死亡 CNN 习近平在中国煤矿爆炸造成至少82人死亡后呼吁全力救援 《纽约时报》 中国北方煤矿事故造成82人死亡、9人被困：官方媒体 美国广播公司新闻 - 突发新闻、最新新闻和视频 中国煤矿爆炸考验习近平能源安全的极限 Push Bloomberg 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -163,88 +164,87 @@
     },
     {
       "rank": 4,
-      "title": "Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaVFJQk9rMEFZZ1VOQngzOXIxdEtwRzByc2hicFJ6MTFiVE1sUHJaczA0aGNMQUxqSkJEQWpvNkJiMmVRSklZWEtsT3EzU2p0M1VhM3dzemRqVGtRVi1IbWlfTFhMcDRuQmVfS3dMNXFZbHRWNkFtUnlwU3hqUmxQVktR?oc=5",
-      "published_at": "2026-05-23T01:14:30+00:00",
-      "description": "Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says The New York Times Trump administration to force foreigners in the U.S. to apply for a green card abroad NPR US green card applicants will now have to return to home countries to apply, DHS says The Guardian Non-immigrant visa holders must return to home countries to apply for green cards, Trump administration says NBC News USCIS policy shift may force some green card applicants to apply abroad cbs8.com",
-      "description_zh": "特朗普政府称绿卡申请者必须离开美国才能申请 《纽约时报》 特朗普政府强迫在美外国人在国外申请绿卡 NPR 美国绿卡申请人现在必须返回本国申请，《卫报》称 国土安全部称 非移民签证持有者必须返回本国申请绿卡，特朗普政府称 NBC 新闻 美国公民及移民服务局政策转变可能迫使一些绿卡申请人在国外申请 cbs8.com",
+      "title": "California Gov. Newsom declares state of emergency for Orange County chemical leak as DA launches probe into its cause - CBS News",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUZURDEzLUp2dUR0TEFmY0RkdXFyU3lWa0FXZEVPaWRJZVpSU0JZRFVMNVoxT1htRGpnR0RBdmFOQlExYkVhYzBCU3loUGdya2h0dGw1WUZpUTB3c2gwOEJmM3F0dlFwYmZBc2hlRERpclpnREZRMGIxdEZoVUxPbXppQW5IbE9NV21mYUxNa2xuQXRHTE03MkRYNklYZ3RLSl9MR3pxc0NVMUFFVkc0?oc=5",
+      "published_at": "2026-05-24T04:22:56+00:00",
+      "description": "California Gov. Newsom declares state of emergency for Orange County chemical leak as DA launches probe into its cause CBS News Live updates: Orange County toxic tank on path to spill or explode; experts searching for solutions ABC7 Los Angeles Map shows Garden Grove chemical emergency and evacuation near GKN Aerospace plant Orange County Register California governor declares state of emergency over looming chemical disaster The Guardian Map shows potential blast zones should chemical tank explode in Garden Grove KTLA",
+      "description_zh": "加州州长纽瑟姆宣布奥兰治县化学品泄漏进入紧急状态，地方检察官开始调查其原因 CBS 新闻直播更新：奥兰治县有毒储罐即将泄漏或爆炸；寻找解决方案的专家 ABC7 洛杉矶地图显示 GKN 航空航天工厂附近加登格罗夫化学品紧急情况和疏散 奥兰治县登记册 加州州长宣布迫在眉睫的化学灾难进入紧急状态 卫报地图显示了加登格罗夫化学品罐爆炸时可能发生的爆炸区域 KTLA",
       "keywords": [
-        "green",
-        "apply",
-        "card",
-        "administration",
-        "trump",
-        "must",
-        "seekers",
-        "leave",
-        "applicants",
-        "countries"
+        "chemical",
+        "emergency",
+        "orange",
+        "county",
+        "california",
+        "declares",
+        "state",
+        "launches",
+        "newsom",
+        "probe"
       ],
       "keywords_zh": [
-        "绿色的",
-        "申请",
-        "卡片",
-        "行政",
-        "特朗普",
-        "必须",
-        "探索者",
-        "离开",
-        "申请人",
-        "国家"
+        "化学",
+        "紧急情况",
+        "橙子",
+        "县",
+        "加利福尼亚州",
+        "宣称",
+        "状态",
+        "发射",
+        "消息",
+        "探测"
       ],
       "category": {
-        "en": "Politics and governance",
-        "zh": "政治与治理"
+        "en": "Global affairs",
+        "zh": "全球事务"
       },
       "interpretation": {
-        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
-        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: green, apply, card, administration, and trump. The available excerpt says: Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says The New York Times Trump administration to force foreigners in the U.S. to apply for a green card abroad NPR US green card applicants will now have to return to home countries to apply, DHS says The Guardian Non-immigrant visa holders must return to home countries to apply for green cards, Trump administration says NBC News USCIS policy shift may force some green card applicants to apply abroad cbs8.com Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：绿色的、申请、卡片、行政、特朗普。RSS 中文摘要显示：特朗普政府称绿卡申请者必须离开美国才能申请 《纽约时报》 特朗普政府强迫在美外国人在国外申请绿卡 NPR 美国绿卡申请人现在必须返回本国申请，《卫报》称 国土安全部称 非移民签证持有者必须返回本国申请绿卡，特朗普政府称 NBC 新闻 美国公民及移民服务局政策转变可能迫使一些绿卡申请人在国外申请 cbs8.com 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "summary_en": "This story is drawing attention because it may signal a broader public concern or changing global trend.",
+        "summary_zh": "这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。",
+        "detailed_en": "Key signals: chemical, emergency, orange, county, and california. The available excerpt says: California Gov. Newsom declares state of emergency for Orange County chemical leak as DA launches probe into its cause CBS News Live updates: Orange County toxic tank on path to spill or explode; experts searching for solutions ABC7 Los Angeles Map shows Garden Grove chemical emergency and evacuation near GKN Aerospace plant Orange County Register California governor declares state of emergency over looming chemical disaster The Guardian Map shows potential blast zones should chemical tank explode in Garden Grove KTLA Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.",
+        "detailed_zh": "关键词信号：化学、紧急情况、橙子、县、加利福尼亚州。RSS 中文摘要显示：加州州长纽瑟姆宣布奥兰治县化学品泄漏进入紧急状态，地方检察官开始调查其原因 CBS 新闻直播更新：奥兰治县有毒储罐即将泄漏或爆炸；寻找解决方案的专家 ABC7 洛杉矶地图显示 GKN 航空航天工厂附近加登格罗夫化学品紧急情况和疏散 奥兰治县登记册 加州州长宣布迫在眉睫的化学灾难进入紧急状态 卫报地图显示了加登格罗夫化学品罐爆炸时可能发生的爆炸区域 KTLA 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。",
         "what_to_watch_en": [
-          "polling or vote margins",
-          "party reactions",
-          "policy promises after the result"
+          "follow-up reporting",
+          "official statements",
+          "regional or market reaction"
         ],
         "what_to_watch_zh": [
-          "民调或票差",
-          "党派反应",
-          "结果后的政策承诺"
+          "后续报道",
+          "官方声明",
+          "地区或市场反应"
         ]
       }
     },
     {
       "rank": 5,
-      "title": "US or Iran: Who will win the Hormuz endurance game? - DW.com",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPM3lEMm8taEFUa2ZFNkdfYUYxQTZhcDZXV0RPRUhFYkt1ZzFHOXJPUDlSVHN5anRJZWJxVjYxNHF0RVc3SHZlM0x5Q0pyY0puM1pMWEExT1FMcjM1NTF1YmJ6T3VMYU1SNi1jZHhUdGN6bVQzTDQxbUp5NzBEbi1kV0lFS1pnMVBkOVHSAYoBQVVfeXFMT3I1RFlxU21hZklVN2ppOVRmdzFOaFFXM1BjeG5pN3lqRTh6VzJ3c1c1aWFOTEJaUzN6a2Y2TGptZ2xVVmRJcjgwY2UyRHJXTEU4Y29HNWJmQUVCX1VSRXkyOGZBaFkzdkVQTEJFS3B0bzk2UVV4Vk03bDNjblQ2U0JjRmxPMFZydUlR?oc=5",
-      "published_at": "2026-05-22T22:08:59+00:00",
-      "description": "US or Iran: Who will win the Hormuz endurance game? DW.com Three months in, is Trump losing the Iran war? Reuters The Key Sticking Points for a US-Iran Peace Deal Bloomberg.com Donald Trump’s risky military options to break Iran deadlock Financial Times Opinion | Don’t Leave the Iran War Half-Won WSJ",
-      "description_zh": "美国或伊朗：谁将赢得霍尔木兹耐力赛？ DW.com 三个月后，特朗普会输掉伊朗战争吗？路透社：美伊和平协议的关键症结 Bloomberg.com 唐纳德·特朗普为打破伊朗僵局而采取的冒险军事选择伊朗战争不要半途而废 华尔街日报",
+      "title": "Russia strikes Kyiv with massive missile and drone attack, killing 1 - NBC News",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWJDN0p1UzYtb3pkeWY3LVhpSHR2eDBvZzFyUWRBZjFWYndxdXF3MlYyc1F0RUZvSmwzaW4wMUhDcVRxaTRVV0p3V0p6VjdselVBMkY1UzBKSklYTUQ3QnlPajZRSkhILW9RYkF6OUl0MGwxek9OXzlXa3cyaTBjWEZNRzNjbEQzVjB1TV83T2taZVQxY2tnWEI4Umc1MHZJbEFWcw?oc=5",
+      "published_at": "2026-05-24T00:46:00+00:00",
+      "description": "Russia strikes Kyiv with massive missile and drone attack, killing 1 NBC News ‘Massive’ Russian missile barrage hits Kyiv after Putin orders retaliation for deadly Ukrainian attack CNN Russia-Ukraine war: One dead, multiple injured after wave of strikes on Kyiv BBC Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv The Guardian Russia strikes Kyiv with massive missile and drone attack, killing one Reuters",
+      "description_zh": "俄罗斯用大规模导弹和无人机袭击基辅，造成 1 人死亡 NBC 新闻 普京下令对乌克兰致命袭击进行报复后，俄罗斯“大规模”导弹袭击基辅 CNN 俄乌战争：基辅一波袭击造成一人死亡、多人受伤 BBC 乌克兰战争简报：泽连斯基在俄罗斯袭击基辅时对奥列什尼克导弹发出警告 《卫报》 俄罗斯用大规模导弹和无人机袭击基辅，造成一人死亡 路透社",
       "keywords": [
-        "iran",
-        "com",
-        "endurance",
-        "hormuz",
-        "game",
-        "win",
-        "trump",
-        "war",
-        "financial",
-        "sticking"
+        "kyiv",
+        "strikes",
+        "massive",
+        "missile",
+        "russia",
+        "attack",
+        "killing",
+        "drone",
+        "nbc",
+        "war"
       ],
       "keywords_zh": [
-        "伊朗",
-        "com",
-        "耐力",
-        "霍尔木兹",
-        "游戏",
-        "赢",
-        "特朗普",
-        "战争",
-        "金融的",
-        "粘着"
+        "基辅",
+        "袭击",
+        "大量的",
+        "导弹",
+        "俄罗斯",
+        "造成死亡",
+        "无人机",
+        "全国广播公司",
+        "战争"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -253,8 +253,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: iran, com, endurance, hormuz, and game. The available excerpt says: US or Iran: Who will win the Hormuz endurance game? DW.com Three months in, is Trump losing the Iran war? Reuters The Key Sticking Points for a US-Iran Peace Deal Bloomberg.com Donald Trump’s risky military options to break Iran deadlock Financial Times Opinion | Don’t Leave the Iran War Half-Won WSJ Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：伊朗、com、耐力、霍尔木兹、游戏。RSS 中文摘要显示：美国或伊朗：谁将赢得霍尔木兹耐力赛？ DW.com 三个月后，特朗普会输掉伊朗战争吗？路透社：美伊和平协议的关键症结 Bloomberg.com 唐纳德·特朗普为打破伊朗僵局而采取的冒险军事选择伊朗战争不要半途而废 华尔街日报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: kyiv, strikes, massive, missile, and russia. The available excerpt says: Russia strikes Kyiv with massive missile and drone attack, killing 1 NBC News ‘Massive’ Russian missile barrage hits Kyiv after Putin orders retaliation for deadly Ukrainian attack CNN Russia-Ukraine war: One dead, multiple injured after wave of strikes on Kyiv BBC Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv The Guardian Russia strikes Kyiv with massive missile and drone attack, killing one Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：基辅、袭击、大量的、导弹、俄罗斯。RSS 中文摘要显示：俄罗斯用大规模导弹和无人机袭击基辅，造成 1 人死亡 NBC 新闻 普京下令对乌克兰致命袭击进行报复后，俄罗斯“大规模”导弹袭击基辅 CNN 俄乌战争：基辅一波袭击造成一人死亡、多人受伤 BBC 乌克兰战争简报：泽连斯基在俄罗斯袭击基辅时对奥列什尼克导弹发出警告 《卫报》 俄罗斯用大规模导弹和无人机袭击基辅，造成一人死亡 路透社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -269,88 +269,35 @@
     },
     {
       "rank": 6,
-      "title": "Federal judge dismisses criminal charges against Kilmar Abrego Garcia - NPR",
-      "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3ZnWWRLaWl6WVE3NGdhcWt0bVZYZDJhWkwycVRySFpZb0lyZzJ3ZVJvUklkOU9SLWNJYjN5ZGZ1ZWFicXVCWS1qeUhuOVp5bV9zZmdUTmlVS1Z3cHU2N1ptZjFQVi1CSXNYYXNJcDlNMVpIeF83UE9RVjkxeTRtZUJaYlBoSTdIcmYyMXl4amdkRHNHc0o3Q19TdnJMLVRKVlpRazlpaVlaNWdkUGQxRjloLWc?oc=5",
-      "published_at": "2026-05-22T21:13:29+00:00",
-      "description": "Federal judge dismisses criminal charges against Kilmar Abrego Garcia NPR Judge Dismisses Criminal Case Against Kilmar Armando Abrego Garcia The New York Times US judge dismisses criminal indictment against Kilmar Ábrego García The Guardian Judge dismisses charges against Kilmar Abrego Garcia, saying Todd Blanche spurred a ‘tainted investigation’ CNN Federal judge dismisses human smuggling case against Kilmar Abrego Garcia ABC News - Breaking News, Latest News and Videos",
-      "description_zh": "联邦法官驳回对基尔马·阿布雷戈·加西亚 (Kilmar Abrego Garcia) 的刑事指控 NPR 法官驳回对基尔马·阿曼多·阿布雷戈·加西亚 (Kilmar Armando Abrego Garcia) 的刑事诉讼 《纽约时报》 美国法官驳回对基尔马·阿布雷戈·加西亚 (Kilmar Abrego Garcia) 的刑事起诉 《卫报》法官驳回对基尔马·阿布雷戈·加西亚 (Kilmar Abrego Garcia) 的刑事起诉，称托德·布兰奇 (Todd Blanche) 煽动了一项“有污点的调查” CNN 联邦法官驳回了针对基尔马·阿布雷戈·加西亚 (Kilmar Abrego Garcia) 的人口走私案 ABC 新闻 - 突发新闻，最新消息新闻和视频",
+      "title": "Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbDF1bGxDaEU1TWsxWld5b090NmZSbms2Z3pxNXVTZHhtTktNV3drenY5QjBtTWFwNlQ3Z0F5Z1NPY1Q5WGQ3REk3ZHNIUDZudFc5YnpDV0JxOTZ0RC1BZE55WUtubEljZnlXSFI3Ty1TMXotdzJtaDZJb1JfdVZCdDY5SkVjYVhudEdaeldKZ3I0dDdwZUVSZmhWemQyOFF6U0RKbDBxZGlpc1JhVzEzVm5hdm43aUJEQlRzcGIxVXo3UlhoY214cFllU2Rnc180R1cyLXJR?oc=5",
+      "published_at": "2026-05-24T01:07:00+00:00",
+      "description": "Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv The Guardian ‘Massive’ Russian missile barrage hits Kyiv after Putin orders retaliation for deadly Ukrainian attack CNN Russia Pummels Kyiv in Major Missile and Drone Attack The New York Times Russia strikes Kyiv with massive missile and drone attack, killing one Reuters Russia pounds Kyiv with missiles and drones, shaking city center and killing 1 KSAT",
+      "description_zh": "乌克兰战争简报：俄罗斯袭击基辅时，泽伦斯基对奥列什尼克导弹发出警告 卫报 普京下令对乌克兰致命袭击进行报复后，俄罗斯“大规模”导弹袭击基辅 CNN 俄罗斯在重大导弹和无人机袭击中打击基辅 纽约时报 俄罗斯以大规模导弹和无人机袭击基辅，造成一名人员死亡 路透社 俄罗斯用导弹和无人机袭击基辅，震动市中心并造成 1 名 KSAT 人员死亡",
       "keywords": [
-        "dismisses",
-        "kilmar",
-        "judge",
-        "abrego",
-        "garcia",
-        "criminal",
-        "federal",
-        "charges",
-        "case",
-        "investigation"
+        "kyiv",
+        "russia",
+        "missiles",
+        "strikes",
+        "zelenskyy",
+        "briefing",
+        "oreshnik",
+        "ukraine",
+        "warning",
+        "sounds"
       ],
       "keywords_zh": [
-        "驳回",
-        "基尔马",
-        "法官",
-        "外套",
-        "加西亚",
-        "刑事",
-        "联邦",
-        "收费",
-        "案件",
-        "调查"
-      ],
-      "category": {
-        "en": "Economy and markets",
-        "zh": "经济与市场"
-      },
-      "interpretation": {
-        "summary_en": "This story is tied to business conditions, financial expectations, or the cost of goods and capital.",
-        "summary_zh": "这条新闻与商业环境、金融预期或商品与资金成本相关。",
-        "detailed_en": "Key signals: dismisses, kilmar, judge, abrego, and garcia. The available excerpt says: Federal judge dismisses criminal charges against Kilmar Abrego Garcia NPR Judge Dismisses Criminal Case Against Kilmar Armando Abrego Garcia The New York Times US judge dismisses criminal indictment against Kilmar Ábrego García The Guardian Judge dismisses charges against Kilmar Abrego Garcia, saying Todd Blanche spurred a ‘tainted investigation’ CNN Federal judge dismisses human smuggling case against Kilmar Abrego Garcia ABC News - Breaking News, Latest News and Videos Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.",
-        "detailed_zh": "关键词信号：驳回、基尔马、法官、外套、加西亚。RSS 中文摘要显示：联邦法官驳回对基尔马·阿布雷戈·加西亚 (Kilmar Abrego Garcia) 的刑事指控 NPR 法官驳回对基尔马·阿曼多·阿布雷戈·加西亚 (Kilmar Armando Abrego Garcia) 的刑事诉讼 《纽约时报》 美国法官驳回对基尔马·阿布雷戈·加西亚 (Kilmar Abrego Garcia) 的刑事起诉 《卫报》法官驳回对基尔马·阿布雷戈·加西亚 (Kilmar Abrego Garcia) 的刑事起诉，称托德·布兰奇 (Todd Blanche) 煽动了一项“有污点的调查” CNN 联邦法官驳回了针对基尔马·阿布雷戈·加西亚 (Kilmar Abrego Garcia) 的人口走私案 ABC 新闻 - 突发新闻，最新消息新闻和视频 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。",
-        "what_to_watch_en": [
-          "price movements",
-          "company and government guidance",
-          "second-round supply-chain effects"
-        ],
-        "what_to_watch_zh": [
-          "价格变化",
-          "企业与政府指引",
-          "供应链二次影响"
-        ]
-      }
-    },
-    {
-      "rank": 7,
-      "title": "Trump says he will not attend son Donald Trump Jr.'s wedding - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPakxXejJ4VWFsVUl4YWlMTmZvQzZNYVNLLVVuNVlxUnZaczFnT1oxcUdHNXIxemdORDRhdkVTbnkyNkNvYXNlbm9tekVWNFNzLVh5OGJ2TC1VSUNvaDB2b29aNnBhRC14cTZteXpkM2VQM0RhZGtsM05qaVZ0Yll6MHpTdGJWSnNGV2w5Nm40X096T0ZYU1ZPeFUyVmVuYUpwVEJ6SVV3?oc=5",
-      "published_at": "2026-05-22T20:17:02+00:00",
-      "description": "Trump says he will not attend son Donald Trump Jr.'s wedding Reuters Donald Trump Jr.’s wedding celebration will be on a small island in the Bahamas — without his father present, sources say CNN Donald Trump Jr. and Bettina Anderson Wed in West Palm Beach The New York Times Trump to skip his son’s wedding due to ‘circumstances pertaining to government’ Politico Trump cancels trip to son's wedding, returns to Washington amid key moment on Iran negotiations The Jerusalem Post",
-      "description_zh": "特朗普表示，他不会参加儿子小唐纳德·特朗普的婚礼 路透社 小唐纳德·特朗普的婚礼庆祝活动将在巴哈马的一个小岛上举行，消息人士称，小唐纳德·特朗普和贝蒂娜·安德森在西棕榈滩结婚，而他的父亲不在场。 《纽约时报》 特朗普因“与政府有关的情况”而缺席儿子的婚礼 政治报 特朗普取消了儿子的婚礼，在伊朗谈判的关键时刻返回华盛顿 耶路撒冷邮报",
-      "keywords": [
-        "trump",
-        "wedding",
-        "donald",
-        "son",
-        "attend",
-        "his",
-        "circumstances",
-        "negotiations",
-        "celebration",
-        "pertaining"
-      ],
-      "keywords_zh": [
-        "特朗普",
-        "婚礼",
-        "唐纳德",
-        "儿子",
-        "出席",
-        "他的",
-        "情况",
-        "谈判",
-        "庆典",
-        "有关的"
+        "基辅",
+        "俄罗斯",
+        "导弹",
+        "袭击",
+        "泽连斯基",
+        "简报",
+        "奥列什尼克",
+        "乌克兰",
+        "警告",
+        "声音"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -359,8 +306,61 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: trump, wedding, donald, son, and attend. The available excerpt says: Trump says he will not attend son Donald Trump Jr.'s wedding Reuters Donald Trump Jr.’s wedding celebration will be on a small island in the Bahamas — without his father present, sources say CNN Donald Trump Jr. and Bettina Anderson Wed in West Palm Beach The New York Times Trump to skip his son’s wedding due to ‘circumstances pertaining to government’ Politico Trump cancels trip to son's wedding, returns to Washington amid key moment on Iran negotiations The Jerusalem Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：特朗普、婚礼、唐纳德、儿子、出席。RSS 中文摘要显示：特朗普表示，他不会参加儿子小唐纳德·特朗普的婚礼 路透社 小唐纳德·特朗普的婚礼庆祝活动将在巴哈马的一个小岛上举行，消息人士称，小唐纳德·特朗普和贝蒂娜·安德森在西棕榈滩结婚，而他的父亲不在场。 《纽约时报》 特朗普因“与政府有关的情况”而缺席儿子的婚礼 政治报 特朗普取消了儿子的婚礼，在伊朗谈判的关键时刻返回华盛顿 耶路撒冷邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: kyiv, russia, missiles, strikes, and zelenskyy. The available excerpt says: Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv The Guardian ‘Massive’ Russian missile barrage hits Kyiv after Putin orders retaliation for deadly Ukrainian attack CNN Russia Pummels Kyiv in Major Missile and Drone Attack The New York Times Russia strikes Kyiv with massive missile and drone attack, killing one Reuters Russia pounds Kyiv with missiles and drones, shaking city center and killing 1 KSAT Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：基辅、俄罗斯、导弹、袭击、泽连斯基。RSS 中文摘要显示：乌克兰战争简报：俄罗斯袭击基辅时，泽伦斯基对奥列什尼克导弹发出警告 卫报 普京下令对乌克兰致命袭击进行报复后，俄罗斯“大规模”导弹袭击基辅 CNN 俄罗斯在重大导弹和无人机袭击中打击基辅 纽约时报 俄罗斯以大规模导弹和无人机袭击基辅，造成一名人员死亡 路透社 俄罗斯用导弹和无人机袭击基辅，震动市中心并造成 1 名 KSAT 人员死亡 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "what_to_watch_en": [
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
+        ],
+        "what_to_watch_zh": [
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "title": "A Lull in Fighting Gave Time to Bury Their Dead - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pbU1uZGd5ZkJWQ0RvVlluVk85NVlfVThNdjdmSkE2YU5XNm9RajdkQXplY0plWF81bWtETHR2YXNvQ0xrc2wzNHFZLW04QnZocl9rYzFxUzRLY2lrTlVNd3ZJSXZsNjZYWW9FODg3UVJ6TWZVUzA3VEdnQWQ?oc=5",
+      "published_at": "2026-05-23T22:05:36+00:00",
+      "description": "A Lull in Fighting Gave Time to Bury Their Dead The New York Times Lebanon's civil defense agency says Nabatieh facility destroyed in IDF strike; all personnel had evacuated The Times of Israel Israeli attacks in Lebanon kill at least 20 despite supposed ceasefire Al Jazeera Israeli bombardment reduces buildings to craters in southern Lebanon The Guardian Israeli airstrikes on southern Lebanon kill 10, including paramedics and a child, officials say AP News",
+      "description_zh": "战斗的平静给了埋葬死者的时间 《纽约时报》 黎巴嫩民防机构称纳巴蒂耶设施在以色列国防军的袭击中被摧毁；所有人员均已撤离 《以色列时报》 以色列在黎巴嫩的袭击造成至少 20 人死亡，尽管据称停火 半岛电视台 以色列的轰炸将黎巴嫩南部的建筑物夷为弹坑 《卫报》 官员称，以色列对黎巴嫩南部的空袭造成 10 人死亡，其中包括护理人员和一名儿童",
+      "keywords": [
+        "fighting",
+        "lull",
+        "gave",
+        "time",
+        "bury",
+        "dead",
+        "israeli",
+        "lebanon",
+        "southern",
+        "kill"
+      ],
+      "keywords_zh": [
+        "斗争",
+        "麻痹",
+        "给了",
+        "时间",
+        "埋葬",
+        "死亡",
+        "以色列",
+        "黎巴嫩",
+        "南部",
+        "杀"
+      ],
+      "category": {
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
+      },
+      "interpretation": {
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: fighting, lull, gave, time, and bury. The available excerpt says: A Lull in Fighting Gave Time to Bury Their Dead The New York Times Lebanon's civil defense agency says Nabatieh facility destroyed in IDF strike; all personnel had evacuated The Times of Israel Israeli attacks in Lebanon kill at least 20 despite supposed ceasefire Al Jazeera Israeli bombardment reduces buildings to craters in southern Lebanon The Guardian Israeli airstrikes on southern Lebanon kill 10, including paramedics and a child, officials say AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：斗争、麻痹、给了、时间、埋葬。RSS 中文摘要显示：战斗的平静给了埋葬死者的时间 《纽约时报》 黎巴嫩民防机构称纳巴蒂耶设施在以色列国防军的袭击中被摧毁；所有人员均已撤离 《以色列时报》 以色列在黎巴嫩的袭击造成至少 20 人死亡，尽管据称停火 半岛电视台 以色列的轰炸将黎巴嫩南部的建筑物夷为弹坑 《卫报》 官员称，以色列对黎巴嫩南部的空袭造成 10 人死亡，其中包括护理人员和一名儿童 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -375,35 +375,35 @@
     },
     {
       "rank": 8,
-      "title": "Despite ‘chaotic communication’ Polish aide says Trump is committed to troops in Europe - politico.eu",
-      "source": "politico.eu",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1BoV1U2SWRvdkREMzJkSWhqTThWcGRfQklPMUdCWmpBa0owVmgxWE85LVJqWlk4ZkNjTGUwMmtsOGFpWEo4S0Z1U0dpdXE2ak1FcXpjeDA1MEJVdzdpOTM5azlJV2xKc3BLRFloQ1B1Qk5NUGdfSDlMV0cxZXh2cEhKSG1LNW1mNGNYN3F3WE9aMktGZlpfWm5pTHVuQUp1R1FPV2pqeHd1VnowYUE?oc=5",
-      "published_at": "2026-05-22T16:31:00+00:00",
-      "description": "Despite ‘chaotic communication’ Polish aide says Trump is committed to troops in Europe politico.eu Trump says he’s sending 5,000 troops to Poland, deepening confusion over US military deployments to Europe CNN Cable: US-Polish troop fracas due partly to bad US messaging Politico NATO allies grapple with U.S. pullback, confusion over its military plans The Washington Post Trump Commits Troops to Poland After Asking Hegseth About Canceled Deployment WSJ",
-      "description_zh": "尽管“沟通混乱”，波兰助手仍表示特朗普致力于在欧洲驻军 politico.eu 特朗普表示，他将向波兰派遣 5,000 名士兵，这加深了人们对美国在欧洲的军事部署的困惑 CNN 电报：美国与波兰军队的争吵，部分原因是美国发出的不良信息 政治 北约盟友努力应对美国撤军，对其军事计划感到困惑 《华盛顿邮报》 特朗普在询问赫格斯关于取消部署的情况后，向波兰派遣军队华尔街日报",
+      "title": "Britain Preparing for Mission That Could Clear Strait of Hormuz - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHlvelJfTS1RU19JMTEwRjg0UXM3UGVSOW5ndUhBMGFlVjNWN0ZSOVFEY1Z2VHZIQUt6WmFCQnBHYmdPSVFsWDZaWk5VLTJzbVJOTy12eGdQZU55V2xpWDJ6ZWNHOWxnZnFCNGxhN2tkempscE9tLXBjTmpDRjR1dDhBT01SZWEy?oc=5",
+      "published_at": "2026-05-24T05:43:00+00:00",
+      "description": "Britain Preparing for Mission That Could Clear Strait of Hormuz The New York Times From destroyers to drones, how a Europe-led coalition aims to open the Strait of Hormuz Breaking Defense Britain’s navy prepares to clear mines in the Strait of Hormuz while waiting for a peace deal AP News Sweden ‘open’ to NATO role in reopening Strait of Hormuz politico.eu Amid Iran war, Germany reaches out to Gulf states DW.com",
+      "description_zh": "英国正在准备清除霍尔木兹海峡的任务 纽约时报 从驱逐舰到无人机，欧洲领导的联盟如何打开霍尔木兹海峡 突破防御 英国海军准备在等待和平协议的同时清除霍尔木兹海峡的水雷 美联社新闻 瑞典“开放”北约在重新开放霍尔木兹海峡中的作用 politico.eu 在伊朗战争期间，德国向海湾国家伸出援手 DW.com",
       "keywords": [
-        "troops",
-        "trump",
-        "politico",
-        "europe",
-        "communication",
-        "committed",
-        "despite",
-        "chaotic",
-        "polish",
-        "aide"
+        "strait",
+        "hormuz",
+        "britain",
+        "clear",
+        "preparing",
+        "mission",
+        "open",
+        "destroyers",
+        "europe-led",
+        "coalition"
       ],
       "keywords_zh": [
-        "军队",
-        "特朗普",
-        "政治报",
-        "欧洲",
-        "沟通",
-        "坚定的",
-        "尽管",
-        "混乱的",
-        "抛光",
-        "助手"
+        "海峡",
+        "霍尔木兹",
+        "英国",
+        "清除",
+        "准备",
+        "使命",
+        "打开",
+        "驱逐舰",
+        "欧洲主导",
+        "联盟"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -412,8 +412,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: troops, trump, politico, europe, and communication. The available excerpt says: Despite ‘chaotic communication’ Polish aide says Trump is committed to troops in Europe politico.eu Trump says he’s sending 5,000 troops to Poland, deepening confusion over US military deployments to Europe CNN Cable: US-Polish troop fracas due partly to bad US messaging Politico NATO allies grapple with U.S. pullback, confusion over its military plans The Washington Post Trump Commits Troops to Poland After Asking Hegseth About Canceled Deployment WSJ Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：军队、特朗普、政治报、欧洲、沟通。RSS 中文摘要显示：尽管“沟通混乱”，波兰助手仍表示特朗普致力于在欧洲驻军 politico.eu 特朗普表示，他将向波兰派遣 5,000 名士兵，这加深了人们对美国在欧洲的军事部署的困惑 CNN 电报：美国与波兰军队的争吵，部分原因是美国发出的不良信息 政治 北约盟友努力应对美国撤军，对其军事计划感到困惑 《华盛顿邮报》 特朗普在询问赫格斯关于取消部署的情况后，向波兰派遣军队华尔街日报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: strait, hormuz, britain, clear, and preparing. The available excerpt says: Britain Preparing for Mission That Could Clear Strait of Hormuz The New York Times From destroyers to drones, how a Europe-led coalition aims to open the Strait of Hormuz Breaking Defense Britain’s navy prepares to clear mines in the Strait of Hormuz while waiting for a peace deal AP News Sweden ‘open’ to NATO role in reopening Strait of Hormuz politico.eu Amid Iran war, Germany reaches out to Gulf states DW.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：海峡、霍尔木兹、英国、清除、准备。RSS 中文摘要显示：英国正在准备清除霍尔木兹海峡的任务 纽约时报 从驱逐舰到无人机，欧洲领导的联盟如何打开霍尔木兹海峡 突破防御 英国海军准备在等待和平协议的同时清除霍尔木兹海峡的水雷 美联社新闻 瑞典“开放”北约在重新开放霍尔木兹海峡中的作用 politico.eu 在伊朗战争期间，德国向海湾国家伸出援手 DW.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -428,34 +428,34 @@
     },
     {
       "rank": 9,
-      "title": "Staten Island fire: 1 dead, dozens injured after explosion in shipyard - ABC7 New York",
-      "source": "ABC7 New York",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbTNFbmN0QUlpRWVfbXlaUENoTmxOcE84TDNOcVZqSTUtak5HdGJKdVNLbUw2STVLdENCcDF4SFZ0RjlveXUzY250bzRjd0RiUE1XeVZvZ2FrQ1dxV2lIWU1LdmRuRDNJenVGZDhaN2dEYURjOHBudW93MXY5djdQb2paTGhGbGxzSl9jUTBzdzhKM3QtRnFOZkxLQdIBoAFBVV95cUxOZG12M1NtZ2duaHZiSFJzZnBybHhJY0pVU21VVlFWemlQellGRHFvMjRrZUozZjRWYnluTW1hTTlENzd2RVl3LUUta1RvLThtNjIzYmNIZ19DNkJkRk51ckZVdmMtdDVpazZDaEFMejVIVWM3clRTQ3lYRkQ2c2QtTWpEeEJ2cDRYSWxDMjdsd3lpRmp3N3UyclJCQkNjNjdE?oc=5",
-      "published_at": "2026-05-23T05:02:53+00:00",
-      "description": "Staten Island fire: 1 dead, dozens injured after explosion in shipyard ABC7 New York Deadly Explosions Injure Dozens of Firefighters on Staten Island Barge The New York Times 1 killed, dozens hurt in Staten Island dry dock explosion and fire NBC New York 1 person died, 36 injured after blast at Staten Island shipyard, officials say Spectrum News NY1 1 killed, 36 injured in explosion on Staten Island, FDNY reports FOX 5 New York",
-      "description_zh": "史坦顿岛火灾：造船厂爆炸造成 1 人死亡、数十人受伤 ABC7 纽约致命爆炸造成史坦顿岛驳船数十名消防员受伤 《纽约时报》 史坦顿岛干船坞爆炸和火灾造成 1 人死亡、数十人受伤 NBC 纽约 官方称史坦顿岛造船厂爆炸后 1 人死亡、36 人受伤 官员称 Spectrum News NY1 史坦顿岛爆炸造成 1 人死亡、36 人受伤",
+      "title": "Investigators Look Into Staten Island Blasts That Killed Shipyard Worker - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnFTd0NnMjAtbXBPNFlISUNUSmZDSTZ4SWh6aG1Rd09wRkkzSnVtXzFESVhiV1JXQ0pDSnlHbkFIM1NUWWkxNGJPS1U3OTloeXRzNnFkUzkzZ3JLdDNzeHFKUTNGc05mSWY1Q2hnLURXS0ZxLVVmRGd3VmhTdzEyNEZaY1ZncVROY2ttWTB1dmg?oc=5",
+      "published_at": "2026-05-23T21:28:06+00:00",
+      "description": "Investigators Look Into Staten Island Blasts That Killed Shipyard Worker The New York Times Deadly Explosions Injure Dozens of Firefighters on Staten Island Barge The New York Times 1 killed, 36 injured in explosion on Staten Island, FDNY reports FOX 5 New York Staten Island fire: 1 dead, dozens injured after explosion in shipyard ABC7 New York One dead and dozens of firefighters injured in Staten Island shipyard explosion BBC",
+      "description_zh": "调查人员正在调查造成造船厂工人死亡的史泰登岛爆炸事件 《纽约时报》致命爆炸导致史泰登岛驳船数十名消防员受伤 《纽约时报》 史泰登岛爆炸造成 1 人死亡、36 人受伤，纽约消防局报道 福克斯 5 号纽约史坦顿岛火灾：造船厂爆炸导致 1 人死亡、数十人受伤 ABC7 纽约 史坦顿岛造船厂爆炸造成 1 人死亡、数十名消防员受伤 BBC",
       "keywords": [
         "staten",
         "island",
-        "explosion",
-        "injured",
-        "dozens",
         "shipyard",
-        "fire",
-        "dead",
-        "abc7",
-        "killed"
+        "killed",
+        "investigators",
+        "blasts",
+        "worker",
+        "look",
+        "explosion",
+        "injured"
       ],
       "keywords_zh": [
         "斯塔滕",
         "岛",
-        "爆炸",
-        "受伤",
-        "几十个",
         "船厂",
-        "火",
         "死亡",
-        "ABC7"
+        "调查员",
+        "爆炸",
+        "工人",
+        "看",
+        "受伤"
       ],
       "category": {
         "en": "Climate, environment, and safety",
@@ -464,8 +464,8 @@
       "interpretation": {
         "summary_en": "This story concerns environmental risk, infrastructure safety, or public emergency response.",
         "summary_zh": "这条新闻关系到环境风险、基础设施安全或公共应急响应。",
-        "detailed_en": "Key signals: staten, island, explosion, injured, and dozens. The available excerpt says: Staten Island fire: 1 dead, dozens injured after explosion in shipyard ABC7 New York Deadly Explosions Injure Dozens of Firefighters on Staten Island Barge The New York Times 1 killed, dozens hurt in Staten Island dry dock explosion and fire NBC New York 1 person died, 36 injured after blast at Staten Island shipyard, officials say Spectrum News NY1 1 killed, 36 injured in explosion on Staten Island, FDNY reports FOX 5 New York Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.",
-        "detailed_zh": "关键词信号：斯塔滕、岛、爆炸、受伤、几十个。RSS 中文摘要显示：史坦顿岛火灾：造船厂爆炸造成 1 人死亡、数十人受伤 ABC7 纽约致命爆炸造成史坦顿岛驳船数十名消防员受伤 《纽约时报》 史坦顿岛干船坞爆炸和火灾造成 1 人死亡、数十人受伤 NBC 纽约 官方称史坦顿岛造船厂爆炸后 1 人死亡、36 人受伤 官员称 Spectrum News NY1 史坦顿岛爆炸造成 1 人死亡、36 人受伤 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。",
+        "detailed_en": "Key signals: staten, island, shipyard, killed, and investigators. The available excerpt says: Investigators Look Into Staten Island Blasts That Killed Shipyard Worker The New York Times Deadly Explosions Injure Dozens of Firefighters on Staten Island Barge The New York Times 1 killed, 36 injured in explosion on Staten Island, FDNY reports FOX 5 New York Staten Island fire: 1 dead, dozens injured after explosion in shipyard ABC7 New York One dead and dozens of firefighters injured in Staten Island shipyard explosion BBC Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.",
+        "detailed_zh": "关键词信号：斯塔滕、岛、船厂、死亡、调查员。RSS 中文摘要显示：调查人员正在调查造成造船厂工人死亡的史泰登岛爆炸事件 《纽约时报》致命爆炸导致史泰登岛驳船数十名消防员受伤 《纽约时报》 史泰登岛爆炸造成 1 人死亡、36 人受伤，纽约消防局报道 福克斯 5 号纽约史坦顿岛火灾：造船厂爆炸导致 1 人死亡、数十人受伤 ABC7 纽约 史坦顿岛造船厂爆炸造成 1 人死亡、数十名消防员受伤 BBC 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。",
         "what_to_watch_en": [
           "damage assessment",
           "public safety advisories",
@@ -480,54 +480,54 @@
     },
     {
       "rank": 10,
-      "title": "Ebola outbreak now third largest recorded and \"spreading rapidly\" - Ars Technica",
-      "source": "Ars Technica",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU2IwMkpTclVuQmI2cXhwQUtHU1RDOFBLU0w3d1QtejhjTE40QzE1VTI3LWx6RHVSNkZiRC1BN2JWeEg2S09PWkdpZDNMNDZfMENRMHVCcFRzVkVRV24wMFRWbzNFT204SGx1aUs3dlJFU3BncGtFMktxYXVYSVVfbHRYN2RaRElaRGQyZ1RzVlloTThCa3ZGLTRHZ2N3bWlHd0tPYVdR?oc=5",
-      "published_at": "2026-05-22T22:24:03+00:00",
-      "description": "Ebola outbreak now third largest recorded and \"spreading rapidly\" Ars Technica Ebola Outbreak Is Now Third Largest in History. Here’s What to Know. WSJ US funding cuts have hampered response to the deadly Ebola crisis, aid workers say CNN Opinion | Ebola Is a Terrible Disease. I Saw It Firsthand. The New York Times Congo curtails funeral wakes in Ebola outbreak as WHO upgrades risk assessment AP News",
-      "description_zh": "埃博拉疫情现已成为有记录以来的第三大疫情，并且“迅速蔓延” Ars Technica 埃博拉疫情现已成为历史上第三大疫情。以下是您需要了解的内容。援助人员表示，《华尔街日报》美国资金削减阻碍了对致命埃博拉危机的应对埃博拉是一种可怕的疾病。我亲眼所见。 《纽约时报》 世界卫生组织升级风险评估 刚果减少了埃博拉疫情的葬礼 美联社新闻",
+      "title": "Russian ballistic missile attack hits Kyiv after Moscow vows retaliation - France 24",
+      "source": "France 24",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdTBEWUxjQVpLbk1KRDdMZXRmWVJ3c0h1b3kzOWhsZm1DXzlRd2lYSVZMNTJKUzBSTGJYV3pQenpfU1dmOFVGWEZoa3R4dDFGbkc5MnNSbEVkbzZIV3ZQdGVWb1dSb1ExOEdpckdIQkpFWkNTMkZhVG96d0w2THBoSjRCOXRIZ2wyY1JfUDJpVUZ2a0xrX0VLUXJ3RU1YcDhIeGdXbzlRT1VxWGxHeFRuVW9WcFN2aEU?oc=5",
+      "published_at": "2026-05-24T02:15:44+00:00",
+      "description": "Russian ballistic missile attack hits Kyiv after Moscow vows retaliation France 24 See more headlines & perspectives on Google News",
+      "description_zh": "莫斯科誓言报复后，俄罗斯弹道导弹袭击基辅 法国 24 在 Google 新闻上查看更多头条新闻和观点",
       "keywords": [
-        "ebola",
-        "outbreak",
-        "largest",
-        "third",
-        "spreading",
-        "recorded",
-        "technica",
-        "rapidly",
-        "ars",
-        "assessment"
+        "retaliation",
+        "ballistic",
+        "russian",
+        "missile",
+        "attack",
+        "moscow",
+        "france",
+        "hits",
+        "kyiv",
+        "vows"
       ],
       "keywords_zh": [
-        "埃博拉病毒",
-        "暴发",
-        "最大的",
-        "第三",
-        "传播",
-        "记录的",
-        "技术",
-        "迅速地",
-        "阿尔斯",
-        "评估"
+        "报复",
+        "弹道的",
+        "俄罗斯",
+        "导弹",
+        "袭击",
+        "莫斯科",
+        "法国",
+        "点击数",
+        "基辅",
+        "誓言"
       ],
       "category": {
-        "en": "Technology",
-        "zh": "科技"
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
       },
       "interpretation": {
-        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
-        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: ebola, outbreak, largest, third, and spreading. The available excerpt says: Ebola outbreak now third largest recorded and \"spreading rapidly\" Ars Technica Ebola Outbreak Is Now Third Largest in History. Here’s What to Know. WSJ US funding cuts have hampered response to the deadly Ebola crisis, aid workers say CNN Opinion | Ebola Is a Terrible Disease. I Saw It Firsthand. The New York Times Congo curtails funeral wakes in Ebola outbreak as WHO upgrades risk assessment AP News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：埃博拉病毒、暴发、最大的、第三、传播。RSS 中文摘要显示：埃博拉疫情现已成为有记录以来的第三大疫情，并且“迅速蔓延” Ars Technica 埃博拉疫情现已成为历史上第三大疫情。以下是您需要了解的内容。援助人员表示，《华尔街日报》美国资金削减阻碍了对致命埃博拉危机的应对埃博拉是一种可怕的疾病。我亲眼所见。 《纽约时报》 世界卫生组织升级风险评估 刚果减少了埃博拉疫情的葬礼 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: retaliation, ballistic, russian, missile, and attack. The available excerpt says: Russian ballistic missile attack hits Kyiv after Moscow vows retaliation France 24 See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：报复、弹道的、俄罗斯、导弹、袭击。RSS 中文摘要显示：莫斯科誓言报复后，俄罗斯弹道导弹袭击基辅 法国 24 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
-          "regulatory reaction",
-          "enterprise adoption",
-          "security or privacy consequences"
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
         ],
         "what_to_watch_zh": [
-          "监管反应",
-          "企业采用情况",
-          "安全或隐私后果"
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
         ]
       }
     }
