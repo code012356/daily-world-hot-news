@@ -10,155 +10,155 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-05-24T06:55:45+00:00` UTC.
+Generated at `2026-05-25T08:15:38+00:00` UTC.
 
-### 1. [White House shooting marks another incident in a string of political violence - NBC News](https://news.google.com/rss/articles/CBMixAFBVV95cUxQX05RWHR0VHF4eEJ6MWlEaW5pSzQ2Y1ZLNnJYcjVPanVyeFMwYWpLVmp2Q2JxQTV0LXVkZFhCOEhpSU81SnlVVzdsRjlySHg0eW0ySEg3eU5KX3pCS2U0eDNvelNZZXRYS1BJS09HZmtFcXFkaEZES1NQVVVQVFhvRkM4bnFkNGJMNDJDNGVSZXRueXdIMkMtSTVYSFJqdmtkS05nelRhWnVLOENHUDlsWlVTTW9TS1NRN3N1T2RFdEhyOTY4?oc=5)
+### 1. [The U.S. and Iran work toward deal to extend ceasefire and reopen Hormuz - The Washington Post](https://news.google.com/rss/articles/CBMingFBVV95cUxPY2puSU5FbjhpX2RUWEZZaG9wV1ZKdkp4Z09sUzIzYVlTam1Ud1I2dmdSaXBBSVVDWkxLaHpBTG1VY0NBdEUza1NqdTZSb054dHZrRm5zdkN5N21GdDRNeThWMUJwNlh0LXZrREVwand5eGdxbEU5VXRmNTVMVE9KQ0d2ajFMeUktTWh1d2I1S0pyWGlrU3dmZjFVZlJGQQ?oc=5)
 
-- Source / 来源: NBC News. Published: `2026-05-24T05:09:00+00:00`.
-- Keywords / 关键词: white, house, shooting, political, incident, violence, another, string, marks, nbc
-- 中文关键词: 白色的、房子、射击、政治的、事件、暴力、其他、细绳、标记、全国广播公司
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: White House shooting marks another incident in a string of political violence NBC News Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service The New York Times Secret Service says officers fatally shot a person who fired at them near White House CNN Suspect dead after opening fire near White House security checkpoint, Secret Service says Daily Local What we know about Nasire Best, Maryland man accused of White House shooting, sources say FOX 5 DC
-- RSS 中文摘要: 白宫枪击事件标志着一系列政治暴力事件中的又一起事件 NBC新闻 白宫附近枪击案枪手与特勤局交火身亡 《纽约时报》特勤局表示，警察在白宫附近开枪打死了一名向他们开枪的人 CNN 特勤局称，嫌疑人在白宫安全检查站附近开枪后死亡
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: white, house, shooting, political, and incident. The available excerpt says: White House shooting marks another incident in a string of political violence NBC News Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service The New York Times Secret Service says officers fatally shot a person who fired at them near White House CNN Suspect dead after opening fire near White House security checkpoint, Secret Service says Daily Local What we know about Nasire Best, Maryland man accused of White House shooting, sources say FOX 5 DC Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：白色的、房子、射击、政治的、事件。RSS 中文摘要显示：白宫枪击事件标志着一系列政治暴力事件中的又一起事件 NBC新闻 白宫附近枪击案枪手与特勤局交火身亡 《纽约时报》特勤局表示，警察在白宫附近开枪打死了一名向他们开枪的人 CNN 特勤局称，嫌疑人在白宫安全检查站附近开枪后死亡 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 2. [Exclusive: What's inside the Iran deal Trump is close to signing - Axios](https://news.google.com/rss/articles/CBMif0FVX3lxTE1KaXpnNk8yODVTQ2FWMWY0VnZDUFoyQWktY19NTElzdWk1dU1KdEtBRlBIMFFvMlZPNnBsNVFla0ZlaFR6OG96RFpXU3RJMTNNaUctcHdLdVVfNTdJYVNDTXZxRkZLUGxucEFnSm5Lb2VtSnd3VnZwWTFULUxIWkU?oc=5)
-
-- Source / 来源: Axios. Published: `2026-05-24T03:48:39+00:00`.
-- Keywords / 关键词: trump, iran, deal, exclusive, signing, what's, inside, close, axios, negotiated
-- 中文关键词: 特朗普、伊朗、交易、独家的、签名、什么是、里面、关闭、轴、协商的
+- Source / 来源: The Washington Post. Published: `2026-05-25T05:29:33+00:00`.
+- Keywords / 关键词: iran, deal, washington, ceasefire, toward, extend, reopen, hormuz, work, know
+- 中文关键词: 伊朗、交易、华盛顿、停火、朝向、延长、重新开放、霍尔木兹、工作、知道
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Exclusive: What's inside the Iran deal Trump is close to signing Axios Live updates: Trump says peace agreement ‘largely negotiated’ with Iran CNN Iranian Officials Say Proposed Peace Deal Would End Fighting and Open Strait The New York Times Trump says Iran ceasefire deal in final stages, to be ‘announced shortly’ The Washington Post LIVE: Trump says new Iran deal ‘largely negotiated’ with talks ‘very soon’ Al Jazeera
-- RSS 中文摘要: 独家：伊朗协议的内容 特朗普即将签署 Axios Live 更新：特朗普表示和平协议已与伊朗“基本谈判” CNN 伊朗官员表示，拟议的和平协议将结束战斗并开放海峡 《纽约时报》 特朗普表示，伊朗停火协议已进入最后阶段，将“很快宣布” 华盛顿邮报直播：特朗普表示，新的伊朗协议“基本已谈判”，会谈“很快”
+- RSS Excerpt / RSS 摘要: The U.S. and Iran work toward deal to extend ceasefire and reopen Hormuz The Washington Post What’s in the proposed deal that could end the US-Iran conflict? CNN What we know and don’t know about the emerging deal to end the Iran war AP News LIVE: Iran says agreement with US ‘not imminent’ despite progress Al Jazeera Iran will only discuss nuclear program when sanctions lifted, senior diplomat says The Times of Israel
+- RSS 中文摘要: 美国和伊朗努力达成延长停火并重新开放霍尔木兹海峡的协议 华盛顿邮报 拟议的协议中有哪些内容可以结束美伊冲突？ CNN 关于结束伊朗战争的新兴协议我们所知道和不知道的 美联社新闻直播：伊朗表示，尽管取得了进展，但与美国“不会很快”达成协议 高级外交官表示，伊朗只会在制裁解除后讨论核计划 以色列时报
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, iran, deal, exclusive, and signing. The available excerpt says: Exclusive: What's inside the Iran deal Trump is close to signing Axios Live updates: Trump says peace agreement ‘largely negotiated’ with Iran CNN Iranian Officials Say Proposed Peace Deal Would End Fighting and Open Strait The New York Times Trump says Iran ceasefire deal in final stages, to be ‘announced shortly’ The Washington Post LIVE: Trump says new Iran deal ‘largely negotiated’ with talks ‘very soon’ Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、伊朗、交易、独家的、签名。RSS 中文摘要显示：独家：伊朗协议的内容 特朗普即将签署 Axios Live 更新：特朗普表示和平协议已与伊朗“基本谈判” CNN 伊朗官员表示，拟议的和平协议将结束战斗并开放海峡 《纽约时报》 特朗普表示，伊朗停火协议已进入最后阶段，将“很快宣布” 华盛顿邮报直播：特朗普表示，新的伊朗协议“基本已谈判”，会谈“很快” 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, deal, washington, ceasefire, and toward. The available excerpt says: The U.S. and Iran work toward deal to extend ceasefire and reopen Hormuz The Washington Post What’s in the proposed deal that could end the US-Iran conflict? CNN What we know and don’t know about the emerging deal to end the Iran war AP News LIVE: Iran says agreement with US ‘not imminent’ despite progress Al Jazeera Iran will only discuss nuclear program when sanctions lifted, senior diplomat says The Times of Israel Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、交易、华盛顿、停火、朝向。RSS 中文摘要显示：美国和伊朗努力达成延长停火并重新开放霍尔木兹海峡的协议 华盛顿邮报 拟议的协议中有哪些内容可以结束美伊冲突？ CNN 关于结束伊朗战争的新兴协议我们所知道和不知道的 美联社新闻直播：伊朗表示，尽管取得了进展，但与美国“不会很快”达成协议 高级外交官表示，伊朗只会在制裁解除后讨论核计划 以色列时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 3. [China lowers death toll in Shanxi coal mine disaster to 82 - Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxPV21fTHNhTDh1R3NjY0Rjc0lOV21Va2JpZE5zZkZtTXkyZmdIYldDT2NNVmllX2pBSnBIMGY5dlpLZ2lsV3NJTWR6SjJETXhZRFhLXy12c3Y2b0NXZDRCQXEtS3MxMG5vODY4LXFuR0NDMElHSkNCMGdiVEZ6bkZfem83emhaSnRISzJ3a2hQalFFeWlfM0ZrNnJ4WndMTTZQM1E?oc=5)
+### 2. [Trump tells US negotiators 'not to rush' into deal with Iran - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSVo5eG94MnNzS2dRRGo1Y0dsNzBkV0JLNWh3QWw4ZFR2anZIQ3Y4bVh4WTNPd21tcTBmSjR3RGgtQ0kzZ2xaalRQcnlYbng2dk90UUYyaVNDZw?oc=5)
 
-- Source / 来源: Reuters. Published: `2026-05-24T03:54:00+00:00`.
-- Keywords / 关键词: china, coal, mine, disaster, lowers, shanxi, death, toll, blast, kills
-- 中文关键词: 中国、煤炭、矿、灾难、降低、山西、死亡、收费、爆炸、造成死亡
+- Source / 来源: BBC. Published: `2026-05-25T04:16:33+00:00`.
+- Keywords / 关键词: deal, iran, trump, negotiators, tells, rush, inconsistent, potential, proposed, conflict
+- 中文关键词: 交易、伊朗、特朗普、谈判者、告诉、匆忙、不一致的、潜在的、建议的、冲突
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: China lowers death toll in Shanxi coal mine disaster to 82 Reuters China’s worst coal mining blast in over a decade kills 82 CNN Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China The New York Times 82 dead, 9 trapped in coal mine accident in northern China: State media ABC News - Breaking News, Latest News and Videos China Coal Mine Blast Tests Limits of Xi’s Energy Security Push Bloomberg
-- RSS 中文摘要: 中国将山西煤矿事故死亡人数降至82人 路透社 中国十多年来最严重的煤矿爆炸造成82人死亡 CNN 习近平在中国煤矿爆炸造成至少82人死亡后呼吁全力救援 《纽约时报》 中国北方煤矿事故造成82人死亡、9人被困：官方媒体 美国广播公司新闻 - 突发新闻、最新新闻和视频 中国煤矿爆炸考验习近平能源安全的极限 Push Bloomberg
+- RSS Excerpt / RSS 摘要: Trump tells US negotiators 'not to rush' into deal with Iran BBC What’s in the proposed deal that could end the US-Iran conflict? CNN Iran war day 87: Trump says US not in rush to sign deal, dashing optimism Al Jazeera What to Know About the Potential U.S.-Iran Peace Deal The New York Times Iran: Trump remarks on Strait of Hormuz ‘inconsistent with reality’ The Hill
+- RSS 中文摘要: 特朗普告诉美国谈判代表“不要急于”与伊朗达成协议 BBC 拟议的协议中有哪些内容可以结束美伊冲突？ CNN 伊朗战争日第 87 日：特朗普称美国并不急于签署协议，乐观情绪破灭
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: china, coal, mine, disaster, and lowers. The available excerpt says: China lowers death toll in Shanxi coal mine disaster to 82 Reuters China’s worst coal mining blast in over a decade kills 82 CNN Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China The New York Times 82 dead, 9 trapped in coal mine accident in northern China: State media ABC News - Breaking News, Latest News and Videos China Coal Mine Blast Tests Limits of Xi’s Energy Security Push Bloomberg Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：中国、煤炭、矿、灾难、降低。RSS 中文摘要显示：中国将山西煤矿事故死亡人数降至82人 路透社 中国十多年来最严重的煤矿爆炸造成82人死亡 CNN 习近平在中国煤矿爆炸造成至少82人死亡后呼吁全力救援 《纽约时报》 中国北方煤矿事故造成82人死亡、9人被困：官方媒体 美国广播公司新闻 - 突发新闻、最新新闻和视频 中国煤矿爆炸考验习近平能源安全的极限 Push Bloomberg 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: deal, iran, trump, negotiators, and tells. The available excerpt says: Trump tells US negotiators 'not to rush' into deal with Iran BBC What’s in the proposed deal that could end the US-Iran conflict? CNN Iran war day 87: Trump says US not in rush to sign deal, dashing optimism Al Jazeera What to Know About the Potential U.S.-Iran Peace Deal The New York Times Iran: Trump remarks on Strait of Hormuz ‘inconsistent with reality’ The Hill Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：交易、伊朗、特朗普、谈判者、告诉。RSS 中文摘要显示：特朗普告诉美国谈判代表“不要急于”与伊朗达成协议 BBC 拟议的协议中有哪些内容可以结束美伊冲突？ CNN 伊朗战争日第 87 日：特朗普称美国并不急于签署协议，乐观情绪破灭 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 4. [California Gov. Newsom declares state of emergency for Orange County chemical leak as DA launches probe into its cause - CBS News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQZUZURDEzLUp2dUR0TEFmY0RkdXFyU3lWa0FXZEVPaWRJZVpSU0JZRFVMNVoxT1htRGpnR0RBdmFOQlExYkVhYzBCU3loUGdya2h0dGw1WUZpUTB3c2gwOEJmM3F0dlFwYmZBc2hlRERpclpnREZRMGIxdEZoVUxPbXppQW5IbE9NV21mYUxNa2xuQXRHTE03MkRYNklYZ3RLSl9MR3pxc0NVMUFFVkc0?oc=5)
+### 3. [Governor Newsom submits request to President Trump for emergency declaration to support response efforts in Orange County - California State Portal | CA.gov](https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcDV5VnYxMjhYaWJ3cFFvMl9iaXAwV0FUWFFsRVRkZ293LU1ERkdrVTAwQkVOaVlZclBvbmxkbGxnODhNWG1PV2VncUVSdEVBbUVldlRlbFhOb21wb3FialZDVExoMjNSZ2NNTTRaYkNraVRXVDdYaFE2XzlsUDlFSS13dTJUdkVYbFo2eEw2aGVVMXBtRnlhZ0lkZjVSMUlaQl9Qcm5YU0x0ZktZN05EaVJiOU9LeG9PRHZFSFllRmtJeWpzb1Q3REVRdHAxVHJWd1NVM3o2T3NNbk5nOVZWNmtyRFQ4M3RlWGd1RQ?oc=5)
 
-- Source / 来源: CBS News. Published: `2026-05-24T04:22:56+00:00`.
-- Keywords / 关键词: chemical, emergency, orange, county, california, declares, state, launches, newsom, probe
-- 中文关键词: 化学、紧急情况、橙子、县、加利福尼亚州、宣称、状态、发射、消息、探测
-- Category / 分类: Global affairs / 全球事务
-- RSS Excerpt / RSS 摘要: California Gov. Newsom declares state of emergency for Orange County chemical leak as DA launches probe into its cause CBS News Live updates: Orange County toxic tank on path to spill or explode; experts searching for solutions ABC7 Los Angeles Map shows Garden Grove chemical emergency and evacuation near GKN Aerospace plant Orange County Register California governor declares state of emergency over looming chemical disaster The Guardian Map shows potential blast zones should chemical tank explode in Garden Grove KTLA
-- RSS 中文摘要: 加州州长纽瑟姆宣布奥兰治县化学品泄漏进入紧急状态，地方检察官开始调查其原因 CBS 新闻直播更新：奥兰治县有毒储罐即将泄漏或爆炸；寻找解决方案的专家 ABC7 洛杉矶地图显示 GKN 航空航天工厂附近加登格罗夫化学品紧急情况和疏散 奥兰治县登记册 加州州长宣布迫在眉睫的化学灾难进入紧急状态 卫报地图显示了加登格罗夫化学品罐爆炸时可能发生的爆炸区域 KTLA
-- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
-- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
-- EN Detailed Reading: Key signals: chemical, emergency, orange, county, and california. The available excerpt says: California Gov. Newsom declares state of emergency for Orange County chemical leak as DA launches probe into its cause CBS News Live updates: Orange County toxic tank on path to spill or explode; experts searching for solutions ABC7 Los Angeles Map shows Garden Grove chemical emergency and evacuation near GKN Aerospace plant Orange County Register California governor declares state of emergency over looming chemical disaster The Guardian Map shows potential blast zones should chemical tank explode in Garden Grove KTLA Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文详细解读: 关键词信号：化学、紧急情况、橙子、县、加利福尼亚州。RSS 中文摘要显示：加州州长纽瑟姆宣布奥兰治县化学品泄漏进入紧急状态，地方检察官开始调查其原因 CBS 新闻直播更新：奥兰治县有毒储罐即将泄漏或爆炸；寻找解决方案的专家 ABC7 洛杉矶地图显示 GKN 航空航天工厂附近加登格罗夫化学品紧急情况和疏散 奥兰治县登记册 加州州长宣布迫在眉睫的化学灾难进入紧急状态 卫报地图显示了加登格罗夫化学品罐爆炸时可能发生的爆炸区域 KTLA 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
-- EN What to watch: follow-up reporting; official statements; regional or market reaction
-- 后续关注: 后续报道；官方声明；地区或市场反应
+- Source / 来源: California State Portal | CA.gov. Published: `2026-05-24T20:32:07+00:00`.
+- Keywords / 关键词: orange, county, california, declaration, president, emergency, governor, response, submits, request
+- 中文关键词: 橙子、县、加利福尼亚州、宣言、总统、紧急情况、州长、回复、提交、要求
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Governor Newsom submits request to President Trump for emergency declaration to support response efforts in Orange County California State Portal | CA.gov Correction: FEMA not offering hotel stays Orange County Register Orange County family welcomes 20 relatives to their Anaheim home during evacuation ABC7 Los Angeles Overheated chemical tank in southern California ‘will fail’, EPA chief says The Guardian San Diego volunteers help families impacted by evacuations in Orange County NBC 7 San Diego
+- RSS 中文摘要: 纽瑟姆州长向特朗普总统提交紧急声明请求，以支持奥兰治县的应对工作CA.gov 更正：联邦紧急事务管理署 (FEMA) 不提供酒店住宿 奥兰治县登记册 奥兰治县家庭在疏散期间欢迎 20 名亲戚来到阿纳海姆家中 ABC7 洛杉矶 环保局局长表示，南加州过热的化学罐“将会失效” 卫报圣地亚哥志愿者帮助奥兰治县受疏散影响的家庭 NBC7 圣地亚哥
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: orange, county, california, declaration, and president. The available excerpt says: Governor Newsom submits request to President Trump for emergency declaration to support response efforts in Orange County California State Portal | CA.gov Correction: FEMA not offering hotel stays Orange County Register Orange County family welcomes 20 relatives to their Anaheim home during evacuation ABC7 Los Angeles Overheated chemical tank in southern California ‘will fail’, EPA chief says The Guardian San Diego volunteers help families impacted by evacuations in Orange County NBC 7 San Diego Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：橙子、县、加利福尼亚州、宣言、总统。RSS 中文摘要显示：纽瑟姆州长向特朗普总统提交紧急声明请求，以支持奥兰治县的应对工作CA.gov 更正：联邦紧急事务管理署 (FEMA) 不提供酒店住宿 奥兰治县登记册 奥兰治县家庭在疏散期间欢迎 20 名亲戚来到阿纳海姆家中 ABC7 洛杉矶 环保局局长表示，南加州过热的化学罐“将会失效” 卫报圣地亚哥志愿者帮助奥兰治县受疏散影响的家庭 NBC7 圣地亚哥 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 5. [Russia strikes Kyiv with massive missile and drone attack, killing 1 - NBC News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWJDN0p1UzYtb3pkeWY3LVhpSHR2eDBvZzFyUWRBZjFWYndxdXF3MlYyc1F0RUZvSmwzaW4wMUhDcVRxaTRVV0p3V0p6VjdselVBMkY1UzBKSklYTUQ3QnlPajZRSkhILW9RYkF6OUl0MGwxek9OXzlXa3cyaTBjWEZNRzNjbEQzVjB1TV83T2taZVQxY2tnWEI4Umc1MHZJbEFWcw?oc=5)
+### 4. [Rubio says 'good news' likely on Hormuz as Iran talks go on - Yahoo Finance](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlM4UHduODI4MVY3aGQtZ2d6YUpJNHpsbzZra1VLYjNMeWMwdGpmVVVzdk1PdHdYUUJ3SFB2akh5Z2I4WG9wcUxBOFBUdmpPOTI2ZEhLczU3bkxiSjNoSnZTdEhESmJLem5GbWNWRHhmSjRUREhyVVNtMFRpd0lWY0NpTE5fYnV1dVRKYi1OWTd1eEJsT0dkWGJJc0FwWEZLVUNIYmxSSklmdw?oc=5)
 
-- Source / 来源: NBC News. Published: `2026-05-24T00:46:00+00:00`.
-- Keywords / 关键词: kyiv, strikes, massive, missile, russia, attack, killing, drone, nbc, war
-- 中文关键词: 基辅、袭击、大量的、导弹、俄罗斯、造成死亡、无人机、全国广播公司、战争
+- Source / 来源: Yahoo Finance. Published: `2026-05-24T13:58:06+00:00`.
+- Keywords / 关键词: iran, rubio, finance, likely, hormuz, news, talks, yahoo, good, agreement
+- 中文关键词: 伊朗、卢比奥、金融、可能、霍尔木兹、消息、会谈、雅虎、好的、协议
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Russia strikes Kyiv with massive missile and drone attack, killing 1 NBC News ‘Massive’ Russian missile barrage hits Kyiv after Putin orders retaliation for deadly Ukrainian attack CNN Russia-Ukraine war: One dead, multiple injured after wave of strikes on Kyiv BBC Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv The Guardian Russia strikes Kyiv with massive missile and drone attack, killing one Reuters
-- RSS 中文摘要: 俄罗斯用大规模导弹和无人机袭击基辅，造成 1 人死亡 NBC 新闻 普京下令对乌克兰致命袭击进行报复后，俄罗斯“大规模”导弹袭击基辅 CNN 俄乌战争：基辅一波袭击造成一人死亡、多人受伤 BBC 乌克兰战争简报：泽连斯基在俄罗斯袭击基辅时对奥列什尼克导弹发出警告 《卫报》 俄罗斯用大规模导弹和无人机袭击基辅，造成一人死亡 路透社
+- RSS Excerpt / RSS 摘要: Rubio says 'good news' likely on Hormuz as Iran talks go on Yahoo Finance LIVE: Iran says agreement with US ‘not imminent’ despite progress Al Jazeera Rubio says 'solid' Iran deal may come on Monday BBC Middle East crisis live: Rubio says US-Iran agreement ‘pretty solid’ as oil price falls amid optimism for deal The Guardian Middle East war live: Iran says agreement with US ‘not imminent’ despite progress France 24
+- RSS 中文摘要: 卢比奥表示，随着伊朗谈判的进行，霍尔木兹海峡问题可能会出现“好消息” 雅虎财经直播：伊朗表示，尽管取得了进展，但与美国“并非迫在眉睫”达成协议 半岛电视台卢比奥表示，伊朗协议可能会在周一达成“可靠” BBC 中东危机直播：卢比奥表示，由于协议乐观，油价下跌，美伊协议“非常可靠” 卫报中东战争直播：伊朗表示，尽管取得了进展，但与美国“并非迫在眉睫”达成协议 France 24
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: kyiv, strikes, massive, missile, and russia. The available excerpt says: Russia strikes Kyiv with massive missile and drone attack, killing 1 NBC News ‘Massive’ Russian missile barrage hits Kyiv after Putin orders retaliation for deadly Ukrainian attack CNN Russia-Ukraine war: One dead, multiple injured after wave of strikes on Kyiv BBC Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv The Guardian Russia strikes Kyiv with massive missile and drone attack, killing one Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：基辅、袭击、大量的、导弹、俄罗斯。RSS 中文摘要显示：俄罗斯用大规模导弹和无人机袭击基辅，造成 1 人死亡 NBC 新闻 普京下令对乌克兰致命袭击进行报复后，俄罗斯“大规模”导弹袭击基辅 CNN 俄乌战争：基辅一波袭击造成一人死亡、多人受伤 BBC 乌克兰战争简报：泽连斯基在俄罗斯袭击基辅时对奥列什尼克导弹发出警告 《卫报》 俄罗斯用大规模导弹和无人机袭击基辅，造成一人死亡 路透社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, rubio, finance, likely, and hormuz. The available excerpt says: Rubio says 'good news' likely on Hormuz as Iran talks go on Yahoo Finance LIVE: Iran says agreement with US ‘not imminent’ despite progress Al Jazeera Rubio says 'solid' Iran deal may come on Monday BBC Middle East crisis live: Rubio says US-Iran agreement ‘pretty solid’ as oil price falls amid optimism for deal The Guardian Middle East war live: Iran says agreement with US ‘not imminent’ despite progress France 24 Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、卢比奥、金融、可能、霍尔木兹。RSS 中文摘要显示：卢比奥表示，随着伊朗谈判的进行，霍尔木兹海峡问题可能会出现“好消息” 雅虎财经直播：伊朗表示，尽管取得了进展，但与美国“并非迫在眉睫”达成协议 半岛电视台卢比奥表示，伊朗协议可能会在周一达成“可靠” BBC 中东危机直播：卢比奥表示，由于协议乐观，油价下跌，美伊协议“非常可靠” 卫报中东战争直播：伊朗表示，尽管取得了进展，但与美国“并非迫在眉睫”达成协议 France 24 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 6. [Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv - The Guardian](https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbDF1bGxDaEU1TWsxWld5b090NmZSbms2Z3pxNXVTZHhtTktNV3drenY5QjBtTWFwNlQ3Z0F5Z1NPY1Q5WGQ3REk3ZHNIUDZudFc5YnpDV0JxOTZ0RC1BZE55WUtubEljZnlXSFI3Ty1TMXotdzJtaDZJb1JfdVZCdDY5SkVjYVhudEdaeldKZ3I0dDdwZUVSZmhWemQyOFF6U0RKbDBxZGlpc1JhVzEzVm5hdm43aUJEQlRzcGIxVXo3UlhoY214cFllU2Rnc180R1cyLXJR?oc=5)
+### 5. [China launches 3 astronauts, including 1st ever from Hong Kong, to Tiangong space station (video) - Space](https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFhsZEVCTnBkUU1uejI5dUdJNF9EeWZ5NGFQRk56bDdWRXgxT2RNUUdFYUhBRW0wcUMyd21jOXNRMXlZVGEyTXJTREpDVEhOckVQRnBQNEtwbFY5b0ExakRtNGFWZHRSVmp3RFVQbHUyMFNwTGpYQ3JPb0lxLXo2alZwMEJERnpQcnpvY1dLR052YktwemxaMWN1SFFfOVJDT2J6ZUVjSW00Z1pYQjREeXVZaXVEQQ?oc=5)
 
-- Source / 来源: The Guardian. Published: `2026-05-24T01:07:00+00:00`.
-- Keywords / 关键词: kyiv, russia, missiles, strikes, zelenskyy, briefing, oreshnik, ukraine, warning, sounds
-- 中文关键词: 基辅、俄罗斯、导弹、袭击、泽连斯基、简报、奥列什尼克、乌克兰、警告、声音
+- Source / 来源: Space. Published: `2026-05-24T17:03:21+00:00`.
+- Keywords / 关键词: space, china, launches, astronauts, including, tiangong, station, video, ever, hong
+- 中文关键词: 空间、中国、发射、宇航员、包括、天宫、车站、视频、曾经、红
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv The Guardian ‘Massive’ Russian missile barrage hits Kyiv after Putin orders retaliation for deadly Ukrainian attack CNN Russia Pummels Kyiv in Major Missile and Drone Attack The New York Times Russia strikes Kyiv with massive missile and drone attack, killing one Reuters Russia pounds Kyiv with missiles and drones, shaking city center and killing 1 KSAT
-- RSS 中文摘要: 乌克兰战争简报：俄罗斯袭击基辅时，泽伦斯基对奥列什尼克导弹发出警告 卫报 普京下令对乌克兰致命袭击进行报复后，俄罗斯“大规模”导弹袭击基辅 CNN 俄罗斯在重大导弹和无人机袭击中打击基辅 纽约时报 俄罗斯以大规模导弹和无人机袭击基辅，造成一名人员死亡 路透社 俄罗斯用导弹和无人机袭击基辅，震动市中心并造成 1 名 KSAT 人员死亡
+- RSS Excerpt / RSS 摘要: China launches 3 astronauts, including 1st ever from Hong Kong, to Tiangong space station (video) Space China sends astronaut on year-long space mission as it eyes 2030 moon landing Reuters China Launches Astronauts on Record Space Mission Ahead of Moon Goal Yahoo China launches Shenzhou 23 spacecraft carrying 3 astronauts, including 1 set to remain in space for a year CBS News China launches three-crew spaceflight as part of lunar ambitions The Guardian
+- RSS 中文摘要: 中国发射 3 名宇航员，其中包括第一位来自香港的宇航员前往天宫空间站（视频） 航天 中国发射宇航员执行为期一年的太空任务，着眼于 2030 年登月 路透社 中国在登月目标之前发射宇航员执行创纪录的太空任务 雅虎中国发射神舟 23 号飞船，载有 3 名宇航员，其中 1 名将在太空停留一年 哥伦比亚广播公司新闻 中国发射三名宇航员的太空飞行，作为登月雄心的一部分 卫报
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: kyiv, russia, missiles, strikes, and zelenskyy. The available excerpt says: Ukraine war briefing: Zelenskyy sounds warning on Oreshnik missiles as Russia strikes Kyiv The Guardian ‘Massive’ Russian missile barrage hits Kyiv after Putin orders retaliation for deadly Ukrainian attack CNN Russia Pummels Kyiv in Major Missile and Drone Attack The New York Times Russia strikes Kyiv with massive missile and drone attack, killing one Reuters Russia pounds Kyiv with missiles and drones, shaking city center and killing 1 KSAT Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：基辅、俄罗斯、导弹、袭击、泽连斯基。RSS 中文摘要显示：乌克兰战争简报：俄罗斯袭击基辅时，泽伦斯基对奥列什尼克导弹发出警告 卫报 普京下令对乌克兰致命袭击进行报复后，俄罗斯“大规模”导弹袭击基辅 CNN 俄罗斯在重大导弹和无人机袭击中打击基辅 纽约时报 俄罗斯以大规模导弹和无人机袭击基辅，造成一名人员死亡 路透社 俄罗斯用导弹和无人机袭击基辅，震动市中心并造成 1 名 KSAT 人员死亡 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: space, china, launches, astronauts, and including. The available excerpt says: China launches 3 astronauts, including 1st ever from Hong Kong, to Tiangong space station (video) Space China sends astronaut on year-long space mission as it eyes 2030 moon landing Reuters China Launches Astronauts on Record Space Mission Ahead of Moon Goal Yahoo China launches Shenzhou 23 spacecraft carrying 3 astronauts, including 1 set to remain in space for a year CBS News China launches three-crew spaceflight as part of lunar ambitions The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：空间、中国、发射、宇航员、包括。RSS 中文摘要显示：中国发射 3 名宇航员，其中包括第一位来自香港的宇航员前往天宫空间站（视频） 航天 中国发射宇航员执行为期一年的太空任务，着眼于 2030 年登月 路透社 中国在登月目标之前发射宇航员执行创纪录的太空任务 雅虎中国发射神舟 23 号飞船，载有 3 名宇航员，其中 1 名将在太空停留一年 哥伦比亚广播公司新闻 中国发射三名宇航员的太空飞行，作为登月雄心的一部分 卫报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 7. [A Lull in Fighting Gave Time to Bury Their Dead - The New York Times](https://news.google.com/rss/articles/CBMifEFVX3lxTE1pbU1uZGd5ZkJWQ0RvVlluVk85NVlfVThNdjdmSkE2YU5XNm9RajdkQXplY0plWF81bWtETHR2YXNvQ0xrc2wzNHFZLW04QnZocl9rYzFxUzRLY2lrTlVNd3ZJSXZsNjZYWW9FODg3UVJ6TWZVUzA3VEdnQWQ?oc=5)
+### 6. [Rubio Sees Good News Coming on Hormuz as Iran Talks Continue - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVlfSlpMNlByN3lTME81NzZtVktySUhYdktiT1JPbjZzMG43QjZrY0RfUUlXLVZmTDFoWjFjaWU5M284eVdfcnVrWE4xWTVwU0V0SF81RENfX2pHRmxLOUQzVE8yYmJ4Um5meXVIRzBCczVmUWRoVTVOOWtuMUpyWDZfQXY4VUo0RkhjdVVZTXl4T1ZtQzNNOGRZOTFnQ3EwVnJnXzZrSnRfaVgweE1acmF0bw?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-05-23T22:05:36+00:00`.
-- Keywords / 关键词: fighting, lull, gave, time, bury, dead, israeli, lebanon, southern, kill
-- 中文关键词: 斗争、麻痹、给了、时间、埋葬、死亡、以色列、黎巴嫩、南部、杀
+- Source / 来源: Bloomberg.com. Published: `2026-05-24T07:40:13+00:00`.
+- Keywords / 关键词: continue, coming, hormuz, rubio, talks, sees, good, iran, com, perspectives
+- 中文关键词: 继续、未来、霍尔木兹、卢比奥、会谈、看到、好的、伊朗、com、观点
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: A Lull in Fighting Gave Time to Bury Their Dead The New York Times Lebanon's civil defense agency says Nabatieh facility destroyed in IDF strike; all personnel had evacuated The Times of Israel Israeli attacks in Lebanon kill at least 20 despite supposed ceasefire Al Jazeera Israeli bombardment reduces buildings to craters in southern Lebanon The Guardian Israeli airstrikes on southern Lebanon kill 10, including paramedics and a child, officials say AP News
-- RSS 中文摘要: 战斗的平静给了埋葬死者的时间 《纽约时报》 黎巴嫩民防机构称纳巴蒂耶设施在以色列国防军的袭击中被摧毁；所有人员均已撤离 《以色列时报》 以色列在黎巴嫩的袭击造成至少 20 人死亡，尽管据称停火 半岛电视台 以色列的轰炸将黎巴嫩南部的建筑物夷为弹坑 《卫报》 官员称，以色列对黎巴嫩南部的空袭造成 10 人死亡，其中包括护理人员和一名儿童
+- RSS Excerpt / RSS 摘要: Rubio Sees Good News Coming on Hormuz as Iran Talks Continue Bloomberg.com See more headlines & perspectives on Google News
+- RSS 中文摘要: 卢比奥认为，随着伊朗谈判的继续，霍尔木兹海峡将迎来好消息 Bloomberg.com 在 Google 新闻上查看更多头条新闻和观点
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: fighting, lull, gave, time, and bury. The available excerpt says: A Lull in Fighting Gave Time to Bury Their Dead The New York Times Lebanon's civil defense agency says Nabatieh facility destroyed in IDF strike; all personnel had evacuated The Times of Israel Israeli attacks in Lebanon kill at least 20 despite supposed ceasefire Al Jazeera Israeli bombardment reduces buildings to craters in southern Lebanon The Guardian Israeli airstrikes on southern Lebanon kill 10, including paramedics and a child, officials say AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：斗争、麻痹、给了、时间、埋葬。RSS 中文摘要显示：战斗的平静给了埋葬死者的时间 《纽约时报》 黎巴嫩民防机构称纳巴蒂耶设施在以色列国防军的袭击中被摧毁；所有人员均已撤离 《以色列时报》 以色列在黎巴嫩的袭击造成至少 20 人死亡，尽管据称停火 半岛电视台 以色列的轰炸将黎巴嫩南部的建筑物夷为弹坑 《卫报》 官员称，以色列对黎巴嫩南部的空袭造成 10 人死亡，其中包括护理人员和一名儿童 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: continue, coming, hormuz, rubio, and talks. The available excerpt says: Rubio Sees Good News Coming on Hormuz as Iran Talks Continue Bloomberg.com See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：继续、未来、霍尔木兹、卢比奥、会谈。RSS 中文摘要显示：卢比奥认为，随着伊朗谈判的继续，霍尔木兹海峡将迎来好消息 Bloomberg.com 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 8. [Britain Preparing for Mission That Could Clear Strait of Hormuz - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZHlvelJfTS1RU19JMTEwRjg0UXM3UGVSOW5ndUhBMGFlVjNWN0ZSOVFEY1Z2VHZIQUt6WmFCQnBHYmdPSVFsWDZaWk5VLTJzbVJOTy12eGdQZU55V2xpWDJ6ZWNHOWxnZnFCNGxhN2tkempscE9tLXBjTmpDRjR1dDhBT01SZWEy?oc=5)
+### 7. [Bystander in serious condition after fatal shooting near White House checkpoint - AP News](https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUp0eXJVaVJfYWxnWm9DRlR2YThEaUFPZzNQWGo0Ym5yTkJDa1pGTTFvOFZpamU5M0lSdkQ2MEhtV2Nzbk5MYWw1OTFxMXg4MkQ4d1Rhdk9YRjNPLUtZYThmME54NFRBODZTN0pVOFFkX1FlRzB6Yy1tYlo4ZFVxT21sTGVVbXZzNXlJWmM1SjZXenJxVVNTN1Z6Qi1wUkJuR3dn?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-05-24T05:43:00+00:00`.
-- Keywords / 关键词: strait, hormuz, britain, clear, preparing, mission, open, destroyers, europe-led, coalition
-- 中文关键词: 海峡、霍尔木兹、英国、清除、准备、使命、打开、驱逐舰、欧洲主导、联盟
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Britain Preparing for Mission That Could Clear Strait of Hormuz The New York Times From destroyers to drones, how a Europe-led coalition aims to open the Strait of Hormuz Breaking Defense Britain’s navy prepares to clear mines in the Strait of Hormuz while waiting for a peace deal AP News Sweden ‘open’ to NATO role in reopening Strait of Hormuz politico.eu Amid Iran war, Germany reaches out to Gulf states DW.com
-- RSS 中文摘要: 英国正在准备清除霍尔木兹海峡的任务 纽约时报 从驱逐舰到无人机，欧洲领导的联盟如何打开霍尔木兹海峡 突破防御 英国海军准备在等待和平协议的同时清除霍尔木兹海峡的水雷 美联社新闻 瑞典“开放”北约在重新开放霍尔木兹海峡中的作用 politico.eu 在伊朗战争期间，德国向海湾国家伸出援手 DW.com
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: strait, hormuz, britain, clear, and preparing. The available excerpt says: Britain Preparing for Mission That Could Clear Strait of Hormuz The New York Times From destroyers to drones, how a Europe-led coalition aims to open the Strait of Hormuz Breaking Defense Britain’s navy prepares to clear mines in the Strait of Hormuz while waiting for a peace deal AP News Sweden ‘open’ to NATO role in reopening Strait of Hormuz politico.eu Amid Iran war, Germany reaches out to Gulf states DW.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：海峡、霍尔木兹、英国、清除、准备。RSS 中文摘要显示：英国正在准备清除霍尔木兹海峡的任务 纽约时报 从驱逐舰到无人机，欧洲领导的联盟如何打开霍尔木兹海峡 突破防御 英国海军准备在等待和平协议的同时清除霍尔木兹海峡的水雷 美联社新闻 瑞典“开放”北约在重新开放霍尔木兹海峡中的作用 politico.eu 在伊朗战争期间，德国向海湾国家伸出援手 DW.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 9. [Investigators Look Into Staten Island Blasts That Killed Shipyard Worker - The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnFTd0NnMjAtbXBPNFlISUNUSmZDSTZ4SWh6aG1Rd09wRkkzSnVtXzFESVhiV1JXQ0pDSnlHbkFIM1NUWWkxNGJPS1U3OTloeXRzNnFkUzkzZ3JLdDNzeHFKUTNGc05mSWY1Q2hnLURXS0ZxLVVmRGd3VmhTdzEyNEZaY1ZncVROY2ttWTB1dmg?oc=5)
-
-- Source / 来源: The New York Times. Published: `2026-05-23T21:28:06+00:00`.
-- Keywords / 关键词: staten, island, shipyard, killed, investigators, blasts, worker, look, explosion, injured
-- 中文关键词: 斯塔滕、岛、船厂、死亡、调查员、爆炸、工人、看、受伤
+- Source / 来源: AP News. Published: `2026-05-25T00:58:00+00:00`.
+- Keywords / 关键词: white, house, near, shooting, checkpoint, bystander, condition, serious, fatal, service
+- 中文关键词: 白色的、房子、靠近、射击、检查站、旁观者、状况、严肃的、致命的、服务
 - Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: Investigators Look Into Staten Island Blasts That Killed Shipyard Worker The New York Times Deadly Explosions Injure Dozens of Firefighters on Staten Island Barge The New York Times 1 killed, 36 injured in explosion on Staten Island, FDNY reports FOX 5 New York Staten Island fire: 1 dead, dozens injured after explosion in shipyard ABC7 New York One dead and dozens of firefighters injured in Staten Island shipyard explosion BBC
-- RSS 中文摘要: 调查人员正在调查造成造船厂工人死亡的史泰登岛爆炸事件 《纽约时报》致命爆炸导致史泰登岛驳船数十名消防员受伤 《纽约时报》 史泰登岛爆炸造成 1 人死亡、36 人受伤，纽约消防局报道 福克斯 5 号纽约史坦顿岛火灾：造船厂爆炸导致 1 人死亡、数十人受伤 ABC7 纽约 史坦顿岛造船厂爆炸造成 1 人死亡、数十名消防员受伤 BBC
+- RSS Excerpt / RSS 摘要: Bystander in serious condition after fatal shooting near White House checkpoint AP News Secret Service says officers fatally shot a person who fired at them near White House CNN Suspect killed after firing shots near White House security checkpoint, Secret Service says PBS White House shooting: Suspect killed after shooting at Secret Service; bystander injured FOX 5 DC Shooter killed near the White House was previously charged with trespassing The Washington Post
+- RSS 中文摘要: 白宫检查站附近发生致命枪击事件 一名旁观者伤势严重 美联社新闻 特勤局表示，警察在白宫附近开枪打死了一名向他们开枪的人 CNN 特勤局称，嫌疑人在白宫安全检查站附近开枪身亡旁观者受伤 FOX 5 DC 枪手在白宫附近被杀 此前被指控非法侵入 《华盛顿邮报》
 - EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
 - 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: staten, island, shipyard, killed, and investigators. The available excerpt says: Investigators Look Into Staten Island Blasts That Killed Shipyard Worker The New York Times Deadly Explosions Injure Dozens of Firefighters on Staten Island Barge The New York Times 1 killed, 36 injured in explosion on Staten Island, FDNY reports FOX 5 New York Staten Island fire: 1 dead, dozens injured after explosion in shipyard ABC7 New York One dead and dozens of firefighters injured in Staten Island shipyard explosion BBC Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：斯塔滕、岛、船厂、死亡、调查员。RSS 中文摘要显示：调查人员正在调查造成造船厂工人死亡的史泰登岛爆炸事件 《纽约时报》致命爆炸导致史泰登岛驳船数十名消防员受伤 《纽约时报》 史泰登岛爆炸造成 1 人死亡、36 人受伤，纽约消防局报道 福克斯 5 号纽约史坦顿岛火灾：造船厂爆炸导致 1 人死亡、数十人受伤 ABC7 纽约 史坦顿岛造船厂爆炸造成 1 人死亡、数十名消防员受伤 BBC 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
+- EN Detailed Reading: Key signals: white, house, near, shooting, and checkpoint. The available excerpt says: Bystander in serious condition after fatal shooting near White House checkpoint AP News Secret Service says officers fatally shot a person who fired at them near White House CNN Suspect killed after firing shots near White House security checkpoint, Secret Service says PBS White House shooting: Suspect killed after shooting at Secret Service; bystander injured FOX 5 DC Shooter killed near the White House was previously charged with trespassing The Washington Post Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
+- 中文详细解读: 关键词信号：白色的、房子、靠近、射击、检查站。RSS 中文摘要显示：白宫检查站附近发生致命枪击事件 一名旁观者伤势严重 美联社新闻 特勤局表示，警察在白宫附近开枪打死了一名向他们开枪的人 CNN 特勤局称，嫌疑人在白宫安全检查站附近开枪身亡旁观者受伤 FOX 5 DC 枪手在白宫附近被杀 此前被指控非法侵入 《华盛顿邮报》 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
 - EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
 - 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
 
-### 10. [Russian ballistic missile attack hits Kyiv after Moscow vows retaliation - France 24](https://news.google.com/rss/articles/CBMitwFBVV95cUxOdTBEWUxjQVpLbk1KRDdMZXRmWVJ3c0h1b3kzOWhsZm1DXzlRd2lYSVZMNTJKUzBSTGJYV3pQenpfU1dmOFVGWEZoa3R4dDFGbkc5MnNSbEVkbzZIV3ZQdGVWb1dSb1ExOEdpckdIQkpFWkNTMkZhVG96d0w2THBoSjRCOXRIZ2wyY1JfUDJpVUZ2a0xrX0VLUXJ3RU1YcDhIeGdXbzlRT1VxWGxHeFRuVW9WcFN2aEU?oc=5)
+### 8. [White House says Iran deal could take days - Axios](https://news.google.com/rss/articles/CBMie0FVX3lxTE90dmNaTmtDb0xIQkRhQkNrUEF3V3hzNXlyUGxLbnNhX25VU3VRNERnc1plWUxPLVl6X2ZzdXpuc2hmak9GRHBTUlhUSmxZbVNXTzYwZ1l6RFhwSWEzWnNFYnpuemF0Vlh0X1F5ZmtXRDMtT21veW80LUJjQQ?oc=5)
 
-- Source / 来源: France 24. Published: `2026-05-24T02:15:44+00:00`.
-- Keywords / 关键词: retaliation, ballistic, russian, missile, attack, moscow, france, hits, kyiv, vows
-- 中文关键词: 报复、弹道的、俄罗斯、导弹、袭击、莫斯科、法国、点击数、基辅、誓言
+- Source / 来源: Axios. Published: `2026-05-24T23:22:44+00:00`.
+- Keywords / 关键词: white, house, axios, iran, deal, take, days, perspectives, headlines, google
+- 中文关键词: 白色的、房子、轴、伊朗、交易、拿、天、观点、头条新闻、谷歌
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Russian ballistic missile attack hits Kyiv after Moscow vows retaliation France 24 See more headlines & perspectives on Google News
-- RSS 中文摘要: 莫斯科誓言报复后，俄罗斯弹道导弹袭击基辅 法国 24 在 Google 新闻上查看更多头条新闻和观点
+- RSS Excerpt / RSS 摘要: White House says Iran deal could take days Axios See more headlines & perspectives on Google News
+- RSS 中文摘要: 白宫称伊朗协议可能需要几天时间 Axios 在 Google 新闻上查看更多头条新闻和观点
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: retaliation, ballistic, russian, missile, and attack. The available excerpt says: Russian ballistic missile attack hits Kyiv after Moscow vows retaliation France 24 See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：报复、弹道的、俄罗斯、导弹、袭击。RSS 中文摘要显示：莫斯科誓言报复后，俄罗斯弹道导弹袭击基辅 法国 24 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: white, house, axios, iran, and deal. The available excerpt says: White House says Iran deal could take days Axios See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：白色的、房子、轴、伊朗、交易。RSS 中文摘要显示：白宫称伊朗协议可能需要几天时间 Axios 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 9. [Khanna expresses disappointment about Massie's defeat - Politico](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnpacXF5YUVCeGpjSW4yaXRqZnpYeXpRWk1qazZWeTlZU21wQllHbDhNeHdBU3RRM2pNc2hJX0tLZ1hvOUxpeWRIN0dfUmlieUYxcVREd09qYko2eVdjSUE4VHpxWEhja1J1SGREMnhPTVFSdkVRQ3FpRHVzUXNIY09nQnRKcEFw?oc=5)
+
+- Source / 来源: Politico. Published: `2026-05-24T15:04:09+00:00`.
+- Keywords / 关键词: disappointment, expresses, massie's, politico, khanna, defeat, massie, primary, thomas, republicans
+- 中文关键词: 失望、表达、马西的、政治报、卡纳、击败、马西、基本的、托马斯、共和党人
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Khanna expresses disappointment about Massie's defeat Politico Thomas Massie bashes Republicans, Trump's ballroom after primary loss USA Today Rep. Thomas Massie warns GOP will be ‘very vulnerable’ in the midterms NBC News Trump’s allies in danger of scraping false hope from Maga victory in Kentucky primary The Guardian Massie’s ‘Tel Aviv’ Remark Is the Latest Midterm Flare-Up Over Israel The New York Times
+- RSS 中文摘要: 卡纳对马西的失败表示失望 政治家托马斯·马西在初选失利后猛烈抨击共和党和特朗普的舞厅 《今日美国》众议员托马斯·马西警告共和党在中期选举中将“非常脆弱” NBC新闻 特朗普的盟友面临着从马加在肯塔基州初选中获胜的虚假希望中破灭的危险 《卫报》马西的“特拉维夫”言论是以色列中期选举的最新爆发 纽约时报
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: disappointment, expresses, massie's, politico, and khanna. The available excerpt says: Khanna expresses disappointment about Massie's defeat Politico Thomas Massie bashes Republicans, Trump's ballroom after primary loss USA Today Rep. Thomas Massie warns GOP will be ‘very vulnerable’ in the midterms NBC News Trump’s allies in danger of scraping false hope from Maga victory in Kentucky primary The Guardian Massie’s ‘Tel Aviv’ Remark Is the Latest Midterm Flare-Up Over Israel The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：失望、表达、马西的、政治报、卡纳。RSS 中文摘要显示：卡纳对马西的失败表示失望 政治家托马斯·马西在初选失利后猛烈抨击共和党和特朗普的舞厅 《今日美国》众议员托马斯·马西警告共和党在中期选举中将“非常脆弱” NBC新闻 特朗普的盟友面临着从马加在肯塔基州初选中获胜的虚假希望中破灭的危险 《卫报》马西的“特拉维夫”言论是以色列中期选举的最新爆发 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. ['Reckless escalation': Europe condemns Russia’s use of 'Oreshnik' missile - Euronews.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHVKVnUyYVJjc2xicjVjWjRlN0ZvTlVFTk5DdEs4am1WQXdOc1JKTlFpa3FOVjBmam5VemhLY3FRRG00ZDFXUnpjc3Q3ZWRCVlVxTkZfTTc3Y3RSQXNSLWJoUWF1ZDlFY29XMlFENnEyMFpCWkd5VDMzY2dSenRsOW1PbUZPRkQ2U0NCRlk2UkFKRmltQlROcXhhY0s5X1VDSnhPNEoyT0lsV2Eya3VIOGtNTQ?oc=5)
+
+- Source / 来源: Euronews.com. Published: `2026-05-24T13:37:39+00:00`.
+- Keywords / 关键词: russia, missile, escalation, oreshnik, reckless, condemns, euronews, europe, use, com
+- 中文关键词: 俄罗斯、导弹、升级、奥列什尼克、鲁莽、谴责、欧洲新闻报、欧洲、使用、com
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: 'Reckless escalation': Europe condemns Russia’s use of 'Oreshnik' missile Euronews.com Russian Offensive Campaign Assessment, May 24, 2026 Institute for the Study of War Russia pounds Kyiv in powerful drone and missile attack NPR Kyiv Suffers One of Ukraine War’s Heaviest Russian Barrages WSJ Zelensky Calls For 'Consequences' After Russia Hits Kyiv With One of Heaviest Bombardments Since War Began Time Magazine
+- RSS 中文摘要: “鲁莽升级”：欧洲谴责俄罗斯使用“奥列什尼克”导弹 Euronews.com 俄罗斯进攻战役评估，2026 年 5 月 24 日 俄罗斯战争研究所以强大的无人机和导弹袭击基辅 NPR 基辅遭受乌克兰战争最严重的俄罗斯炮火之一 华尔街日报泽伦斯基在俄罗斯以战后最严重的轰炸之一袭击基辅后呼吁“后果”开始时代杂志
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: russia, missile, escalation, oreshnik, and reckless. The available excerpt says: 'Reckless escalation': Europe condemns Russia’s use of 'Oreshnik' missile Euronews.com Russian Offensive Campaign Assessment, May 24, 2026 Institute for the Study of War Russia pounds Kyiv in powerful drone and missile attack NPR Kyiv Suffers One of Ukraine War’s Heaviest Russian Barrages WSJ Zelensky Calls For 'Consequences' After Russia Hits Kyiv With One of Heaviest Bombardments Since War Began Time Magazine Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：俄罗斯、导弹、升级、奥列什尼克、鲁莽。RSS 中文摘要显示：“鲁莽升级”：欧洲谴责俄罗斯使用“奥列什尼克”导弹 Euronews.com 俄罗斯进攻战役评估，2026 年 5 月 24 日 俄罗斯战争研究所以强大的无人机和导弹袭击基辅 NPR 基辅遭受乌克兰战争最严重的俄罗斯炮火之一 华尔街日报泽伦斯基在俄罗斯以战后最严重的轰炸之一袭击基辅后呼吁“后果”开始时代杂志 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
