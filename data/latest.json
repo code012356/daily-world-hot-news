@@ -1,39 +1,38 @@
 {
-  "generated_at": "2026-05-25T08:15:38+00:00",
+  "generated_at": "2026-05-26T07:41:01+00:00",
   "timezone": "UTC",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "The U.S. and Iran work toward deal to extend ceasefire and reopen Hormuz - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY2puSU5FbjhpX2RUWEZZaG9wV1ZKdkp4Z09sUzIzYVlTam1Ud1I2dmdSaXBBSVVDWkxLaHpBTG1VY0NBdEUza1NqdTZSb054dHZrRm5zdkN5N21GdDRNeThWMUJwNlh0LXZrREVwand5eGdxbEU5VXRmNTVMVE9KQ0d2ajFMeUktTWh1d2I1S0pyWGlrU3dmZjFVZlJGQQ?oc=5",
-      "published_at": "2026-05-25T05:29:33+00:00",
-      "description": "The U.S. and Iran work toward deal to extend ceasefire and reopen Hormuz The Washington Post What’s in the proposed deal that could end the US-Iran conflict? CNN What we know and don’t know about the emerging deal to end the Iran war AP News LIVE: Iran says agreement with US ‘not imminent’ despite progress Al Jazeera Iran will only discuss nuclear program when sanctions lifted, senior diplomat says The Times of Israel",
-      "description_zh": "美国和伊朗努力达成延长停火并重新开放霍尔木兹海峡的协议 华盛顿邮报 拟议的协议中有哪些内容可以结束美伊冲突？ CNN 关于结束伊朗战争的新兴协议我们所知道和不知道的 美联社新闻直播：伊朗表示，尽管取得了进展，但与美国“不会很快”达成协议 高级外交官表示，伊朗只会在制裁解除后讨论核计划 以色列时报",
+      "title": "US launches new strikes on Iran, targeting missile sites and boats - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaDJGdEZ0YndpVVJXUlUydGhtZnZWVUFDdnR6MUdTSmhQNVMyZmRKUGMxZC0yTUNNTGw1Q2Q1M3VsNWVacFJ2X3cwd1BiOTd4b1BSYWxBM1Bodw?oc=5",
+      "published_at": "2026-05-26T05:45:58+00:00",
+      "description": "US launches new strikes on Iran, targeting missile sites and boats BBC U.S. Carries Out Renewed Strikes in Southern Iran The New York Times Rubio says Iran deal could take days after US forces launch new attacks Al Jazeera Iran War Live Updates: U.S. Conducted ‘Defensive’ Attacks On Iranian Targets, Officials Say WSJ U.S. conducts 'self-defense strikes' in Iran as Trump pushes for peace deal CNBC",
+      "description_zh": "美国对伊朗发动新的打击，目标是导弹基地和船只 BBC 美国在伊朗南部发动新一轮打击 《纽约时报》卢比奥表示，在美军发动新的袭击后，伊朗协议可能需要几天时间 半岛电视台伊朗战争实时更新：官员称，美国对伊朗目标进行“防御性”攻击 华尔街日报 美国在伊朗进行“自卫打击”，特朗普推动和平协议 CNBC",
       "keywords": [
         "iran",
+        "strikes",
+        "targeting",
+        "launches",
+        "missile",
+        "sites",
+        "boats",
+        "attacks",
         "deal",
-        "washington",
-        "ceasefire",
-        "toward",
-        "extend",
-        "reopen",
-        "hormuz",
-        "work",
-        "know"
+        "self-defense"
       ],
       "keywords_zh": [
         "伊朗",
+        "袭击",
+        "瞄准",
+        "发射",
+        "导弹",
+        "站点",
+        "船",
         "交易",
-        "华盛顿",
-        "停火",
-        "朝向",
-        "延长",
-        "重新开放",
-        "霍尔木兹",
-        "工作",
-        "知道"
+        "自卫"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -42,8 +41,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: iran, deal, washington, ceasefire, and toward. The available excerpt says: The U.S. and Iran work toward deal to extend ceasefire and reopen Hormuz The Washington Post What’s in the proposed deal that could end the US-Iran conflict? CNN What we know and don’t know about the emerging deal to end the Iran war AP News LIVE: Iran says agreement with US ‘not imminent’ despite progress Al Jazeera Iran will only discuss nuclear program when sanctions lifted, senior diplomat says The Times of Israel Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：伊朗、交易、华盛顿、停火、朝向。RSS 中文摘要显示：美国和伊朗努力达成延长停火并重新开放霍尔木兹海峡的协议 华盛顿邮报 拟议的协议中有哪些内容可以结束美伊冲突？ CNN 关于结束伊朗战争的新兴协议我们所知道和不知道的 美联社新闻直播：伊朗表示，尽管取得了进展，但与美国“不会很快”达成协议 高级外交官表示，伊朗只会在制裁解除后讨论核计划 以色列时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: iran, strikes, targeting, launches, and missile. The available excerpt says: US launches new strikes on Iran, targeting missile sites and boats BBC U.S. Carries Out Renewed Strikes in Southern Iran The New York Times Rubio says Iran deal could take days after US forces launch new attacks Al Jazeera Iran War Live Updates: U.S. Conducted ‘Defensive’ Attacks On Iranian Targets, Officials Say WSJ U.S. conducts 'self-defense strikes' in Iran as Trump pushes for peace deal CNBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：伊朗、袭击、瞄准、发射、导弹。RSS 中文摘要显示：美国对伊朗发动新的打击，目标是导弹基地和船只 BBC 美国在伊朗南部发动新一轮打击 《纽约时报》卢比奥表示，在美军发动新的袭击后，伊朗协议可能需要几天时间 半岛电视台伊朗战争实时更新：官员称，美国对伊朗目标进行“防御性”攻击 华尔街日报 美国在伊朗进行“自卫打击”，特朗普推动和平协议 CNBC 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -58,35 +57,35 @@
     },
     {
       "rank": 2,
-      "title": "Trump tells US negotiators 'not to rush' into deal with Iran - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DSVo5eG94MnNzS2dRRGo1Y0dsNzBkV0JLNWh3QWw4ZFR2anZIQ3Y4bVh4WTNPd21tcTBmSjR3RGgtQ0kzZ2xaalRQcnlYbng2dk90UUYyaVNDZw?oc=5",
-      "published_at": "2026-05-25T04:16:33+00:00",
-      "description": "Trump tells US negotiators 'not to rush' into deal with Iran BBC What’s in the proposed deal that could end the US-Iran conflict? CNN Iran war day 87: Trump says US not in rush to sign deal, dashing optimism Al Jazeera What to Know About the Potential U.S.-Iran Peace Deal The New York Times Iran: Trump remarks on Strait of Hormuz ‘inconsistent with reality’ The Hill",
-      "description_zh": "特朗普告诉美国谈判代表“不要急于”与伊朗达成协议 BBC 拟议的协议中有哪些内容可以结束美伊冲突？ CNN 伊朗战争日第 87 日：特朗普称美国并不急于签署协议，乐观情绪破灭",
+      "title": "As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbG80dUZlanZBTUVzNDFSdFpWOXlUU0lkLTNvMU91NWU0VVViTlpiUmh4MktyZjBJSm5lZ0tydlRhdk9MLVFwQmdyWFl3anB3R3VjeXdmdFE5Ul9GbmZpbkloVHh1Uk9TVzRuNEwxQ2tKMTFFeDVYRFRyakxhbFlSUWJRZkpHYmQ1Wmpvem1QWWxiam9Pdjk3bzVlbXdMWi1vVnFsS1A5TGpQajBCcUtTemdHbXY3cFptWXc?oc=5",
+      "published_at": "2026-05-26T02:07:57+00:00",
+      "description": "As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords The Washington Post A ruse, a brave gamble or a fantasy? Why Trump’s most puzzling Iran move yet is unlikely to work CNN Trump asked Muslim leaders to sign peace deal with Israel after Iran war ends Axios Trump links Abraham Accords to any Iran deal Reuters Tehran expresses ‘resolute support’ for Hezbollah – as it happened The Guardian",
+      "description_zh": "新的伊朗协议面临尖锐批评，特朗普寻求扩大亚伯拉罕协议 华盛顿邮报 这是一个诡计、一次勇敢的赌博还是一个幻想？为什么特朗普最令人费解的伊朗举措不太可能奏效 CNN 特朗普要求穆斯林领导人在伊朗战争结束后与以色列签署和平协议 Axios 特朗普将亚伯拉罕协议与任何伊朗协议联系起来 路透 德黑兰表示“坚决支持”真主党 - 正如它所发生的那样",
       "keywords": [
-        "deal",
-        "iran",
         "trump",
-        "negotiators",
-        "tells",
-        "rush",
-        "inconsistent",
-        "potential",
-        "proposed",
-        "conflict"
+        "iran",
+        "deal",
+        "abraham",
+        "accords",
+        "washington",
+        "criticism",
+        "faces",
+        "sharp",
+        "seeks"
       ],
       "keywords_zh": [
-        "交易",
-        "伊朗",
         "特朗普",
-        "谈判者",
-        "告诉",
-        "匆忙",
-        "不一致的",
-        "潜在的",
-        "建议的",
-        "冲突"
+        "伊朗",
+        "交易",
+        "亚伯拉罕",
+        "协议",
+        "华盛顿",
+        "批评",
+        "面孔",
+        "锋利的",
+        "寻求"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -95,8 +94,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: deal, iran, trump, negotiators, and tells. The available excerpt says: Trump tells US negotiators 'not to rush' into deal with Iran BBC What’s in the proposed deal that could end the US-Iran conflict? CNN Iran war day 87: Trump says US not in rush to sign deal, dashing optimism Al Jazeera What to Know About the Potential U.S.-Iran Peace Deal The New York Times Iran: Trump remarks on Strait of Hormuz ‘inconsistent with reality’ The Hill Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：交易、伊朗、特朗普、谈判者、告诉。RSS 中文摘要显示：特朗普告诉美国谈判代表“不要急于”与伊朗达成协议 BBC 拟议的协议中有哪些内容可以结束美伊冲突？ CNN 伊朗战争日第 87 日：特朗普称美国并不急于签署协议，乐观情绪破灭 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: trump, iran, deal, abraham, and accords. The available excerpt says: As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords The Washington Post A ruse, a brave gamble or a fantasy? Why Trump’s most puzzling Iran move yet is unlikely to work CNN Trump asked Muslim leaders to sign peace deal with Israel after Iran war ends Axios Trump links Abraham Accords to any Iran deal Reuters Tehran expresses ‘resolute support’ for Hezbollah – as it happened The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：特朗普、伊朗、交易、亚伯拉罕、协议。RSS 中文摘要显示：新的伊朗协议面临尖锐批评，特朗普寻求扩大亚伯拉罕协议 华盛顿邮报 这是一个诡计、一次勇敢的赌博还是一个幻想？为什么特朗普最令人费解的伊朗举措不太可能奏效 CNN 特朗普要求穆斯林领导人在伊朗战争结束后与以色列签署和平协议 Axios 特朗普将亚伯拉罕协议与任何伊朗协议联系起来 路透 德黑兰表示“坚决支持”真主党 - 正如它所发生的那样 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -111,88 +110,34 @@
     },
     {
       "rank": 3,
-      "title": "Governor Newsom submits request to President Trump for emergency declaration to support response efforts in Orange County - California State Portal | CA.gov",
-      "source": "California State Portal | CA.gov",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcDV5VnYxMjhYaWJ3cFFvMl9iaXAwV0FUWFFsRVRkZ293LU1ERkdrVTAwQkVOaVlZclBvbmxkbGxnODhNWG1PV2VncUVSdEVBbUVldlRlbFhOb21wb3FialZDVExoMjNSZ2NNTTRaYkNraVRXVDdYaFE2XzlsUDlFSS13dTJUdkVYbFo2eEw2aGVVMXBtRnlhZ0lkZjVSMUlaQl9Qcm5YU0x0ZktZN05EaVJiOU9LeG9PRHZFSFllRmtJeWpzb1Q3REVRdHAxVHJWd1NVM3o2T3NNbk5nOVZWNmtyRFQ4M3RlWGd1RQ?oc=5",
-      "published_at": "2026-05-24T20:32:07+00:00",
-      "description": "Governor Newsom submits request to President Trump for emergency declaration to support response efforts in Orange County California State Portal | CA.gov Correction: FEMA not offering hotel stays Orange County Register Orange County family welcomes 20 relatives to their Anaheim home during evacuation ABC7 Los Angeles Overheated chemical tank in southern California ‘will fail’, EPA chief says The Guardian San Diego volunteers help families impacted by evacuations in Orange County NBC 7 San Diego",
-      "description_zh": "纽瑟姆州长向特朗普总统提交紧急声明请求，以支持奥兰治县的应对工作CA.gov 更正：联邦紧急事务管理署 (FEMA) 不提供酒店住宿 奥兰治县登记册 奥兰治县家庭在疏散期间欢迎 20 名亲戚来到阿纳海姆家中 ABC7 洛杉矶 环保局局长表示，南加州过热的化学罐“将会失效” 卫报圣地亚哥志愿者帮助奥兰治县受疏散影响的家庭 NBC7 圣地亚哥",
+      "title": "5 ways Pope Leo says AI could warp humanity - Axios",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MX3czOXhZY1MzZjB5MS1fYzZXTi1IMkhyeEVac2VoeEtxVEIwOVJKQjNXR0FNZ0RxRV9LZHlBcDFOd0k3dzFjUFE2V1dIcDhORmEteHpLc01Ha0o1VERYaEMzQUthOFg0M1JaWTdXMVpnbG9mLUZDZFRidTVCQkU?oc=5",
+      "published_at": "2026-05-25T17:28:09+00:00",
+      "description": "5 ways Pope Leo says AI could warp humanity Axios Main Takeaways From Pope Leo’s Encyclical on A.I. The New York Times Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" Anthropic Anthropic Billionaire Olah To Vatican: Don’t Trust Us Forbes A capitalist (priest) reads ‘Magnifica Humanitas’ America Magazine",
+      "description_zh": "利奥教皇称人工智能可能会以 5 种方式扭曲人类 Axios 利奥教皇关于人工智能的通谕的主要内容纽约时报 Anthropic 联合创始人 Chris Olah 对教皇利奥十四世通谕“Magnifica humanitas”的评论 Anthropic Anthropic 亿万富翁 Olah 致梵蒂冈：不要相信我们 福布斯 一位资本家（牧师）读到“Magnifica Humanitas”美国杂志",
       "keywords": [
-        "orange",
-        "county",
-        "california",
-        "declaration",
-        "president",
-        "emergency",
-        "governor",
-        "response",
-        "submits",
-        "request"
+        "pope",
+        "leo",
+        "humanity",
+        "axios",
+        "ways",
+        "warp",
+        "anthropic",
+        "encyclical",
+        "magnifica",
+        "humanitas"
       ],
       "keywords_zh": [
-        "橙子",
-        "县",
-        "加利福尼亚州",
-        "宣言",
-        "总统",
-        "紧急情况",
-        "州长",
-        "回复",
-        "提交",
-        "要求"
-      ],
-      "category": {
-        "en": "Politics and governance",
-        "zh": "政治与治理"
-      },
-      "interpretation": {
-        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
-        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: orange, county, california, declaration, and president. The available excerpt says: Governor Newsom submits request to President Trump for emergency declaration to support response efforts in Orange County California State Portal | CA.gov Correction: FEMA not offering hotel stays Orange County Register Orange County family welcomes 20 relatives to their Anaheim home during evacuation ABC7 Los Angeles Overheated chemical tank in southern California ‘will fail’, EPA chief says The Guardian San Diego volunteers help families impacted by evacuations in Orange County NBC 7 San Diego Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：橙子、县、加利福尼亚州、宣言、总统。RSS 中文摘要显示：纽瑟姆州长向特朗普总统提交紧急声明请求，以支持奥兰治县的应对工作CA.gov 更正：联邦紧急事务管理署 (FEMA) 不提供酒店住宿 奥兰治县登记册 奥兰治县家庭在疏散期间欢迎 20 名亲戚来到阿纳海姆家中 ABC7 洛杉矶 环保局局长表示，南加州过热的化学罐“将会失效” 卫报圣地亚哥志愿者帮助奥兰治县受疏散影响的家庭 NBC7 圣地亚哥 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
-        "what_to_watch_en": [
-          "polling or vote margins",
-          "party reactions",
-          "policy promises after the result"
-        ],
-        "what_to_watch_zh": [
-          "民调或票差",
-          "党派反应",
-          "结果后的政策承诺"
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "title": "Rubio says 'good news' likely on Hormuz as Iran talks go on - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZlM4UHduODI4MVY3aGQtZ2d6YUpJNHpsbzZra1VLYjNMeWMwdGpmVVVzdk1PdHdYUUJ3SFB2akh5Z2I4WG9wcUxBOFBUdmpPOTI2ZEhLczU3bkxiSjNoSnZTdEhESmJLem5GbWNWRHhmSjRUREhyVVNtMFRpd0lWY0NpTE5fYnV1dVRKYi1OWTd1eEJsT0dkWGJJc0FwWEZLVUNIYmxSSklmdw?oc=5",
-      "published_at": "2026-05-24T13:58:06+00:00",
-      "description": "Rubio says 'good news' likely on Hormuz as Iran talks go on Yahoo Finance LIVE: Iran says agreement with US ‘not imminent’ despite progress Al Jazeera Rubio says 'solid' Iran deal may come on Monday BBC Middle East crisis live: Rubio says US-Iran agreement ‘pretty solid’ as oil price falls amid optimism for deal The Guardian Middle East war live: Iran says agreement with US ‘not imminent’ despite progress France 24",
-      "description_zh": "卢比奥表示，随着伊朗谈判的进行，霍尔木兹海峡问题可能会出现“好消息” 雅虎财经直播：伊朗表示，尽管取得了进展，但与美国“并非迫在眉睫”达成协议 半岛电视台卢比奥表示，伊朗协议可能会在周一达成“可靠” BBC 中东危机直播：卢比奥表示，由于协议乐观，油价下跌，美伊协议“非常可靠” 卫报中东战争直播：伊朗表示，尽管取得了进展，但与美国“并非迫在眉睫”达成协议 France 24",
-      "keywords": [
-        "iran",
-        "rubio",
-        "finance",
-        "likely",
-        "hormuz",
-        "news",
-        "talks",
-        "yahoo",
-        "good",
-        "agreement"
-      ],
-      "keywords_zh": [
-        "伊朗",
-        "卢比奥",
-        "金融",
-        "可能",
-        "霍尔木兹",
-        "消息",
-        "会谈",
-        "雅虎",
-        "好的",
-        "协议"
+        "教皇",
+        "狮子座",
+        "人类",
+        "轴",
+        "方式",
+        "经",
+        "人择的",
+        "通谕",
+        "壮丽"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -201,8 +146,61 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: iran, rubio, finance, likely, and hormuz. The available excerpt says: Rubio says 'good news' likely on Hormuz as Iran talks go on Yahoo Finance LIVE: Iran says agreement with US ‘not imminent’ despite progress Al Jazeera Rubio says 'solid' Iran deal may come on Monday BBC Middle East crisis live: Rubio says US-Iran agreement ‘pretty solid’ as oil price falls amid optimism for deal The Guardian Middle East war live: Iran says agreement with US ‘not imminent’ despite progress France 24 Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：伊朗、卢比奥、金融、可能、霍尔木兹。RSS 中文摘要显示：卢比奥表示，随着伊朗谈判的进行，霍尔木兹海峡问题可能会出现“好消息” 雅虎财经直播：伊朗表示，尽管取得了进展，但与美国“并非迫在眉睫”达成协议 半岛电视台卢比奥表示，伊朗协议可能会在周一达成“可靠” BBC 中东危机直播：卢比奥表示，由于协议乐观，油价下跌，美伊协议“非常可靠” 卫报中东战争直播：伊朗表示，尽管取得了进展，但与美国“并非迫在眉睫”达成协议 France 24 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: pope, leo, humanity, axios, and ways. The available excerpt says: 5 ways Pope Leo says AI could warp humanity Axios Main Takeaways From Pope Leo’s Encyclical on A.I. The New York Times Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" Anthropic Anthropic Billionaire Olah To Vatican: Don’t Trust Us Forbes A capitalist (priest) reads ‘Magnifica Humanitas’ America Magazine Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：教皇、狮子座、人类、轴、方式。RSS 中文摘要显示：利奥教皇称人工智能可能会以 5 种方式扭曲人类 Axios 利奥教皇关于人工智能的通谕的主要内容纽约时报 Anthropic 联合创始人 Chris Olah 对教皇利奥十四世通谕“Magnifica humanitas”的评论 Anthropic Anthropic 亿万富翁 Olah 致梵蒂冈：不要相信我们 福布斯 一位资本家（牧师）读到“Magnifica Humanitas”美国杂志 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "what_to_watch_en": [
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
+        ],
+        "what_to_watch_zh": [
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWhSNktpN054VGd5eHA5WXVReEdKTW5rTkg5N2RQTlhKV2ZGV2ZYcDhiNlhfRXNSdWY4WlN4clVWcXIzbmZHUUtpeHFkY05BQWdnQUhvc3ItcEM0MkVwbEhqaklwNkVBaFpuTGNvcXJ0UFl6VldTb1NQZUFVOV9id09kOENROTR5dW1VVTRBN2xBeF9MdDlPY1ZlVDRLT3N2ZFFsVVJYbGJ6dHFjbHh3M3puSUFpSm8?oc=5",
+      "published_at": "2026-05-26T04:14:00+00:00",
+      "description": "Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv The Guardian Russian Offensive Campaign Assessment, May 25, 2026 Institute for the Study of War Russia tells US to pull its diplomats and citizens from Ukraine capital South China Morning Post Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’ Al Jazeera Russia Tells US to Evacuate Its Diplomats and Citizens From Kyiv Bloomberg.com",
+      "description_zh": "乌克兰战争简报：俄罗斯向美国施压，为基辅袭击扫清道路 《卫报》俄罗斯进攻战役评估，2026 年 5 月 25 日 战争研究所 俄罗斯要求美国从乌克兰首都撤走其外交官和公民 《南华早报》 俄罗斯警告外国人离开基辅，准备“系统性打击” 半岛电视台 俄罗斯要求美国从基辅撤离外交官和公民 Bloomberg.com",
+      "keywords": [
+        "russia",
+        "kyiv",
+        "ukraine",
+        "war",
+        "pressures",
+        "briefing",
+        "attacks",
+        "clear",
+        "way",
+        "diplomats"
+      ],
+      "keywords_zh": [
+        "俄罗斯",
+        "基辅",
+        "乌克兰",
+        "战争",
+        "压力",
+        "简报",
+        "袭击",
+        "清除",
+        "方式",
+        "外交官"
+      ],
+      "category": {
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
+      },
+      "interpretation": {
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: russia, kyiv, ukraine, war, and pressures. The available excerpt says: Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv The Guardian Russian Offensive Campaign Assessment, May 25, 2026 Institute for the Study of War Russia tells US to pull its diplomats and citizens from Ukraine capital South China Morning Post Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’ Al Jazeera Russia Tells US to Evacuate Its Diplomats and Citizens From Kyiv Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：俄罗斯、基辅、乌克兰、战争、压力。RSS 中文摘要显示：乌克兰战争简报：俄罗斯向美国施压，为基辅袭击扫清道路 《卫报》俄罗斯进攻战役评估，2026 年 5 月 25 日 战争研究所 俄罗斯要求美国从乌克兰首都撤走其外交官和公民 《南华早报》 俄罗斯警告外国人离开基辅，准备“系统性打击” 半岛电视台 俄罗斯要求美国从基辅撤离外交官和公民 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -217,35 +215,35 @@
     },
     {
       "rank": 5,
-      "title": "China launches 3 astronauts, including 1st ever from Hong Kong, to Tiangong space station (video) - Space",
-      "source": "Space",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcFhsZEVCTnBkUU1uejI5dUdJNF9EeWZ5NGFQRk56bDdWRXgxT2RNUUdFYUhBRW0wcUMyd21jOXNRMXlZVGEyTXJTREpDVEhOckVQRnBQNEtwbFY5b0ExakRtNGFWZHRSVmp3RFVQbHUyMFNwTGpYQ3JPb0lxLXo2alZwMEJERnpQcnpvY1dLR052YktwemxaMWN1SFFfOVJDT2J6ZUVjSW00Z1pYQjREeXVZaXVEQQ?oc=5",
-      "published_at": "2026-05-24T17:03:21+00:00",
-      "description": "China launches 3 astronauts, including 1st ever from Hong Kong, to Tiangong space station (video) Space China sends astronaut on year-long space mission as it eyes 2030 moon landing Reuters China Launches Astronauts on Record Space Mission Ahead of Moon Goal Yahoo China launches Shenzhou 23 spacecraft carrying 3 astronauts, including 1 set to remain in space for a year CBS News China launches three-crew spaceflight as part of lunar ambitions The Guardian",
-      "description_zh": "中国发射 3 名宇航员，其中包括第一位来自香港的宇航员前往天宫空间站（视频） 航天 中国发射宇航员执行为期一年的太空任务，着眼于 2030 年登月 路透社 中国在登月目标之前发射宇航员执行创纪录的太空任务 雅虎中国发射神舟 23 号飞船，载有 3 名宇航员，其中 1 名将在太空停留一年 哥伦比亚广播公司新闻 中国发射三名宇航员的太空飞行，作为登月雄心的一部分 卫报",
+      "title": "Rubio says Iran deal could take days as US launches fresh strikes - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2M1OFpXcm8tVlBZczVzcFhhdF9PQmw4UkdFRVRxS3BydkZPVXNiNXhyVU5fTFZXOE1TY040LXAtTFhzNEhHOU12UTNoSjllTHpzM2JxMmJUazZyVkRqUmFlbUtzd1FhdkNma1lGeHVFdjZfOHNLYW80dlJrbjJ5VmRnMURtejlVRjdOdlAwdGwxbURIdU9RMUZ1YjZVd2Rhdm84QU5xY0lJVDdVTXUzUzZPZjY5V3c?oc=5",
+      "published_at": "2026-05-26T03:58:00+00:00",
+      "description": "Rubio says Iran deal could take days as US launches fresh strikes Reuters Trump news at a glance: Iran says ‘contradictory statements’ from US hindering deal negotiations The Guardian Iran and U.S. play down hopes for imminent breakthrough in war CNBC What an America-Iran deal might look like The Economist Iran says no deal ‘imminent’ despite progress in talks with U.S. NBC News",
+      "description_zh": "卢比奥表示，随着美国发动新的打击，伊朗协议可能需要数天时间 路透社 特朗普新闻一览：伊朗称美国“相互矛盾的声明”阻碍了协议谈判 《卫报》 伊朗和美国淡化了战争即将取得突破的希望 CNBC 美伊协议可能会是什么样子 《经济学人》 伊朗表示，尽管与美国的谈判取得了进展，但不会“立即”达成协议 NBC新闻",
       "keywords": [
-        "space",
-        "china",
+        "iran",
+        "deal",
         "launches",
-        "astronauts",
-        "including",
-        "tiangong",
-        "station",
-        "video",
-        "ever",
-        "hong"
+        "strikes",
+        "rubio",
+        "fresh",
+        "take",
+        "days",
+        "imminent",
+        "contradictory"
       ],
       "keywords_zh": [
-        "空间",
-        "中国",
+        "伊朗",
+        "交易",
         "发射",
-        "宇航员",
-        "包括",
-        "天宫",
-        "车站",
-        "视频",
-        "曾经",
-        "红"
+        "袭击",
+        "卢比奥",
+        "新鲜的",
+        "拿",
+        "天",
+        "迫在眉睫的",
+        "矛盾的"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -254,8 +252,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: space, china, launches, astronauts, and including. The available excerpt says: China launches 3 astronauts, including 1st ever from Hong Kong, to Tiangong space station (video) Space China sends astronaut on year-long space mission as it eyes 2030 moon landing Reuters China Launches Astronauts on Record Space Mission Ahead of Moon Goal Yahoo China launches Shenzhou 23 spacecraft carrying 3 astronauts, including 1 set to remain in space for a year CBS News China launches three-crew spaceflight as part of lunar ambitions The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：空间、中国、发射、宇航员、包括。RSS 中文摘要显示：中国发射 3 名宇航员，其中包括第一位来自香港的宇航员前往天宫空间站（视频） 航天 中国发射宇航员执行为期一年的太空任务，着眼于 2030 年登月 路透社 中国在登月目标之前发射宇航员执行创纪录的太空任务 雅虎中国发射神舟 23 号飞船，载有 3 名宇航员，其中 1 名将在太空停留一年 哥伦比亚广播公司新闻 中国发射三名宇航员的太空飞行，作为登月雄心的一部分 卫报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: iran, deal, launches, strikes, and rubio. The available excerpt says: Rubio says Iran deal could take days as US launches fresh strikes Reuters Trump news at a glance: Iran says ‘contradictory statements’ from US hindering deal negotiations The Guardian Iran and U.S. play down hopes for imminent breakthrough in war CNBC What an America-Iran deal might look like The Economist Iran says no deal ‘imminent’ despite progress in talks with U.S. NBC News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：伊朗、交易、发射、袭击、卢比奥。RSS 中文摘要显示：卢比奥表示，随着美国发动新的打击，伊朗协议可能需要数天时间 路透社 特朗普新闻一览：伊朗称美国“相互矛盾的声明”阻碍了协议谈判 《卫报》 伊朗和美国淡化了战争即将取得突破的希望 CNBC 美伊协议可能会是什么样子 《经济学人》 伊朗表示，尽管与美国的谈判取得了进展，但不会“立即”达成协议 NBC新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -270,35 +268,33 @@
     },
     {
       "rank": 6,
-      "title": "Rubio Sees Good News Coming on Hormuz as Iran Talks Continue - Bloomberg.com",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbVlfSlpMNlByN3lTME81NzZtVktySUhYdktiT1JPbjZzMG43QjZrY0RfUUlXLVZmTDFoWjFjaWU5M284eVdfcnVrWE4xWTVwU0V0SF81RENfX2pHRmxLOUQzVE8yYmJ4Um5meXVIRzBCczVmUWRoVTVOOWtuMUpyWDZfQXY4VUo0RkhjdVVZTXl4T1ZtQzNNOGRZOTFnQ3EwVnJnXzZrSnRfaVgweE1acmF0bw?oc=5",
-      "published_at": "2026-05-24T07:40:13+00:00",
-      "description": "Rubio Sees Good News Coming on Hormuz as Iran Talks Continue Bloomberg.com See more headlines & perspectives on Google News",
-      "description_zh": "卢比奥认为，随着伊朗谈判的继续，霍尔木兹海峡将迎来好消息 Bloomberg.com 在 Google 新闻上查看更多头条新闻和观点",
+      "title": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEJSOXNPajBiZlpPdnJfcnBqZy1EdW5IMmZvZ192bHhuVE9QMWsxYUQ4YXBFQXF6T2p0ekZqd0kwVEtfMmVlOExLNWVCbWh2STVHRGpHc1Y4eFdLZVp0aEhOajd1VXlsRnJBdGhaUlo5MjBmbUJQNklvLTVkVXNPUDBWeVFsVjZWcGd6UTFjN3VKSGZ1NlE?oc=5",
+      "published_at": "2026-05-25T21:52:31+00:00",
+      "description": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon The New York Times Benjamin Netanyahu says Israel will intensify strikes against Hezbollah BBC Israeli airstrike on eastern Lebanese village kills 12 10TV Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah The Guardian Israeli strike on village in eastern Lebanon kills 12 The Washington Post",
+      "description_zh": "内塔尼亚胡称以色列计划加强对黎巴嫩真主党的袭击 《纽约时报》 本杰明·内塔尼亚胡称以色列将加强对真主党的打击 BBC 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 10TV 以色列升级对黎巴嫩的打击，内塔尼亚胡发誓要“粉碎”真主党 《卫报》 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 华盛顿邮报",
       "keywords": [
-        "continue",
-        "coming",
-        "hormuz",
-        "rubio",
-        "talks",
-        "sees",
-        "good",
-        "iran",
-        "com",
-        "perspectives"
+        "netanyahu",
+        "hezbollah",
+        "lebanon",
+        "israel",
+        "intensify",
+        "attacks",
+        "plans",
+        "strikes",
+        "israeli",
+        "eastern"
       ],
       "keywords_zh": [
-        "继续",
-        "未来",
-        "霍尔木兹",
-        "卢比奥",
-        "会谈",
-        "看到",
-        "好的",
-        "伊朗",
-        "com",
-        "观点"
+        "内塔尼亚胡",
+        "真主党",
+        "黎巴嫩",
+        "以色列",
+        "强化",
+        "袭击",
+        "计划",
+        "东"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -307,8 +303,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: continue, coming, hormuz, rubio, and talks. The available excerpt says: Rubio Sees Good News Coming on Hormuz as Iran Talks Continue Bloomberg.com See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：继续、未来、霍尔木兹、卢比奥、会谈。RSS 中文摘要显示：卢比奥认为，随着伊朗谈判的继续，霍尔木兹海峡将迎来好消息 Bloomberg.com 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: netanyahu, hezbollah, lebanon, israel, and intensify. The available excerpt says: Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon The New York Times Benjamin Netanyahu says Israel will intensify strikes against Hezbollah BBC Israeli airstrike on eastern Lebanese village kills 12 10TV Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah The Guardian Israeli strike on village in eastern Lebanon kills 12 The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：内塔尼亚胡、真主党、黎巴嫩、以色列、强化。RSS 中文摘要显示：内塔尼亚胡称以色列计划加强对黎巴嫩真主党的袭击 《纽约时报》 本杰明·内塔尼亚胡称以色列将加强对真主党的打击 BBC 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 10TV 以色列升级对黎巴嫩的打击，内塔尼亚胡发誓要“粉碎”真主党 《卫报》 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 华盛顿邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -323,213 +319,213 @@
     },
     {
       "rank": 7,
-      "title": "Bystander in serious condition after fatal shooting near White House checkpoint - AP News",
+      "title": "Israel’s military says it’s striking Hezbollah sites as Netanyahu vows to ‘increase the blows’ - AP News",
       "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTUp0eXJVaVJfYWxnWm9DRlR2YThEaUFPZzNQWGo0Ym5yTkJDa1pGTTFvOFZpamU5M0lSdkQ2MEhtV2Nzbk5MYWw1OTFxMXg4MkQ4d1Rhdk9YRjNPLUtZYThmME54NFRBODZTN0pVOFFkX1FlRzB6Yy1tYlo4ZFVxT21sTGVVbXZzNXlJWmM1SjZXenJxVVNTN1Z6Qi1wUkJuR3dn?oc=5",
-      "published_at": "2026-05-25T00:58:00+00:00",
-      "description": "Bystander in serious condition after fatal shooting near White House checkpoint AP News Secret Service says officers fatally shot a person who fired at them near White House CNN Suspect killed after firing shots near White House security checkpoint, Secret Service says PBS White House shooting: Suspect killed after shooting at Secret Service; bystander injured FOX 5 DC Shooter killed near the White House was previously charged with trespassing The Washington Post",
-      "description_zh": "白宫检查站附近发生致命枪击事件 一名旁观者伤势严重 美联社新闻 特勤局表示，警察在白宫附近开枪打死了一名向他们开枪的人 CNN 特勤局称，嫌疑人在白宫安全检查站附近开枪身亡旁观者受伤 FOX 5 DC 枪手在白宫附近被杀 此前被指控非法侵入 《华盛顿邮报》",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjB5aEVLM1pCRzcxOUkzZmt0T1RndVVmMmlBdHVGekxOM045eGV2UmV6eFlodlVMMGE4dkVIeTZwaGlpSHlvZm9wQ1NuN2RFTldCNWUtQUdxMTFTVUJ1VmJGNjc1YU5RMzduRU5wX19ENWdSY25nbENSYUVSTDVnek5uWVIwQzVkbVBmSURLRlJvQllHZWR1NjdB?oc=5",
+      "published_at": "2026-05-25T20:42:00+00:00",
+      "description": "Israel’s military says it’s striking Hezbollah sites as Netanyahu vows to ‘increase the blows’ AP News Benjamin Netanyahu says Israel will intensify strikes against Hezbollah BBC Israeli airstrike on eastern Lebanese village kills 12 10TV Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon The New York Times Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah The Guardian",
+      "description_zh": "以色列军方表示，内塔尼亚胡誓言“加大打击力度”，正在袭击真主党据点 美联社新闻 本杰明·内塔尼亚胡表示，以色列将加强对真主党的打击 BBC 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 10TV 内塔尼亚胡称，以色列计划加强对黎巴嫩真主党的袭击 《纽约时报》 以色列在内塔尼亚胡任内升级对黎巴嫩的打击誓言“粉碎”真主党卫报",
       "keywords": [
-        "white",
-        "house",
-        "near",
-        "shooting",
-        "checkpoint",
-        "bystander",
-        "condition",
-        "serious",
-        "fatal",
-        "service"
+        "hezbollah",
+        "netanyahu",
+        "israel",
+        "vows",
+        "military",
+        "striking",
+        "increase",
+        "sites",
+        "blows",
+        "intensify"
       ],
       "keywords_zh": [
-        "白色的",
-        "房子",
-        "靠近",
-        "射击",
-        "检查站",
-        "旁观者",
-        "状况",
-        "严肃的",
-        "致命的",
-        "服务"
+        "真主党",
+        "内塔尼亚胡",
+        "以色列",
+        "誓言",
+        "军事",
+        "引人注目",
+        "增加",
+        "站点",
+        "打击",
+        "强化"
       ],
       "category": {
-        "en": "Climate, environment, and safety",
-        "zh": "气候、环境与安全"
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
       },
       "interpretation": {
-        "summary_en": "This story concerns environmental risk, infrastructure safety, or public emergency response.",
-        "summary_zh": "这条新闻关系到环境风险、基础设施安全或公共应急响应。",
-        "detailed_en": "Key signals: white, house, near, shooting, and checkpoint. The available excerpt says: Bystander in serious condition after fatal shooting near White House checkpoint AP News Secret Service says officers fatally shot a person who fired at them near White House CNN Suspect killed after firing shots near White House security checkpoint, Secret Service says PBS White House shooting: Suspect killed after shooting at Secret Service; bystander injured FOX 5 DC Shooter killed near the White House was previously charged with trespassing The Washington Post Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.",
-        "detailed_zh": "关键词信号：白色的、房子、靠近、射击、检查站。RSS 中文摘要显示：白宫检查站附近发生致命枪击事件 一名旁观者伤势严重 美联社新闻 特勤局表示，警察在白宫附近开枪打死了一名向他们开枪的人 CNN 特勤局称，嫌疑人在白宫安全检查站附近开枪身亡旁观者受伤 FOX 5 DC 枪手在白宫附近被杀 此前被指控非法侵入 《华盛顿邮报》 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。",
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: hezbollah, netanyahu, israel, vows, and military. The available excerpt says: Israel’s military says it’s striking Hezbollah sites as Netanyahu vows to ‘increase the blows’ AP News Benjamin Netanyahu says Israel will intensify strikes against Hezbollah BBC Israeli airstrike on eastern Lebanese village kills 12 10TV Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon The New York Times Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：真主党、内塔尼亚胡、以色列、誓言、军事。RSS 中文摘要显示：以色列军方表示，内塔尼亚胡誓言“加大打击力度”，正在袭击真主党据点 美联社新闻 本杰明·内塔尼亚胡表示，以色列将加强对真主党的打击 BBC 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 10TV 内塔尼亚胡称，以色列计划加强对黎巴嫩真主党的袭击 《纽约时报》 以色列在内塔尼亚胡任内升级对黎巴嫩的打击誓言“粉碎”真主党卫报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
-          "damage assessment",
-          "public safety advisories",
-          "policy or infrastructure reviews"
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
         ],
         "what_to_watch_zh": [
-          "损害评估",
-          "公共安全提示",
-          "政策或基础设施复盘"
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
         ]
       }
     },
     {
       "rank": 8,
-      "title": "White House says Iran deal could take days - Axios",
-      "source": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90dmNaTmtDb0xIQkRhQkNrUEF3V3hzNXlyUGxLbnNhX25VU3VRNERnc1plWUxPLVl6X2ZzdXpuc2hmak9GRHBTUlhUSmxZbVNXTzYwZ1l6RFhwSWEzWnNFYnpuemF0Vlh0X1F5ZmtXRDMtT21veW80LUJjQQ?oc=5",
-      "published_at": "2026-05-24T23:22:44+00:00",
-      "description": "White House says Iran deal could take days Axios See more headlines & perspectives on Google News",
-      "description_zh": "白宫称伊朗协议可能需要几天时间 Axios 在 Google 新闻上查看更多头条新闻和观点",
+      "title": "Suspect killed after firing shots near White House security checkpoint, Secret Service says - PBS",
+      "source": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlVDRVdMc1FuejRsUlRqam9jTVBLMEduNlA2cDdBZVIwUm1nMy02SW5ob25RcWxSMHZRYXpGeTd6YklDUUU1c2lGQ0RxRG9GU01HbkVabnp2aDl3TDBqVXB6eWpoOVdnTFZ4VGtoU0dKcDczV2NUUmpMTndjTXpub3dSSW1XNnJGeXp4ZTZJeFllVWdJN0ltY0UzcFFpcnFYWTU5SmhGb2M4YkRSS1RLWFEybjJBdzEzVV80WkxXbk9YMnJv?oc=5",
+      "published_at": "2026-05-24T15:33:26+00:00",
+      "description": "Suspect killed after firing shots near White House security checkpoint, Secret Service says PBS What court docs reveal about Dundalk native shot by Secret Service WBAL-TV White House gunman had previous run-ins with Secret Service, court documents show BBC What we know about Nasire Best, Maryland man accused of White House shooting, sources say FOX 5 DC Dundalk neighbors stunned after 21-year-old killed in shootout near White House WBFF",
+      "description_zh": "特勤局表示，嫌疑人在白宫安全检查站附近开枪身亡",
       "keywords": [
         "white",
         "house",
-        "axios",
-        "iran",
-        "deal",
-        "take",
-        "days",
-        "perspectives",
-        "headlines",
-        "google"
+        "service",
+        "secret",
+        "killed",
+        "near",
+        "checkpoint",
+        "security",
+        "suspect",
+        "firing"
       ],
       "keywords_zh": [
         "白色的",
         "房子",
-        "轴",
-        "伊朗",
-        "交易",
-        "拿",
-        "天",
-        "观点",
-        "头条新闻",
-        "谷歌"
+        "服务",
+        "秘密",
+        "死亡",
+        "靠近",
+        "检查站",
+        "安全",
+        "怀疑",
+        "射击"
       ],
       "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
+        "en": "Public safety and society",
+        "zh": "公共安全与社会"
       },
       "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: white, house, axios, iran, and deal. The available excerpt says: White House says Iran deal could take days Axios See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：白色的、房子、轴、伊朗、交易。RSS 中文摘要显示：白宫称伊朗协议可能需要几天时间 Axios 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "summary_en": "This story centers on harm to people, emergency response, or social disruption.",
+        "summary_zh": "这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。",
+        "detailed_en": "Key signals: white, house, service, secret, and killed. The available excerpt says: Suspect killed after firing shots near White House security checkpoint, Secret Service says PBS What court docs reveal about Dundalk native shot by Secret Service WBAL-TV White House gunman had previous run-ins with Secret Service, court documents show BBC What we know about Nasire Best, Maryland man accused of White House shooting, sources say FOX 5 DC Dundalk neighbors stunned after 21-year-old killed in shootout near White House WBFF Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.",
+        "detailed_zh": "关键词信号：白色的、房子、服务、秘密、死亡。RSS 中文摘要显示：特勤局表示，嫌疑人在白宫安全检查站附近开枪身亡 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。",
         "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
+          "official investigation",
+          "confirmed casualty numbers",
+          "prevention measures"
         ],
         "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
+          "官方调查",
+          "确认伤亡数字",
+          "预防措施"
         ]
       }
     },
     {
       "rank": 9,
-      "title": "Khanna expresses disappointment about Massie's defeat - Politico",
-      "source": "Politico",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMnpacXF5YUVCeGpjSW4yaXRqZnpYeXpRWk1qazZWeTlZU21wQllHbDhNeHdBU3RRM2pNc2hJX0tLZ1hvOUxpeWRIN0dfUmlieUYxcVREd09qYko2eVdjSUE4VHpxWEhja1J1SGREMnhPTVFSdkVRQ3FpRHVzUXNIY09nQnRKcEFw?oc=5",
-      "published_at": "2026-05-24T15:04:09+00:00",
-      "description": "Khanna expresses disappointment about Massie's defeat Politico Thomas Massie bashes Republicans, Trump's ballroom after primary loss USA Today Rep. Thomas Massie warns GOP will be ‘very vulnerable’ in the midterms NBC News Trump’s allies in danger of scraping false hope from Maga victory in Kentucky primary The Guardian Massie’s ‘Tel Aviv’ Remark Is the Latest Midterm Flare-Up Over Israel The New York Times",
-      "description_zh": "卡纳对马西的失败表示失望 政治家托马斯·马西在初选失利后猛烈抨击共和党和特朗普的舞厅 《今日美国》众议员托马斯·马西警告共和党在中期选举中将“非常脆弱” NBC新闻 特朗普的盟友面临着从马加在肯塔基州初选中获胜的虚假希望中破灭的危险 《卫报》马西的“特拉维夫”言论是以色列中期选举的最新爆发 纽约时报",
+      "title": "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQ0tWT3RzTjg5Mlp1OWdPN1RNRURGRlIyWVhSVkV3b0VQaXBlalR6WEtlUldqTnhqbjk3UmdWd1NreUthdUgtRFhNU21fdUxuQl9Gbnl5a0JRUQ?oc=5",
+      "published_at": "2026-05-25T13:32:10+00:00",
+      "description": "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre BBC Young men storm a Congo hospital treating Ebola patients to demand bodies of their relatives CNN Attacks from residents complicate the fight against a rare type of Ebola NPR Ebola patients flee in attacks on DR Congo health facilities, hobbling response NBC News A second Ebola treatment center is set ablaze in eastern Congo, with 18 suspected cases fleeing AP News",
+      "description_zh": "刚果民主共和国埃博拉治疗中心警察向空中开枪驱散愤怒的人群 BBC 年轻男子冲进刚果一家治疗埃博拉患者的医院，索要其亲属的尸体 CNN 居民的袭击使抗击罕见埃博拉病毒的斗争变得更加复杂 NPR 埃博拉患者在刚果民主共和国医疗机构的袭击中逃离，反应迟缓 NBC 新闻 刚果东部第二个埃博拉治疗中心被纵火，18 名疑似病例逃离 美联社新闻",
       "keywords": [
-        "disappointment",
-        "expresses",
-        "massie's",
-        "politico",
-        "khanna",
-        "defeat",
-        "massie",
-        "primary",
-        "thomas",
-        "republicans"
+        "ebola",
+        "congo",
+        "treatment",
+        "disperse",
+        "police",
+        "crowds",
+        "centre",
+        "shots",
+        "angry",
+        "fire"
       ],
       "keywords_zh": [
-        "失望",
-        "表达",
-        "马西的",
-        "政治报",
-        "卡纳",
-        "击败",
-        "马西",
-        "基本的",
-        "托马斯",
-        "共和党人"
+        "埃博拉病毒",
+        "刚果",
+        "治疗",
+        "分散",
+        "警察",
+        "人群",
+        "中心",
+        "镜头",
+        "生气的",
+        "火"
       ],
       "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
+        "en": "Technology",
+        "zh": "科技"
       },
       "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: disappointment, expresses, massie's, politico, and khanna. The available excerpt says: Khanna expresses disappointment about Massie's defeat Politico Thomas Massie bashes Republicans, Trump's ballroom after primary loss USA Today Rep. Thomas Massie warns GOP will be ‘very vulnerable’ in the midterms NBC News Trump’s allies in danger of scraping false hope from Maga victory in Kentucky primary The Guardian Massie’s ‘Tel Aviv’ Remark Is the Latest Midterm Flare-Up Over Israel The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：失望、表达、马西的、政治报、卡纳。RSS 中文摘要显示：卡纳对马西的失败表示失望 政治家托马斯·马西在初选失利后猛烈抨击共和党和特朗普的舞厅 《今日美国》众议员托马斯·马西警告共和党在中期选举中将“非常脆弱” NBC新闻 特朗普的盟友面临着从马加在肯塔基州初选中获胜的虚假希望中破灭的危险 《卫报》马西的“特拉维夫”言论是以色列中期选举的最新爆发 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
+        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
+        "detailed_en": "Key signals: ebola, congo, treatment, disperse, and police. The available excerpt says: Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre BBC Young men storm a Congo hospital treating Ebola patients to demand bodies of their relatives CNN Attacks from residents complicate the fight against a rare type of Ebola NPR Ebola patients flee in attacks on DR Congo health facilities, hobbling response NBC News A second Ebola treatment center is set ablaze in eastern Congo, with 18 suspected cases fleeing AP News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：埃博拉病毒、刚果、治疗、分散、警察。RSS 中文摘要显示：刚果民主共和国埃博拉治疗中心警察向空中开枪驱散愤怒的人群 BBC 年轻男子冲进刚果一家治疗埃博拉患者的医院，索要其亲属的尸体 CNN 居民的袭击使抗击罕见埃博拉病毒的斗争变得更加复杂 NPR 埃博拉患者在刚果民主共和国医疗机构的袭击中逃离，反应迟缓 NBC 新闻 刚果东部第二个埃博拉治疗中心被纵火，18 名疑似病例逃离 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
         "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
+          "regulatory reaction",
+          "enterprise adoption",
+          "security or privacy consequences"
         ],
         "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
+          "监管反应",
+          "企业采用情况",
+          "安全或隐私后果"
         ]
       }
     },
     {
       "rank": 10,
-      "title": "'Reckless escalation': Europe condemns Russia’s use of 'Oreshnik' missile - Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWHVKVnUyYVJjc2xicjVjWjRlN0ZvTlVFTk5DdEs4am1WQXdOc1JKTlFpa3FOVjBmam5VemhLY3FRRG00ZDFXUnpjc3Q3ZWRCVlVxTkZfTTc3Y3RSQXNSLWJoUWF1ZDlFY29XMlFENnEyMFpCWkd5VDMzY2dSenRsOW1PbUZPRkQ2U0NCRlk2UkFKRmltQlROcXhhY0s5X1VDSnhPNEoyT0lsV2Eya3VIOGtNTQ?oc=5",
-      "published_at": "2026-05-24T13:37:39+00:00",
-      "description": "'Reckless escalation': Europe condemns Russia’s use of 'Oreshnik' missile Euronews.com Russian Offensive Campaign Assessment, May 24, 2026 Institute for the Study of War Russia pounds Kyiv in powerful drone and missile attack NPR Kyiv Suffers One of Ukraine War’s Heaviest Russian Barrages WSJ Zelensky Calls For 'Consequences' After Russia Hits Kyiv With One of Heaviest Bombardments Since War Began Time Magazine",
-      "description_zh": "“鲁莽升级”：欧洲谴责俄罗斯使用“奥列什尼克”导弹 Euronews.com 俄罗斯进攻战役评估，2026 年 5 月 24 日 俄罗斯战争研究所以强大的无人机和导弹袭击基辅 NPR 基辅遭受乌克兰战争最严重的俄罗斯炮火之一 华尔街日报泽伦斯基在俄罗斯以战后最严重的轰炸之一袭击基辅后呼吁“后果”开始时代杂志",
+      "title": "Governor Newsom secures Presidential Emergency Declaration approval for Orange County hazmat response - California State Portal | CA.gov",
+      "source": "California State Portal | CA.gov",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd0ZjalBrckFlcUQ2bkhsVDlkMlVUbzJDT045QllEd3VOLWJYTkVHY2xVVkZDQkFlUFV3Z2pBdHU3aHdXY0xoMUI5Vzh3TlJQd2c1T3h1VF84SGxQdWxscGNfUUtVU2JoOVNGMGxwakdsdVRvaFFyTXVNcno2TUtpQ2QxemFzX2hwd240Q3pXREJzQmpOSnZTRkdqNE9ZWFplMnEzZDZCLXRwX3NIOXJNWkNlV1F0TVNkRG91Ull2RTVOdktGWEtlY19VU19oOHFqS3c?oc=5",
+      "published_at": "2026-05-25T18:32:17+00:00",
+      "description": "Governor Newsom secures Presidential Emergency Declaration approval for Orange County hazmat response California State Portal | CA.gov Evacuation orders lift for thousands of residents near Garden Grove chemical tank LAist Anaheim family's video welcoming numerous relatives affected by evacuation goes viral NBC Los Angeles Crews to conduct all-night mission to confirm if explosion threat is eliminated ABC7 Los Angeles Threat of Explosion From Toxic Chemical Tank Lessened, Officials Say The New York Times",
+      "description_zh": "纽瑟姆州长获得奥兰治县危险品应对总统紧急声明的批准 California State Portal | CA.gov 疏散令加登格罗夫化学罐附近数千名居民的疏散命令 LAist Anaheim 家庭欢迎众多受疏散影响的亲属的视频在网上疯传 NBC 洛杉矶工作人员进行通宵任务，以确认爆炸威胁是否已消除 ABC7 洛杉矶 官员表示，有毒化学罐爆炸的威胁有所减轻 《纽约时报》",
       "keywords": [
-        "russia",
-        "missile",
-        "escalation",
-        "oreshnik",
-        "reckless",
-        "condemns",
-        "euronews",
-        "europe",
-        "use",
-        "com"
+        "presidential",
+        "declaration",
+        "california",
+        "emergency",
+        "governor",
+        "approval",
+        "response",
+        "secures",
+        "newsom",
+        "orange"
       ],
       "keywords_zh": [
-        "俄罗斯",
-        "导弹",
-        "升级",
-        "奥列什尼克",
-        "鲁莽",
-        "谴责",
-        "欧洲新闻报",
-        "欧洲",
-        "使用",
-        "com"
+        "总统",
+        "宣言",
+        "加利福尼亚州",
+        "紧急情况",
+        "州长",
+        "赞同",
+        "回复",
+        "确保",
+        "消息",
+        "橙子"
       ],
       "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
+        "en": "Politics and governance",
+        "zh": "政治与治理"
       },
       "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: russia, missile, escalation, oreshnik, and reckless. The available excerpt says: 'Reckless escalation': Europe condemns Russia’s use of 'Oreshnik' missile Euronews.com Russian Offensive Campaign Assessment, May 24, 2026 Institute for the Study of War Russia pounds Kyiv in powerful drone and missile attack NPR Kyiv Suffers One of Ukraine War’s Heaviest Russian Barrages WSJ Zelensky Calls For 'Consequences' After Russia Hits Kyiv With One of Heaviest Bombardments Since War Began Time Magazine Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：俄罗斯、导弹、升级、奥列什尼克、鲁莽。RSS 中文摘要显示：“鲁莽升级”：欧洲谴责俄罗斯使用“奥列什尼克”导弹 Euronews.com 俄罗斯进攻战役评估，2026 年 5 月 24 日 俄罗斯战争研究所以强大的无人机和导弹袭击基辅 NPR 基辅遭受乌克兰战争最严重的俄罗斯炮火之一 华尔街日报泽伦斯基在俄罗斯以战后最严重的轰炸之一袭击基辅后呼吁“后果”开始时代杂志 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: presidential, declaration, california, emergency, and governor. The available excerpt says: Governor Newsom secures Presidential Emergency Declaration approval for Orange County hazmat response California State Portal | CA.gov Evacuation orders lift for thousands of residents near Garden Grove chemical tank LAist Anaheim family's video welcoming numerous relatives affected by evacuation goes viral NBC Los Angeles Crews to conduct all-night mission to confirm if explosion threat is eliminated ABC7 Los Angeles Threat of Explosion From Toxic Chemical Tank Lessened, Officials Say The New York Times Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：总统、宣言、加利福尼亚州、紧急情况、州长。RSS 中文摘要显示：纽瑟姆州长获得奥兰治县危险品应对总统紧急声明的批准 California State Portal | CA.gov 疏散令加登格罗夫化学罐附近数千名居民的疏散命令 LAist Anaheim 家庭欢迎众多受疏散影响的亲属的视频在网上疯传 NBC 洛杉矶工作人员进行通宵任务，以确认爆炸威胁是否已消除 ABC7 洛杉矶 官员表示，有毒化学罐爆炸的威胁有所减轻 《纽约时报》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
         ],
         "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
         ]
       }
     }
