@@ -1,91 +1,92 @@
 {
-  "generated_at": "2026-05-26T07:41:01+00:00",
+  "generated_at": "2026-05-27T07:58:41+00:00",
   "timezone": "UTC",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "US launches new strikes on Iran, targeting missile sites and boats - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaDJGdEZ0YndpVVJXUlUydGhtZnZWVUFDdnR6MUdTSmhQNVMyZmRKUGMxZC0yTUNNTGw1Q2Q1M3VsNWVacFJ2X3cwd1BiOTd4b1BSYWxBM1Bodw?oc=5",
-      "published_at": "2026-05-26T05:45:58+00:00",
-      "description": "US launches new strikes on Iran, targeting missile sites and boats BBC U.S. Carries Out Renewed Strikes in Southern Iran The New York Times Rubio says Iran deal could take days after US forces launch new attacks Al Jazeera Iran War Live Updates: U.S. Conducted ‘Defensive’ Attacks On Iranian Targets, Officials Say WSJ U.S. conducts 'self-defense strikes' in Iran as Trump pushes for peace deal CNBC",
-      "description_zh": "美国对伊朗发动新的打击，目标是导弹基地和船只 BBC 美国在伊朗南部发动新一轮打击 《纽约时报》卢比奥表示，在美军发动新的袭击后，伊朗协议可能需要几天时间 半岛电视台伊朗战争实时更新：官员称，美国对伊朗目标进行“防御性”攻击 华尔街日报 美国在伊朗进行“自卫打击”，特朗普推动和平协议 CNBC",
+      "title": "Texas GOP voters oust Cornyn in Paxton upset - Axios",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWhzSEJTekJza1NnSmV0bFk5Qm9GMGs2WThGSWQ2R2pqQVNiZ2VQd2RGU2pNWjJ5U3JYb0loS1ZrMWZNOUJ3YkVPSUpqVml5WHdHM04zSjlVV28wVTZaMHVlNjNXUGJJai1qQWFJVkVTRUNyTnhUbHV3RGdZMnF1b0VB?oc=5",
+      "published_at": "2026-05-27T06:16:59+00:00",
+      "description": "Texas GOP voters oust Cornyn in Paxton upset Axios Trump-backed Ken Paxton ousts John Cornyn in heated Texas primary after scandal-plagued campaign The Guardian John Cornyn’s defeat raises a new question: Will he join the Senate Republicans rebelling against Trump? CNN ‘Pretty damn bullish’: Democrats have high hopes for Paxton-Talarico showdown Politico Cornyn went to great lengths to avoid Trump's wrath. The Texas senator lost his seat anyway KSAT",
+      "description_zh": "得克萨斯州共和党选民在帕克斯顿 (Paxton) 事件中推翻科宁 (Axios) 特朗普支持的肯·帕克斯顿 (Ken Paxton) 在丑闻缠身的竞选活动后，在激烈的得克萨斯州初选中罢免了约翰·科宁 (John Cornyn)。 CNN“非常乐观”：民主党人对帕克斯顿与塔拉里科的对决寄予厚望，政治科宁竭尽全力避免激怒特朗普。无论如何，德克萨斯州参议员失去了席位 KSAT",
       "keywords": [
-        "iran",
-        "strikes",
-        "targeting",
-        "launches",
-        "missile",
-        "sites",
-        "boats",
-        "attacks",
-        "deal",
-        "self-defense"
+        "cornyn",
+        "texas",
+        "paxton",
+        "voters",
+        "upset",
+        "axios",
+        "oust",
+        "gop",
+        "john",
+        "scandal-plagued"
       ],
       "keywords_zh": [
-        "伊朗",
-        "袭击",
-        "瞄准",
-        "发射",
-        "导弹",
-        "站点",
-        "船",
-        "交易",
-        "自卫"
+        "科宁",
+        "德克萨斯州",
+        "帕克斯顿",
+        "选民",
+        "沮丧的",
+        "轴",
+        "驱逐",
+        "共和党",
+        "约翰",
+        "丑闻缠身"
       ],
       "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
+        "en": "Politics and governance",
+        "zh": "政治与治理"
       },
       "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: iran, strikes, targeting, launches, and missile. The available excerpt says: US launches new strikes on Iran, targeting missile sites and boats BBC U.S. Carries Out Renewed Strikes in Southern Iran The New York Times Rubio says Iran deal could take days after US forces launch new attacks Al Jazeera Iran War Live Updates: U.S. Conducted ‘Defensive’ Attacks On Iranian Targets, Officials Say WSJ U.S. conducts 'self-defense strikes' in Iran as Trump pushes for peace deal CNBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：伊朗、袭击、瞄准、发射、导弹。RSS 中文摘要显示：美国对伊朗发动新的打击，目标是导弹基地和船只 BBC 美国在伊朗南部发动新一轮打击 《纽约时报》卢比奥表示，在美军发动新的袭击后，伊朗协议可能需要几天时间 半岛电视台伊朗战争实时更新：官员称，美国对伊朗目标进行“防御性”攻击 华尔街日报 美国在伊朗进行“自卫打击”，特朗普推动和平协议 CNBC 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: cornyn, texas, paxton, voters, and upset. The available excerpt says: Texas GOP voters oust Cornyn in Paxton upset Axios Trump-backed Ken Paxton ousts John Cornyn in heated Texas primary after scandal-plagued campaign The Guardian John Cornyn’s defeat raises a new question: Will he join the Senate Republicans rebelling against Trump? CNN ‘Pretty damn bullish’: Democrats have high hopes for Paxton-Talarico showdown Politico Cornyn went to great lengths to avoid Trump's wrath. The Texas senator lost his seat anyway KSAT Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：科宁、德克萨斯州、帕克斯顿、选民、沮丧的。RSS 中文摘要显示：得克萨斯州共和党选民在帕克斯顿 (Paxton) 事件中推翻科宁 (Axios) 特朗普支持的肯·帕克斯顿 (Ken Paxton) 在丑闻缠身的竞选活动后，在激烈的得克萨斯州初选中罢免了约翰·科宁 (John Cornyn)。 CNN“非常乐观”：民主党人对帕克斯顿与塔拉里科的对决寄予厚望，政治科宁竭尽全力避免激怒特朗普。无论如何，德克萨斯州参议员失去了席位 KSAT 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
         ],
         "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
         ]
       }
     },
     {
       "rank": 2,
-      "title": "As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords - The Washington Post",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbG80dUZlanZBTUVzNDFSdFpWOXlUU0lkLTNvMU91NWU0VVViTlpiUmh4MktyZjBJSm5lZ0tydlRhdk9MLVFwQmdyWFl3anB3R3VjeXdmdFE5Ul9GbmZpbkloVHh1Uk9TVzRuNEwxQ2tKMTFFeDVYRFRyakxhbFlSUWJRZkpHYmQ1Wmpvem1QWWxiam9Pdjk3bzVlbXdMWi1vVnFsS1A5TGpQajBCcUtTemdHbXY3cFptWXc?oc=5",
-      "published_at": "2026-05-26T02:07:57+00:00",
-      "description": "As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords The Washington Post A ruse, a brave gamble or a fantasy? Why Trump’s most puzzling Iran move yet is unlikely to work CNN Trump asked Muslim leaders to sign peace deal with Israel after Iran war ends Axios Trump links Abraham Accords to any Iran deal Reuters Tehran expresses ‘resolute support’ for Hezbollah – as it happened The Guardian",
-      "description_zh": "新的伊朗协议面临尖锐批评，特朗普寻求扩大亚伯拉罕协议 华盛顿邮报 这是一个诡计、一次勇敢的赌博还是一个幻想？为什么特朗普最令人费解的伊朗举措不太可能奏效 CNN 特朗普要求穆斯林领导人在伊朗战争结束后与以色列签署和平协议 Axios 特朗普将亚伯拉罕协议与任何伊朗协议联系起来 路透 德黑兰表示“坚决支持”真主党 - 正如它所发生的那样",
+      "title": "Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEZJdk12ek92NkdMSktFN3VpdUJwZzJvaUVnX2pybnIwNHR6bjJjUnZjNVlhRUplV01UVXRmQ3pkRFF1MU1uaWtweGhEWDBxbGluT3dQbkhta09xX3FQUnpsejRKZTdWNnk5SjhDbTR6RmZFMjlzVUNaS1czeE11TmhZYWkyVC1Bcy1rU2pxTWdHZXpGTEo4SFBB?oc=5",
+      "published_at": "2026-05-27T04:02:00+00:00",
+      "description": "Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran AP News Trump gathers Cabinet as he looks to seal deal to end war NPR Trump convenes rare Camp David Cabinet meeting as Iran deal pressure grows Fox News Trump cancels Camp David Cabinet trip, citing weather CNBC Strait of Hormuz will open ‘one way or the other’ as Trump gathers cabinet The Times",
+      "description_zh": "特朗普召集内阁，因为一些支持者担心这将让伊朗更加大胆",
       "keywords": [
+        "cabinet",
         "trump",
-        "iran",
+        "gathers",
         "deal",
-        "abraham",
-        "accords",
-        "washington",
-        "criticism",
-        "faces",
-        "sharp",
-        "seeks"
+        "looks",
+        "seal",
+        "iran",
+        "end",
+        "war",
+        "embolden"
       ],
       "keywords_zh": [
+        "内阁",
         "特朗普",
-        "伊朗",
+        "聚集",
         "交易",
-        "亚伯拉罕",
-        "协议",
-        "华盛顿",
-        "批评",
-        "面孔",
-        "锋利的",
-        "寻求"
+        "看起来",
+        "海豹",
+        "伊朗",
+        "结尾",
+        "战争",
+        "栓子"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -94,8 +95,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: trump, iran, deal, abraham, and accords. The available excerpt says: As new Iran deal faces sharp criticism, Trump seeks to widen Abraham Accords The Washington Post A ruse, a brave gamble or a fantasy? Why Trump’s most puzzling Iran move yet is unlikely to work CNN Trump asked Muslim leaders to sign peace deal with Israel after Iran war ends Axios Trump links Abraham Accords to any Iran deal Reuters Tehran expresses ‘resolute support’ for Hezbollah – as it happened The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：特朗普、伊朗、交易、亚伯拉罕、协议。RSS 中文摘要显示：新的伊朗协议面临尖锐批评，特朗普寻求扩大亚伯拉罕协议 华盛顿邮报 这是一个诡计、一次勇敢的赌博还是一个幻想？为什么特朗普最令人费解的伊朗举措不太可能奏效 CNN 特朗普要求穆斯林领导人在伊朗战争结束后与以色列签署和平协议 Axios 特朗普将亚伯拉罕协议与任何伊朗协议联系起来 路透 德黑兰表示“坚决支持”真主党 - 正如它所发生的那样 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: cabinet, trump, gathers, deal, and looks. The available excerpt says: Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran AP News Trump gathers Cabinet as he looks to seal deal to end war NPR Trump convenes rare Camp David Cabinet meeting as Iran deal pressure grows Fox News Trump cancels Camp David Cabinet trip, citing weather CNBC Strait of Hormuz will open ‘one way or the other’ as Trump gathers cabinet The Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：内阁、特朗普、聚集、交易、看起来。RSS 中文摘要显示：特朗普召集内阁，因为一些支持者担心这将让伊朗更加大胆 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -110,87 +111,88 @@
     },
     {
       "rank": 3,
-      "title": "5 ways Pope Leo says AI could warp humanity - Axios",
-      "source": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MX3czOXhZY1MzZjB5MS1fYzZXTi1IMkhyeEVac2VoeEtxVEIwOVJKQjNXR0FNZ0RxRV9LZHlBcDFOd0k3dzFjUFE2V1dIcDhORmEteHpLc01Ha0o1VERYaEMzQUthOFg0M1JaWTdXMVpnbG9mLUZDZFRidTVCQkU?oc=5",
-      "published_at": "2026-05-25T17:28:09+00:00",
-      "description": "5 ways Pope Leo says AI could warp humanity Axios Main Takeaways From Pope Leo’s Encyclical on A.I. The New York Times Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" Anthropic Anthropic Billionaire Olah To Vatican: Don’t Trust Us Forbes A capitalist (priest) reads ‘Magnifica Humanitas’ America Magazine",
-      "description_zh": "利奥教皇称人工智能可能会以 5 种方式扭曲人类 Axios 利奥教皇关于人工智能的通谕的主要内容纽约时报 Anthropic 联合创始人 Chris Olah 对教皇利奥十四世通谕“Magnifica humanitas”的评论 Anthropic Anthropic 亿万富翁 Olah 致梵蒂冈：不要相信我们 福布斯 一位资本家（牧师）读到“Magnifica Humanitas”美国杂志",
+      "title": "Corrosive chemicals hamper recovery efforts at Longview industrial site; 9 still unaccounted for after tank rupture - Oregon Public Broadcasting - OPB",
+      "source": "Oregon Public Broadcasting - OPB",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE43YzRVa29JRXA2TjdkTldHZUJIX25SMjNFWDVLb0Rnd2ZGTFhUS1JiSzVmMmQwZEdhcXhET0czMjZVWTU1YVpXYXRvbW1DLTJuZlNKcWJoS3duS1NZR2tLMkk4eFBWaUYxcC1pMVNqQVdoa3MyRFk1UnRRY2RvajQ?oc=5",
+      "published_at": "2026-05-27T06:00:13+00:00",
+      "description": "Corrosive chemicals hamper recovery efforts at Longview industrial site; 9 still unaccounted for after tank rupture Oregon Public Broadcasting - OPB 1 confirmed dead, 9 missing in chemical tank rupture at Nippon Dynawave pulp and paper mill in Longview KGW Longview explosion: one killed and nine missing after blast at paper mill BBC 1 confirmed dead, 9 others missing after chemical implosion at facility in SW Washington KATU 1 dead, 9 missing after chemical tank ruptures at pulp and paper mill Yahoo",
+      "description_zh": "腐蚀性化学品阻碍朗维尤工业基地的恢复工作；储罐破裂后仍有 9 人下落不明 俄勒冈州公共广播 - 位于朗维尤 (Longview) 的日本 Dynawave 纸浆和造纸厂化学储罐破裂，OPB 1 确认死亡，9 人失踪 KGW 朗维尤爆炸：造纸厂爆炸后，1 人死亡，9 人失踪 BBC 1 确认死亡，9 人失踪 华盛顿西南部工厂化学储罐破裂后，卡图 (KATU) 纸浆和造纸厂化学储罐破裂，1 人死亡，9 人失踪 雅虎",
       "keywords": [
-        "pope",
-        "leo",
-        "humanity",
-        "axios",
-        "ways",
-        "warp",
-        "anthropic",
-        "encyclical",
-        "magnifica",
-        "humanitas"
+        "longview",
+        "tank",
+        "rupture",
+        "broadcasting",
+        "unaccounted",
+        "industrial",
+        "corrosive",
+        "chemicals",
+        "recovery",
+        "efforts"
       ],
       "keywords_zh": [
-        "教皇",
-        "狮子座",
-        "人类",
-        "轴",
-        "方式",
-        "经",
-        "人择的",
-        "通谕",
-        "壮丽"
+        "朗维尤",
+        "坦克",
+        "破裂",
+        "广播",
+        "下落不明的",
+        "工业的",
+        "腐蚀性的",
+        "化学品",
+        "恢复",
+        "努力"
       ],
       "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
+        "en": "Public safety and society",
+        "zh": "公共安全与社会"
       },
       "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: pope, leo, humanity, axios, and ways. The available excerpt says: 5 ways Pope Leo says AI could warp humanity Axios Main Takeaways From Pope Leo’s Encyclical on A.I. The New York Times Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\" Anthropic Anthropic Billionaire Olah To Vatican: Don’t Trust Us Forbes A capitalist (priest) reads ‘Magnifica Humanitas’ America Magazine Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：教皇、狮子座、人类、轴、方式。RSS 中文摘要显示：利奥教皇称人工智能可能会以 5 种方式扭曲人类 Axios 利奥教皇关于人工智能的通谕的主要内容纽约时报 Anthropic 联合创始人 Chris Olah 对教皇利奥十四世通谕“Magnifica humanitas”的评论 Anthropic Anthropic 亿万富翁 Olah 致梵蒂冈：不要相信我们 福布斯 一位资本家（牧师）读到“Magnifica Humanitas”美国杂志 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "summary_en": "This story centers on harm to people, emergency response, or social disruption.",
+        "summary_zh": "这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。",
+        "detailed_en": "Key signals: longview, tank, rupture, broadcasting, and unaccounted. The available excerpt says: Corrosive chemicals hamper recovery efforts at Longview industrial site; 9 still unaccounted for after tank rupture Oregon Public Broadcasting - OPB 1 confirmed dead, 9 missing in chemical tank rupture at Nippon Dynawave pulp and paper mill in Longview KGW Longview explosion: one killed and nine missing after blast at paper mill BBC 1 confirmed dead, 9 others missing after chemical implosion at facility in SW Washington KATU 1 dead, 9 missing after chemical tank ruptures at pulp and paper mill Yahoo Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.",
+        "detailed_zh": "关键词信号：朗维尤、坦克、破裂、广播、下落不明的。RSS 中文摘要显示：腐蚀性化学品阻碍朗维尤工业基地的恢复工作；储罐破裂后仍有 9 人下落不明 俄勒冈州公共广播 - 位于朗维尤 (Longview) 的日本 Dynawave 纸浆和造纸厂化学储罐破裂，OPB 1 确认死亡，9 人失踪 KGW 朗维尤爆炸：造纸厂爆炸后，1 人死亡，9 人失踪 BBC 1 确认死亡，9 人失踪 华盛顿西南部工厂化学储罐破裂后，卡图 (KATU) 纸浆和造纸厂化学储罐破裂，1 人死亡，9 人失踪 雅虎 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。",
         "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
+          "official investigation",
+          "confirmed casualty numbers",
+          "prevention measures"
         ],
         "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
+          "官方调查",
+          "确认伤亡数字",
+          "预防措施"
         ]
       }
     },
     {
       "rank": 4,
-      "title": "Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv - The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTWhSNktpN054VGd5eHA5WXVReEdKTW5rTkg5N2RQTlhKV2ZGV2ZYcDhiNlhfRXNSdWY4WlN4clVWcXIzbmZHUUtpeHFkY05BQWdnQUhvc3ItcEM0MkVwbEhqaklwNkVBaFpuTGNvcXJ0UFl6VldTb1NQZUFVOV9id09kOENROTR5dW1VVTRBN2xBeF9MdDlPY1ZlVDRLT3N2ZFFsVVJYbGJ6dHFjbHh3M3puSUFpSm8?oc=5",
-      "published_at": "2026-05-26T04:14:00+00:00",
-      "description": "Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv The Guardian Russian Offensive Campaign Assessment, May 25, 2026 Institute for the Study of War Russia tells US to pull its diplomats and citizens from Ukraine capital South China Morning Post Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’ Al Jazeera Russia Tells US to Evacuate Its Diplomats and Citizens From Kyiv Bloomberg.com",
-      "description_zh": "乌克兰战争简报：俄罗斯向美国施压，为基辅袭击扫清道路 《卫报》俄罗斯进攻战役评估，2026 年 5 月 25 日 战争研究所 俄罗斯要求美国从乌克兰首都撤走其外交官和公民 《南华早报》 俄罗斯警告外国人离开基辅，准备“系统性打击” 半岛电视台 俄罗斯要求美国从基辅撤离外交官和公民 Bloomberg.com",
+      "title": "Hamas military chief Mohammed Odeh killed by Israel, 11 days after predecessor slain - The Times of Israel",
+      "source": "The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ21fMGlkUnE1d2cwT1pnejl6UnVTYUZTSVhPWDJWUE5BOHhvWTVpTmpJb1VyckxyOG1ONllkQWVXZEphV3NPSDJrRExWWjc1cWtMejFZMFJuV3U0bGVhYkpCMzhWNVQzdHBZUGdnczNSbk4yanAyaHA1RTV5VVhaRjJyd2pGZW5SU2RNdTByOGp1bC1Ld09tcGJDdDBvNkI5bklMV2dRX3JQSU9NQnI2aUFmd3dpaXZuQlVjZlVZWdIBxAFBVV95cUxOUjRTYmRQX043Qkhud09LYTEyZS15bW5LRHdQa3o2dzJIQ2lIT1VQRm1ETEtjVjhxMHhvTjA0bU5lV0Z3NmtTSW1WVXRXVWV1Ui1CMFJ6QzhNQ3RJbDA1YVlucm50UDJ4UmxHUUFhYzNkZ3ZGd0JIdFlyNXl1RXFmYk9JRVJrTE5QQ1pSMFNyMUd2d0FVLWJ6NHJqUkg1UU9TV3NnQmNCRy1sQzltWnlraWxQUDl5YmFTNmJyLV9RSFV0MFlp?oc=5",
+      "published_at": "2026-05-26T22:54:09+00:00",
+      "description": "Hamas military chief Mohammed Odeh killed by Israel, 11 days after predecessor slain The Times of Israel Israel says it killed Hamas’ new armed wing chief in Gaza NBC News Israel says strike killed new chief of Hamas armed wing in Gaza CBS News Katz says Israel advancing plan for ‘voluntary emigration’ from Gaza The Times of Israel Israel attacks Hamas' new armed wing chief, Netanyahu says Reuters",
+      "description_zh": "哈马斯军事首长穆罕默德·奥德 (Mohammed Odeh) 在前任被杀 11 天后被以色列杀害 以色列时报 以色列称其在加沙杀死了哈马斯新任武装派别首领 NBC 新闻 以色列称袭击导致加沙哈马斯武装派别新任首领丧生 CBS 新闻 卡茨称以色列正在推进从加沙“自愿移民”的计划 以色列时报 内塔尼亚胡称，以色列袭击了哈马斯新任武装派别首领 路透",
       "keywords": [
-        "russia",
-        "kyiv",
-        "ukraine",
-        "war",
-        "pressures",
-        "briefing",
-        "attacks",
-        "clear",
-        "way",
-        "diplomats"
+        "israel",
+        "chief",
+        "killed",
+        "hamas",
+        "predecessor",
+        "military",
+        "mohammed",
+        "slain",
+        "odeh",
+        "days"
       ],
       "keywords_zh": [
-        "俄罗斯",
-        "基辅",
-        "乌克兰",
-        "战争",
-        "压力",
-        "简报",
-        "袭击",
-        "清除",
-        "方式",
-        "外交官"
+        "以色列",
+        "首席",
+        "死亡",
+        "哈马斯",
+        "前任",
+        "军事",
+        "穆罕默德",
+        "被杀",
+        "奥德",
+        "天"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -199,8 +201,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: russia, kyiv, ukraine, war, and pressures. The available excerpt says: Ukraine war briefing: Russia pressures US to clear way for attacks on Kyiv The Guardian Russian Offensive Campaign Assessment, May 25, 2026 Institute for the Study of War Russia tells US to pull its diplomats and citizens from Ukraine capital South China Morning Post Russia warns foreigners to leave Kyiv as it prepares ‘systematic strikes’ Al Jazeera Russia Tells US to Evacuate Its Diplomats and Citizens From Kyiv Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：俄罗斯、基辅、乌克兰、战争、压力。RSS 中文摘要显示：乌克兰战争简报：俄罗斯向美国施压，为基辅袭击扫清道路 《卫报》俄罗斯进攻战役评估，2026 年 5 月 25 日 战争研究所 俄罗斯要求美国从乌克兰首都撤走其外交官和公民 《南华早报》 俄罗斯警告外国人离开基辅，准备“系统性打击” 半岛电视台 俄罗斯要求美国从基辅撤离外交官和公民 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: israel, chief, killed, hamas, and predecessor. The available excerpt says: Hamas military chief Mohammed Odeh killed by Israel, 11 days after predecessor slain The Times of Israel Israel says it killed Hamas’ new armed wing chief in Gaza NBC News Israel says strike killed new chief of Hamas armed wing in Gaza CBS News Katz says Israel advancing plan for ‘voluntary emigration’ from Gaza The Times of Israel Israel attacks Hamas' new armed wing chief, Netanyahu says Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：以色列、首席、死亡、哈马斯、前任。RSS 中文摘要显示：哈马斯军事首长穆罕默德·奥德 (Mohammed Odeh) 在前任被杀 11 天后被以色列杀害 以色列时报 以色列称其在加沙杀死了哈马斯新任武装派别首领 NBC 新闻 以色列称袭击导致加沙哈马斯武装派别新任首领丧生 CBS 新闻 卡茨称以色列正在推进从加沙“自愿移民”的计划 以色列时报 内塔尼亚胡称，以色列袭击了哈马斯新任武装派别首领 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -215,35 +217,35 @@
     },
     {
       "rank": 5,
-      "title": "Rubio says Iran deal could take days as US launches fresh strikes - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2M1OFpXcm8tVlBZczVzcFhhdF9PQmw4UkdFRVRxS3BydkZPVXNiNXhyVU5fTFZXOE1TY040LXAtTFhzNEhHOU12UTNoSjllTHpzM2JxMmJUazZyVkRqUmFlbUtzd1FhdkNma1lGeHVFdjZfOHNLYW80dlJrbjJ5VmRnMURtejlVRjdOdlAwdGwxbURIdU9RMUZ1YjZVd2Rhdm84QU5xY0lJVDdVTXUzUzZPZjY5V3c?oc=5",
-      "published_at": "2026-05-26T03:58:00+00:00",
-      "description": "Rubio says Iran deal could take days as US launches fresh strikes Reuters Trump news at a glance: Iran says ‘contradictory statements’ from US hindering deal negotiations The Guardian Iran and U.S. play down hopes for imminent breakthrough in war CNBC What an America-Iran deal might look like The Economist Iran says no deal ‘imminent’ despite progress in talks with U.S. NBC News",
-      "description_zh": "卢比奥表示，随着美国发动新的打击，伊朗协议可能需要数天时间 路透社 特朗普新闻一览：伊朗称美国“相互矛盾的声明”阻碍了协议谈判 《卫报》 伊朗和美国淡化了战争即将取得突破的希望 CNBC 美伊协议可能会是什么样子 《经济学人》 伊朗表示，尽管与美国的谈判取得了进展，但不会“立即”达成协议 NBC新闻",
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jVjBtRTVwMTh2clFFMGNtcDByVWxEUTJ5RG9lZnNDSUdNeWRDRFFjVHR6b2tVaUVNRWxTTk5oUWk1U0VDMUQ2cHVFdnZkRmxlRm82cjBoblBEUQ?oc=5",
+      "published_at": "2026-05-27T04:07:27+00:00",
+      "description": "Dozens killed in Lebanon as Israel intensifies strikes BBC See more headlines & perspectives on Google News",
+      "description_zh": "以色列加强打击，黎巴嫩数十人丧生 BBC 在 Google 新闻上查看更多头条新闻和观点",
       "keywords": [
-        "iran",
-        "deal",
-        "launches",
+        "intensifies",
+        "lebanon",
         "strikes",
-        "rubio",
-        "fresh",
-        "take",
-        "days",
-        "imminent",
-        "contradictory"
+        "dozens",
+        "killed",
+        "israel",
+        "perspectives",
+        "headlines",
+        "google",
+        "see"
       ],
       "keywords_zh": [
-        "伊朗",
-        "交易",
-        "发射",
+        "加剧",
+        "黎巴嫩",
         "袭击",
-        "卢比奥",
-        "新鲜的",
-        "拿",
-        "天",
-        "迫在眉睫的",
-        "矛盾的"
+        "几十个",
+        "死亡",
+        "以色列",
+        "观点",
+        "头条新闻",
+        "谷歌",
+        "看"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -252,8 +254,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: iran, deal, launches, strikes, and rubio. The available excerpt says: Rubio says Iran deal could take days as US launches fresh strikes Reuters Trump news at a glance: Iran says ‘contradictory statements’ from US hindering deal negotiations The Guardian Iran and U.S. play down hopes for imminent breakthrough in war CNBC What an America-Iran deal might look like The Economist Iran says no deal ‘imminent’ despite progress in talks with U.S. NBC News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：伊朗、交易、发射、袭击、卢比奥。RSS 中文摘要显示：卢比奥表示，随着美国发动新的打击，伊朗协议可能需要数天时间 路透社 特朗普新闻一览：伊朗称美国“相互矛盾的声明”阻碍了协议谈判 《卫报》 伊朗和美国淡化了战争即将取得突破的希望 CNBC 美伊协议可能会是什么样子 《经济学人》 伊朗表示，尽管与美国的谈判取得了进展，但不会“立即”达成协议 NBC新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: intensifies, lebanon, strikes, dozens, and killed. The available excerpt says: Dozens killed in Lebanon as Israel intensifies strikes BBC See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：加剧、黎巴嫩、袭击、几十个、死亡。RSS 中文摘要显示：以色列加强打击，黎巴嫩数十人丧生 BBC 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -268,192 +270,35 @@
     },
     {
       "rank": 6,
-      "title": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon - The New York Times",
+      "title": "Evacuation Orders Lifted as Southern California Chemical Tank Cools - The New York Times",
       "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUEJSOXNPajBiZlpPdnJfcnBqZy1EdW5IMmZvZ192bHhuVE9QMWsxYUQ4YXBFQXF6T2p0ekZqd0kwVEtfMmVlOExLNWVCbWh2STVHRGpHc1Y4eFdLZVp0aEhOajd1VXlsRnJBdGhaUlo5MjBmbUJQNklvLTVkVXNPUDBWeVFsVjZWcGd6UTFjN3VKSGZ1NlE?oc=5",
-      "published_at": "2026-05-25T21:52:31+00:00",
-      "description": "Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon The New York Times Benjamin Netanyahu says Israel will intensify strikes against Hezbollah BBC Israeli airstrike on eastern Lebanese village kills 12 10TV Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah The Guardian Israeli strike on village in eastern Lebanon kills 12 The Washington Post",
-      "description_zh": "内塔尼亚胡称以色列计划加强对黎巴嫩真主党的袭击 《纽约时报》 本杰明·内塔尼亚胡称以色列将加强对真主党的打击 BBC 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 10TV 以色列升级对黎巴嫩的打击，内塔尼亚胡发誓要“粉碎”真主党 《卫报》 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 华盛顿邮报",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWV96bU1VTzNWTU1ENEpMZXdVcVZDWTlDMmdVNGtpd3VZOXdYXzhKTGI1eXB6dzE4RFhmZ0dEaFlsdzZsZ1hoSHd1a251U1BaeEFwT0NQMDdEeFlNV2txSnNhcVFVT1p4WDFhNExlVXJCR3hhLXRieW1tSWUxVDcxaGpkd0Z6Tk9w?oc=5",
+      "published_at": "2026-05-27T04:01:50+00:00",
+      "description": "Evacuation Orders Lifted as Southern California Chemical Tank Cools The New York Times All evacuation orders lifted, no threat of explosion, fire or leak at Garden Grove chemical tank ABC7 Los Angeles All evacuation orders lifted in O.C. chemical crisis. Threat is over, officials say Los Angeles Times Garden Grove chemical tank holding steady but evacuations continue KTLA Evacuation orders eased in Garden Grove, but thousands remain displaced NBC Los Angeles",
+      "description_zh": "南加州化学罐降温，疏散令解除 《纽约时报》 所有疏散令均已解除，加登格罗夫化学罐 ABC7 洛杉矶没有爆炸、火灾或泄漏威胁 OC 州所有疏散令均已解除化学危机。官员称威胁已经结束 洛杉矶时报 加登格罗夫化学罐保持稳定，但疏散仍在继续 KTLA 加登格罗夫的疏散令有所放松，但仍有数千人流离失所 NBC Los Angeles",
       "keywords": [
-        "netanyahu",
-        "hezbollah",
-        "lebanon",
-        "israel",
-        "intensify",
-        "attacks",
-        "plans",
-        "strikes",
-        "israeli",
-        "eastern"
+        "evacuation",
+        "chemical",
+        "orders",
+        "lifted",
+        "tank",
+        "california",
+        "southern",
+        "cools",
+        "angeles",
+        "garden"
       ],
       "keywords_zh": [
-        "内塔尼亚胡",
-        "真主党",
-        "黎巴嫩",
-        "以色列",
-        "强化",
-        "袭击",
-        "计划",
-        "东"
-      ],
-      "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
-      },
-      "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: netanyahu, hezbollah, lebanon, israel, and intensify. The available excerpt says: Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon The New York Times Benjamin Netanyahu says Israel will intensify strikes against Hezbollah BBC Israeli airstrike on eastern Lebanese village kills 12 10TV Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah The Guardian Israeli strike on village in eastern Lebanon kills 12 The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：内塔尼亚胡、真主党、黎巴嫩、以色列、强化。RSS 中文摘要显示：内塔尼亚胡称以色列计划加强对黎巴嫩真主党的袭击 《纽约时报》 本杰明·内塔尼亚胡称以色列将加强对真主党的打击 BBC 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 10TV 以色列升级对黎巴嫩的打击，内塔尼亚胡发誓要“粉碎”真主党 《卫报》 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 华盛顿邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
-        "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
-        ],
-        "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
-        ]
-      }
-    },
-    {
-      "rank": 7,
-      "title": "Israel’s military says it’s striking Hezbollah sites as Netanyahu vows to ‘increase the blows’ - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjB5aEVLM1pCRzcxOUkzZmt0T1RndVVmMmlBdHVGekxOM045eGV2UmV6eFlodlVMMGE4dkVIeTZwaGlpSHlvZm9wQ1NuN2RFTldCNWUtQUdxMTFTVUJ1VmJGNjc1YU5RMzduRU5wX19ENWdSY25nbENSYUVSTDVnek5uWVIwQzVkbVBmSURLRlJvQllHZWR1NjdB?oc=5",
-      "published_at": "2026-05-25T20:42:00+00:00",
-      "description": "Israel’s military says it’s striking Hezbollah sites as Netanyahu vows to ‘increase the blows’ AP News Benjamin Netanyahu says Israel will intensify strikes against Hezbollah BBC Israeli airstrike on eastern Lebanese village kills 12 10TV Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon The New York Times Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah The Guardian",
-      "description_zh": "以色列军方表示，内塔尼亚胡誓言“加大打击力度”，正在袭击真主党据点 美联社新闻 本杰明·内塔尼亚胡表示，以色列将加强对真主党的打击 BBC 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 10TV 内塔尼亚胡称，以色列计划加强对黎巴嫩真主党的袭击 《纽约时报》 以色列在内塔尼亚胡任内升级对黎巴嫩的打击誓言“粉碎”真主党卫报",
-      "keywords": [
-        "hezbollah",
-        "netanyahu",
-        "israel",
-        "vows",
-        "military",
-        "striking",
-        "increase",
-        "sites",
-        "blows",
-        "intensify"
-      ],
-      "keywords_zh": [
-        "真主党",
-        "内塔尼亚胡",
-        "以色列",
-        "誓言",
-        "军事",
-        "引人注目",
-        "增加",
-        "站点",
-        "打击",
-        "强化"
-      ],
-      "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
-      },
-      "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: hezbollah, netanyahu, israel, vows, and military. The available excerpt says: Israel’s military says it’s striking Hezbollah sites as Netanyahu vows to ‘increase the blows’ AP News Benjamin Netanyahu says Israel will intensify strikes against Hezbollah BBC Israeli airstrike on eastern Lebanese village kills 12 10TV Netanyahu Says Israel Plans to Intensify Attacks on Hezbollah in Lebanon The New York Times Israel escalates strikes in Lebanon as Netanyahu vows to ‘crush’ Hezbollah The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：真主党、内塔尼亚胡、以色列、誓言、军事。RSS 中文摘要显示：以色列军方表示，内塔尼亚胡誓言“加大打击力度”，正在袭击真主党据点 美联社新闻 本杰明·内塔尼亚胡表示，以色列将加强对真主党的打击 BBC 以色列对黎巴嫩东部村庄的空袭造成 12 人死亡 10TV 内塔尼亚胡称，以色列计划加强对黎巴嫩真主党的袭击 《纽约时报》 以色列在内塔尼亚胡任内升级对黎巴嫩的打击誓言“粉碎”真主党卫报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
-        "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
-        ],
-        "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
-        ]
-      }
-    },
-    {
-      "rank": 8,
-      "title": "Suspect killed after firing shots near White House security checkpoint, Secret Service says - PBS",
-      "source": "PBS",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlVDRVdMc1FuejRsUlRqam9jTVBLMEduNlA2cDdBZVIwUm1nMy02SW5ob25RcWxSMHZRYXpGeTd6YklDUUU1c2lGQ0RxRG9GU01HbkVabnp2aDl3TDBqVXB6eWpoOVdnTFZ4VGtoU0dKcDczV2NUUmpMTndjTXpub3dSSW1XNnJGeXp4ZTZJeFllVWdJN0ltY0UzcFFpcnFYWTU5SmhGb2M4YkRSS1RLWFEybjJBdzEzVV80WkxXbk9YMnJv?oc=5",
-      "published_at": "2026-05-24T15:33:26+00:00",
-      "description": "Suspect killed after firing shots near White House security checkpoint, Secret Service says PBS What court docs reveal about Dundalk native shot by Secret Service WBAL-TV White House gunman had previous run-ins with Secret Service, court documents show BBC What we know about Nasire Best, Maryland man accused of White House shooting, sources say FOX 5 DC Dundalk neighbors stunned after 21-year-old killed in shootout near White House WBFF",
-      "description_zh": "特勤局表示，嫌疑人在白宫安全检查站附近开枪身亡",
-      "keywords": [
-        "white",
-        "house",
-        "service",
-        "secret",
-        "killed",
-        "near",
-        "checkpoint",
-        "security",
-        "suspect",
-        "firing"
-      ],
-      "keywords_zh": [
-        "白色的",
-        "房子",
-        "服务",
-        "秘密",
-        "死亡",
-        "靠近",
-        "检查站",
-        "安全",
-        "怀疑",
-        "射击"
-      ],
-      "category": {
-        "en": "Public safety and society",
-        "zh": "公共安全与社会"
-      },
-      "interpretation": {
-        "summary_en": "This story centers on harm to people, emergency response, or social disruption.",
-        "summary_zh": "这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。",
-        "detailed_en": "Key signals: white, house, service, secret, and killed. The available excerpt says: Suspect killed after firing shots near White House security checkpoint, Secret Service says PBS What court docs reveal about Dundalk native shot by Secret Service WBAL-TV White House gunman had previous run-ins with Secret Service, court documents show BBC What we know about Nasire Best, Maryland man accused of White House shooting, sources say FOX 5 DC Dundalk neighbors stunned after 21-year-old killed in shootout near White House WBFF Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.",
-        "detailed_zh": "关键词信号：白色的、房子、服务、秘密、死亡。RSS 中文摘要显示：特勤局表示，嫌疑人在白宫安全检查站附近开枪身亡 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。",
-        "what_to_watch_en": [
-          "official investigation",
-          "confirmed casualty numbers",
-          "prevention measures"
-        ],
-        "what_to_watch_zh": [
-          "官方调查",
-          "确认伤亡数字",
-          "预防措施"
-        ]
-      }
-    },
-    {
-      "rank": 9,
-      "title": "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MQ0tWT3RzTjg5Mlp1OWdPN1RNRURGRlIyWVhSVkV3b0VQaXBlalR6WEtlUldqTnhqbjk3UmdWd1NreUthdUgtRFhNU21fdUxuQl9Gbnl5a0JRUQ?oc=5",
-      "published_at": "2026-05-25T13:32:10+00:00",
-      "description": "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre BBC Young men storm a Congo hospital treating Ebola patients to demand bodies of their relatives CNN Attacks from residents complicate the fight against a rare type of Ebola NPR Ebola patients flee in attacks on DR Congo health facilities, hobbling response NBC News A second Ebola treatment center is set ablaze in eastern Congo, with 18 suspected cases fleeing AP News",
-      "description_zh": "刚果民主共和国埃博拉治疗中心警察向空中开枪驱散愤怒的人群 BBC 年轻男子冲进刚果一家治疗埃博拉患者的医院，索要其亲属的尸体 CNN 居民的袭击使抗击罕见埃博拉病毒的斗争变得更加复杂 NPR 埃博拉患者在刚果民主共和国医疗机构的袭击中逃离，反应迟缓 NBC 新闻 刚果东部第二个埃博拉治疗中心被纵火，18 名疑似病例逃离 美联社新闻",
-      "keywords": [
-        "ebola",
-        "congo",
-        "treatment",
-        "disperse",
-        "police",
-        "crowds",
-        "centre",
-        "shots",
-        "angry",
-        "fire"
-      ],
-      "keywords_zh": [
-        "埃博拉病毒",
-        "刚果",
-        "治疗",
-        "分散",
-        "警察",
-        "人群",
-        "中心",
-        "镜头",
-        "生气的",
-        "火"
+        "疏散",
+        "化学",
+        "订单",
+        "举起",
+        "坦克",
+        "加利福尼亚州",
+        "南部",
+        "冷却",
+        "安吉利斯",
+        "花园"
       ],
       "category": {
         "en": "Technology",
@@ -462,8 +307,8 @@
       "interpretation": {
         "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
         "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: ebola, congo, treatment, disperse, and police. The available excerpt says: Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre BBC Young men storm a Congo hospital treating Ebola patients to demand bodies of their relatives CNN Attacks from residents complicate the fight against a rare type of Ebola NPR Ebola patients flee in attacks on DR Congo health facilities, hobbling response NBC News A second Ebola treatment center is set ablaze in eastern Congo, with 18 suspected cases fleeing AP News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：埃博拉病毒、刚果、治疗、分散、警察。RSS 中文摘要显示：刚果民主共和国埃博拉治疗中心警察向空中开枪驱散愤怒的人群 BBC 年轻男子冲进刚果一家治疗埃博拉患者的医院，索要其亲属的尸体 CNN 居民的袭击使抗击罕见埃博拉病毒的斗争变得更加复杂 NPR 埃博拉患者在刚果民主共和国医疗机构的袭击中逃离，反应迟缓 NBC 新闻 刚果东部第二个埃博拉治疗中心被纵火，18 名疑似病例逃离 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "detailed_en": "Key signals: evacuation, chemical, orders, lifted, and tank. The available excerpt says: Evacuation Orders Lifted as Southern California Chemical Tank Cools The New York Times All evacuation orders lifted, no threat of explosion, fire or leak at Garden Grove chemical tank ABC7 Los Angeles All evacuation orders lifted in O.C. chemical crisis. Threat is over, officials say Los Angeles Times Garden Grove chemical tank holding steady but evacuations continue KTLA Evacuation orders eased in Garden Grove, but thousands remain displaced NBC Los Angeles Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：疏散、化学、订单、举起、坦克。RSS 中文摘要显示：南加州化学罐降温，疏散令解除 《纽约时报》 所有疏散令均已解除，加登格罗夫化学罐 ABC7 洛杉矶没有爆炸、火灾或泄漏威胁 OC 州所有疏散令均已解除化学危机。官员称威胁已经结束 洛杉矶时报 加登格罗夫化学罐保持稳定，但疏散仍在继续 KTLA 加登格罗夫的疏散令有所放松，但仍有数千人流离失所 NBC Los Angeles 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
         "what_to_watch_en": [
           "regulatory reaction",
           "enterprise adoption",
@@ -477,36 +322,36 @@
       }
     },
     {
-      "rank": 10,
-      "title": "Governor Newsom secures Presidential Emergency Declaration approval for Orange County hazmat response - California State Portal | CA.gov",
-      "source": "California State Portal | CA.gov",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd0ZjalBrckFlcUQ2bkhsVDlkMlVUbzJDT045QllEd3VOLWJYTkVHY2xVVkZDQkFlUFV3Z2pBdHU3aHdXY0xoMUI5Vzh3TlJQd2c1T3h1VF84SGxQdWxscGNfUUtVU2JoOVNGMGxwakdsdVRvaFFyTXVNcno2TUtpQ2QxemFzX2hwd240Q3pXREJzQmpOSnZTRkdqNE9ZWFplMnEzZDZCLXRwX3NIOXJNWkNlV1F0TVNkRG91Ull2RTVOdktGWEtlY19VU19oOHFqS3c?oc=5",
-      "published_at": "2026-05-25T18:32:17+00:00",
-      "description": "Governor Newsom secures Presidential Emergency Declaration approval for Orange County hazmat response California State Portal | CA.gov Evacuation orders lift for thousands of residents near Garden Grove chemical tank LAist Anaheim family's video welcoming numerous relatives affected by evacuation goes viral NBC Los Angeles Crews to conduct all-night mission to confirm if explosion threat is eliminated ABC7 Los Angeles Threat of Explosion From Toxic Chemical Tank Lessened, Officials Say The New York Times",
-      "description_zh": "纽瑟姆州长获得奥兰治县危险品应对总统紧急声明的批准 California State Portal | CA.gov 疏散令加登格罗夫化学罐附近数千名居民的疏散命令 LAist Anaheim 家庭欢迎众多受疏散影响的亲属的视频在网上疯传 NBC 洛杉矶工作人员进行通宵任务，以确认爆炸威胁是否已消除 ABC7 洛杉矶 官员表示，有毒化学罐爆炸的威胁有所减轻 《纽约时报》",
+      "rank": 7,
+      "title": "Christian Menefee defeats longtime Houston Rep. Al Green in Texas’ new 18th Congressional District - The Texas Tribune",
+      "source": "The Texas Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkZfR1ozdkxKZ3ZPWTNtTm54OUxQY0YwclUwcV9fdkJSSDRwWVV2T3gxZkNLV3IwaEVZbzlyMGgtTkdwaWlZcnhTWjlsckpNM1o3STZ3QTZITVQ5WDVCUnk2ZUlTc0kxOG51NHlSTWxvcjhza01lbGZxZ3JDOU1KWGpKR2o4RlZMRWFYajgySUxzTGZldGNBeXF2cTdMQTd1QlhheUZRWWRqMEJ3WFF4Z2QwamNxZHNMeExr?oc=5",
+      "published_at": "2026-05-27T00:37:20+00:00",
+      "description": "Christian Menefee defeats longtime Houston Rep. Al Green in Texas’ new 18th Congressional District The Texas Tribune Christian Menefee beats Al Green in Democratic primary runoff in new TX-18, according to AP Houston Public Media Veteran Texas congressman Al Green beaten in Democratic primary runoff The Guardian Live updates: Multiple key races called for primary election runoffs, AP projects ABC13 Houston In Democratic runoff, Reps. Al Green and Christian Menefee clash over influence of big money in politics The Texas Tribune",
+      "description_zh": "克里斯蒂安·梅尼菲 (Christian Menefee) 在德克萨斯州新的第 18 国会选区击败长期担任休斯顿众议员阿尔·格林 (Al Green) 据美联社休斯顿公共媒体报道，德克萨斯论坛报 克里斯蒂安·梅尼菲 (Christian Menefee) 在新的 TX-18 民主党初选中击败阿尔·格林 (Al Green) 德克萨斯州老议员阿尔·格林 (Al Green) 在民主党初选决选中落败 卫报直播更新：多个关键竞选要求进行初选决选，美联社项目 ABC13 休斯敦 在民主党决选中，众议员阿尔·格林 (Al Green) 和克里斯蒂安·梅尼菲 (Christian Menefee) 因大笔资金的影响力而发生冲突政治 德克萨斯论坛报",
       "keywords": [
-        "presidential",
-        "declaration",
-        "california",
-        "emergency",
-        "governor",
-        "approval",
-        "response",
-        "secures",
-        "newsom",
-        "orange"
+        "texas",
+        "green",
+        "christian",
+        "menefee",
+        "houston",
+        "tribune",
+        "congressional",
+        "longtime",
+        "district",
+        "defeats"
       ],
       "keywords_zh": [
-        "总统",
-        "宣言",
-        "加利福尼亚州",
-        "紧急情况",
-        "州长",
-        "赞同",
-        "回复",
-        "确保",
-        "消息",
-        "橙子"
+        "德克萨斯州",
+        "绿色的",
+        "基督教",
+        "梅尼菲",
+        "休斯顿",
+        "论坛",
+        "国会的",
+        "很久",
+        "区",
+        "失败"
       ],
       "category": {
         "en": "Politics and governance",
@@ -515,8 +360,8 @@
       "interpretation": {
         "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
         "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: presidential, declaration, california, emergency, and governor. The available excerpt says: Governor Newsom secures Presidential Emergency Declaration approval for Orange County hazmat response California State Portal | CA.gov Evacuation orders lift for thousands of residents near Garden Grove chemical tank LAist Anaheim family's video welcoming numerous relatives affected by evacuation goes viral NBC Los Angeles Crews to conduct all-night mission to confirm if explosion threat is eliminated ABC7 Los Angeles Threat of Explosion From Toxic Chemical Tank Lessened, Officials Say The New York Times Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：总统、宣言、加利福尼亚州、紧急情况、州长。RSS 中文摘要显示：纽瑟姆州长获得奥兰治县危险品应对总统紧急声明的批准 California State Portal | CA.gov 疏散令加登格罗夫化学罐附近数千名居民的疏散命令 LAist Anaheim 家庭欢迎众多受疏散影响的亲属的视频在网上疯传 NBC 洛杉矶工作人员进行通宵任务，以确认爆炸威胁是否已消除 ABC7 洛杉矶 官员表示，有毒化学罐爆炸的威胁有所减轻 《纽约时报》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "detailed_en": "Key signals: texas, green, christian, menefee, and houston. The available excerpt says: Christian Menefee defeats longtime Houston Rep. Al Green in Texas’ new 18th Congressional District The Texas Tribune Christian Menefee beats Al Green in Democratic primary runoff in new TX-18, according to AP Houston Public Media Veteran Texas congressman Al Green beaten in Democratic primary runoff The Guardian Live updates: Multiple key races called for primary election runoffs, AP projects ABC13 Houston In Democratic runoff, Reps. Al Green and Christian Menefee clash over influence of big money in politics The Texas Tribune Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：德克萨斯州、绿色的、基督教、梅尼菲、休斯顿。RSS 中文摘要显示：克里斯蒂安·梅尼菲 (Christian Menefee) 在德克萨斯州新的第 18 国会选区击败长期担任休斯顿众议员阿尔·格林 (Al Green) 据美联社休斯顿公共媒体报道，德克萨斯论坛报 克里斯蒂安·梅尼菲 (Christian Menefee) 在新的 TX-18 民主党初选中击败阿尔·格林 (Al Green) 德克萨斯州老议员阿尔·格林 (Al Green) 在民主党初选决选中落败 卫报直播更新：多个关键竞选要求进行初选决选，美联社项目 ABC13 休斯敦 在民主党决选中，众议员阿尔·格林 (Al Green) 和克里斯蒂安·梅尼菲 (Christian Menefee) 因大笔资金的影响力而发生冲突政治 德克萨斯论坛报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
           "polling or vote margins",
           "party reactions",
@@ -526,6 +371,165 @@
           "民调或票差",
           "党派反应",
           "结果后的政策承诺"
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Diver who helped save soccer team in Thailand holds out hope miners trapped in Laos cave are still alive - CBS News",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UZnNibWFCVG5ORXNUZ1RIUjFiMzJjaG1aeFBDR0FfVlJLYmFCTml1NXJUSTJrRl9GRGNzV01hYUtGQzlQaUhJemFIMkRPaXFnX0wwM1FxSkJpN3I2b2huN0ZwZ1RlbHJjNm9zQ2J5MklDalZWRVHSAXtBVV95cUxPTEt0eVVldC1CblFPX1FXcWk4a0F1Rjg1a3hBSm90V1BoOE0tX0lYWF9oNU1sUk9abGpkWkUtOXluZk93YXVHeF9EbGtpeGMtRWVrdThjdnYwdElycHRkUkRrMzh6SlFMV05BdmNzRlM2SHBGTHJsWGhDQnc?oc=5",
+      "published_at": "2026-05-27T00:22:55+00:00",
+      "description": "Diver who helped save soccer team in Thailand holds out hope miners trapped in Laos cave are still alive CBS News Cave divers race to free 7 trapped underground in Laos. What to know CNN Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave The New York Times Search continues for 7 villagers trapped in a flooded Laos cave KSL News 'Race against time' to rescue seven trapped in Laos cave RTE.ie",
+      "description_zh": "帮助拯救泰国足球队的潜水员为被困在老挝洞穴中的矿工们仍然活着抱有希望 CBS 新闻 洞穴潜水员竞相营救被困在老挝地下的 7 名矿工。新闻资讯 CNN 老挝救援人员奋力救援 7 名被困在被洪水淹没的洞穴中的人 《纽约时报》 继续搜寻被困在老挝被洪水淹没的洞穴中的 7 名村民 KSL 新闻 “与时间赛跑”，营救被困在老挝洞穴中的 7 名村民 RTE.ie",
+      "keywords": [
+        "trapped",
+        "laos",
+        "cave",
+        "thailand",
+        "helped",
+        "soccer",
+        "miners",
+        "diver",
+        "holds",
+        "still"
+      ],
+      "keywords_zh": [
+        "被困",
+        "老挝",
+        "洞穴",
+        "泰国",
+        "帮助了",
+        "足球",
+        "矿工",
+        "潜水员",
+        "持有",
+        "仍然"
+      ],
+      "category": {
+        "en": "Technology",
+        "zh": "科技"
+      },
+      "interpretation": {
+        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
+        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
+        "detailed_en": "Key signals: trapped, laos, cave, thailand, and helped. The available excerpt says: Diver who helped save soccer team in Thailand holds out hope miners trapped in Laos cave are still alive CBS News Cave divers race to free 7 trapped underground in Laos. What to know CNN Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave The New York Times Search continues for 7 villagers trapped in a flooded Laos cave KSL News 'Race against time' to rescue seven trapped in Laos cave RTE.ie Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：被困、老挝、洞穴、泰国、帮助了。RSS 中文摘要显示：帮助拯救泰国足球队的潜水员为被困在老挝洞穴中的矿工们仍然活着抱有希望 CBS 新闻 洞穴潜水员竞相营救被困在老挝地下的 7 名矿工。新闻资讯 CNN 老挝救援人员奋力救援 7 名被困在被洪水淹没的洞穴中的人 《纽约时报》 继续搜寻被困在老挝被洪水淹没的洞穴中的 7 名村民 KSL 新闻 “与时间赛跑”，营救被困在老挝洞穴中的 7 名村民 RTE.ie 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "what_to_watch_en": [
+          "regulatory reaction",
+          "enterprise adoption",
+          "security or privacy consequences"
+        ],
+        "what_to_watch_zh": [
+          "监管反应",
+          "企业采用情况",
+          "安全或隐私后果"
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "title": "South Carolina’s Trump-backed redistricting push fails in the state Senate amid GOP opposition - NBC News",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOEhad3haN0JtZnVSSXRvV1hSVDFNa3Jydi1vUzBUX1FpSWRMWEpmRUlkRmxqR3J4dWVXTzhteGRjNUJkS0dHZ3VLZXE2SThXWmhIMGkxeDk5VTlpb3hLZWR0MFVlZ19uUktabjRvUlNSVXdwMkx1clBmTFJQZ1VKal9IZ3FzUWYtTDk1Y3dkT1ZMT3hVUnR2XzVXRUpjbDNiVFZlVWI2VGNmSVppTDFXSFJTNkpUVXd1eFpOMmQ5UFN1V3dSYzAw?oc=5",
+      "published_at": "2026-05-26T23:37:40+00:00",
+      "description": "South Carolina’s Trump-backed redistricting push fails in the state Senate amid GOP opposition NBC News South Carolina Redistricting: Senate Passes on New Map, Defying Trump The New York Times Effort to redraw SC voting lines fails amid record start to early voting SC Daily Gazette South Carolina Republicans block Trump’s effort to gain more House seats The Washington Post South Carolina Senate rejects Trump’s call to redraw congressional maps and target Jim Clyburn’s seat CNN",
+      "description_zh": "南卡罗来纳州特朗普支持的选区重新划分计划因共和党反对而在州参议院失败 NBC 新闻 南卡罗来纳州重新划分选区：参议院通过新地图，无视特朗普 《纽约时报》 重新划定南卡罗来纳州投票线的努力因提前投票创纪录而失败 南卡罗来纳州共和党人阻止特朗普获得更多众议院席位的努力 华盛顿邮报 南卡罗来纳州参议院拒绝了特朗普重新绘制国会地图并瞄准吉姆·克莱伯恩席位的呼吁 CNN",
+      "keywords": [
+        "carolina",
+        "south",
+        "senate",
+        "redistricting",
+        "fails",
+        "trump-backed",
+        "opposition",
+        "state",
+        "push",
+        "gop"
+      ],
+      "keywords_zh": [
+        "卡罗来纳州",
+        "南",
+        "参议院",
+        "重新划分选区",
+        "失败",
+        "特朗普支持的",
+        "反对",
+        "状态",
+        "推",
+        "共和党"
+      ],
+      "category": {
+        "en": "Politics and governance",
+        "zh": "政治与治理"
+      },
+      "interpretation": {
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: carolina, south, senate, redistricting, and fails. The available excerpt says: South Carolina’s Trump-backed redistricting push fails in the state Senate amid GOP opposition NBC News South Carolina Redistricting: Senate Passes on New Map, Defying Trump The New York Times Effort to redraw SC voting lines fails amid record start to early voting SC Daily Gazette South Carolina Republicans block Trump’s effort to gain more House seats The Washington Post South Carolina Senate rejects Trump’s call to redraw congressional maps and target Jim Clyburn’s seat CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：卡罗来纳州、南、参议院、重新划分选区、失败。RSS 中文摘要显示：南卡罗来纳州特朗普支持的选区重新划分计划因共和党反对而在州参议院失败 NBC 新闻 南卡罗来纳州重新划分选区：参议院通过新地图，无视特朗普 《纽约时报》 重新划定南卡罗来纳州投票线的努力因提前投票创纪录而失败 南卡罗来纳州共和党人阻止特朗普获得更多众议院席位的努力 华盛顿邮报 南卡罗来纳州参议院拒绝了特朗普重新绘制国会地图并瞄准吉姆·克莱伯恩席位的呼吁 CNN 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "what_to_watch_en": [
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
+        ],
+        "what_to_watch_zh": [
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "title": "North Korea tests AI-guided missiles and artillery rockets designed for modern warfare, KCNA says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSTdTQVRlZ0ZRdUVLU3pBSTNORUd0ZWN5clcyNnlMNkxxdmRIY1p1eDZ6YkZrNGtRdnZVNzhOM0wxbTZFMU44TmFIdWE0WHFUaDRiNXBaUGdJaEc5NVM4VXFuSDlKdkdITTNkLUMxSzZTczJ1eU9tNUdzZ1BuaVMxaktySHFNckVpWnh2N2tFanRKMTJaTFVNZkNueU5wbEhIT0xqbGJ0NGkxVTdNOUNqVTJ0b0dvTXh5TDRlX2kxc1dxcTROYlZBemVpdkFJVmc?oc=5",
+      "published_at": "2026-05-26T22:30:00+00:00",
+      "description": "North Korea tests AI-guided missiles and artillery rockets designed for modern warfare, KCNA says Reuters North Korea fires short-range ballistic missile and other weapons toward sea, South says, in latest weapons demo CBS News North Korea says it tested new warheads, technology and navigation in latest launches Politico North Korea launches ballistic missiles over the sea in latest show of force ABC News - Breaking News, Latest News and Videos North Korea tests AI-guided missiles for the first time Sky News",
+      "description_zh": "朝中社称，朝鲜测试了为现代战争设计的人工智能制导导弹和火炮火箭 路透社称，朝鲜在最新的武器演示中向海上发射短程弹道导弹和其他武器 哥伦比亚广播公司新闻 朝鲜表示，在最新的发射中测试了新的弹头、技术和导航 政治新闻 朝鲜在最新的武力展示中向海上发射弹道导弹 ABC News - 突发新闻、最新新闻和视频 朝鲜首次测试人工智能制导导弹 天空新闻",
+      "keywords": [
+        "north",
+        "korea",
+        "missiles",
+        "ai-guided",
+        "tests",
+        "artillery",
+        "designed",
+        "rockets",
+        "warfare",
+        "modern"
+      ],
+      "keywords_zh": [
+        "北",
+        "韩国",
+        "导弹",
+        "人工智能引导",
+        "测试",
+        "炮兵",
+        "设计的",
+        "火箭",
+        "战争",
+        "现代的"
+      ],
+      "category": {
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
+      },
+      "interpretation": {
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: north, korea, missiles, ai-guided, and tests. The available excerpt says: North Korea tests AI-guided missiles and artillery rockets designed for modern warfare, KCNA says Reuters North Korea fires short-range ballistic missile and other weapons toward sea, South says, in latest weapons demo CBS News North Korea says it tested new warheads, technology and navigation in latest launches Politico North Korea launches ballistic missiles over the sea in latest show of force ABC News - Breaking News, Latest News and Videos North Korea tests AI-guided missiles for the first time Sky News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：北、韩国、导弹、人工智能引导、测试。RSS 中文摘要显示：朝中社称，朝鲜测试了为现代战争设计的人工智能制导导弹和火炮火箭 路透社称，朝鲜在最新的武器演示中向海上发射短程弹道导弹和其他武器 哥伦比亚广播公司新闻 朝鲜表示，在最新的发射中测试了新的弹头、技术和导航 政治新闻 朝鲜在最新的武力展示中向海上发射弹道导弹 ABC News - 突发新闻、最新新闻和视频 朝鲜首次测试人工智能制导导弹 天空新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "what_to_watch_en": [
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
+        ],
+        "what_to_watch_zh": [
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
         ]
       }
     }
