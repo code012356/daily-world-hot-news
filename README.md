@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-05-27T07:58:41+00:00` UTC.
+Generated at `2026-05-28T07:52:54+00:00` UTC.
 
-### 1. [Texas GOP voters oust Cornyn in Paxton upset - Axios](https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWhzSEJTekJza1NnSmV0bFk5Qm9GMGs2WThGSWQ2R2pqQVNiZ2VQd2RGU2pNWjJ5U3JYb0loS1ZrMWZNOUJ3YkVPSUpqVml5WHdHM04zSjlVV28wVTZaMHVlNjNXUGJJai1qQWFJVkVTRUNyTnhUbHV3RGdZMnF1b0VB?oc=5)
+### 1. [US strikes Iran targets for second time in three days - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UX2t0V3ZoNHlLbHNGNnBMT2JwYVY1TURaWFFYSS0xNFRNMjQ4LW5wLTRibHd1SzkzUGpYVkgyNmdDNkJwUzJ1SnNHSW5FMHlMYzNKeW9oTUFXUQ?oc=5)
 
-- Source / 来源: Axios. Published: `2026-05-27T06:16:59+00:00`.
-- Keywords / 关键词: cornyn, texas, paxton, voters, upset, axios, oust, gop, john, scandal-plagued
-- 中文关键词: 科宁、德克萨斯州、帕克斯顿、选民、沮丧的、轴、驱逐、共和党、约翰、丑闻缠身
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Texas GOP voters oust Cornyn in Paxton upset Axios Trump-backed Ken Paxton ousts John Cornyn in heated Texas primary after scandal-plagued campaign The Guardian John Cornyn’s defeat raises a new question: Will he join the Senate Republicans rebelling against Trump? CNN ‘Pretty damn bullish’: Democrats have high hopes for Paxton-Talarico showdown Politico Cornyn went to great lengths to avoid Trump's wrath. The Texas senator lost his seat anyway KSAT
-- RSS 中文摘要: 得克萨斯州共和党选民在帕克斯顿 (Paxton) 事件中推翻科宁 (Axios) 特朗普支持的肯·帕克斯顿 (Ken Paxton) 在丑闻缠身的竞选活动后，在激烈的得克萨斯州初选中罢免了约翰·科宁 (John Cornyn)。 CNN“非常乐观”：民主党人对帕克斯顿与塔拉里科的对决寄予厚望，政治科宁竭尽全力避免激怒特朗普。无论如何，德克萨斯州参议员失去了席位 KSAT
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: cornyn, texas, paxton, voters, and upset. The available excerpt says: Texas GOP voters oust Cornyn in Paxton upset Axios Trump-backed Ken Paxton ousts John Cornyn in heated Texas primary after scandal-plagued campaign The Guardian John Cornyn’s defeat raises a new question: Will he join the Senate Republicans rebelling against Trump? CNN ‘Pretty damn bullish’: Democrats have high hopes for Paxton-Talarico showdown Politico Cornyn went to great lengths to avoid Trump's wrath. The Texas senator lost his seat anyway KSAT Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：科宁、德克萨斯州、帕克斯顿、选民、沮丧的。RSS 中文摘要显示：得克萨斯州共和党选民在帕克斯顿 (Paxton) 事件中推翻科宁 (Axios) 特朗普支持的肯·帕克斯顿 (Ken Paxton) 在丑闻缠身的竞选活动后，在激烈的得克萨斯州初选中罢免了约翰·科宁 (John Cornyn)。 CNN“非常乐观”：民主党人对帕克斯顿与塔拉里科的对决寄予厚望，政治科宁竭尽全力避免激怒特朗普。无论如何，德克萨斯州参议员失去了席位 KSAT 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 2. [Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran - AP News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEZJdk12ek92NkdMSktFN3VpdUJwZzJvaUVnX2pybnIwNHR6bjJjUnZjNVlhRUplV01UVXRmQ3pkRFF1MU1uaWtweGhEWDBxbGluT3dQbkhta09xX3FQUnpsejRKZTdWNnk5SjhDbTR6RmZFMjlzVUNaS1czeE11TmhZYWkyVC1Bcy1rU2pxTWdHZXpGTEo4SFBB?oc=5)
-
-- Source / 来源: AP News. Published: `2026-05-27T04:02:00+00:00`.
-- Keywords / 关键词: cabinet, trump, gathers, deal, looks, seal, iran, end, war, embolden
-- 中文关键词: 内阁、特朗普、聚集、交易、看起来、海豹、伊朗、结尾、战争、栓子
+- Source / 来源: BBC. Published: `2026-05-28T07:18:55+00:00`.
+- Keywords / 关键词: iran, strikes, targets, second, three, time, days, live, war, following
+- 中文关键词: 伊朗、袭击、目标、第二、三、时间、天、居住、战争、下列的
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran AP News Trump gathers Cabinet as he looks to seal deal to end war NPR Trump convenes rare Camp David Cabinet meeting as Iran deal pressure grows Fox News Trump cancels Camp David Cabinet trip, citing weather CNBC Strait of Hormuz will open ‘one way or the other’ as Trump gathers cabinet The Times
-- RSS 中文摘要: 特朗普召集内阁，因为一些支持者担心这将让伊朗更加大胆
+- RSS Excerpt / RSS 摘要: US strikes Iran targets for second time in three days BBC Live updates: Iran war; US military carries out new strikes in Iran CNN Middle East crisis live: Trump warns he may have to ‘finish job’ as US and Iran trade strikes The Guardian Oil jumps 3% after Iran says it targeted U.S. airbase following fresh American strikes CNBC What’s happening on Iran war day 90 as US launches new strikes Al Jazeera
+- RSS 中文摘要: 美国三天内第二次袭击伊朗目标 BBC 直播更新：伊朗战争；美国军方对伊朗实施新的打击 CNN 中东危机直播：特朗普警告说，随着美国和伊朗的贸易打击，他可能必须“完成工作” 卫报石油公司股价上涨 3%，此前伊朗表示，在美国发动新的打击后，它的目标是美国空军基地 CNBC 随着美国发动新的打击，伊朗战争日 90 发生了什么
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: cabinet, trump, gathers, deal, and looks. The available excerpt says: Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran AP News Trump gathers Cabinet as he looks to seal deal to end war NPR Trump convenes rare Camp David Cabinet meeting as Iran deal pressure grows Fox News Trump cancels Camp David Cabinet trip, citing weather CNBC Strait of Hormuz will open ‘one way or the other’ as Trump gathers cabinet The Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：内阁、特朗普、聚集、交易、看起来。RSS 中文摘要显示：特朗普召集内阁，因为一些支持者担心这将让伊朗更加大胆 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, strikes, targets, second, and three. The available excerpt says: US strikes Iran targets for second time in three days BBC Live updates: Iran war; US military carries out new strikes in Iran CNN Middle East crisis live: Trump warns he may have to ‘finish job’ as US and Iran trade strikes The Guardian Oil jumps 3% after Iran says it targeted U.S. airbase following fresh American strikes CNBC What’s happening on Iran war day 90 as US launches new strikes Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、袭击、目标、第二、三。RSS 中文摘要显示：美国三天内第二次袭击伊朗目标 BBC 直播更新：伊朗战争；美国军方对伊朗实施新的打击 CNN 中东危机直播：特朗普警告说，随着美国和伊朗的贸易打击，他可能必须“完成工作” 卫报石油公司股价上涨 3%，此前伊朗表示，在美国发动新的打击后，它的目标是美国空军基地 CNBC 随着美国发动新的打击，伊朗战争日 90 发生了什么 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 3. [Corrosive chemicals hamper recovery efforts at Longview industrial site; 9 still unaccounted for after tank rupture - Oregon Public Broadcasting - OPB](https://news.google.com/rss/articles/CBMif0FVX3lxTE43YzRVa29JRXA2TjdkTldHZUJIX25SMjNFWDVLb0Rnd2ZGTFhUS1JiSzVmMmQwZEdhcXhET0czMjZVWTU1YVpXYXRvbW1DLTJuZlNKcWJoS3duS1NZR2tLMkk4eFBWaUYxcC1pMVNqQVdoa3MyRFk1UnRRY2RvajQ?oc=5)
+### 2. [Exclusive-US carries out new strikes in Iran against military site, official says - Yahoo](https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQWxPMjNiUXlxS3FkTERFSXFnTWVtWEhYVWZEYUFPNkZiSzRRM1JGdWFBV2dvc2ZQdlI3VFkwSkdWTHlpNDh2Q2tlb0pJenJxMFBBVDJqdV9hb0xsNy0za1JFYkJWbjBlLUM1UTY3aXIwT1NYY016QlNOYThQZWs5cHVhMENsU1FFZHFnLTRJMXZyOWVJSjFoTlpITndmOTk5SFJWVGk4NFZ3TzRsWFExM21fZ1lmYUhHd0Q3bnNfUFRLVkxWeWVyTEU4RXJJelRzR291OUp3UQ?oc=5)
 
-- Source / 来源: Oregon Public Broadcasting - OPB. Published: `2026-05-27T06:00:13+00:00`.
-- Keywords / 关键词: longview, tank, rupture, broadcasting, unaccounted, industrial, corrosive, chemicals, recovery, efforts
-- 中文关键词: 朗维尤、坦克、破裂、广播、下落不明的、工业的、腐蚀性的、化学品、恢复、努力
+- Source / 来源: Yahoo. Published: `2026-05-27T23:51:26+00:00`.
+- Keywords / 关键词: iran, strikes, military, carries, out, exclusive-us, official, yahoo, site, live
+- 中文关键词: 伊朗、袭击、军事、携带、出去、独家-美国、官方的、雅虎、地点、居住
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Exclusive-US carries out new strikes in Iran against military site, official says Yahoo Live updates: Iran war; US military carries out new strikes in Iran CNN Middle East crisis live: Trump warns he may have to ‘finish job’ as US and Iran trade strikes The Guardian Oil jumps 3% after Iran says it targeted U.S. airbase following fresh American strikes CNBC What’s happening on Iran war day 90 as US launches new strikes Al Jazeera
+- RSS 中文摘要: 雅虎直播更新：官员称，美国对伊朗军事基地发动新一轮袭击：伊朗战争；美国军方对伊朗实施新的打击 CNN 中东危机直播：特朗普警告说，随着美国和伊朗的贸易打击，他可能必须“完成工作” 卫报石油公司股价上涨 3%，此前伊朗表示，在美国发动新的打击后，它的目标是美国空军基地 CNBC 随着美国发动新的打击，伊朗战争日 90 发生了什么
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: iran, strikes, military, carries, and out. The available excerpt says: Exclusive-US carries out new strikes in Iran against military site, official says Yahoo Live updates: Iran war; US military carries out new strikes in Iran CNN Middle East crisis live: Trump warns he may have to ‘finish job’ as US and Iran trade strikes The Guardian Oil jumps 3% after Iran says it targeted U.S. airbase following fresh American strikes CNBC What’s happening on Iran war day 90 as US launches new strikes Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、袭击、军事、携带、出去。RSS 中文摘要显示：雅虎直播更新：官员称，美国对伊朗军事基地发动新一轮袭击：伊朗战争；美国军方对伊朗实施新的打击 CNN 中东危机直播：特朗普警告说，随着美国和伊朗的贸易打击，他可能必须“完成工作” 卫报石油公司股价上涨 3%，此前伊朗表示，在美国发动新的打击后，它的目标是美国空军基地 CNBC 随着美国发动新的打击，伊朗战争日 90 发生了什么 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 3. [Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll Over Trump Lawsuits - The New York Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxNa0hVOUhMZEF5RjVXbEpnaG9zbzVnU0U0SXNsMDB2XzVlVVluWk1qQlpSUTY0aXhuWVFkY0dudTNzQXRyUm1TeW5VUVNJekhaZEFoNEJiLVR4TlNiTUx4MkdMUEtFbkdmR2ZXSjcxTmRrX1F4ZkhWV2xOY2g5bFJEbDV0aTNWTjVwQnZoY2piaXhTb1lDSGtmMHQyNUZHb1BfTXc4?oc=5)
+
+- Source / 来源: The New York Times. Published: `2026-05-28T03:43:50+00:00`.
+- Keywords / 关键词: carroll, jean, criminal, justice, trump, inquiry, lawsuits, dept, said, open
+- 中文关键词: 卡罗尔、吉恩、刑事、正义、特朗普、询问、诉讼、部门、说、打开
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll Over Trump Lawsuits The New York Times Exclusive: Justice Department launches a criminal investigation into Trump accuser E. Jean Carroll CNN DOJ launches criminal probe into E. Jean Carroll, source says Reuters Justice Department investigating whether Trump accuser E. Jean Carroll committed perjury, sources say CBS News US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll The Guardian
+- RSS 中文摘要: 据称司法部将就特朗普诉讼对 E. Jean Carroll 展开刑事调查 《纽约时报》独家报道：司法部对特朗普原告 E. Jean Carroll 展开刑事调查 CNN 司法部对 E. Jean Carroll 展开刑事调查，消息人士称路透社 司法部正在调查特朗普原告 E. Jean Carroll 是否作伪证，消息人士称 CBS 新闻 据报道，美国司法部对特朗普原告 E. Jean Carroll 展开刑事调查
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: carroll, jean, criminal, justice, and trump. The available excerpt says: Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll Over Trump Lawsuits The New York Times Exclusive: Justice Department launches a criminal investigation into Trump accuser E. Jean Carroll CNN DOJ launches criminal probe into E. Jean Carroll, source says Reuters Justice Department investigating whether Trump accuser E. Jean Carroll committed perjury, sources say CBS News US justice department reportedly opens criminal inquiry into Trump accuser E Jean Carroll The Guardian Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：卡罗尔、吉恩、刑事、正义、特朗普。RSS 中文摘要显示：据称司法部将就特朗普诉讼对 E. Jean Carroll 展开刑事调查 《纽约时报》独家报道：司法部对特朗普原告 E. Jean Carroll 展开刑事调查 CNN 司法部对 E. Jean Carroll 展开刑事调查，消息人士称路透社 司法部正在调查特朗普原告 E. Jean Carroll 是否作伪证，消息人士称 CBS 新闻 据报道，美国司法部对特朗普原告 E. Jean Carroll 展开刑事调查 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 4. [Trump Says He Feels No Political Pressure to Make an Iran Deal - The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxNRll1ZlI0Z1ViRmNVRklMWTVycWhjSGpCc1p6SW5qaFpySHNQTW5NREwwS0pTQmpYNkU2OG5JZWhtNVRTdW1vVzNXVjlPbUNhYnk1U2ZXd1FLaEtHNTRQQ0RnOEZvQ3pncVNkb2syNHNVWHBZcEdRS0psYy12NUpncklReDhaZw?oc=5)
+
+- Source / 来源: The New York Times. Published: `2026-05-28T00:58:49+00:00`.
+- Keywords / 关键词: trump, iran, pressure, make, deal, political, feels, cabinet, meeting, war
+- 中文关键词: 特朗普、伊朗、压力、制作、交易、政治的、感觉、内阁、会议、战争
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Trump Says He Feels No Political Pressure to Make an Iran Deal The New York Times No Way to Make a Deal The Atlantic Trump holds Cabinet meeting at the White House as negotiations continue to end Iran war CBS News Fact check: Trump makes false claims about Iran war, the economy and the reflecting pool at Cabinet meeting CNN Trump says he can outwait Iran, dismisses midterm election pressure Reuters
+- RSS 中文摘要: 特朗普表示，他感觉没有与伊朗达成协议的政治压力 纽约时报 没有办法达成协议 大西洋月刊 特朗普在白宫举行内阁会议，谈判继续结束伊朗战争 哥伦比亚广播公司新闻 事实核查：特朗普在内阁会议上就伊朗战争、经济和反应池做出虚假陈述 CNN 特朗普表示，他可以等待伊朗，否认中期选举压力 路透
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: trump, iran, pressure, make, and deal. The available excerpt says: Trump Says He Feels No Political Pressure to Make an Iran Deal The New York Times No Way to Make a Deal The Atlantic Trump holds Cabinet meeting at the White House as negotiations continue to end Iran war CBS News Fact check: Trump makes false claims about Iran war, the economy and the reflecting pool at Cabinet meeting CNN Trump says he can outwait Iran, dismisses midterm election pressure Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：特朗普、伊朗、压力、制作、交易。RSS 中文摘要显示：特朗普表示，他感觉没有与伊朗达成协议的政治压力 纽约时报 没有办法达成协议 大西洋月刊 特朗普在白宫举行内阁会议，谈判继续结束伊朗战争 哥伦比亚广播公司新闻 事实核查：特朗普在内阁会议上就伊朗战争、经济和反应池做出虚假陈述 CNN 特朗普表示，他可以等待伊朗，否认中期选举压力 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 5. [Uganda Closes Border With Congo as Ebola Fears Rise - The New York Times](https://news.google.com/rss/articles/CBMie0FVX3lxTE51azJHV1VYckIxVDZQbWdtUE9LUWg1cGdUa0dteF9XSklScTNvNGxBeXJ1a1c2elI2SHJPbVVBeWtqenZxZ2Fyb0RiQ2djNlhqWHIycFhJcHI1eGpTNXNJVnRwX2lQenQ0V3RLZmNHSW5XMHZ2SUZ1ZWZYRQ?oc=5)
+
+- Source / 来源: The New York Times. Published: `2026-05-28T06:11:00+00:00`.
+- Keywords / 关键词: ebola, congo, uganda, closes, border, fears, rise, restrictions, covid-style, countries
+- 中文关键词: 埃博拉病毒、刚果、乌干达、关闭、边界、恐惧、上升、限制、新冠风格、国家
+- Category / 分类: Global affairs / 全球事务
+- RSS Excerpt / RSS 摘要: Uganda Closes Border With Congo as Ebola Fears Rise The New York Times Ebola outbreak: What travel restrictions have countries imposed? Al Jazeera Uganda closes its border with Congo, where suspected cases of rare Ebola type are surging PBS Ebola: Uganda closes border with DR Congo as virus spreads dw.com DR Congo’s neighbors impose Covid-style measures in push to limit Ebola’s spread NBC News
+- RSS 中文摘要: 由于埃博拉病毒担忧加剧，乌干达关闭了与刚果的边境 纽约时报 埃博拉疫情：各国实施了哪些旅行限制？半岛电视台 乌干达关闭了与刚果的边境，那里疑似罕见埃博拉病毒病例激增 PBS 埃博拉：随着病毒传播，乌干达关闭了与刚果民主共和国的边境 dw.com 刚果民主共和国的邻国采取了新冠病毒式的措施，以限制埃博拉病毒的传播 NBC 新闻
+- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
+- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
+- EN Detailed Reading: Key signals: ebola, congo, uganda, closes, and border. The available excerpt says: Uganda Closes Border With Congo as Ebola Fears Rise The New York Times Ebola outbreak: What travel restrictions have countries imposed? Al Jazeera Uganda closes its border with Congo, where suspected cases of rare Ebola type are surging PBS Ebola: Uganda closes border with DR Congo as virus spreads dw.com DR Congo’s neighbors impose Covid-style measures in push to limit Ebola’s spread NBC News Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
+- 中文详细解读: 关键词信号：埃博拉病毒、刚果、乌干达、关闭、边界。RSS 中文摘要显示：由于埃博拉病毒担忧加剧，乌干达关闭了与刚果的边境 纽约时报 埃博拉疫情：各国实施了哪些旅行限制？半岛电视台 乌干达关闭了与刚果的边境，那里疑似罕见埃博拉病毒病例激增 PBS 埃博拉：随着病毒传播，乌干达关闭了与刚果民主共和国的边境 dw.com 刚果民主共和国的邻国采取了新冠病毒式的措施，以限制埃博拉病毒的传播 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
+- EN What to watch: follow-up reporting; official statements; regional or market reaction
+- 后续关注: 后续报道；官方声明；地区或市场反应
+
+### 6. [Longview paper mill disaster could be ‘deadliest industrial tragedy in modern Washington state history,’ governor says - Oregon Public Broadcasting - OPB](https://news.google.com/rss/articles/CBMijAFBVV95cUxOclFadHVuSkFoLUVtalozU2VQSTE4bExYazhidnVqU3d5VDZEcF9Uby1MbjliM21jeWh1Uk02SE9tUHJWU0dSR0lrd1oxUjJhSDVWeEhxeG4tLUtITWYwQTdiSk93RTd6ZGZMVlJMUjJoc3ZVdnNHeE5GTTY1NGJJRFpHWDdmbm9BV0pHbg?oc=5)
+
+- Source / 来源: Oregon Public Broadcasting - OPB. Published: `2026-05-27T23:27:31+00:00`.
+- Keywords / 关键词: paper, mill, washington, longview, disaster, state, broadcasting, industrial, deadliest, governor
+- 中文关键词: 纸、磨、华盛顿、朗维尤、灾难、状态、广播、工业的、最致命的、州长
 - Category / 分类: Public safety and society / 公共安全与社会
-- RSS Excerpt / RSS 摘要: Corrosive chemicals hamper recovery efforts at Longview industrial site; 9 still unaccounted for after tank rupture Oregon Public Broadcasting - OPB 1 confirmed dead, 9 missing in chemical tank rupture at Nippon Dynawave pulp and paper mill in Longview KGW Longview explosion: one killed and nine missing after blast at paper mill BBC 1 confirmed dead, 9 others missing after chemical implosion at facility in SW Washington KATU 1 dead, 9 missing after chemical tank ruptures at pulp and paper mill Yahoo
-- RSS 中文摘要: 腐蚀性化学品阻碍朗维尤工业基地的恢复工作；储罐破裂后仍有 9 人下落不明 俄勒冈州公共广播 - 位于朗维尤 (Longview) 的日本 Dynawave 纸浆和造纸厂化学储罐破裂，OPB 1 确认死亡，9 人失踪 KGW 朗维尤爆炸：造纸厂爆炸后，1 人死亡，9 人失踪 BBC 1 确认死亡，9 人失踪 华盛顿西南部工厂化学储罐破裂后，卡图 (KATU) 纸浆和造纸厂化学储罐破裂，1 人死亡，9 人失踪 雅虎
+- RSS Excerpt / RSS 摘要: Longview paper mill disaster could be ‘deadliest industrial tragedy in modern Washington state history,’ governor says Oregon Public Broadcasting - OPB What is white liquor, the caustic chemical involved in the Longview paper mill disaster? KGW Longview mourns after chemical tank implosion; 2 dead, 9 missing presumed dead KATU 11 presumed dead in Washington state paper mill implosion as rescue shifts to recovery NBC News 9 missing after Washington paper mill tank rupture and officials say there's no hope of survivors Dallas News
+- RSS 中文摘要: 州长表示，朗维尤造纸厂灾难可能是“现代华盛顿州历史上最致命的工业悲剧” 俄勒冈州公共广播 - OPB 朗维尤造纸厂灾难中涉及的腐蚀性化学品白液是什么？ KGW Longview 在化学品罐爆炸后哀悼；华盛顿州造纸厂爆炸造成 2 人死亡、9 人失踪，推测死亡 11 人推测死亡，救援工作转向恢复 NBC 新闻 华盛顿造纸厂储罐破裂后 9 人失踪，官员称生还无希望
 - EN Summary: This story centers on harm to people, emergency response, or social disruption.
 - 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
-- EN Detailed Reading: Key signals: longview, tank, rupture, broadcasting, and unaccounted. The available excerpt says: Corrosive chemicals hamper recovery efforts at Longview industrial site; 9 still unaccounted for after tank rupture Oregon Public Broadcasting - OPB 1 confirmed dead, 9 missing in chemical tank rupture at Nippon Dynawave pulp and paper mill in Longview KGW Longview explosion: one killed and nine missing after blast at paper mill BBC 1 confirmed dead, 9 others missing after chemical implosion at facility in SW Washington KATU 1 dead, 9 missing after chemical tank ruptures at pulp and paper mill Yahoo Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
-- 中文详细解读: 关键词信号：朗维尤、坦克、破裂、广播、下落不明的。RSS 中文摘要显示：腐蚀性化学品阻碍朗维尤工业基地的恢复工作；储罐破裂后仍有 9 人下落不明 俄勒冈州公共广播 - 位于朗维尤 (Longview) 的日本 Dynawave 纸浆和造纸厂化学储罐破裂，OPB 1 确认死亡，9 人失踪 KGW 朗维尤爆炸：造纸厂爆炸后，1 人死亡，9 人失踪 BBC 1 确认死亡，9 人失踪 华盛顿西南部工厂化学储罐破裂后，卡图 (KATU) 纸浆和造纸厂化学储罐破裂，1 人死亡，9 人失踪 雅虎 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
+- EN Detailed Reading: Key signals: paper, mill, washington, longview, and disaster. The available excerpt says: Longview paper mill disaster could be ‘deadliest industrial tragedy in modern Washington state history,’ governor says Oregon Public Broadcasting - OPB What is white liquor, the caustic chemical involved in the Longview paper mill disaster? KGW Longview mourns after chemical tank implosion; 2 dead, 9 missing presumed dead KATU 11 presumed dead in Washington state paper mill implosion as rescue shifts to recovery NBC News 9 missing after Washington paper mill tank rupture and officials say there's no hope of survivors Dallas News Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
+- 中文详细解读: 关键词信号：纸、磨、华盛顿、朗维尤、灾难。RSS 中文摘要显示：州长表示，朗维尤造纸厂灾难可能是“现代华盛顿州历史上最致命的工业悲剧” 俄勒冈州公共广播 - OPB 朗维尤造纸厂灾难中涉及的腐蚀性化学品白液是什么？ KGW Longview 在化学品罐爆炸后哀悼；华盛顿州造纸厂爆炸造成 2 人死亡、9 人失踪，推测死亡 11 人推测死亡，救援工作转向恢复 NBC 新闻 华盛顿造纸厂储罐破裂后 9 人失踪，官员称生还无希望 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
 - EN What to watch: official investigation; confirmed casualty numbers; prevention measures
 - 后续关注: 官方调查；确认伤亡数字；预防措施
 
-### 4. [Hamas military chief Mohammed Odeh killed by Israel, 11 days after predecessor slain - The Times of Israel](https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ21fMGlkUnE1d2cwT1pnejl6UnVTYUZTSVhPWDJWUE5BOHhvWTVpTmpJb1VyckxyOG1ONllkQWVXZEphV3NPSDJrRExWWjc1cWtMejFZMFJuV3U0bGVhYkpCMzhWNVQzdHBZUGdnczNSbk4yanAyaHA1RTV5VVhaRjJyd2pGZW5SU2RNdTByOGp1bC1Ld09tcGJDdDBvNkI5bklMV2dRX3JQSU9NQnI2aUFmd3dpaXZuQlVjZlVZWdIBxAFBVV95cUxOUjRTYmRQX043Qkhud09LYTEyZS15bW5LRHdQa3o2dzJIQ2lIT1VQRm1ETEtjVjhxMHhvTjA0bU5lV0Z3NmtTSW1WVXRXVWV1Ui1CMFJ6QzhNQ3RJbDA1YVlucm50UDJ4UmxHUUFhYzNkZ3ZGd0JIdFlyNXl1RXFmYk9JRVJrTE5QQ1pSMFNyMUd2d0FVLWJ6NHJqUkg1UU9TV3NnQmNCRy1sQzltWnlraWxQUDl5YmFTNmJyLV9RSFV0MFlp?oc=5)
+### 7. [Ex-CIA official charged with stealing millions of dollars in gold bars - NPR](https://news.google.com/rss/articles/CBMihgFBVV95cUxQVWpBVEZBZ2NUSmNjc1h0eE1obm5oYkN1MWJKWHdvNjNHZjJsTkpCZEhOUlBPLWdxZWxESVFiTlNhZkg4LTZnaUUzZUt4ZEZCNUVYR1U1dFpYNUxZMm9MRy0tR3ZROUdSMUdQUXFRV1k4RzQ0ZHpvVzVBVkYtcHpBOFVJOUM3dw?oc=5)
 
-- Source / 来源: The Times of Israel. Published: `2026-05-26T22:54:09+00:00`.
-- Keywords / 关键词: israel, chief, killed, hamas, predecessor, military, mohammed, slain, odeh, days
-- 中文关键词: 以色列、首席、死亡、哈马斯、前任、军事、穆罕默德、被杀、奥德、天
+- Source / 来源: NPR. Published: `2026-05-28T05:38:46+00:00`.
+- Keywords / 关键词: gold, bars, official, stealing, ex-cia, millions, charged, dollars, million, home
+- 中文关键词: 金子、酒吧、官方的、偷窃、前中央情报局、百万、带电、美元、家
+- Category / 分类: Global affairs / 全球事务
+- RSS Excerpt / RSS 摘要: Ex-CIA official charged with stealing millions of dollars in gold bars NPR David Rush: ex-US government official arrested after $40 million in gold bars found in home BBC F.B.I. Arrests C.I.A. Official With $40 Million in Gold Bars in His Home The New York Times Former CIA officer accused of stealing 300 gold bars, sources say NBC News Prosecutors say ex-CIA official stole $40 million in gold bars from agency The Washington Post
+- RSS 中文摘要: 前中央情报局官员被控盗窃数百万美元金条 NPR David Rush：美国前政府官员在 BBC F.B.I. 家中发现价值 4000 万美元的金条后被捕。逮捕中央情报局官员家中藏有价值 4000 万美元的金条 《纽约时报》 消息人士称，前中央情报局官员被指控盗窃 300 根金条
+- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
+- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
+- EN Detailed Reading: Key signals: gold, bars, official, stealing, and ex-cia. The available excerpt says: Ex-CIA official charged with stealing millions of dollars in gold bars NPR David Rush: ex-US government official arrested after $40 million in gold bars found in home BBC F.B.I. Arrests C.I.A. Official With $40 Million in Gold Bars in His Home The New York Times Former CIA officer accused of stealing 300 gold bars, sources say NBC News Prosecutors say ex-CIA official stole $40 million in gold bars from agency The Washington Post Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
+- 中文详细解读: 关键词信号：金子、酒吧、官方的、偷窃、前中央情报局。RSS 中文摘要显示：前中央情报局官员被控盗窃数百万美元金条 NPR David Rush：美国前政府官员在 BBC F.B.I. 家中发现价值 4000 万美元的金条后被捕。逮捕中央情报局官员家中藏有价值 4000 万美元的金条 《纽约时报》 消息人士称，前中央情报局官员被指控盗窃 300 根金条 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
+- EN What to watch: follow-up reporting; official statements; regional or market reaction
+- 后续关注: 后续报道；官方声明；地区或市场反应
+
+### 8. [Israel declares new swathe of Lebanon 'a combat zone,' warns residents to leave - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaG41VWMxSW52REt5QUhIcFpPTVQzY2Vsbld6QWdzYndldTloS2VFYTUtUHp2bFo4Mi1MLVVqRkd0RzctUkt0dVYzN0hpZ2FfMUNqRktORENoR0g1VDV1eEVOeE1mMldINEJOUS1PMkd6RmxzY0gtVzhfR19NRnNYRmN2TE4tWjBKZ2RVeUxJNTZzOGphSC1kdTNrUnRKRS1wNi1MN3N5Qk5yUzE5eC1YU1g1S0NKUVdUMnZJbVJlVGxqZw?oc=5)
+
+- Source / 来源: Reuters. Published: `2026-05-27T19:05:43+00:00`.
+- Keywords / 关键词: lebanon, residents, leave, declares, israel, swathe, combat, warns, zone, lebanese
+- 中文关键词: 黎巴嫩、居民、离开、宣称、以色列、条带、战斗、警告、区、黎巴嫩人
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Hamas military chief Mohammed Odeh killed by Israel, 11 days after predecessor slain The Times of Israel Israel says it killed Hamas’ new armed wing chief in Gaza NBC News Israel says strike killed new chief of Hamas armed wing in Gaza CBS News Katz says Israel advancing plan for ‘voluntary emigration’ from Gaza The Times of Israel Israel attacks Hamas' new armed wing chief, Netanyahu says Reuters
-- RSS 中文摘要: 哈马斯军事首长穆罕默德·奥德 (Mohammed Odeh) 在前任被杀 11 天后被以色列杀害 以色列时报 以色列称其在加沙杀死了哈马斯新任武装派别首领 NBC 新闻 以色列称袭击导致加沙哈马斯武装派别新任首领丧生 CBS 新闻 卡茨称以色列正在推进从加沙“自愿移民”的计划 以色列时报 内塔尼亚胡称，以色列袭击了哈马斯新任武装派别首领 路透
+- RSS Excerpt / RSS 摘要: Israel declares new swathe of Lebanon 'a combat zone,' warns residents to leave Reuters Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal The New York Times Israel's military tells residents across southern Lebanon to leave as it fights Hezbollah Dallas News Israeli strikes follow displacement order for Lebanese city of Tyre Al Jazeera Lebanon ceasefire falters as Trump pushes for Iran deal The Washington Post
+- RSS 中文摘要: 以色列宣布黎巴嫩新大片地区为“战区”，警告居民离开 路透社 即使美国和伊朗达成协议，黎巴嫩人也接受长期战争 《纽约时报》 以色列军方要求黎巴嫩南部居民离开，因为它与真主党作战 达拉斯新闻 以色列袭击黎巴嫩城市提尔 半岛电视台 特朗普推动伊朗协议，黎巴嫩停火动摇 华盛顿邮报
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: israel, chief, killed, hamas, and predecessor. The available excerpt says: Hamas military chief Mohammed Odeh killed by Israel, 11 days after predecessor slain The Times of Israel Israel says it killed Hamas’ new armed wing chief in Gaza NBC News Israel says strike killed new chief of Hamas armed wing in Gaza CBS News Katz says Israel advancing plan for ‘voluntary emigration’ from Gaza The Times of Israel Israel attacks Hamas' new armed wing chief, Netanyahu says Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：以色列、首席、死亡、哈马斯、前任。RSS 中文摘要显示：哈马斯军事首长穆罕默德·奥德 (Mohammed Odeh) 在前任被杀 11 天后被以色列杀害 以色列时报 以色列称其在加沙杀死了哈马斯新任武装派别首领 NBC 新闻 以色列称袭击导致加沙哈马斯武装派别新任首领丧生 CBS 新闻 卡茨称以色列正在推进从加沙“自愿移民”的计划 以色列时报 内塔尼亚胡称，以色列袭击了哈马斯新任武装派别首领 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: lebanon, residents, leave, declares, and israel. The available excerpt says: Israel declares new swathe of Lebanon 'a combat zone,' warns residents to leave Reuters Lebanese Resigned to a Long War, Even if U.S. and Iran Make a Deal The New York Times Israel's military tells residents across southern Lebanon to leave as it fights Hezbollah Dallas News Israeli strikes follow displacement order for Lebanese city of Tyre Al Jazeera Lebanon ceasefire falters as Trump pushes for Iran deal The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：黎巴嫩、居民、离开、宣称、以色列。RSS 中文摘要显示：以色列宣布黎巴嫩新大片地区为“战区”，警告居民离开 路透社 即使美国和伊朗达成协议，黎巴嫩人也接受长期战争 《纽约时报》 以色列军方要求黎巴嫩南部居民离开，因为它与真主党作战 达拉斯新闻 以色列袭击黎巴嫩城市提尔 半岛电视台 特朗普推动伊朗协议，黎巴嫩停火动摇 华盛顿邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 5. [Dozens killed in Lebanon as Israel intensifies strikes - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jVjBtRTVwMTh2clFFMGNtcDByVWxEUTJ5RG9lZnNDSUdNeWRDRFFjVHR6b2tVaUVNRWxTTk5oUWk1U0VDMUQ2cHVFdnZkRmxlRm82cjBoblBEUQ?oc=5)
+### 9. [Republicans break the ice with Paxton after brutal Texas Senate primary - Axios](https://news.google.com/rss/articles/CBMickFVX3lxTE1YYnk1eU1sMDJkRUkwNDFZcmd0MjhfckFLTVM4a20yU0JoZjFrNWpPZlF3OXZZckZBU21WamZoTnlaQWNMNVF3SXBNSHZ2cUlWcTVTakszZFVST1dTWVZxX19VSUg0VU8zbGRPeWw1S2Nndw?oc=5)
 
-- Source / 来源: BBC. Published: `2026-05-27T04:07:27+00:00`.
-- Keywords / 关键词: intensifies, lebanon, strikes, dozens, killed, israel, perspectives, headlines, google, see
-- 中文关键词: 加剧、黎巴嫩、袭击、几十个、死亡、以色列、观点、头条新闻、谷歌、看
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Dozens killed in Lebanon as Israel intensifies strikes BBC See more headlines & perspectives on Google News
-- RSS 中文摘要: 以色列加强打击，黎巴嫩数十人丧生 BBC 在 Google 新闻上查看更多头条新闻和观点
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: intensifies, lebanon, strikes, dozens, and killed. The available excerpt says: Dozens killed in Lebanon as Israel intensifies strikes BBC See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：加剧、黎巴嫩、袭击、几十个、死亡。RSS 中文摘要显示：以色列加强打击，黎巴嫩数十人丧生 BBC 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 6. [Evacuation Orders Lifted as Southern California Chemical Tank Cools - The New York Times](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWV96bU1VTzNWTU1ENEpMZXdVcVZDWTlDMmdVNGtpd3VZOXdYXzhKTGI1eXB6dzE4RFhmZ0dEaFlsdzZsZ1hoSHd1a251U1BaeEFwT0NQMDdEeFlNV2txSnNhcVFVT1p4WDFhNExlVXJCR3hhLXRieW1tSWUxVDcxaGpkd0Z6Tk9w?oc=5)
-
-- Source / 来源: The New York Times. Published: `2026-05-27T04:01:50+00:00`.
-- Keywords / 关键词: evacuation, chemical, orders, lifted, tank, california, southern, cools, angeles, garden
-- 中文关键词: 疏散、化学、订单、举起、坦克、加利福尼亚州、南部、冷却、安吉利斯、花园
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Evacuation Orders Lifted as Southern California Chemical Tank Cools The New York Times All evacuation orders lifted, no threat of explosion, fire or leak at Garden Grove chemical tank ABC7 Los Angeles All evacuation orders lifted in O.C. chemical crisis. Threat is over, officials say Los Angeles Times Garden Grove chemical tank holding steady but evacuations continue KTLA Evacuation orders eased in Garden Grove, but thousands remain displaced NBC Los Angeles
-- RSS 中文摘要: 南加州化学罐降温，疏散令解除 《纽约时报》 所有疏散令均已解除，加登格罗夫化学罐 ABC7 洛杉矶没有爆炸、火灾或泄漏威胁 OC 州所有疏散令均已解除化学危机。官员称威胁已经结束 洛杉矶时报 加登格罗夫化学罐保持稳定，但疏散仍在继续 KTLA 加登格罗夫的疏散令有所放松，但仍有数千人流离失所 NBC Los Angeles
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: evacuation, chemical, orders, lifted, and tank. The available excerpt says: Evacuation Orders Lifted as Southern California Chemical Tank Cools The New York Times All evacuation orders lifted, no threat of explosion, fire or leak at Garden Grove chemical tank ABC7 Los Angeles All evacuation orders lifted in O.C. chemical crisis. Threat is over, officials say Los Angeles Times Garden Grove chemical tank holding steady but evacuations continue KTLA Evacuation orders eased in Garden Grove, but thousands remain displaced NBC Los Angeles Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：疏散、化学、订单、举起、坦克。RSS 中文摘要显示：南加州化学罐降温，疏散令解除 《纽约时报》 所有疏散令均已解除，加登格罗夫化学罐 ABC7 洛杉矶没有爆炸、火灾或泄漏威胁 OC 州所有疏散令均已解除化学危机。官员称威胁已经结束 洛杉矶时报 加登格罗夫化学罐保持稳定，但疏散仍在继续 KTLA 加登格罗夫的疏散令有所放松，但仍有数千人流离失所 NBC Los Angeles 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 7. [Christian Menefee defeats longtime Houston Rep. Al Green in Texas’ new 18th Congressional District - The Texas Tribune](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYkZfR1ozdkxKZ3ZPWTNtTm54OUxQY0YwclUwcV9fdkJSSDRwWVV2T3gxZkNLV3IwaEVZbzlyMGgtTkdwaWlZcnhTWjlsckpNM1o3STZ3QTZITVQ5WDVCUnk2ZUlTc0kxOG51NHlSTWxvcjhza01lbGZxZ3JDOU1KWGpKR2o4RlZMRWFYajgySUxzTGZldGNBeXF2cTdMQTd1QlhheUZRWWRqMEJ3WFF4Z2QwamNxZHNMeExr?oc=5)
-
-- Source / 来源: The Texas Tribune. Published: `2026-05-27T00:37:20+00:00`.
-- Keywords / 关键词: texas, green, christian, menefee, houston, tribune, congressional, longtime, district, defeats
-- 中文关键词: 德克萨斯州、绿色的、基督教、梅尼菲、休斯顿、论坛、国会的、很久、区、失败
+- Source / 来源: Axios. Published: `2026-05-28T02:48:49+00:00`.
+- Keywords / 关键词: paxton, senate, texas, republicans, primary, brutal, break, axios, ice, richardson
+- 中文关键词: 帕克斯顿、参议院、德克萨斯州、共和党人、基本的、野蛮、休息、轴、冰、理查森
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Christian Menefee defeats longtime Houston Rep. Al Green in Texas’ new 18th Congressional District The Texas Tribune Christian Menefee beats Al Green in Democratic primary runoff in new TX-18, according to AP Houston Public Media Veteran Texas congressman Al Green beaten in Democratic primary runoff The Guardian Live updates: Multiple key races called for primary election runoffs, AP projects ABC13 Houston In Democratic runoff, Reps. Al Green and Christian Menefee clash over influence of big money in politics The Texas Tribune
-- RSS 中文摘要: 克里斯蒂安·梅尼菲 (Christian Menefee) 在德克萨斯州新的第 18 国会选区击败长期担任休斯顿众议员阿尔·格林 (Al Green) 据美联社休斯顿公共媒体报道，德克萨斯论坛报 克里斯蒂安·梅尼菲 (Christian Menefee) 在新的 TX-18 民主党初选中击败阿尔·格林 (Al Green) 德克萨斯州老议员阿尔·格林 (Al Green) 在民主党初选决选中落败 卫报直播更新：多个关键竞选要求进行初选决选，美联社项目 ABC13 休斯敦 在民主党决选中，众议员阿尔·格林 (Al Green) 和克里斯蒂安·梅尼菲 (Christian Menefee) 因大笔资金的影响力而发生冲突政治 德克萨斯论坛报
+- RSS Excerpt / RSS 摘要: Republicans break the ice with Paxton after brutal Texas Senate primary Axios Cornyn’s Defeat Fuels Tensions With President Trump in Senate G.O.P. The New York Times May 27, 2026 Letters from an American | Heather Cox Richardson Breaking down Democrats’ chances to beat Ken Paxton in Texas CNN ‘We Have Not Seen Ugly Yet’ The Atlantic
+- RSS 中文摘要: 得克萨斯州参议院初选惨败后，共和党人与帕克斯顿打破了僵局，阿克西奥斯·科宁的失败加剧了参议院共和党与特朗普总统的紧张关系。 《纽约时报》2026 年 5 月 27 日一位美国人的来信 |希瑟·考克斯·理查森 (Heather Cox Richardson) 打破了民主党在得克萨斯州击败肯·帕克斯顿 (Ken Paxton) 的机会 CNN “我们还没见过丑陋的东西” 大西洋月刊
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: texas, green, christian, menefee, and houston. The available excerpt says: Christian Menefee defeats longtime Houston Rep. Al Green in Texas’ new 18th Congressional District The Texas Tribune Christian Menefee beats Al Green in Democratic primary runoff in new TX-18, according to AP Houston Public Media Veteran Texas congressman Al Green beaten in Democratic primary runoff The Guardian Live updates: Multiple key races called for primary election runoffs, AP projects ABC13 Houston In Democratic runoff, Reps. Al Green and Christian Menefee clash over influence of big money in politics The Texas Tribune Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：德克萨斯州、绿色的、基督教、梅尼菲、休斯顿。RSS 中文摘要显示：克里斯蒂安·梅尼菲 (Christian Menefee) 在德克萨斯州新的第 18 国会选区击败长期担任休斯顿众议员阿尔·格林 (Al Green) 据美联社休斯顿公共媒体报道，德克萨斯论坛报 克里斯蒂安·梅尼菲 (Christian Menefee) 在新的 TX-18 民主党初选中击败阿尔·格林 (Al Green) 德克萨斯州老议员阿尔·格林 (Al Green) 在民主党初选决选中落败 卫报直播更新：多个关键竞选要求进行初选决选，美联社项目 ABC13 休斯敦 在民主党决选中，众议员阿尔·格林 (Al Green) 和克里斯蒂安·梅尼菲 (Christian Menefee) 因大笔资金的影响力而发生冲突政治 德克萨斯论坛报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: paxton, senate, texas, republicans, and primary. The available excerpt says: Republicans break the ice with Paxton after brutal Texas Senate primary Axios Cornyn’s Defeat Fuels Tensions With President Trump in Senate G.O.P. The New York Times May 27, 2026 Letters from an American | Heather Cox Richardson Breaking down Democrats’ chances to beat Ken Paxton in Texas CNN ‘We Have Not Seen Ugly Yet’ The Atlantic Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：帕克斯顿、参议院、德克萨斯州、共和党人、基本的。RSS 中文摘要显示：得克萨斯州参议院初选惨败后，共和党人与帕克斯顿打破了僵局，阿克西奥斯·科宁的失败加剧了参议院共和党与特朗普总统的紧张关系。 《纽约时报》2026 年 5 月 27 日一位美国人的来信 |希瑟·考克斯·理查森 (Heather Cox Richardson) 打破了民主党在得克萨斯州击败肯·帕克斯顿 (Ken Paxton) 的机会 CNN “我们还没见过丑陋的东西” 大西洋月刊 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 8. [Diver who helped save soccer team in Thailand holds out hope miners trapped in Laos cave are still alive - CBS News](https://news.google.com/rss/articles/CBMidkFVX3lxTE5UZnNibWFCVG5ORXNUZ1RIUjFiMzJjaG1aeFBDR0FfVlJLYmFCTml1NXJUSTJrRl9GRGNzV01hYUtGQzlQaUhJemFIMkRPaXFnX0wwM1FxSkJpN3I2b2huN0ZwZ1RlbHJjNm9zQ2J5MklDalZWRVHSAXtBVV95cUxPTEt0eVVldC1CblFPX1FXcWk4a0F1Rjg1a3hBSm90V1BoOE0tX0lYWF9oNU1sUk9abGpkWkUtOXluZk93YXVHeF9EbGtpeGMtRWVrdThjdnYwdElycHRkUkRrMzh6SlFMV05BdmNzRlM2SHBGTHJsWGhDQnc?oc=5)
+### 10. [Muslims around the world celebrate Eid al-Adha, in photos - AP News](https://news.google.com/rss/articles/CBMitgFBVV95cUxQTndMM0hCRUkyQ3JGelZ4SDU3eTVHMlJySWRUYm96XzkzeWJ0R3VhLWRyNXBrbk83TG5NdUxtZ0VROTFKM0JTVkRHSk90ZGtoS3RXN1R1N3cxT3hEUVhrR1ZndWc1d1VmMlZ2MTUtdkFoSjJ3QURkRzBOMW5SeW5VQmJobnk2TVhwcXR6aWVva1lPNFZnSjlhOVFvNXlkVDJjMkIxTWllN0pGM3dWeEs0REhDaUYwZw?oc=5)
 
-- Source / 来源: CBS News. Published: `2026-05-27T00:22:55+00:00`.
-- Keywords / 关键词: trapped, laos, cave, thailand, helped, soccer, miners, diver, holds, still
-- 中文关键词: 被困、老挝、洞穴、泰国、帮助了、足球、矿工、潜水员、持有、仍然
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Diver who helped save soccer team in Thailand holds out hope miners trapped in Laos cave are still alive CBS News Cave divers race to free 7 trapped underground in Laos. What to know CNN Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave The New York Times Search continues for 7 villagers trapped in a flooded Laos cave KSL News 'Race against time' to rescue seven trapped in Laos cave RTE.ie
-- RSS 中文摘要: 帮助拯救泰国足球队的潜水员为被困在老挝洞穴中的矿工们仍然活着抱有希望 CBS 新闻 洞穴潜水员竞相营救被困在老挝地下的 7 名矿工。新闻资讯 CNN 老挝救援人员奋力救援 7 名被困在被洪水淹没的洞穴中的人 《纽约时报》 继续搜寻被困在老挝被洪水淹没的洞穴中的 7 名村民 KSL 新闻 “与时间赛跑”，营救被困在老挝洞穴中的 7 名村民 RTE.ie
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: trapped, laos, cave, thailand, and helped. The available excerpt says: Diver who helped save soccer team in Thailand holds out hope miners trapped in Laos cave are still alive CBS News Cave divers race to free 7 trapped underground in Laos. What to know CNN Rescuers in Laos Scramble to Reach 7 People Trapped in Flooded Cave The New York Times Search continues for 7 villagers trapped in a flooded Laos cave KSL News 'Race against time' to rescue seven trapped in Laos cave RTE.ie Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：被困、老挝、洞穴、泰国、帮助了。RSS 中文摘要显示：帮助拯救泰国足球队的潜水员为被困在老挝洞穴中的矿工们仍然活着抱有希望 CBS 新闻 洞穴潜水员竞相营救被困在老挝地下的 7 名矿工。新闻资讯 CNN 老挝救援人员奋力救援 7 名被困在被洪水淹没的洞穴中的人 《纽约时报》 继续搜寻被困在老挝被洪水淹没的洞穴中的 7 名村民 KSL 新闻 “与时间赛跑”，营救被困在老挝洞穴中的 7 名村民 RTE.ie 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 9. [South Carolina’s Trump-backed redistricting push fails in the state Senate amid GOP opposition - NBC News](https://news.google.com/rss/articles/CBMixwFBVV95cUxPOEhad3haN0JtZnVSSXRvV1hSVDFNa3Jydi1vUzBUX1FpSWRMWEpmRUlkRmxqR3J4dWVXTzhteGRjNUJkS0dHZ3VLZXE2SThXWmhIMGkxeDk5VTlpb3hLZWR0MFVlZ19uUktabjRvUlNSVXdwMkx1clBmTFJQZ1VKal9IZ3FzUWYtTDk1Y3dkT1ZMT3hVUnR2XzVXRUpjbDNiVFZlVWI2VGNmSVppTDFXSFJTNkpUVXd1eFpOMmQ5UFN1V3dSYzAw?oc=5)
-
-- Source / 来源: NBC News. Published: `2026-05-26T23:37:40+00:00`.
-- Keywords / 关键词: carolina, south, senate, redistricting, fails, trump-backed, opposition, state, push, gop
-- 中文关键词: 卡罗来纳州、南、参议院、重新划分选区、失败、特朗普支持的、反对、状态、推、共和党
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: South Carolina’s Trump-backed redistricting push fails in the state Senate amid GOP opposition NBC News South Carolina Redistricting: Senate Passes on New Map, Defying Trump The New York Times Effort to redraw SC voting lines fails amid record start to early voting SC Daily Gazette South Carolina Republicans block Trump’s effort to gain more House seats The Washington Post South Carolina Senate rejects Trump’s call to redraw congressional maps and target Jim Clyburn’s seat CNN
-- RSS 中文摘要: 南卡罗来纳州特朗普支持的选区重新划分计划因共和党反对而在州参议院失败 NBC 新闻 南卡罗来纳州重新划分选区：参议院通过新地图，无视特朗普 《纽约时报》 重新划定南卡罗来纳州投票线的努力因提前投票创纪录而失败 南卡罗来纳州共和党人阻止特朗普获得更多众议院席位的努力 华盛顿邮报 南卡罗来纳州参议院拒绝了特朗普重新绘制国会地图并瞄准吉姆·克莱伯恩席位的呼吁 CNN
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: carolina, south, senate, redistricting, and fails. The available excerpt says: South Carolina’s Trump-backed redistricting push fails in the state Senate amid GOP opposition NBC News South Carolina Redistricting: Senate Passes on New Map, Defying Trump The New York Times Effort to redraw SC voting lines fails amid record start to early voting SC Daily Gazette South Carolina Republicans block Trump’s effort to gain more House seats The Washington Post South Carolina Senate rejects Trump’s call to redraw congressional maps and target Jim Clyburn’s seat CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：卡罗来纳州、南、参议院、重新划分选区、失败。RSS 中文摘要显示：南卡罗来纳州特朗普支持的选区重新划分计划因共和党反对而在州参议院失败 NBC 新闻 南卡罗来纳州重新划分选区：参议院通过新地图，无视特朗普 《纽约时报》 重新划定南卡罗来纳州投票线的努力因提前投票创纪录而失败 南卡罗来纳州共和党人阻止特朗普获得更多众议院席位的努力 华盛顿邮报 南卡罗来纳州参议院拒绝了特朗普重新绘制国会地图并瞄准吉姆·克莱伯恩席位的呼吁 CNN 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 10. [North Korea tests AI-guided missiles and artillery rockets designed for modern warfare, KCNA says - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxOSTdTQVRlZ0ZRdUVLU3pBSTNORUd0ZWN5clcyNnlMNkxxdmRIY1p1eDZ6YkZrNGtRdnZVNzhOM0wxbTZFMU44TmFIdWE0WHFUaDRiNXBaUGdJaEc5NVM4VXFuSDlKdkdITTNkLUMxSzZTczJ1eU9tNUdzZ1BuaVMxaktySHFNckVpWnh2N2tFanRKMTJaTFVNZkNueU5wbEhIT0xqbGJ0NGkxVTdNOUNqVTJ0b0dvTXh5TDRlX2kxc1dxcTROYlZBemVpdkFJVmc?oc=5)
-
-- Source / 来源: Reuters. Published: `2026-05-26T22:30:00+00:00`.
-- Keywords / 关键词: north, korea, missiles, ai-guided, tests, artillery, designed, rockets, warfare, modern
-- 中文关键词: 北、韩国、导弹、人工智能引导、测试、炮兵、设计的、火箭、战争、现代的
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: North Korea tests AI-guided missiles and artillery rockets designed for modern warfare, KCNA says Reuters North Korea fires short-range ballistic missile and other weapons toward sea, South says, in latest weapons demo CBS News North Korea says it tested new warheads, technology and navigation in latest launches Politico North Korea launches ballistic missiles over the sea in latest show of force ABC News - Breaking News, Latest News and Videos North Korea tests AI-guided missiles for the first time Sky News
-- RSS 中文摘要: 朝中社称，朝鲜测试了为现代战争设计的人工智能制导导弹和火炮火箭 路透社称，朝鲜在最新的武器演示中向海上发射短程弹道导弹和其他武器 哥伦比亚广播公司新闻 朝鲜表示，在最新的发射中测试了新的弹头、技术和导航 政治新闻 朝鲜在最新的武力展示中向海上发射弹道导弹 ABC News - 突发新闻、最新新闻和视频 朝鲜首次测试人工智能制导导弹 天空新闻
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: north, korea, missiles, ai-guided, and tests. The available excerpt says: North Korea tests AI-guided missiles and artillery rockets designed for modern warfare, KCNA says Reuters North Korea fires short-range ballistic missile and other weapons toward sea, South says, in latest weapons demo CBS News North Korea says it tested new warheads, technology and navigation in latest launches Politico North Korea launches ballistic missiles over the sea in latest show of force ABC News - Breaking News, Latest News and Videos North Korea tests AI-guided missiles for the first time Sky News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：北、韩国、导弹、人工智能引导、测试。RSS 中文摘要显示：朝中社称，朝鲜测试了为现代战争设计的人工智能制导导弹和火炮火箭 路透社称，朝鲜在最新的武器演示中向海上发射短程弹道导弹和其他武器 哥伦比亚广播公司新闻 朝鲜表示，在最新的发射中测试了新的弹头、技术和导航 政治新闻 朝鲜在最新的武力展示中向海上发射弹道导弹 ABC News - 突发新闻、最新新闻和视频 朝鲜首次测试人工智能制导导弹 天空新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+- Source / 来源: AP News. Published: `2026-05-28T01:45:12+00:00`.
+- Keywords / 关键词: eid, al-adha, muslims, celebrate, around, photos, holiday, today, herald-tribune, celebrated
+- 中文关键词: 开斋节、宰牲节、穆斯林、庆祝、大约、照片、假期、今天、先驱论坛报、著名
+- Category / 分类: Economy and markets / 经济与市场
+- RSS Excerpt / RSS 摘要: Muslims around the world celebrate Eid al-Adha, in photos AP News Eid al-Adha explained. See date and why Muslims have two Eid holidays USA Today Eid Mubarak! Why I love Eid al-Adha, the second major Islamic holiday The Columbus Dispatch Muslims worldwide celebrate Eid al-Adha, the Festival of Sacrifice Al Jazeera Muslim holiday Eid al-Adha is today. What to know, how it's celebrated Sarasota Herald-Tribune
+- RSS 中文摘要: 美联社新闻宰牲节照片中解释说，世界各地的穆斯林庆祝宰牲节。查看日期以及为什么穆斯林有两个开斋节假期《今日美国》开斋节穆巴拉克！为什么我喜欢古尔邦节，第二个重要的伊斯兰节日 哥伦布电报 全世界的穆斯林庆祝古尔邦节，即祭祀节 半岛电视台 穆斯林节日 古尔邦节就是今天。要知道什么，如何庆祝 萨拉索塔先驱论坛报
+- EN Summary: This story is tied to business conditions, financial expectations, or the cost of goods and capital.
+- 中文概要: 这条新闻与商业环境、金融预期或商品与资金成本相关。
+- EN Detailed Reading: Key signals: eid, al-adha, muslims, celebrate, and around. The available excerpt says: Muslims around the world celebrate Eid al-Adha, in photos AP News Eid al-Adha explained. See date and why Muslims have two Eid holidays USA Today Eid Mubarak! Why I love Eid al-Adha, the second major Islamic holiday The Columbus Dispatch Muslims worldwide celebrate Eid al-Adha, the Festival of Sacrifice Al Jazeera Muslim holiday Eid al-Adha is today. What to know, how it's celebrated Sarasota Herald-Tribune Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
+- 中文详细解读: 关键词信号：开斋节、宰牲节、穆斯林、庆祝、大约。RSS 中文摘要显示：美联社新闻宰牲节照片中解释说，世界各地的穆斯林庆祝宰牲节。查看日期以及为什么穆斯林有两个开斋节假期《今日美国》开斋节穆巴拉克！为什么我喜欢古尔邦节，第二个重要的伊斯兰节日 哥伦布电报 全世界的穆斯林庆祝古尔邦节，即祭祀节 半岛电视台 穆斯林节日 古尔邦节就是今天。要知道什么，如何庆祝 萨拉索塔先驱论坛报 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
+- EN What to watch: price movements; company and government guidance; second-round supply-chain effects
+- 后续关注: 价格变化；企业与政府指引；供应链二次影响
 
 
 
