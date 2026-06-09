@@ -10,155 +10,155 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-06-08T08:49:36+00:00` UTC.
+Generated at `2026-06-09T07:42:43+00:00` UTC.
 
-### 1. [Trump tells Axios he will ask Netanyahu not to strike back at Iran - Axios](https://news.google.com/rss/articles/CBMic0FVX3lxTE1kOHBIYU8yUjFwY2ZtOHlqUnFYX3p6TmVfTl82d0dBZ1psZXlYZkdlYzZvV0ozc2tlM1U4TmlYeldrNlkxQk5PakZDLVBhRHZ2OGQzaExod2Iyc0hQblVNOGZyaEV4MHpuUll3b1BwYXp6Tkk?oc=5)
+### 1. [Some of the deadly earthquakes in the Philippines - AP News](https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0pZN2tKUzVNRXh6TWxSNmNDbnhDdGZwQ1VISlRBbGhaZ21idC1YZUZ4eUxDb2RoMlhkRHh0VEZrb0xkQ0tIcEZQTVdTX0hJaFRlZm1YSkpaYXRuT0lTWTYxOXZYekFReFNxc1ByQ2FGSXZVVFZTUUxxeVdVQnlGMTVfeWVsRlIwQTEtdmdoN0ZEMWVtNzNj?oc=5)
 
-- Source / 来源: Axios. Published: `2026-06-08T05:46:01+00:00`.
-- Keywords / 关键词: iran, axios, netanyahu, strike, israel, trump, tells, back, ask, strikes
-- 中文关键词: 伊朗、轴、内塔尼亚胡、袭击、以色列、特朗普、告诉、后退、问
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump tells Axios he will ask Netanyahu not to strike back at Iran Axios Middle East crisis live: Israel and Iran exchange fresh round of strikes as attacks intensify The Guardian Israel and Iran exchange attacks as ceasefire falters Al Jazeera Iran war live updates: Israel and Iran trade strikes in serious escalation AP News Mideast Live Updates: Iran and Israel Trade Strikes for the First Time Since April The New York Times
-- RSS 中文摘要: 特朗普告诉 Axios，他将要求内塔尼亚胡不要对伊朗进行反击 Axios 中东危机直播：随着袭击加剧，以色列和伊朗进行新一轮袭击 《卫报》 停火动摇，以色列和伊朗互相袭击 半岛电视台伊朗战争实时更新：以色列和伊朗贸易袭击严重升级 美联社新闻中东实时更新：伊朗和以色列自 4 月以来首次进行贸易袭击 纽约时报
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, axios, netanyahu, strike, and israel. The available excerpt says: Trump tells Axios he will ask Netanyahu not to strike back at Iran Axios Middle East crisis live: Israel and Iran exchange fresh round of strikes as attacks intensify The Guardian Israel and Iran exchange attacks as ceasefire falters Al Jazeera Iran war live updates: Israel and Iran trade strikes in serious escalation AP News Mideast Live Updates: Iran and Israel Trade Strikes for the First Time Since April The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、轴、内塔尼亚胡、袭击、以色列。RSS 中文摘要显示：特朗普告诉 Axios，他将要求内塔尼亚胡不要对伊朗进行反击 Axios 中东危机直播：随着袭击加剧，以色列和伊朗进行新一轮袭击 《卫报》 停火动摇，以色列和伊朗互相袭击 半岛电视台伊朗战争实时更新：以色列和伊朗贸易袭击严重升级 美联社新闻中东实时更新：伊朗和以色列自 4 月以来首次进行贸易袭击 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+- Source / 来源: AP News. Published: `2026-06-09T04:24:00+00:00`.
+- Keywords / 关键词: philippines, earthquakes, deadly, some, quake, toll, aftershocks, earthquake, officials, survivors
+- 中文关键词: 菲律宾、地震、致命、一些、收费、余震、官员、幸存者
+- Category / 分类: Climate, environment, and safety / 气候、环境与安全
+- RSS Excerpt / RSS 摘要: Some of the deadly earthquakes in the Philippines AP News Hundreds of aftershocks jolt Philippines as officials say death toll could rise BBC Race to find survivors as Philippines quake toll rises to 37 Al Jazeera At Least 32 Dead After Earthquake and Landslide in the Philippines The New York Times A 7.8 magnitude quake in the Philippines kills at least 35, collapses buildings and sparks tsunami AP News
+- RSS 中文摘要: 菲律宾发生的一些致命地震 美联社新闻 数百起余震震撼菲律宾，官员称死亡人数可能上升 BBC 竞相寻找幸存者，菲律宾地震死亡人数上升至 37 人 半岛电视台 菲律宾地震和山体滑坡后至少 32 人死亡 纽约时报 菲律宾发生的 7.8 级地震造成至少 35 人死亡、建筑物倒塌并引发海啸 美联社新闻
+- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
+- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
+- EN Detailed Reading: Key signals: philippines, earthquakes, deadly, some, and quake. The available excerpt says: Some of the deadly earthquakes in the Philippines AP News Hundreds of aftershocks jolt Philippines as officials say death toll could rise BBC Race to find survivors as Philippines quake toll rises to 37 Al Jazeera At Least 32 Dead After Earthquake and Landslide in the Philippines The New York Times A 7.8 magnitude quake in the Philippines kills at least 35, collapses buildings and sparks tsunami AP News Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
+- 中文详细解读: 关键词信号：菲律宾、地震、致命、一些、收费。RSS 中文摘要显示：菲律宾发生的一些致命地震 美联社新闻 数百起余震震撼菲律宾，官员称死亡人数可能上升 BBC 竞相寻找幸存者，菲律宾地震死亡人数上升至 37 人 半岛电视台 菲律宾地震和山体滑坡后至少 32 人死亡 纽约时报 菲律宾发生的 7.8 级地震造成至少 35 人死亡、建筑物倒塌并引发海啸 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
+- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
+- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
 
-### 2. [Israel launches strikes on Iran after Tehran fires barrage of missiles - The Washington Post](https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVFqaTlpQkZ5Z1lyZ3dSTHNEcGdqeExaOTlmSHZpeHhzZzhMcUJzVW8xRkQwV0s4T3lPRGpfTVlxMkk4LUQ3MW9LSWVseW83a1dfbHdBUG96dlNFWE9LRVRvWnJmcVJuWDNKVGFiZUdlUzhZSVZzZ0MwS2J1ek1tWnBOWlVaREU2bTk1S3pzcUhndTRqUGdaVllfSmkybmV3VzNyZmxUM2lVNTUxN0NuZnpBU2ZrZjgzb2xkdjZueEtveEZ2ZGc?oc=5)
+### 2. [Nithya Raman Secures Second LA Mayor Spot, Ending Spencer Pratt’s Run - The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxPSlNUa2c1SGRidXhsXzVDa2pZNW1RenhGR1Fkbk9DWWs2eEgyM1pzX3J3Y2ZvX2MtUGdRY0wzUl8xcFpiNmhtTFVEaUk1R2dDeVI3WDRSc1hwUDRBVjgtSmtEQkhqY3pVbERSU19tQ1FLck9TYnlULXVLdjhCUEpvdVVSU0VsZFN6X1hvSld3?oc=5)
 
-- Source / 来源: The Washington Post. Published: `2026-06-08T05:21:00+00:00`.
-- Keywords / 关键词: iran, israel, strikes, washington, launches, missiles, barrage, tehran, fires, exchange
-- 中文关键词: 伊朗、以色列、袭击、华盛顿、发射、导弹、弹幕、德黑兰、火灾、交换
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Israel launches strikes on Iran after Tehran fires barrage of missiles The Washington Post Middle East crisis live: Israel and Iran exchange fresh round of strikes as attacks intensify The Guardian Israel and Iran exchange attacks as ceasefire falters Al Jazeera Trump tells Axios he will ask Netanyahu not to strike back at Iran Axios Iran war live updates: Israel and Iran trade strikes in serious escalation AP News
-- RSS 中文摘要: 德黑兰发射导弹后，以色列对伊朗发动袭击 华盛顿邮报 中东危机直播：随着袭击加剧，以色列和伊朗进行新一轮打击 《卫报》 停火动摇，以色列和伊朗互相袭击 半岛电视台 特朗普告诉 Axios，他将要求内塔尼亚胡不要反击伊朗 Axios 伊朗战争实时更新：以色列和伊朗贸易打击严重升级 美联社新闻
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, israel, strikes, washington, and launches. The available excerpt says: Israel launches strikes on Iran after Tehran fires barrage of missiles The Washington Post Middle East crisis live: Israel and Iran exchange fresh round of strikes as attacks intensify The Guardian Israel and Iran exchange attacks as ceasefire falters Al Jazeera Trump tells Axios he will ask Netanyahu not to strike back at Iran Axios Iran war live updates: Israel and Iran trade strikes in serious escalation AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、以色列、袭击、华盛顿、发射。RSS 中文摘要显示：德黑兰发射导弹后，以色列对伊朗发动袭击 华盛顿邮报 中东危机直播：随着袭击加剧，以色列和伊朗进行新一轮打击 《卫报》 停火动摇，以色列和伊朗互相袭击 半岛电视台 特朗普告诉 Axios，他将要求内塔尼亚胡不要反击伊朗 Axios 伊朗战争实时更新：以色列和伊朗贸易打击严重升级 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 3. [Powerful earthquake hits Philippines, killing at least 15 - Al Jazeera](https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWJRbmdPZHFyOC1DUFd6ZWpsWkVqcWg3d2dIN3VkMHdFbW4tOW1xaGVtU2pabWpBV3JwdjUtOEM0a0Iyck9VdlNNM21FcGFCeWpEb0VYRVczcGg2b2I3c2E0VWJmUVB6cFY0bzdUWnlwelV5UEkwWTNSdTltZ0pSQjZNOXBmS0hEYllySlpCV1dGeGNVaTFQbDM5TzZQSjFBcXdmcFlaWW1HaEFaZTln0gG0AUFVX3lxTFAyZjJPcnNudHlobEVCX2hoMjRmUFFHT3E1Y0ZtVTNuVk5EOTdLMTN6OFhYdlhjRW1JMTV5MXBjTVM5YWNOY2U2QnJBV0pjQWV0c2R3U2ZSYVQ0bXQtWjZWYzNRNDN5d2VKRmRuVXFJOXl0MVZRa1dZZWJuX1dFa3NJQkluZXoxZmY2bDF2emJkUktWWXIyaEdfM1JycG53dVdEVjhNVTBBNVVEUUw2SHJ3OU5uZQ?oc=5)
-
-- Source / 来源: Al Jazeera. Published: `2026-06-08T07:41:15+00:00`.
-- Keywords / 关键词: philippines, earthquake, powerful, killing, jazeera, hits, magnitude, tsunami, coast, japan
-- 中文关键词: 菲律宾、地震、强大的、造成死亡、半岛电视台、点击数、震级、海啸、海岸、日本
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Powerful earthquake hits Philippines, killing at least 15 Al Jazeera Philippines: 19 dead after earthquake off Mindanao coast BBC Magnitude 7.8 earthquake strikes off the coast of the Philippines, triggering tsunami warnings FOX Weather Tsunami advisory issued for Pacific coasts of western, eastern Japan Japan Wire by Kyodo News A 7.8 magnitude earthquake rocks the southern Philippines NPR
-- RSS 中文摘要: 菲律宾发生强烈地震，造成至少 15 人死亡 半岛电视台菲律宾：棉兰老岛海岸发生地震，造成 19 人死亡 BBC 菲律宾海岸发生 7.8 级地震，引发海啸警报 福克斯天气向日本西部和东部太平洋海岸发布海啸预警 日本共同社报道 菲律宾南部发生 7.8 级地震 NPR
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: philippines, earthquake, powerful, killing, and jazeera. The available excerpt says: Powerful earthquake hits Philippines, killing at least 15 Al Jazeera Philippines: 19 dead after earthquake off Mindanao coast BBC Magnitude 7.8 earthquake strikes off the coast of the Philippines, triggering tsunami warnings FOX Weather Tsunami advisory issued for Pacific coasts of western, eastern Japan Japan Wire by Kyodo News A 7.8 magnitude earthquake rocks the southern Philippines NPR Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：菲律宾、地震、强大的、造成死亡、半岛电视台。RSS 中文摘要显示：菲律宾发生强烈地震，造成至少 15 人死亡 半岛电视台菲律宾：棉兰老岛海岸发生地震，造成 19 人死亡 BBC 菲律宾海岸发生 7.8 级地震，引发海啸警报 福克斯天气向日本西部和东部太平洋海岸发布海啸预警 日本共同社报道 菲律宾南部发生 7.8 级地震 NPR 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 4. [6 people hurt in stabbings at New York's Penn Station with a suspect in custody, authorities says - AP News](https://news.google.com/rss/articles/CBMinAFBVV95cUxPdXlkRV8wRGh4Y1d2ZmhzeUFNRUF6Yk5XUFZ1S3czQU1iaHJRU04xTV82STVpSWtiamFmS2YzSEZuMUlRNXNYOEJwV3V4SjlzTFVqQlVDRUdkcVE5anJZZEVPR3d2TEN2RS1QcFp1UFdvbEZJNExubXh1aGlCcF90UGVKSVBxTnZVTTRaMXN5UzBCem5FMDZlcmFPam0?oc=5)
-
-- Source / 来源: AP News. Published: `2026-06-08T03:02:00+00:00`.
-- Keywords / 关键词: authorities, stabbings, station, suspect, custody, people, york's, hurt, penn, perspectives
-- 中文关键词: 当局、刺伤、车站、怀疑、保管、人们、约克的、伤害、佩恩、观点
-- Category / 分类: Global affairs / 全球事务
-- RSS Excerpt / RSS 摘要: 6 people hurt in stabbings at New York's Penn Station with a suspect in custody, authorities says AP News See more headlines & perspectives on Google News
-- RSS 中文摘要: 当局称，纽约宾州车站发生刺伤事件，造成 6 人受伤，一名嫌疑人已被拘留。美联社新闻 在 Google 新闻上查看更多头条新闻和观点
-- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
-- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
-- EN Detailed Reading: Key signals: authorities, stabbings, station, suspect, and custody. The available excerpt says: 6 people hurt in stabbings at New York's Penn Station with a suspect in custody, authorities says AP News See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文详细解读: 关键词信号：当局、刺伤、车站、怀疑、保管。RSS 中文摘要显示：当局称，纽约宾州车站发生刺伤事件，造成 6 人受伤，一名嫌疑人已被拘留。美联社新闻 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
-- EN What to watch: follow-up reporting; official statements; regional or market reaction
-- 后续关注: 后续报道；官方声明；地区或市场反应
-
-### 5. [Pro-EU ruling party in Armenia claims victory in parliamentary election - politico.eu](https://news.google.com/rss/articles/CBMikAFBVV95cUxPcjlWSElFSjVuNGNmOVdObzNXVGR3U3BJYlNNSnhQYWdkbWxtMlNOenh0U1dOQ2dFSmgteGdHLWZjdVZtVDRpVUFCV0N4cWJyNW5VYW1XbUlYaGhRMkozcWtuOXZjaThOdjhjbTdSbW9DVlBUZ1k0NWRld3lXV0kzNlBvckp6X3dPUTNiY0pBUkw?oc=5)
-
-- Source / 来源: politico.eu. Published: `2026-06-08T04:33:18+00:00`.
-- Keywords / 关键词: election, armenia, party, victory, ruling, parliamentary, politico, pro-eu, claims, armenia's
-- 中文关键词: 选举、亚美尼亚、派对、胜利、裁决、议会、政治报、亲我、索赔、亚美尼亚的
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Pro-EU ruling party in Armenia claims victory in parliamentary election politico.eu Armenia's pro-West government wins election despite Russian pressure BBC Armenia’s Prime Minister Declares Victory in Race Shadowed by Russia The New York Times Armenia’s pro-Europe party wins election and cements shift away from Russia The Guardian Armenia's ruling party secures 49.81% of vote in elections, commission says Reuters
-- RSS 中文摘要: 亚美尼亚亲欧盟执政党声称在议会选举中获胜 politico.eu 尽管俄罗斯施压，亚美尼亚亲西方政府仍赢得选举 BBC 亚美尼亚总理宣布在俄罗斯阴影下的种族选举中取得胜利 《纽约时报》亚美尼亚亲欧洲政党赢得选举并巩固对俄罗斯的转向 《卫报》 委员会表示，亚美尼亚执政党在选举中获得 49.81% 的选票 路透
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: election, armenia, party, victory, and ruling. The available excerpt says: Pro-EU ruling party in Armenia claims victory in parliamentary election politico.eu Armenia's pro-West government wins election despite Russian pressure BBC Armenia’s Prime Minister Declares Victory in Race Shadowed by Russia The New York Times Armenia’s pro-Europe party wins election and cements shift away from Russia The Guardian Armenia's ruling party secures 49.81% of vote in elections, commission says Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：选举、亚美尼亚、派对、胜利、裁决。RSS 中文摘要显示：亚美尼亚亲欧盟执政党声称在议会选举中获胜 politico.eu 尽管俄罗斯施压，亚美尼亚亲西方政府仍赢得选举 BBC 亚美尼亚总理宣布在俄罗斯阴影下的种族选举中取得胜利 《纽约时报》亚美尼亚亲欧洲政党赢得选举并巩固对俄罗斯的转向 《卫报》 委员会表示，亚美尼亚执政党在选举中获得 49.81% 的选票 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 6. [Flags, gun salute greet China's Xi on arrival in North Korea for summit - Reuters](https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWY1bGhhZXQ0TlBOOTFKWFpCN3dBdkUzNWctcFE5cXh6UXljOWhwQ3g4cFhpYVNVRmZXSXJ6ZVVNeFgyaDZPX3Ata3BJQ3lTYng0RkZqQUFmemF4eGxzSzNWemhIYmVTRHdpODJhXzRSbVJtd05RbTRqQlVrdVd6OG8yUWhJdVZjYVpONkYwNnZpYjV0VEhtbG5lZy1HbUpNaC1UYkVzUnluM25icm11SmJoc3NrRDNjeG5LN1lQZnMzaXMy?oc=5)
-
-- Source / 来源: Reuters. Published: `2026-06-07T22:17:00+00:00`.
-- Keywords / 关键词: north, korea, china's, arrival, salute, summit, flags, greet, gun, influence
-- 中文关键词: 北、韩国、中国的、到达、礼炮、首脑、旗帜、迎接、枪、影响
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Flags, gun salute greet China's Xi on arrival in North Korea for summit Reuters China's Xi Jinping lands in North Korea to meet Kim Jong Un in rare visit - follow live BBC China and Russia are competing for influence over North Korea The Economist North Korea calls the US push for its denuclearization ‘anachronistic dream’ AP News Xi Visits North Korea to Boost Influence Over Emboldened Kim Bloomberg.com
-- RSS 中文摘要: 旗帜、礼炮迎接中国习近平抵达朝鲜参加峰会 路透 中国习近平抵达朝鲜，罕见地会见金正恩 - 关注 BBC 直播 中国和俄罗斯正在争夺对朝鲜的影响力 朝鲜经济学家称美国推动无核化是“不合时宜的梦想” 美联社新闻 习近平访问朝鲜，以增强对胆大妄为的金正恩的影响 Bloomberg.com
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: north, korea, china's, arrival, and salute. The available excerpt says: Flags, gun salute greet China's Xi on arrival in North Korea for summit Reuters China's Xi Jinping lands in North Korea to meet Kim Jong Un in rare visit - follow live BBC China and Russia are competing for influence over North Korea The Economist North Korea calls the US push for its denuclearization ‘anachronistic dream’ AP News Xi Visits North Korea to Boost Influence Over Emboldened Kim Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：北、韩国、中国的、到达、礼炮。RSS 中文摘要显示：旗帜、礼炮迎接中国习近平抵达朝鲜参加峰会 路透 中国习近平抵达朝鲜，罕见地会见金正恩 - 关注 BBC 直播 中国和俄罗斯正在争夺对朝鲜的影响力 朝鲜经济学家称美国推动无核化是“不合时宜的梦想” 美联社新闻 习近平访问朝鲜，以增强对胆大妄为的金正恩的影响 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 7. [Friendship or leverage: Why is Xi Jinping going to North Korea? - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE00Nzl3WGtpQk5zMVlQeUZaY29sMFlMOXcycEhiNVE2SHczaXRfY0t2VVh2WmtwZ242YVdWdkZzaFRLT21lME9VVzBJN2FrVnlzT2dSSHVNRHltQQ?oc=5)
-
-- Source / 来源: BBC. Published: `2026-06-07T22:02:31+00:00`.
-- Keywords / 关键词: north, korea, jinping, friendship, leverage, going, influence, kim, denuclearization, anachronistic
-- 中文关键词: 北、韩国、金平、友谊、杠杆作用、去、影响、金、无核化、不合时宜的
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Friendship or leverage: Why is Xi Jinping going to North Korea? BBC China's Xi Jinping lands in North Korea to meet Kim Jong Un in rare visit - follow live BBC China and Russia are competing for influence over North Korea The Economist North Korea calls the US push for its denuclearization ‘anachronistic dream’ AP News Xi Visits North Korea to Boost Influence Over Emboldened Kim Bloomberg.com
-- RSS 中文摘要: 友谊还是杠杆：习近平为何要去朝鲜？ BBC 中国国家主席习近平罕见访问朝鲜，会见金正恩 - 关注 BBC 直播 中国和俄罗斯正在争夺对朝鲜的影响力 朝鲜经济学家称美国推动无核化是“不合时宜的梦想” 美联社新闻 习近平访问朝鲜以增强对胆大妄为的金正恩的影响 Bloomberg.com
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: north, korea, jinping, friendship, and leverage. The available excerpt says: Friendship or leverage: Why is Xi Jinping going to North Korea? BBC China's Xi Jinping lands in North Korea to meet Kim Jong Un in rare visit - follow live BBC China and Russia are competing for influence over North Korea The Economist North Korea calls the US push for its denuclearization ‘anachronistic dream’ AP News Xi Visits North Korea to Boost Influence Over Emboldened Kim Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：北、韩国、金平、友谊、杠杆作用。RSS 中文摘要显示：友谊还是杠杆：习近平为何要去朝鲜？ BBC 中国国家主席习近平罕见访问朝鲜，会见金正恩 - 关注 BBC 直播 中国和俄罗斯正在争夺对朝鲜的影响力 朝鲜经济学家称美国推动无核化是“不合时宜的梦想” 美联社新闻 习近平访问朝鲜以增强对胆大妄为的金正恩的影响 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 8. [Trump walks out of interview with NBC’s Meet the Press after clash over election claims - The Guardian](https://news.google.com/rss/articles/CBMilwFBVV95cUxNbTRGRHpnMXduWlJRMEswTS1ZLUZTRDRRcGd4TmZZVXJicVZfZGZpeVZfYUFsNWhoZFRJakxocWptbV90RjZGVFcybU41NFZTVUxCR0liV2NYTGRYb2lxcDE5NHBnWUhkcmdHWVZpVkFOdVFQcUtxWEcwMmFNNWVzNFp3QmtOemdMX2c4Ui0wOFNsN1pHdzJB?oc=5)
-
-- Source / 来源: The Guardian. Published: `2026-06-08T02:26:00+00:00`.
-- Keywords / 关键词: interview, trump, nbc, press, meet, election, claims, clash, out, walks
-- 中文关键词: 面试、特朗普、全国广播公司、按、见面、选举、索赔、冲突、出去、散步
+- Source / 来源: The New York Times. Published: `2026-06-09T02:06:16+00:00`.
+- Keywords / 关键词: raman, mayor, nithya, pratt, spencer, secures, second, ending, spot, run
+- 中文关键词: 拉曼、市长、尼西亚、普拉特、斯宾塞、确保、第二、结束、点、跑步
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Trump walks out of interview with NBC’s Meet the Press after clash over election claims The Guardian Trump abruptly ends NBC interview after clash over 'rigged election' claim BBC Trump storms out of interview after being challenged about election fraud claims, DOJ fund CNBC Read the transcript: President Donald Trump interviewed by NBC News’ ‘Meet the Press’ moderator Kristen Welker NBC News 5 key moments from Trump's cut-short "Meet the Press" interview Axios
-- RSS 中文摘要: 特朗普在因选举指控发生冲突后退出 NBC 的会见媒体采访 《卫报》 特朗普在因“操纵选举”指控发生冲突后突然结束 NBC 采访 BBC 特朗普在受到有关选举欺诈指控的质疑后愤然退出采访，美国司法部资助 CNBC 阅读文字记录：唐纳德·特朗普总统接受 NBC 新闻“会见媒体”主持人克里斯汀·韦尔克 (Kristen Welker) 采访 NBC 新闻 特朗普简短的“会见媒体”采访中的 5 个关键时刻 Axios
+- RSS Excerpt / RSS 摘要: Nithya Raman Secures Second LA Mayor Spot, Ending Spencer Pratt’s Run The New York Times Los Angeles Mayor Primary 2026 Live Results NBC News Nithya Raman overtakes Spencer Pratt for 2nd place in LA mayoral race, results show NBC Los Angeles How Nithya Raman went from last-minute candidate to the L.A. mayor runoff Los Angeles Times LA mayor race: Bass will face Raman in November. Pratt is out LAist
+- RSS 中文摘要: Nithya Raman 获得第二个洛杉矶市长席位，结束斯宾塞·普拉特 (Spencer Pratt) 的竞选《纽约时报》洛杉矶市长初选 2026 年现场结果 NBC 新闻 NBC 新闻 Nithya Raman 超越斯宾塞·普拉特 (Spencer Pratt) 在洛杉矶市长竞选中获得第二名，结果显示 NBC 洛杉矶 Nithya Raman 如何从最后一刻的候选人进入洛杉矶市长决选 《洛杉矶时报》洛杉矶市长竞选：巴斯将在 11 月面对拉曼。普拉特 (Pratt) 退出 LAist
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: interview, trump, nbc, press, and meet. The available excerpt says: Trump walks out of interview with NBC’s Meet the Press after clash over election claims The Guardian Trump abruptly ends NBC interview after clash over 'rigged election' claim BBC Trump storms out of interview after being challenged about election fraud claims, DOJ fund CNBC Read the transcript: President Donald Trump interviewed by NBC News’ ‘Meet the Press’ moderator Kristen Welker NBC News 5 key moments from Trump's cut-short "Meet the Press" interview Axios Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：面试、特朗普、全国广播公司、按、见面。RSS 中文摘要显示：特朗普在因选举指控发生冲突后退出 NBC 的会见媒体采访 《卫报》 特朗普在因“操纵选举”指控发生冲突后突然结束 NBC 采访 BBC 特朗普在受到有关选举欺诈指控的质疑后愤然退出采访，美国司法部资助 CNBC 阅读文字记录：唐纳德·特朗普总统接受 NBC 新闻“会见媒体”主持人克里斯汀·韦尔克 (Kristen Welker) 采访 NBC 新闻 特朗普简短的“会见媒体”采访中的 5 个关键时刻 Axios 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: raman, mayor, nithya, pratt, and spencer. The available excerpt says: Nithya Raman Secures Second LA Mayor Spot, Ending Spencer Pratt’s Run The New York Times Los Angeles Mayor Primary 2026 Live Results NBC News Nithya Raman overtakes Spencer Pratt for 2nd place in LA mayoral race, results show NBC Los Angeles How Nithya Raman went from last-minute candidate to the L.A. mayor runoff Los Angeles Times LA mayor race: Bass will face Raman in November. Pratt is out LAist Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：拉曼、市长、尼西亚、普拉特、斯宾塞。RSS 中文摘要显示：Nithya Raman 获得第二个洛杉矶市长席位，结束斯宾塞·普拉特 (Spencer Pratt) 的竞选《纽约时报》洛杉矶市长初选 2026 年现场结果 NBC 新闻 NBC 新闻 Nithya Raman 超越斯宾塞·普拉特 (Spencer Pratt) 在洛杉矶市长竞选中获得第二名，结果显示 NBC 洛杉矶 Nithya Raman 如何从最后一刻的候选人进入洛杉矶市长决选 《洛杉矶时报》洛杉矶市长竞选：巴斯将在 11 月面对拉曼。普拉特 (Pratt) 退出 LAist 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 9. [Photos of Peru’s presidential election runoff - AP News](https://news.google.com/rss/articles/CBMirAFBVV95cUxOLVNnT041WDVfS2xzdTdoVU1LVjFGT0Utcjdrd2h2VENyak1JZlRoam1jNENWWkpSblFUZW9KaXUtNHAtaWxCY2tlRlpEVWdKbmFrUlliSldqcVRMazVzSXFpOWdpa2xYSmhuckoxcEdPRC0xaThZdmkwbURIWHc1aGx3TG9MYVhFMUR1Q09yU3E3MXVvNnRmdDJRQTgtYVhkZ2c3Q29na3hTUnZR?oc=5)
+### 3. [After escalating strikes, Israel and Iran signal end to attacks - The Washington Post](https://news.google.com/rss/articles/CBMisAFBVV95cUxQbDNZeVlhTlB0ZW9nUHJBRmJyTGlFT3pjX1p5Sld4WWdyTlNMT0Q2WHdWQVh4aWoxSVlWZ040MkxKRTNmaUgzV25acXJHVHNodXA0ZU14MmgtMVVxT2c4VG55RjJtck5ic1U1dzNISG1NZWdUT0JzREpsU2R2dmx5M01QekNXcU1tdzVHQ2w1Ylc1UWhKa0VhTldhUWo2Y0ZTTVZWVnZZODNBVy1wNGdUTg?oc=5)
 
-- Source / 来源: AP News. Published: `2026-06-07T23:43:00+00:00`.
-- Keywords / 关键词: peru, election, runoff, presidential, photos, she, discontented, presidency, left-right, straight
-- 中文关键词: 秘鲁、选举、径流、总统、照片、她、不满、总统职位、左右、直的
+- Source / 来源: The Washington Post. Published: `2026-06-09T01:46:27+00:00`.
+- Keywords / 关键词: iran, israel, strikes, escalating, washington, attacks, signal, end, trump, aggressive
+- 中文关键词: 伊朗、以色列、袭击、不断升级、华盛顿、信号、结尾、特朗普、挑衅的
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: After escalating strikes, Israel and Iran signal end to attacks The Washington Post Trump tells Netanyahu not to strike Iran Axios Iran war day 102: Trump warns Israel against new strikes as ceasefire holds Al Jazeera Iran’s Attack on Israel Reveals New and Aggressive Regional Ambitions WSJ The 15-Hour Fight With Iran Showed the Bind Israel Is In The New York Times
+- RSS 中文摘要: 袭击升级后，以色列和伊朗发出停止袭击的信号 华盛顿邮报 特朗普告诉内塔尼亚胡不要袭击伊朗 Axios 伊朗战争第 102 天：特朗普警告以色列不要发动新的袭击，因为停火已停止
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: iran, israel, strikes, escalating, and washington. The available excerpt says: After escalating strikes, Israel and Iran signal end to attacks The Washington Post Trump tells Netanyahu not to strike Iran Axios Iran war day 102: Trump warns Israel against new strikes as ceasefire holds Al Jazeera Iran’s Attack on Israel Reveals New and Aggressive Regional Ambitions WSJ The 15-Hour Fight With Iran Showed the Bind Israel Is In The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、以色列、袭击、不断升级、华盛顿。RSS 中文摘要显示：袭击升级后，以色列和伊朗发出停止袭击的信号 华盛顿邮报 特朗普告诉内塔尼亚胡不要袭击伊朗 Axios 伊朗战争第 102 天：特朗普警告以色列不要发动新的袭击，因为停火已停止 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 4. [Musk Joins Trump In Boosting Unsubstantiated Claims About LA Mayor Election As Pratt Drops To Third - Forbes](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPYTNkWFd1OWd1YlRnU2FCbHBWeVRjbUNPUEhXMTcyM1Y5Rmxmb0U3aGpOYXFneEZpcGFuTnQ3Uy11LW9Vajl2Z2wzVE0wbVNtaVNYbXoyT0pyV0lZdi1ZTnNKR2FKUU1WWC0wN0cxUTNISXA3M0U2Z3RDQy00cE90am1uUENEbVlNSURzb0hnQkM3d2xDX3hNQ0xlZGtNZEpQWVMzS291ay0xSWxTQWI3bW1sN2x4ejRZUE82aUloc2hUYXpWU1pNSEVQMDV0b2YtcW5xTktXLTR3dlpNMGNrT0Juc3pTY0s4?oc=5)
+
+- Source / 来源: Forbes. Published: `2026-06-08T10:36:11+00:00`.
+- Keywords / 关键词: claims, trump, election, unsubstantiated, boosting, forbes, joins, mayor, pratt, drops
+- 中文关键词: 索赔、特朗普、选举、未经证实的、提升、福布斯、加入、市长、普拉特、滴
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Photos of Peru’s presidential election runoff AP News She was a first lady at 19. Now she’s making her fourth attempt to win Peru’s presidency CNN Peru set for lengthy count as presidential race too close to call Reuters Peru’s discontented voters face straight left-right choice in election runoff The Guardian Votes being counted in runoff election to choose Peru’s ninth leader in 10 years AP News
-- RSS 中文摘要: 秘鲁总统选举决选的照片 美联社新闻 她 19 岁时就成为第一夫人。现在，她正在第四次尝试赢得秘鲁总统职位 CNN 秘鲁将进行长时间计票，因为总统竞选太接近了 路透社 秘鲁不满的选民在选举决选中面临直接左右选择 《卫报》 在决选中计票，选出秘鲁 10 年来的第九位领导人 美联社新闻
+- RSS Excerpt / RSS 摘要: Musk Joins Trump In Boosting Unsubstantiated Claims About LA Mayor Election As Pratt Drops To Third Forbes How a misreading of data fueled false claims about L.A. mayoral vote count Los Angeles Times Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud The New York Times California, and the dangerous sudden resurgence of GOP voter fraud fever CNN Trump Fuels Election Fraud Claims in California WSJ
+- RSS 中文摘要: 普拉特跌至福布斯第三位，马斯克与特朗普一起助推有关洛杉矶市长选举的未经证实的指控 对数据的误读如何助长了有关洛杉矶市长选票计数的虚假指控 《洛杉矶时报》 特朗普以毫无根据的加州选票欺诈指控预览秋季战略 《纽约时报》加州，以及共和党选民欺诈热潮突然卷土重来 CNN 特朗普助长了加州选举欺诈指控 《华尔街日报》
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: peru, election, runoff, presidential, and photos. The available excerpt says: Photos of Peru’s presidential election runoff AP News She was a first lady at 19. Now she’s making her fourth attempt to win Peru’s presidency CNN Peru set for lengthy count as presidential race too close to call Reuters Peru’s discontented voters face straight left-right choice in election runoff The Guardian Votes being counted in runoff election to choose Peru’s ninth leader in 10 years AP News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：秘鲁、选举、径流、总统、照片。RSS 中文摘要显示：秘鲁总统选举决选的照片 美联社新闻 她 19 岁时就成为第一夫人。现在，她正在第四次尝试赢得秘鲁总统职位 CNN 秘鲁将进行长时间计票，因为总统竞选太接近了 路透社 秘鲁不满的选民在选举决选中面临直接左右选择 《卫报》 在决选中计票，选出秘鲁 10 年来的第九位领导人 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: claims, trump, election, unsubstantiated, and boosting. The available excerpt says: Musk Joins Trump In Boosting Unsubstantiated Claims About LA Mayor Election As Pratt Drops To Third Forbes How a misreading of data fueled false claims about L.A. mayoral vote count Los Angeles Times Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud The New York Times California, and the dangerous sudden resurgence of GOP voter fraud fever CNN Trump Fuels Election Fraud Claims in California WSJ Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：索赔、特朗普、选举、未经证实的、提升。RSS 中文摘要显示：普拉特跌至福布斯第三位，马斯克与特朗普一起助推有关洛杉矶市长选举的未经证实的指控 对数据的误读如何助长了有关洛杉矶市长选票计数的虚假指控 《洛杉矶时报》 特朗普以毫无根据的加州选票欺诈指控预览秋季战略 《纽约时报》加州，以及共和党选民欺诈热潮突然卷土重来 CNN 特朗普助长了加州选举欺诈指控 《华尔街日报》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 10. [Democrats in Congress Grapple With Concerns Over Platner Allegations - The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDNNVTg0NDEtTEx0MW84a3luUUdSWTB5Ynl0WjBPcDF4RXR2SFVKQ05zRldtUzhFU21pVGE2LVhpa0dNRHBuN1d0czY2bHVOWk9VTGJYZUVwc0RRanhMNjVKWl9venlpbTRpYmY3cEoxRERPSTZZXzBTZFhENEJRdWxmeUxKOG9LbmQxZ2tvWWk?oc=5)
+### 5. [Crew Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz - The New York Times](https://news.google.com/rss/articles/CBMiigFBVV95cUxOWW5XbmdxRXY4ZzkyRFltQm50eXk5UTZBNy1remRvREZMZURwX2dSTHRUU1FJOTdqNnVLMmJDdThGaE8zZEpubThhNE54c3JGMnJWbjBVV2hQbnVWV0RFYnp4Rm41b3o3Z1R4bURLa0pvZHAwMVZZLU1sQVh2TTljWHBIc01pejZsSGc?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-06-08T03:43:03+00:00`.
-- Keywords / 关键词: platner, allegations, democrats, congress, concerns, grapple, graham, senate, maine, looks
-- 中文关键词: 普拉特纳、指控、民主党人、国会、担忧、抓钩、格雷厄姆、参议院、缅因州、看起来
+- Source / 来源: The New York Times. Published: `2026-06-09T05:34:00+00:00`.
+- Keywords / 关键词: helicopter, strait, hormuz, down, near, goes, rescued, pilots, trump, crew
+- 中文关键词: 直升机、海峡、霍尔木兹、向下、靠近、去、获救、飞行员、特朗普、全体人员
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Democrats in Congress Grapple With Concerns Over Platner Allegations The New York Times Ro Khanna says he supports Graham Platner’s bid for Senate despite ‘shameful’ actions The Guardian In Maine, Graham Platner looks to move on from a week of controversy Politico Sen. Warner: Platner allegations are 'disturbing,' but decision up to voters in Maine ABC News - Breaking News, Latest News and Videos Platner holds town hall in Portland as he looks to steady Senate campaign CNN
-- RSS 中文摘要: 国会民主党人努力解决对普拉特纳指控的担忧 《纽约时报》罗·卡纳表示，他支持格雷厄姆·普拉特纳竞选参议员，尽管行为“可耻” 缅因州卫报，格雷厄姆·普拉特纳希望摆脱一周的争议 政治参议员华纳：普拉特纳的指控“令人不安”，但决定取决于缅因州的选民 ABC新闻 - 突发新闻、最新新闻和视频 普拉特纳在波特兰举行市政厅会议CNN 期待参议院竞选稳定
+- RSS Excerpt / RSS 摘要: Crew Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz The New York Times Trump says ‘pilots are fine’ after report Apache helicopter went down near Strait of Hormuz CNN Trump says pilots are fine after US helicopter crashes near Strait of Hormuz AP News Pilots ‘are fine’ after U.S. military helicopter goes down over Strait of Hormuz, Trump says NBC News Trump says US helicopter pilots who went down in Strait of Hormuz are fine Reuters
+- RSS 中文摘要: 美国直升机在霍尔木兹海峡附近坠毁后机组人员获救 纽约时报 特朗普在报道阿帕奇直升机在霍尔木兹海峡附近坠毁后称“飞行员一切都很好” CNN 特朗普称美国直升机在霍尔木兹海峡附近坠毁后飞行员一切都很好 美联社新闻 特朗普说，美国军用直升机在霍尔木兹海峡附近坠毁后飞行员“一切都很好” 特朗普说，在霍尔木兹海峡坠落的美国直升机飞行员都很好 路透社
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: platner, allegations, democrats, congress, and concerns. The available excerpt says: Democrats in Congress Grapple With Concerns Over Platner Allegations The New York Times Ro Khanna says he supports Graham Platner’s bid for Senate despite ‘shameful’ actions The Guardian In Maine, Graham Platner looks to move on from a week of controversy Politico Sen. Warner: Platner allegations are 'disturbing,' but decision up to voters in Maine ABC News - Breaking News, Latest News and Videos Platner holds town hall in Portland as he looks to steady Senate campaign CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：普拉特纳、指控、民主党人、国会、担忧。RSS 中文摘要显示：国会民主党人努力解决对普拉特纳指控的担忧 《纽约时报》罗·卡纳表示，他支持格雷厄姆·普拉特纳竞选参议员，尽管行为“可耻” 缅因州卫报，格雷厄姆·普拉特纳希望摆脱一周的争议 政治参议员华纳：普拉特纳的指控“令人不安”，但决定取决于缅因州的选民 ABC新闻 - 突发新闻、最新新闻和视频 普拉特纳在波特兰举行市政厅会议CNN 期待参议院竞选稳定 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: helicopter, strait, hormuz, down, and near. The available excerpt says: Crew Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz The New York Times Trump says ‘pilots are fine’ after report Apache helicopter went down near Strait of Hormuz CNN Trump says pilots are fine after US helicopter crashes near Strait of Hormuz AP News Pilots ‘are fine’ after U.S. military helicopter goes down over Strait of Hormuz, Trump says NBC News Trump says US helicopter pilots who went down in Strait of Hormuz are fine Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：直升机、海峡、霍尔木兹、向下、靠近。RSS 中文摘要显示：美国直升机在霍尔木兹海峡附近坠毁后机组人员获救 纽约时报 特朗普在报道阿帕奇直升机在霍尔木兹海峡附近坠毁后称“飞行员一切都很好” CNN 特朗普称美国直升机在霍尔木兹海峡附近坠毁后飞行员一切都很好 美联社新闻 特朗普说，美国军用直升机在霍尔木兹海峡附近坠毁后飞行员“一切都很好” 特朗普说，在霍尔木兹海峡坠落的美国直升机飞行员都很好 路透社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 6. [Apple and Google given three months to ban nude images on children's devices - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xTXRXUmxlbXQyZzZJYnBCTFBnb2s4UUlxSHd2TWZWbTJvM3V1Q3dULUxybFB4R25WOWIzR3FvSlpMSExzUDRPeXpQbGo3Vm0xQkREOXQ3SmtXZw?oc=5)
+
+- Source / 来源: BBC. Published: `2026-06-08T15:30:43+00:00`.
+- Keywords / 关键词: ban, images, children's, devices, google, months, apple, given, three, nude
+- 中文关键词: 禁止、图片、孩子们的、设备、谷歌、月、苹果、给定、三、裸体
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Apple and Google given three months to ban nude images on children's devices BBC Tuesday briefing: Is a social media ban in the UK enough to help protect young people? The Guardian Tech Device Makers Must Prevent Children From Sharing Intimate Images, U.K. PM Says WSJ UK PM Starmer set to ban 'harmful' social media for under-16s Reuters White House tells UK: Don’t ban social media for under-16s The Times
+- RSS 中文摘要: 苹果和谷歌限时三个月禁止儿童设备上出现裸照 BBC 周二简报：英国的社交媒体禁令是否足以帮助保护年轻人？英国首相称《华尔街日报》英国首相斯塔默将禁止 16 岁以下青少年使用“有害”社交媒体，英国首相称卫报科技设备制造商必须阻止儿童分享私密图像 路透社 白宫告诉英国：不要禁止 16 岁以下青少年使用社交媒体
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: ban, images, children's, devices, and google. The available excerpt says: Apple and Google given three months to ban nude images on children's devices BBC Tuesday briefing: Is a social media ban in the UK enough to help protect young people? The Guardian Tech Device Makers Must Prevent Children From Sharing Intimate Images, U.K. PM Says WSJ UK PM Starmer set to ban 'harmful' social media for under-16s Reuters White House tells UK: Don’t ban social media for under-16s The Times Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：禁止、图片、孩子们的、设备、谷歌。RSS 中文摘要显示：苹果和谷歌限时三个月禁止儿童设备上出现裸照 BBC 周二简报：英国的社交媒体禁令是否足以帮助保护年轻人？英国首相称《华尔街日报》英国首相斯塔默将禁止 16 岁以下青少年使用“有害”社交媒体，英国首相称卫报科技设备制造商必须阻止儿童分享私密图像 路透社 白宫告诉英国：不要禁止 16 岁以下青少年使用社交媒体 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 7. [Where the California governor's race stands 6 days after Election Day - SFGATE](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaHZrNWxiZGdnZEJZU3NGUVJ2VVhLdlhQQWpXRUdZMWVqdktTZXcwWlhkU3h6Sk9XWGNaR2ZSNE9sQk56NnhUd2pDd1RLdnFrLXJvU180cVBablY1RDN1cXRNVFE3UE5mNHFyM2h5ak96S0k1emVhaGt2aGI0NE1DdE9iMzRhNnRjSUEw?oc=5)
+
+- Source / 来源: SFGATE. Published: `2026-06-08T22:36:09+00:00`.
+- Keywords / 关键词: california, election, governor's, race, stands, sfgate, where, days, day, california's
+- 中文关键词: 加利福尼亚州、选举、州长的、种族、看台、sf门、在哪里、天、加利福尼亚州的
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Where the California governor's race stands 6 days after Election Day SFGATE California Governor Primary Election 2026 Live Results NBC News What’s Taking So Long to Count California Ballots? The New York Times Could California's mail-in ballot rules change? Supreme Court decision looms cbs8.com Democrat Xavier Becerra advances to general election in California governor's race, AP projects ABC News - Breaking News, Latest News and Videos
+- RSS 中文摘要: 选举日后 6 天，加州州长的竞选进展如何 SFGATE 2026 年加州州长初选实时结果 NBC 新闻 为何需要这么长时间才能清点加州选票？纽约时报 加州的邮寄选票规则会改变吗？最高法院的裁决迫在眉睫 cbs8.com 民主党人泽维尔·贝塞拉 (Xavier Becerra) 在加州州长竞选中晋级大选，美联社预计 ABC News - 突发新闻、最新新闻和视频
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: california, election, governor's, race, and stands. The available excerpt says: Where the California governor's race stands 6 days after Election Day SFGATE California Governor Primary Election 2026 Live Results NBC News What’s Taking So Long to Count California Ballots? The New York Times Could California's mail-in ballot rules change? Supreme Court decision looms cbs8.com Democrat Xavier Becerra advances to general election in California governor's race, AP projects ABC News - Breaking News, Latest News and Videos Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：加利福尼亚州、选举、州长的、种族、看台。RSS 中文摘要显示：选举日后 6 天，加州州长的竞选进展如何 SFGATE 2026 年加州州长初选实时结果 NBC 新闻 为何需要这么长时间才能清点加州选票？纽约时报 加州的邮寄选票规则会改变吗？最高法院的裁决迫在眉睫 cbs8.com 民主党人泽维尔·贝塞拉 (Xavier Becerra) 在加州州长竞选中晋级大选，美联社预计 ABC News - 突发新闻、最新新闻和视频 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 8. [North Korean, Chinese leaders agree to boost ties at Pyongyang summit - Reuters](https://news.google.com/rss/articles/CBMiwwFBVV95cUxORTFxRkZpdW5RUzVQZFFPVTFvVC1fSUZvSFczemVPNTRRWkdOOER2YW9JZkQ3SnNqTFZMY2tzM0FjUnhfWWVpMlNPYlVHYVpjTmFCc2JjZEcxZ1pxbDZDZDJtYS0tZjdCNk5vZHJFOEpaQVpNZHhxVzZZWFZ2MzhmdmFtRkcxR19QaXlQeTFWTkQ1ZEFERzFHWXFmMVg5bnEtelJhWkJNOGVZZzdVLWh5M3YwUGxIMVBPOXZNRVNlVmd2Umc?oc=5)
+
+- Source / 来源: Reuters. Published: `2026-06-08T21:58:00+00:00`.
+- Keywords / 关键词: north, ties, pyongyang, chinese, leaders, korean, summit, agree, boost, korea
+- 中文关键词: 北、领带、pyongyang、中国、领导者、韩国人、首脑、同意、促进、韩国
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: North Korean, Chinese leaders agree to boost ties at Pyongyang summit Reuters Xi Jinping and Kim Jong Un vow stronger ties in North Korea visit BBC China Reasserts Itself, to Contain North Korea’s Tilt Toward Russia The New York Times North Korea calls US push for its denuclearization ‘anachronistic dream’ Politico ‘As close as lips and teeth’: The highs and lows of China-North Korea ties Al Jazeera
+- RSS 中文摘要: 朝鲜和中国领导人同意在平壤峰会上加强关系 路透社 习近平和金正恩誓言在朝鲜访问期间加强关系 BBC 中国重申自己的立场，遏制朝鲜对俄罗斯的倾斜 《纽约时报》 朝鲜称美国推动其无核化是“不合时宜的梦想” Politico “唇齿相依”：中朝关系的高潮和低谷
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: north, ties, pyongyang, chinese, and leaders. The available excerpt says: North Korean, Chinese leaders agree to boost ties at Pyongyang summit Reuters Xi Jinping and Kim Jong Un vow stronger ties in North Korea visit BBC China Reasserts Itself, to Contain North Korea’s Tilt Toward Russia The New York Times North Korea calls US push for its denuclearization ‘anachronistic dream’ Politico ‘As close as lips and teeth’: The highs and lows of China-North Korea ties Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：北、领带、pyongyang、中国、领导者。RSS 中文摘要显示：朝鲜和中国领导人同意在平壤峰会上加强关系 路透社 习近平和金正恩誓言在朝鲜访问期间加强关系 BBC 中国重申自己的立场，遏制朝鲜对俄罗斯的倾斜 《纽约时报》 朝鲜称美国推动其无核化是“不合时宜的梦想” Politico “唇齿相依”：中朝关系的高潮和低谷 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 9. [Netanyahu and Trump are at odds over the war they started together - AP News](https://news.google.com/rss/articles/CBMimgFBVV95cUxQM3dxUVpuTUR5b1BWdngzT2JQZzU4Tk15cW1UcVRmMkR6ZjRXTFJZN0RPOWpNc1RjNS1zYTh4VnpVR3NhSTE4X2prVFAwemRRWFhHT3B0VEE1N0UwWk1aQloxamlxSlpVRFFOX2pESThvd2VwZFpDUURBR3NQWmJUVnlvcm9JTVRJamZUNW1OWEExUVpGYTlCZ0ln?oc=5)
+
+- Source / 来源: AP News. Published: `2026-06-08T21:00:00+00:00`.
+- Keywords / 关键词: trump, netanyahu, war, odds, together, started, they, shots, washington, diverging
+- 中文关键词: 特朗普、内塔尼亚胡、战争、赔率、一起、开始了、他们、镜头、华盛顿、发散的
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Netanyahu and Trump are at odds over the war they started together AP News Who calls the shots? Trump and Netanyahu clash over diverging goals in Middle East war Financial Times Who’s calling the shots? Netanyahu and Trump at odds over their war South China Morning Post Behind the scenes: How Israel and Iran nearly pulled Trump back to war Axios Trump’s grip on the GOP leaves Netanyahu with few places to turn The Washington Post
+- RSS 中文摘要: 内塔尼亚胡和特朗普在他们共同发动的战争上存在分歧 美联社新闻 谁发号施令？特朗普和内塔尼亚胡因中东战争目标不同而发生冲突 《金融时报》 谁在发号施令？内塔尼亚胡和特朗普在战争问题上存在分歧 《南华早报》幕后花絮：以色列和伊朗几乎如何将特朗普拉回战争 Axios 特朗普对共和党的控制让内塔尼亚胡几乎没有转机 《华盛顿邮报》
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: trump, netanyahu, war, odds, and together. The available excerpt says: Netanyahu and Trump are at odds over the war they started together AP News Who calls the shots? Trump and Netanyahu clash over diverging goals in Middle East war Financial Times Who’s calling the shots? Netanyahu and Trump at odds over their war South China Morning Post Behind the scenes: How Israel and Iran nearly pulled Trump back to war Axios Trump’s grip on the GOP leaves Netanyahu with few places to turn The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：特朗普、内塔尼亚胡、战争、赔率、一起。RSS 中文摘要显示：内塔尼亚胡和特朗普在他们共同发动的战争上存在分歧 美联社新闻 谁发号施令？特朗普和内塔尼亚胡因中东战争目标不同而发生冲突 《金融时报》 谁在发号施令？内塔尼亚胡和特朗普在战争问题上存在分歧 《南华早报》幕后花絮：以色列和伊朗几乎如何将特朗普拉回战争 Axios 特朗普对共和党的控制让内塔尼亚胡几乎没有转机 《华盛顿邮报》 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [NATO jets shoot down drone over Latvia, extending Ukraine spillover fears - Al Jazeera](https://news.google.com/rss/articles/CBMisgFBVV95cUxPY2JkdndEdTEycTl6eXN2VFlFNUEwSVVWREI4emtQTkVjNHpxOTNxOWtReDQ1dU85cngxdnpnQkdnWGl5Sm92bU94NlNwMnpWUE1NU0R3V3Z6YWtZLXlZWExGVURDSjBUZnF2RUR6ajBIcU9fUWUzMHBLNngyR1NrcGdGWXpYYmk0TjVZeUpITUJhTDBNQWtmWEZ4NVVIMTAyUnRDa0MyU0pEc1BQb25Vcmd30gG3AUFVX3lxTFBuZk9IRlJWMXM3TFFvUmswVjFGLUhXN1FWZ0k1TFJOZFh6azhzQWdyZG84WnlkeWhqaUhidkdRLW1fUXA3bDB3dmVXVGt1cnl5NGVUOWdsejZHdXJzZ0dRak9nX2c2QmxaSjFNNExKeUx3azZvQk9Ec2Z1UTd6RnExdzBIUHk3bnZGSlhLRWZaMGgybkFRZ25laHRzelN3VjZOYTM5N1pwUEs1R0VLUFJiMjNHcmRwQQ?oc=5)
+
+- Source / 来源: Al Jazeera. Published: `2026-06-08T19:03:35+00:00`.
+- Keywords / 关键词: drone, latvia, nato, down, ukraine, shoot, jets, extending, spillover, jazeera
+- 中文关键词: 无人机、拉脱维亚、北约、向下、乌克兰、射击、喷气式飞机、延伸、溢出效应、半岛电视台
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: NATO jets shoot down drone over Latvia, extending Ukraine spillover fears Al Jazeera French jet on NATO mission shoots down drone in Latvian airspace Reuters Concern of Ukraine war spreading as Latvia says drone shot as "result of Russian electronic warfare" CBS News Ukraine-Russia war latest: Nato scrambles jets to shoot down Russian drone as Latvia issues ⁠air threat alert The Independent NATO shoots down drone over Latvia as concern about Ukraine war’s spread grows The Washington Post
+- RSS 中文摘要: 北约喷气式飞机在拉脱维亚上空击落无人机，加剧了乌克兰溢出效应的担忧 半岛电视台 执行北约任务的法国喷气式飞机在拉脱维亚领空击落无人机 路透社 拉脱维亚称无人机被击落是“俄罗斯电子战的结果”，对乌克兰战争的担忧蔓延战争蔓延加剧《华盛顿邮报》
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: drone, latvia, nato, down, and ukraine. The available excerpt says: NATO jets shoot down drone over Latvia, extending Ukraine spillover fears Al Jazeera French jet on NATO mission shoots down drone in Latvian airspace Reuters Concern of Ukraine war spreading as Latvia says drone shot as "result of Russian electronic warfare" CBS News Ukraine-Russia war latest: Nato scrambles jets to shoot down Russian drone as Latvia issues ⁠air threat alert The Independent NATO shoots down drone over Latvia as concern about Ukraine war’s spread grows The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：无人机、拉脱维亚、北约、向下、乌克兰。RSS 中文摘要显示：北约喷气式飞机在拉脱维亚上空击落无人机，加剧了乌克兰溢出效应的担忧 半岛电视台 执行北约任务的法国喷气式飞机在拉脱维亚领空击落无人机 路透社 拉脱维亚称无人机被击落是“俄罗斯电子战的结果”，对乌克兰战争的担忧蔓延战争蔓延加剧《华盛顿邮报》 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
