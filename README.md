@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-06-10T08:03:32+00:00` UTC.
+Generated at `2026-06-11T08:40:24+00:00` UTC.
 
-### 1. [The Democratic establishment begrudgingly moves to embrace Graham Platner - Politico](https://news.google.com/rss/articles/CBMikgFBVV95cUxQVm53Yk16N1dEaFc3ZXk3Q082azl5S0Nfdk5NUURzMzYzV0RibnR2aWp3Zk4xY2tUQWxZbFdrTE9iY1VFS25wTmNzSDlLMjh5SW5OM2lrSS1vdkxGS3B1OUNiQVhUN1lVTEJOMnlWc0hVNVU1cDdyY000UHNFdVVJbDlPbk0yWHRuRlRJeHdkYmxNdw?oc=5)
+### 1. [A new wave of anti-immigrant violence hits U.K. as riots convulse Belfast - The Washington Post](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVnpLXzlLWTBYNDdRVmppb3VVUzN4U3F4RVotV0JiUTlhOWRHUVhvemh3OHVDdHdTREpyMWItU3FIZWQxSC1YYlBSMU55QmRwMk1pQ0lKRDFZeDZGRG84WnZRZFVLekJvOWs2TFlLZjMxVVlrWW5xVVFjQnNqV2xiNmJLVDE3Y3dJdTVvM0R1Z0g2Y0pHVEpwSFdsWFJPYkZoaUxKWXl6NVdQZnZTa3pIb19ac0Jid3BZVElB?oc=5)
 
-- Source / 来源: Politico. Published: `2026-06-10T04:53:10+00:00`.
-- Keywords / 关键词: platner, graham, democratic, establishment, begrudgingly, politico, embrace, moves, primary, collins
-- 中文关键词: 普拉特纳、格雷厄姆、民主的、设立、不情愿地、政治报、拥抱、动作、基本的、柯林斯
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: The Democratic establishment begrudgingly moves to embrace Graham Platner Politico Graham Platner shrugs off scandals to win Maine Democratic Senate primary The Guardian Will Maine's scandal-hit Graham Platner help save or sink Democrats? BBC Graham Platner tears into Republicans after clinching Susan Collins matchup in Maine, and other primary night takeaways CNN Platner to frame overtly negative campaign against Collins The Washington Post
-- RSS 中文摘要: 民主党建制派不情愿地采取行动拥抱格雷厄姆·普拉特纳政治格雷厄姆·普拉特纳摆脱丑闻赢得缅因州民主党参议院初选《卫报》缅因州丑闻缠身的格雷厄姆·普拉特纳会帮助拯救还是击垮民主党？ BBC 格雷厄姆·普拉特纳 (BBC Graham Platner) 在缅因州击败苏珊·柯林斯 (Susan Collins) 后对共和党人大发雷霆，CNN 普拉特纳 (CNN Platner) 则对柯林斯进行了公开的负面竞选活动。
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: platner, graham, democratic, establishment, and begrudgingly. The available excerpt says: The Democratic establishment begrudgingly moves to embrace Graham Platner Politico Graham Platner shrugs off scandals to win Maine Democratic Senate primary The Guardian Will Maine's scandal-hit Graham Platner help save or sink Democrats? BBC Graham Platner tears into Republicans after clinching Susan Collins matchup in Maine, and other primary night takeaways CNN Platner to frame overtly negative campaign against Collins The Washington Post Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：普拉特纳、格雷厄姆、民主的、设立、不情愿地。RSS 中文摘要显示：民主党建制派不情愿地采取行动拥抱格雷厄姆·普拉特纳政治格雷厄姆·普拉特纳摆脱丑闻赢得缅因州民主党参议院初选《卫报》缅因州丑闻缠身的格雷厄姆·普拉特纳会帮助拯救还是击垮民主党？ BBC 格雷厄姆·普拉特纳 (BBC Graham Platner) 在缅因州击败苏珊·柯林斯 (Susan Collins) 后对共和党人大发雷霆，CNN 普拉特纳 (CNN Platner) 则对柯林斯进行了公开的负面竞选活动。 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+- Source / 来源: The Washington Post. Published: `2026-06-11T04:46:43+00:00`.
+- Keywords / 关键词: belfast, violence, anti-immigrant, washington, convulse, riots, wave, hits, police, cannon
+- 中文关键词: 贝尔法斯特、暴力、反移民、华盛顿、抽搐的、骚乱、一波袭击、点击数、警察、大炮
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: A new wave of anti-immigrant violence hits U.K. as riots convulse Belfast The Washington Post Police use water cannon against rioters in Northern Ireland The Guardian ‘Thuggery’: Belfast police fire water cannon at anti-immigration protests Al Jazeera Belfast knife attack latest: 12 police officers injured in latest disorder after - follow live BBC Belfast's anti-migration violence brings back dark memories of the 'Troubles' Reuters
+- RSS 中文摘要: 贝尔法斯特骚乱席卷英国，新一波反移民暴力袭击英国 《华盛顿邮报》警方使用高压水枪镇压北爱尔兰暴乱者 《卫报》“暴行”：贝尔法斯特警察向反移民抗议活动发射高压水枪 半岛电视台贝尔法斯特持刀袭击最新事件：12 名警察在最新骚乱中受伤 - 跟随 BBC 直播贝尔法斯特的反移民暴力勾起了人们对“麻烦”的黑暗记忆 路透社
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: belfast, violence, anti-immigrant, washington, and convulse. The available excerpt says: A new wave of anti-immigrant violence hits U.K. as riots convulse Belfast The Washington Post Police use water cannon against rioters in Northern Ireland The Guardian ‘Thuggery’: Belfast police fire water cannon at anti-immigration protests Al Jazeera Belfast knife attack latest: 12 police officers injured in latest disorder after - follow live BBC Belfast's anti-migration violence brings back dark memories of the 'Troubles' Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：贝尔法斯特、暴力、反移民、华盛顿、抽搐的。RSS 中文摘要显示：贝尔法斯特骚乱席卷英国，新一波反移民暴力袭击英国 《华盛顿邮报》警方使用高压水枪镇压北爱尔兰暴乱者 《卫报》“暴行”：贝尔法斯特警察向反移民抗议活动发射高压水枪 半岛电视台贝尔法斯特持刀袭击最新事件：12 名警察在最新骚乱中受伤 - 跟随 BBC 直播贝尔法斯特的反移民暴力勾起了人们对“麻烦”的黑暗记忆 路透社 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 2. [Man Arrested in ‘Brutal’ Stabbing in Belfast, Police Say - The New York Times](https://news.google.com/rss/articles/CBMimAFBVV95cUxPOTdYT291ekFGdzlyanMxSHh3UE1ndjd4alJPaUt1cUNab2R0UkxacHVGcHA3X2hacmxYN295cnV5Ymo5Y2k2bXVVZlkzcEVVVnE1dG11U05kdG4xdXJBMzRKZWF0VlZrSTctYTRMeHRaR3lHdmVuM0x5cHc0a2Y1VWVRRmNqcjVzOTBFLWNqNHJYLTNqZVI5Rw?oc=5)
+### 2. [US strikes Iran in retaliation for Apache shoot-down - Fox News](https://news.google.com/rss/articles/CBMifkFVX3lxTFBTSXBzNUU4ck1MN3JrbjZnV1dSc0VZYUZrbkdsemQtM05TY09tNGhzbm9TWnZXVG1CRWZBM19ibGpteTc1WGd2OGZTakk1SElpMUFvSGQtRUM1OU91TEZTQjA2Nk9xWFg1aEJ5ckNkX2VWaVA2RXlHVkM4Qzlpd9IBgwFBVV95cUxQSFZfcjEtcG9xNEdGQ05mbXViaElsMWRDWmw4SjFwakxDdzhGaVVua3puMlljTTdkbEVFWkszQWQtWXZvTmdSZ2V4aWVTMUtGaTRCcWZhTmh3VXdUNnBSNjZHdjBCeHd4SXhlbjgzNGJ0TDlfRU9pbm1oaEFTUzBveXYxTQ?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-06-09T23:25:10+00:00`.
-- Keywords / 关键词: belfast, stabbing, arrested, brutal, police, man, say, leaders, torched, cars
-- 中文关键词: 贝尔法斯特、刺、被捕、野蛮、警察、男人、说、领导者、被烧毁、汽车
-- Category / 分类: Public safety and society / 公共安全与社会
-- RSS Excerpt / RSS 摘要: Man Arrested in ‘Brutal’ Stabbing in Belfast, Police Say The New York Times U.K. leaders call for calm as protests break out after Belfast street stabbing NPR Protesters torch cars, buildings in Belfast after knife attack Al Jazeera Belfast councillor calls for political leaders to stop ‘mobs’ after homes torched on night ‘like darkest chapters of our past’ Belfast Telegraph Bus and cars torched in Belfast immigration unrest The Times
-- RSS 中文摘要: 警方称贝尔法斯特一名男子在贝尔法斯特“残酷”刺伤事件中被捕 《纽约时报》 英国领导人呼吁保持冷静，贝尔法斯特街头刺伤事件引发抗议活动 NPR 抗议者在持刀袭击后焚烧贝尔法斯特的汽车和建筑物 半岛电视台 贝尔法斯特市议员呼吁政治领导人制止“暴徒”
-- EN Summary: This story centers on harm to people, emergency response, or social disruption.
-- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
-- EN Detailed Reading: Key signals: belfast, stabbing, arrested, brutal, and police. The available excerpt says: Man Arrested in ‘Brutal’ Stabbing in Belfast, Police Say The New York Times U.K. leaders call for calm as protests break out after Belfast street stabbing NPR Protesters torch cars, buildings in Belfast after knife attack Al Jazeera Belfast councillor calls for political leaders to stop ‘mobs’ after homes torched on night ‘like darkest chapters of our past’ Belfast Telegraph Bus and cars torched in Belfast immigration unrest The Times Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
-- 中文详细解读: 关键词信号：贝尔法斯特、刺、被捕、野蛮、警察。RSS 中文摘要显示：警方称贝尔法斯特一名男子在贝尔法斯特“残酷”刺伤事件中被捕 《纽约时报》 英国领导人呼吁保持冷静，贝尔法斯特街头刺伤事件引发抗议活动 NPR 抗议者在持刀袭击后焚烧贝尔法斯特的汽车和建筑物 半岛电视台 贝尔法斯特市议员呼吁政治领导人制止“暴徒” 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
-- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
-- 后续关注: 官方调查；确认伤亡数字；预防措施
-
-### 3. [Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China - WSJ](https://news.google.com/rss/articles/CBMiowFBVV95cUxNV0doRWl1QS1ta3d0dXhHeGMzejBSZ0lwcFd0ZU5LbFVsUGRRNG12TnpRanFoOGlUZzJQOE5McWxrSWFLdDZRSTJPVThUa1FONERIR2tYSmhlcXQ1NERSelpZLUF4YnUxRkVHaDBHUVIxQm4xcFpJVV93YnJvdC16aXR6cUZZbFlQVU1qUFdCRHFSdjM1OUlRWWFhRVY4Rk5rVE1R?oc=5)
-
-- Source / 来源: WSJ. Published: `2026-06-10T03:26:00+00:00`.
-- Keywords / 关键词: taiwan, test-fires, supplied, launcher, missile, toward, china, wsj, simulates, drill
-- 中文关键词: 台湾、试射、提供的、发射器、导弹、朝向、中国、华尔街日报、模拟、钻头
+- Source / 来源: Fox News. Published: `2026-06-11T04:20:51+00:00`.
+- Keywords / 关键词: iran, strikes, retaliation, shoot-down, apache, fox, bombs, reservoirs, negotiate, announces
+- 中文关键词: 伊朗、袭击、报复、击落、阿帕奇、狐狸、炸弹、水库、谈判、宣布
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China WSJ Taiwan simulates destroying an invading Chinese force in coastal drill Reuters Taiwan Fires Battle-Tested Rockets in 'Shoot-And-Scoot' Anti-Invasion Drill U.S. News & World Report Army simulates defending against amphibious invasion in Taichung Focus Taiwan Taiwan to Boost Naval Fleet’s Firepower With 1,200+ Sea Sword II Missiles The Defense Post
-- RSS 中文摘要: 台湾向中国试射美国提供的导弹发射器 华尔街日报 台湾在沿海演习中模拟摧毁入侵的中国军队 路透社 台湾在“射击和滑行”反入侵演习中发射经过实战考验的火箭 美国新闻与世界报道 陆军在台中模拟防御两栖入侵 焦点台湾 台湾将用 1,200 多枚海剑 II 增强海军舰队火力导弹 防务邮报
+- RSS Excerpt / RSS 摘要: US strikes Iran in retaliation for Apache shoot-down Fox News Iran Updates: Hegseth says U.S. will "negotiate with bombs" if needed, as U.S. military announces more strikes CBS News US destroys Iran reservoirs, leaving thousands without water in searing heat South China Morning Post U.S. bombs Iran for second straight night Axios US Launches More Strikes Against Iran, Further Straining Truce Bloomberg.com
+- RSS 中文摘要: 美国打击伊朗，报复阿帕奇被击落事件 福克斯新闻伊朗更新：赫格赛斯表示，如果需要，美国将“用炸弹进行谈判”，因为美国军方宣布进行更多打击 哥伦比亚广播公司新闻 美国摧毁了伊朗水库，使数千人在酷热中断水 南华早报 美国连续第二晚轰炸伊朗 Axios 美国对伊朗发动更多打击，进一步紧张休战 Bloomberg.com
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: taiwan, test-fires, supplied, launcher, and missile. The available excerpt says: Taiwan Test-Fires U.S.-Supplied Missile Launcher Toward China WSJ Taiwan simulates destroying an invading Chinese force in coastal drill Reuters Taiwan Fires Battle-Tested Rockets in 'Shoot-And-Scoot' Anti-Invasion Drill U.S. News & World Report Army simulates defending against amphibious invasion in Taichung Focus Taiwan Taiwan to Boost Naval Fleet’s Firepower With 1,200+ Sea Sword II Missiles The Defense Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：台湾、试射、提供的、发射器、导弹。RSS 中文摘要显示：台湾向中国试射美国提供的导弹发射器 华尔街日报 台湾在沿海演习中模拟摧毁入侵的中国军队 路透社 台湾在“射击和滑行”反入侵演习中发射经过实战考验的火箭 美国新闻与世界报道 陆军在台中模拟防御两栖入侵 焦点台湾 台湾将用 1,200 多枚海剑 II 增强海军舰队火力导弹 防务邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, strikes, retaliation, shoot-down, and apache. The available excerpt says: US strikes Iran in retaliation for Apache shoot-down Fox News Iran Updates: Hegseth says U.S. will "negotiate with bombs" if needed, as U.S. military announces more strikes CBS News US destroys Iran reservoirs, leaving thousands without water in searing heat South China Morning Post U.S. bombs Iran for second straight night Axios US Launches More Strikes Against Iran, Further Straining Truce Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、袭击、报复、击落、阿帕奇。RSS 中文摘要显示：美国打击伊朗，报复阿帕奇被击落事件 福克斯新闻伊朗更新：赫格赛斯表示，如果需要，美国将“用炸弹进行谈判”，因为美国军方宣布进行更多打击 哥伦比亚广播公司新闻 美国摧毁了伊朗水库，使数千人在酷热中断水 南华早报 美国连续第二晚轰炸伊朗 Axios 美国对伊朗发动更多打击，进一步紧张休战 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 4. [U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter - WSJ](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNT1NCUi1ER19KYTBHTk80MkdYQjBxSUlJTUpKU3hNejFxZ09SYWZYV1llVlJVWlhuZUhWRENyeHpJbG5ILV9hNTN5Wi1rR1YyWm5ub2xWY2Q4dEtHMkEwVVo3V2dRSjU2R1Z2dE1oSlpBSUluOTQxdjFpUWF3ZTBhWElCVzg0LUFf?oc=5)
+### 3. [Did China's Xi visit North Korea because an emboldened Kim Jong Un wants "to confront the U.S."? - CBS News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMV90aS1KWU1RdmRhM3ZpUUFfTmV1LUMzOWFYX1RyWVhDbW9YTG5PeGFObU1zUG41aXRYRG43V2t1ZkNwQkF3ckM4eU1OTzdURUtlRjRWc2x2a0FnUUduMHhDWHpBcDFfM2p1OC05REg3Vjd5UXlHaEx5Qk1DbVVHbUhEcjNzY2wwZ3loQ3J4dkYxN3RSc3dWMWpNQlNWUnRqZXdhTlhUVGR0UQ?oc=5)
 
-- Source / 来源: WSJ. Published: `2026-06-10T03:04:00+00:00`.
-- Keywords / 关键词: iran, helicopter, strikes, downed, apache, launches, response, wsj, strait, hormuz
-- 中文关键词: 伊朗、直升机、袭击、被击落的、阿帕奇、发射、回复、华尔街日报、海峡、霍尔木兹
+- Source / 来源: CBS News. Published: `2026-06-11T03:43:00+00:00`.
+- Keywords / 关键词: north, korea, visit, kim, emboldened, confront, china's, because, wants, jong
+- 中文关键词: 北、韩国、访问、金、有底气、面对、中国的、因为、想要、琼
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter WSJ Iran war day 103: US strikes after helicopter shot down, Tehran hits back Al Jazeera Sea drone rescues US army helicopter crew near Strait of Hormuz BBC Iran live updates: US strikes in Iran 'completed,' CENTCOM says ABC News - Breaking News, Latest News and Videos US, Iran Attack Each Other Over Apache Downed Near Hormuz Strait Bloomberg
-- RSS 中文摘要: 美国针对阿帕奇直升机被击落事件对伊朗发动打击 华尔街日报 伊朗战争第 103 天：直升机被击落后，美国发动打击，德黑兰反击 半岛电视台海上无人机在霍尔木兹海峡附近营救美军直升机机组人员 BBC 伊朗实时更新：美国中央司令部称美国对伊朗的打击“已完成” ABC News - 突发新闻、最新新闻和视频 美国、伊朗因阿帕奇在霍尔木兹海峡附近被击落而互相攻击
+- RSS Excerpt / RSS 摘要: Did China's Xi visit North Korea because an emboldened Kim Jong Un wants "to confront the U.S."? CBS News North Korea, China claim wins from Xi visit, but limits remain Reuters Behind the Pageantry in Pyongyang With Xi and Kim The New York Times China re‑centers North Korea ties as nuclear silence reshapes balance NPR Was Xi’s stance on North Korea military ties also a message for US, Russia? South China Morning Post
+- RSS 中文摘要: 中国习近平访问朝鲜是否是因为金正恩有恃无恐地想要“对抗美国”？哥伦比亚广播公司 (CBS) 新闻 朝鲜和中国声称习近平访问取得了胜利，但仍存在局限性 路透 习近平和金正恩在平壤的盛况背后 纽约时报 核沉默重塑平衡之际，中国重新聚焦朝鲜关系 NPR 习近平对朝鲜军事关系的立场是否也是向美国和俄罗斯发出的信息？南华早报
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, helicopter, strikes, downed, and apache. The available excerpt says: U.S. Launches Strikes on Iran in Response to Downed Apache Helicopter WSJ Iran war day 103: US strikes after helicopter shot down, Tehran hits back Al Jazeera Sea drone rescues US army helicopter crew near Strait of Hormuz BBC Iran live updates: US strikes in Iran 'completed,' CENTCOM says ABC News - Breaking News, Latest News and Videos US, Iran Attack Each Other Over Apache Downed Near Hormuz Strait Bloomberg Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、直升机、袭击、被击落的、阿帕奇。RSS 中文摘要显示：美国针对阿帕奇直升机被击落事件对伊朗发动打击 华尔街日报 伊朗战争第 103 天：直升机被击落后，美国发动打击，德黑兰反击 半岛电视台海上无人机在霍尔木兹海峡附近营救美军直升机机组人员 BBC 伊朗实时更新：美国中央司令部称美国对伊朗的打击“已完成” ABC News - 突发新闻、最新新闻和视频 美国、伊朗因阿帕奇在霍尔木兹海峡附近被击落而互相攻击 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: north, korea, visit, kim, and emboldened. The available excerpt says: Did China's Xi visit North Korea because an emboldened Kim Jong Un wants "to confront the U.S."? CBS News North Korea, China claim wins from Xi visit, but limits remain Reuters Behind the Pageantry in Pyongyang With Xi and Kim The New York Times China re‑centers North Korea ties as nuclear silence reshapes balance NPR Was Xi’s stance on North Korea military ties also a message for US, Russia? South China Morning Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：北、韩国、访问、金、有底气。RSS 中文摘要显示：中国习近平访问朝鲜是否是因为金正恩有恃无恐地想要“对抗美国”？哥伦比亚广播公司 (CBS) 新闻 朝鲜和中国声称习近平访问取得了胜利，但仍存在局限性 路透 习近平和金正恩在平壤的盛况背后 纽约时报 核沉默重塑平衡之际，中国重新聚焦朝鲜关系 NPR 习近平对朝鲜军事关系的立场是否也是向美国和俄罗斯发出的信息？南华早报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 5. [Drones hit historic museum in Russia-annexed Crimea as officials alter train schedule - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxPSGllalBfeVQzMUlnOU5VZUZkeTNLUUc2ajJHV1pFU1JhTU9HdmpVeTdLSEpXd0lMVUdscFJMNldHZlZQa0ZvbmdpZzY1V25SeEF4UzRrQllqOXV2M3lwZ21iNlY4TXdDaHYwNFVqLXMtM0syS0RfSFNlTEUtRGgyazVHcXZuS282YlRXVElCTnVkZmt3d2hJbkZrVkxMU3ZNVlBJOG0xTXEtLXktY1h0QzlheW42ZjdYTDI3QkZR?oc=5)
+### 4. [US and Iran exchange fresh wave of strikes - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPeFBvS3Nub2VpV29fYkJPeHQ4ek5YM181Rmx4QUdpb3pvaUx2T05MeUVDcWViUFM3UGl4TlBkSW5NekpRZUJHeTJoQVVwWmtJVnlKOEhnRkROTHRlVnBrSjhMYWlGNldPX2dHZzlVTS1XY2I1cG5rLU9FWm15dDRqcnRVR2M?oc=5)
 
-- Source / 来源: Reuters. Published: `2026-06-10T04:03:00+00:00`.
-- Keywords / 关键词: officials, historic, drones, museum, crimea, train, russia-annexed, schedule, alter, hit
-- 中文关键词: 官员、历史性、无人机、博物馆、克里米亚、火车、俄罗斯吞并、日程、改变、打
+- Source / 来源: Financial Times. Published: `2026-06-10T21:59:33+00:00`.
+- Keywords / 关键词: iran, strikes, fresh, financial, exchange, wave, live, updates, attacks, middle
+- 中文关键词: 伊朗、袭击、新鲜的、金融的、交换、一波袭击、居住、更新、中间
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Drones hit historic museum in Russia-annexed Crimea as officials alter train schedule Reuters Ukrainian drones strike Sevastopol museum and key Russian oil refineries Al Jazeera Rail Service Suspended in Parts of Crimea After Deadly Drone Attack on Train The Moscow Times Ukraine’s USF strike locomotive in Russia’s Bryansk region Ukrinform - Ukrainian National News Agency Historic Sevastopol panorama ‘virtually destroyed’ in Ukrainian drone strike, local officials say Meduza
-- RSS 中文摘要: 官员改变火车时刻表，无人机袭击了俄罗斯吞并的克里米亚的历史博物馆 路透社 乌克兰无人机袭击了塞瓦斯托波尔博物馆和俄罗斯主要炼油厂 半岛电视台在火车发生致命无人机袭击后，克里米亚部分地区的铁路服务暂停当地官员称梅杜扎罢工
+- RSS Excerpt / RSS 摘要: US and Iran exchange fresh wave of strikes Financial Times Iran War Live Updates: U.S. and Iran Trade Fresh Attacks The New York Times Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks The Guardian US and Iran swap strikes as ceasefire hangs by a thread DW Live updates: US bases in Middle East face second round of retaliatory Iranian attacks CNN
+- RSS 中文摘要: 美国和伊朗进行新一波打击 《金融时报》伊朗战争实时更新：美国和伊朗贸易新攻击《纽约时报》中东危机直播：在特朗普警告德黑兰将为陷入僵局的谈判“付出代价”后，美国和伊朗再次进行贸易打击 《卫报》停火悬而未决，美国和伊朗互换罢工 DW 实时更新：美国在中东的基地面临第二轮伊朗报复性袭击 CNN
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: officials, historic, drones, museum, and crimea. The available excerpt says: Drones hit historic museum in Russia-annexed Crimea as officials alter train schedule Reuters Ukrainian drones strike Sevastopol museum and key Russian oil refineries Al Jazeera Rail Service Suspended in Parts of Crimea After Deadly Drone Attack on Train The Moscow Times Ukraine’s USF strike locomotive in Russia’s Bryansk region Ukrinform - Ukrainian National News Agency Historic Sevastopol panorama ‘virtually destroyed’ in Ukrainian drone strike, local officials say Meduza Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：官员、历史性、无人机、博物馆、克里米亚。RSS 中文摘要显示：官员改变火车时刻表，无人机袭击了俄罗斯吞并的克里米亚的历史博物馆 路透社 乌克兰无人机袭击了塞瓦斯托波尔博物馆和俄罗斯主要炼油厂 半岛电视台在火车发生致命无人机袭击后，克里米亚部分地区的铁路服务暂停当地官员称梅杜扎罢工 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, strikes, fresh, financial, and exchange. The available excerpt says: US and Iran exchange fresh wave of strikes Financial Times Iran War Live Updates: U.S. and Iran Trade Fresh Attacks The New York Times Middle East crisis live: US and Iran trade strikes again, after Trump warns Tehran will ‘pay the price’ for stalled talks The Guardian US and Iran swap strikes as ceasefire hangs by a thread DW Live updates: US bases in Middle East face second round of retaliatory Iranian attacks CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、袭击、新鲜的、金融的、交换。RSS 中文摘要显示：美国和伊朗进行新一波打击 《金融时报》伊朗战争实时更新：美国和伊朗贸易新攻击《纽约时报》中东危机直播：在特朗普警告德黑兰将为陷入僵局的谈判“付出代价”后，美国和伊朗再次进行贸易打击 《卫报》停火悬而未决，美国和伊朗互换罢工 DW 实时更新：美国在中东的基地面临第二轮伊朗报复性袭击 CNN 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 6. [Democrat Xavier Becerra and Republican Steve Hilton will face off in California governor’s race - AP News](https://news.google.com/rss/articles/CBMiowFBVV95cUxNZG5naFIwejM0eExvQVlFNnBxNEZKemZmdzVQbXFBdVN1OW1iTTdIMGVmeV81R3lXbkdPZFNJTF9ma3c0eGZrekMyeVVpaXJIamNhcVdfTGVDbF9fcG4yckFwX0szOGxjRVE5cGRsd3ByRjlDSnZsT213R1VZcHhweFVtVUswR1F1OXh4RXJMbEdHdXctS2NFOVNFXzdBR1d5ZTBZ?oc=5)
+### 5. [China-based operatives used ChatGPT to shape AI data centers and tariff debates - Axios](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVlQ1QlRZUV9LR1BDcWZHZTZsOTQxZFRHMGpnVThNMi1GYVZhWkxKanlSeFdSWDJfQy1YWlhJNDdhN1E4R3FGajUtRjdNUVJnTEl4NnEwM1I0SW5kbl9pTDJ1aFVuUnZYbXRhUjZtb3pXNVNNYUxqQ2d5OEVZeldVbDNB?oc=5)
 
-- Source / 来源: AP News. Published: `2026-06-10T02:29:00+00:00`.
-- Keywords / 关键词: california, governor, hilton, steve, race, republican, democrat, becerra, xavier, face
-- 中文关键词: 加利福尼亚州、州长、希尔顿、史蒂夫、种族、共和党人、民主党人、贝塞拉、泽维尔、脸
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Democrat Xavier Becerra and Republican Steve Hilton will face off in California governor’s race AP News Who is Steve Hilton, the Briton who could become California’s next governor? The Guardian Steve Hilton edges out Tom Steyer in California governor race BBC Republican Steve Hilton will face Democrat Xavier Becerra in California governor’s race, CNN projects CNN California Governor All-Party Primary Election Live Results 2026 AP News
-- RSS 中文摘要: 民主党人泽维尔·贝塞拉和共和党人史蒂夫·希尔顿将在加州州长竞选中对决 美联社新闻 谁是可能成为加州下一任州长的英国人史蒂夫·希尔顿？ 《卫报》史蒂夫·希尔顿 (Steve Hilton) 在加州州长竞选中击败汤姆·斯泰尔 (Tom Steyer) 据 CNN 预测，BBC 共和党人史蒂夫·希尔顿 (Steve Hilton) 将在加州州长竞选中面对民主党人泽维尔·贝塞拉 (Xavier Becerra) CNN 2026 年加州州长全党初选实时结果 美联社新闻
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: california, governor, hilton, steve, and race. The available excerpt says: Democrat Xavier Becerra and Republican Steve Hilton will face off in California governor’s race AP News Who is Steve Hilton, the Briton who could become California’s next governor? The Guardian Steve Hilton edges out Tom Steyer in California governor race BBC Republican Steve Hilton will face Democrat Xavier Becerra in California governor’s race, CNN projects CNN California Governor All-Party Primary Election Live Results 2026 AP News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：加利福尼亚州、州长、希尔顿、史蒂夫、种族。RSS 中文摘要显示：民主党人泽维尔·贝塞拉和共和党人史蒂夫·希尔顿将在加州州长竞选中对决 美联社新闻 谁是可能成为加州下一任州长的英国人史蒂夫·希尔顿？ 《卫报》史蒂夫·希尔顿 (Steve Hilton) 在加州州长竞选中击败汤姆·斯泰尔 (Tom Steyer) 据 CNN 预测，BBC 共和党人史蒂夫·希尔顿 (Steve Hilton) 将在加州州长竞选中面对民主党人泽维尔·贝塞拉 (Xavier Becerra) CNN 2026 年加州州长全党初选实时结果 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 7. [Russian Offensive Campaign Assessment, June 9, 2026 - Institute for the Study of War](https://news.google.com/rss/articles/CBMipgFBVV95cUxPUERtNjBCeTB2MkFuaG1FQXQxZHlrcS1tSFZJanZKUFNiOXpac2V6cGt4SkVpeUt3d0p2YUVmZF83RkZtQnlsVnVEdUw5VmxvLUJPcmtKNVpTOERYSng4M0ZuTWhBV3hQN3FheXE0WlNyUENmc21jMHdlLV9oMnlIOEt5R1R2SFVFeHU4WWhacGdZUURPYnE2RVZxa2R1bVFvT050WWZR?oc=5)
-
-- Source / 来源: Institute for the Study of War. Published: `2026-06-10T01:52:15+00:00`.
-- Keywords / 关键词: russian, assessment, offensive, institute, campaign, study, june, war, election, nagorno-karabakh
-- 中文关键词: 俄罗斯、评估、进攻、研究所、活动、学习、六月、战争、选举、纳戈尔诺-卡拉巴赫
+- Source / 来源: Axios. Published: `2026-06-10T20:36:46+00:00`.
+- Keywords / 关键词: data, centers, shape, china-based, operatives, chatgpt, debates, tariff, axios, used
+- 中文关键词: 数据、中心、形状、立足中国、操作员、查特普特、辩论、关税、轴、用过的
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Russian Offensive Campaign Assessment, June 9, 2026 Institute for the Study of War Armenia’s election is a setback for Vladimir Putin The Economist Poised to accelerate a pivot away from Russia, Armenian prime minister claims election win CNN After Nagorno-Karabakh, Armenians vote for peace over nationalism Al Jazeera Armenia's pro-West government wins election despite Russian pressure BBC
-- RSS 中文摘要: 俄罗斯进攻战役评估，2026 年 6 月 9 日 战争研究所 亚美尼亚的选举对弗拉基米尔·普京来说是一次挫折 《经济学人》准备加速远离俄罗斯，亚美尼亚总理声称赢得选举 CNN 纳戈尔诺-卡拉巴赫之后，亚美尼亚人投票支持和平而非民族主义 半岛电视台 尽管俄罗斯施压，亚美尼亚亲西方政府还是赢得了选举 BBC
+- RSS Excerpt / RSS 摘要: China-based operatives used ChatGPT to shape AI data centers and tariff debates Axios OpenAI says Chinese propaganda is being deployed to foment dissent over tariffs, data centers Reuters OpenAI Says China-Linked Accounts Aim to Fuel US Data Center Pushback Bloomberg.com The theory taking the rich by storm: China funds data center haters NPR OpenAI says China launched influence campaign to shape US attitudes on AI data centers Politico
+- RSS 中文摘要: 中国特工利用 ChatGPT 塑造人工智能数据中心和关税辩论 Axios OpenAI 称中国正在利用宣传煽动对关税和数据中心的异议 路透 OpenAI 称与中国相关的账户旨在助长美国数据中心的抵制 Bloomberg.com 该理论席卷富人：中国资助数据中心仇恨者 NPR OpenAI 称中国发起影响力运动以塑造美国对人工智能数据中心的态度 Politico
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: russian, assessment, offensive, institute, and campaign. The available excerpt says: Russian Offensive Campaign Assessment, June 9, 2026 Institute for the Study of War Armenia’s election is a setback for Vladimir Putin The Economist Poised to accelerate a pivot away from Russia, Armenian prime minister claims election win CNN After Nagorno-Karabakh, Armenians vote for peace over nationalism Al Jazeera Armenia's pro-West government wins election despite Russian pressure BBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：俄罗斯、评估、进攻、研究所、活动。RSS 中文摘要显示：俄罗斯进攻战役评估，2026 年 6 月 9 日 战争研究所 亚美尼亚的选举对弗拉基米尔·普京来说是一次挫折 《经济学人》准备加速远离俄罗斯，亚美尼亚总理声称赢得选举 CNN 纳戈尔诺-卡拉巴赫之后，亚美尼亚人投票支持和平而非民族主义 半岛电视台 尽管俄罗斯施压，亚美尼亚亲西方政府还是赢得了选举 BBC 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: data, centers, shape, china-based, and operatives. The available excerpt says: China-based operatives used ChatGPT to shape AI data centers and tariff debates Axios OpenAI says Chinese propaganda is being deployed to foment dissent over tariffs, data centers Reuters OpenAI Says China-Linked Accounts Aim to Fuel US Data Center Pushback Bloomberg.com The theory taking the rich by storm: China funds data center haters NPR OpenAI says China launched influence campaign to shape US attitudes on AI data centers Politico Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：数据、中心、形状、立足中国、操作员。RSS 中文摘要显示：中国特工利用 ChatGPT 塑造人工智能数据中心和关税辩论 Axios OpenAI 称中国正在利用宣传煽动对关税和数据中心的异议 路透 OpenAI 称与中国相关的账户旨在助长美国数据中心的抵制 Bloomberg.com 该理论席卷富人：中国资助数据中心仇恨者 NPR OpenAI 称中国发起影响力运动以塑造美国对人工智能数据中心的态度 Politico 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 8. [Live Now: Maine statewide and local election results - Portland Press Herald - Maine Sunday Telegram](https://news.google.com/rss/articles/CBMimgFBVV95cUxQNXhoSkdGbk44R1VaZHJiYS1lZnFOMGdOdm9UUTNOOGZzeVBxdEd6QlpWV3lVVkxUTEZSY1MxaTNBQU1SMFVkWFhheGVDU1JtVzVZQ1NCVlhKclROYjNPNzF6c0t5VWp5QmNBbkNWcXprMXhDN2R0WkdhSDhHUVZPY3lTTXpDWjlyR2NtYUlQZUZlWUh1UjFLdXpR?oc=5)
+### 6. [Sagrada Família: Pope blesses Barcelona’s Gaudi-designed towering architectural masterpiece - CNN](https://news.google.com/rss/articles/CBMigwFBVV95cUxPRzdxS0lNN1JkU0tuWkNXM3FRSUUxNVZYMkJGb0JtbDFtMmx5eWtvblBlZjAtWno3bXE1UkFnZ3lla2ptUmU5bm5hUFpSaXBIMGR1VzRFWHN0WVVVSXRaVDFDX24wZjIzZ25jRmF2Tm1VeFhRcnVZZEtmeVc2azZLQlptUQ?oc=5)
 
-- Source / 来源: Portland Press Herald - Maine Sunday Telegram. Published: `2026-06-10T00:19:08+00:00`.
-- Keywords / 关键词: maine, statewide, election, portland, telegram, results, herald, sunday, local, press
-- 中文关键词: 缅因州、全州范围内、选举、波特兰、电报、结果、先驱报、星期日、当地的、按
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Live Now: Maine statewide and local election results Portland Press Herald - Maine Sunday Telegram See more headlines & perspectives on Google News
-- RSS 中文摘要: 现在直播：缅因州全州和地方选举结果 波特兰新闻先驱报 - 缅因州周日电报 在 Google 新闻上查看更多头条新闻和观点
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: maine, statewide, election, portland, and telegram. The available excerpt says: Live Now: Maine statewide and local election results Portland Press Herald - Maine Sunday Telegram See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：缅因州、全州范围内、选举、波特兰、电报。RSS 中文摘要显示：现在直播：缅因州全州和地方选举结果 波特兰新闻先驱报 - 缅因州周日电报 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+- Source / 来源: CNN. Published: `2026-06-10T19:57:59+00:00`.
+- Keywords / 关键词: sagrada, pope, barcelona, blesses, gaudi-designed, architectural, masterpiece, towering, fam, lia
+- 中文关键词: 圣殿、教皇、巴塞罗那、祝福、高迪设计的、建筑学、杰作、参天、家族、利亚
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Sagrada Família: Pope blesses Barcelona’s Gaudi-designed towering architectural masterpiece CNN 'A place of legend': The ancient engineering marvels of the world's tallest church BBC Pope Leo blesses Sagrada Familia tower and its illuminated ceramic cross Yahoo Pope Leo Is Blessing the Sagrada Familia in Barcelona. To Some, the Church Is a Curse. The New York Times Saint or sinner: Antoni Gaudí’s polarising style The Economist
+- RSS 中文摘要: 圣家堂：教宗祝福巴塞罗那高迪设计的高耸建筑杰作 CNN “传奇之地”：世界最高教堂的古代工程奇迹 BBC 教宗利奥祝福圣家堂塔楼及其发光陶瓷十字架 雅虎教宗利奥正在祝福巴塞罗那的圣家堂。对某些人来说，教会是一个诅咒。 《纽约时报》 圣人还是罪人：安东尼·高迪的两极分化风格
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: sagrada, pope, barcelona, blesses, and gaudi-designed. The available excerpt says: Sagrada Família: Pope blesses Barcelona’s Gaudi-designed towering architectural masterpiece CNN 'A place of legend': The ancient engineering marvels of the world's tallest church BBC Pope Leo blesses Sagrada Familia tower and its illuminated ceramic cross Yahoo Pope Leo Is Blessing the Sagrada Familia in Barcelona. To Some, the Church Is a Curse. The New York Times Saint or sinner: Antoni Gaudí’s polarising style The Economist Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：圣殿、教皇、巴塞罗那、祝福、高迪设计的。RSS 中文摘要显示：圣家堂：教宗祝福巴塞罗那高迪设计的高耸建筑杰作 CNN “传奇之地”：世界最高教堂的古代工程奇迹 BBC 教宗利奥祝福圣家堂塔楼及其发光陶瓷十字架 雅虎教宗利奥正在祝福巴塞罗那的圣家堂。对某些人来说，教会是一个诅咒。 《纽约时报》 圣人还是罪人：安东尼·高迪的两极分化风格 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 9. [Middle East crisis live: Iran launches broad retaliatory attacks after US strikes over downed helicopter - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxOYVRrbUlGa2FOQi1SSnhKZmNKNDh6NURTOFdVSjVHeEpTTVM5b0RyNDQxWnhIaXRwTVRBNEhMY2x4c1EtM1VXYkp5VWp1a1huZV84MEFVb3ZIVEZtSHBRWlVuMXJPNXc5dmdQSnctOGNRckMwNFFheUdWVE9uWmFpdU9fS0lZZmlJd2M0dWoxUlpZNVk1SnZHeVZ3MG41aDZKQ24yQkNueGNEUGN5alJNTjhjUWdFeGZkQ0k0QndwQ21heGxvNXpnTGdCRVA?oc=5)
+### 7. [The War in Ukraine Has Now Gone On Longer Than World War I - The New York Times](https://news.google.com/rss/articles/CBMihgFBVV95cUxPS3BCdEJRNk4xTnpES3pZX2pKalNEUWV2QllWSEFzZ3R1UUI2MTF3c1ZmUGZBS1Q5TkFmLXJjdDFHbUhiRXVydXZDcFZOejFCa3RzclFvX01xWjhpc3g2N2RkcTlidG05eVJmVkdMX2hWeW1iSEhveGR1LV8zQjVYMjdEME9uQQ?oc=5)
 
-- Source / 来源: The Guardian. Published: `2026-06-10T04:10:00+00:00`.
-- Keywords / 关键词: retaliatory, helicopter, launches, attacks, strikes, middle, crisis, downed, broad, east
-- 中文关键词: 报复性、直升机、发射、袭击、中间、危机、被击落的、广阔、东方
+- Source / 来源: The New York Times. Published: `2026-06-11T04:01:16+00:00`.
+- Keywords / 关键词: war, ukraine, longer, gone, catastrophe, ukrainians, persuasion, aggression, three-day, surpassed
+- 中文关键词: 战争、乌克兰、更长、消失了、灾难、乌克兰人、劝说、侵略、三天、超越
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Middle East crisis live: Iran launches broad retaliatory attacks after US strikes over downed helicopter The Guardian See more headlines & perspectives on Google News
-- RSS 中文摘要: 中东危机直播：美国对被击落的直升机发动袭击后，伊朗发动广泛报复性袭击 英国《卫报》 在 Google 新闻上查看更多头条新闻和观点
+- RSS Excerpt / RSS 摘要: The War in Ukraine Has Now Gone On Longer Than World War I The New York Times How a three-day invasion has surpassed World War One and threatens global catastrophe SMH.com.au Ukrainians Will Never Be the Same persuasion.community Think Tank reports on Russia’s war of aggression against Ukraine consilium.europa.eu Ukraine war situation update | 23 – 29 May 2026 ACLED
+- RSS 中文摘要: 乌克兰战争现在已经比第一次世界大战持续时间更长 《纽约时报》 为期三天的入侵如何超越第一次世界大战并威胁全球灾难 SMH.com.au 乌克兰人将永远不再一样 persuasion.community 智囊团报道俄罗斯侵略乌克兰的战争 consilium.europa.eu 乌克兰战争局势更新 | 2026 年 5 月 23 – 29 日 ACLED
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: retaliatory, helicopter, launches, attacks, and strikes. The available excerpt says: Middle East crisis live: Iran launches broad retaliatory attacks after US strikes over downed helicopter The Guardian See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：报复性、直升机、发射、袭击、中间。RSS 中文摘要显示：中东危机直播：美国对被击落的直升机发动袭击后，伊朗发动广泛报复性袭击 英国《卫报》 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: war, ukraine, longer, gone, and catastrophe. The available excerpt says: The War in Ukraine Has Now Gone On Longer Than World War I The New York Times How a three-day invasion has surpassed World War One and threatens global catastrophe SMH.com.au Ukrainians Will Never Be the Same persuasion.community Think Tank reports on Russia’s war of aggression against Ukraine consilium.europa.eu Ukraine war situation update | 23 – 29 May 2026 ACLED Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：战争、乌克兰、更长、消失了、灾难。RSS 中文摘要显示：乌克兰战争现在已经比第一次世界大战持续时间更长 《纽约时报》 为期三天的入侵如何超越第一次世界大战并威胁全球灾难 SMH.com.au 乌克兰人将永远不再一样 persuasion.community 智囊团报道俄罗斯侵略乌克兰的战争 consilium.europa.eu 乌克兰战争局势更新 | 2026 年 5 月 23 – 29 日 ACLED 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 10. [Korean Peninsula Update, June 9, 2026 - Institute for the Study of War](https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWxxSEdfZEtHdTE0V0RmYU8wTk0zQXVVaFBLdGhtMzdhV0pGbTFxWEM2c2FPOG03SVVrTTM1OUlSd09qcGdIUmlLQmNMSTU2SUtSdzJJcldEMjB4NTE4bkY5cU5mc295ZGRROUlFelNTWUx1Y0F4N0RFeHIzeXQxQzNqb0ZCYU1hdk1ocUx4Vl8?oc=5)
+### 8. [Pope’s Gesture While Greeting People Stuns, For Better Or Worse: “Not Immune To This” - Bored Panda](https://news.google.com/rss/articles/CBMifEFVX3lxTE13N0YycGtuR3kzdVBJMTllbTY1cGp5bGE5R1dTRkdIclNVbmF5WW96Z1pYLTVNam95WWxXUmg3Y2Nxbk91U28xdm5fdGZaTElnT18xSTAza3JXQWVudGxEbUFQM1hzTzZ6QWp5UkhrZmUtZEhoQS1MMmFoNWM?oc=5)
 
-- Source / 来源: Institute for the Study of War. Published: `2026-06-09T20:17:08+00:00`.
-- Keywords / 关键词: peninsula, institute, korean, update, study, june, war, north, korea, china
-- 中文关键词: 半岛、研究所、韩国人、更新、学习、六月、战争、北、韩国、中国
+- Source / 来源: Bored Panda. Published: `2026-06-10T19:10:36+00:00`.
+- Keywords / 关键词: pope, greeting, gesture, people, better, immune, while, stuns, worse, bored
+- 中文关键词: 教皇、问候语、手势、人们、更好的、免疫、尽管、击晕、更糟、无聊的
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Pope’s Gesture While Greeting People Stuns, For Better Or Worse: “Not Immune To This” Bored Panda Pope Leo: 'No situation could make God turn His gaze from us' Vatican News Pope Leo XIV addresses difficult questions about selfishness, suicide, and forgiveness EWTN News Pope's youth rally in Spain gets raw, with frank discussion of depression and domestic violence AP News Pope Leo speaks with suicide survivor about mental health, hope in Christ in Barcelona stadium event OSV News
+- RSS 中文摘要: 教宗与人们打招呼时的姿态令人震惊，无论是好还是坏：“无法幸免”无聊的熊猫教宗利奥：“任何情况都不能让上帝将目光从我们身上移开” 梵蒂冈新闻 教宗利奥十四世谈到有关自私、自杀和宽恕的难题 EWTN新闻 教宗在西班牙的青年集会变得粗糙，坦率地讨论了抑郁症和家庭暴力 美联社新闻 教宗利奥在巴塞罗那体育场活动中与自杀幸存者谈论心理健康和对基督的希望OSV新闻
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: pope, greeting, gesture, people, and better. The available excerpt says: Pope’s Gesture While Greeting People Stuns, For Better Or Worse: “Not Immune To This” Bored Panda Pope Leo: 'No situation could make God turn His gaze from us' Vatican News Pope Leo XIV addresses difficult questions about selfishness, suicide, and forgiveness EWTN News Pope's youth rally in Spain gets raw, with frank discussion of depression and domestic violence AP News Pope Leo speaks with suicide survivor about mental health, hope in Christ in Barcelona stadium event OSV News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：教皇、问候语、手势、人们、更好的。RSS 中文摘要显示：教宗与人们打招呼时的姿态令人震惊，无论是好还是坏：“无法幸免”无聊的熊猫教宗利奥：“任何情况都不能让上帝将目光从我们身上移开” 梵蒂冈新闻 教宗利奥十四世谈到有关自私、自杀和宽恕的难题 EWTN新闻 教宗在西班牙的青年集会变得粗糙，坦率地讨论了抑郁症和家庭暴力 美联社新闻 教宗利奥在巴塞罗那体育场活动中与自杀幸存者谈论心理健康和对基督的希望OSV新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 9. [Trump Says U.S. Will Launch New Attacks on Iran - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQOW81dnRnR25uSnJPUTFUeHZNc0Q3cmFfWTFMaGtrbW4tOEFVT1g1TkY5MERDb2VBbC0yQTIxRDNpWlJxZC0yZ0JZUFpicWtvTlZIYlZZUXJCOTNFcU92b0YzVUU2OTZEekoyVzRkeFBPV3RrMmU0cDU0SkRMZE1QcTZrSXJOMDFSaWx5anc1a290bXpfVnNmV3pmRVBJRHhvRWxRRTlZTjM0d1k1aXU4Ym5nY3k?oc=5)
+
+- Source / 来源: WSJ. Published: `2026-06-10T21:36:00+00:00`.
+- Keywords / 关键词: iran, trump, attacks, launch, wsj, strikes, tehran, deal, accepting, thursday
+- 中文关键词: 伊朗、特朗普、袭击、发射、华尔街日报、德黑兰、交易、接受、周四
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Korean Peninsula Update, June 9, 2026 Institute for the Study of War Behind the Pageantry in Pyongyang With Xi and Kim The New York Times The relationship between China and North Korea NPR Xi Cements Sway Over North Korea as Kim Names China Top Priority Bloomberg China's Xi hails deeper understanding at end of North Korea summit Reuters
-- RSS 中文摘要: 朝鲜半岛最新消息，2026 年 6 月 9 日 战争研究所 战争研究所 平壤与习近平和金正恩的盛况背后 中国与朝鲜的关系 NPR 习近平将中国列为首要任务，巩固了朝鲜的影响力
+- RSS Excerpt / RSS 摘要: Trump Says U.S. Will Launch New Attacks on Iran WSJ Live updates: U.S. and Iran trade attacks again after Trump pledges Tehran will "pay the price" for not accepting deal CBS News Trump Vows More Strikes on Iran Thursday If It Holds Out on Deal Bloomberg.com US launches a second day of strikes on Iran and Iran fires back at the Gulf states and Jordan AP News Trump boils over after Tehran kept him waiting Axios
+- RSS 中文摘要: 特朗普表示美国将对伊朗发动新的攻击 华尔街日报实时更新：在特朗普承诺德黑兰将因不接受协议而“付出代价”后，美国和伊朗再次进行贸易攻击 CBS新闻 特朗普周四誓言，如果协议坚持下去，将对伊朗进行更多打击 Bloomberg.com 美国对伊朗发动第二天的打击，伊朗向海湾国家和约旦开火还击 美联社新闻 在德黑兰让他等待后，特朗普沸腾了 Axios
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: peninsula, institute, korean, update, and study. The available excerpt says: Korean Peninsula Update, June 9, 2026 Institute for the Study of War Behind the Pageantry in Pyongyang With Xi and Kim The New York Times The relationship between China and North Korea NPR Xi Cements Sway Over North Korea as Kim Names China Top Priority Bloomberg China's Xi hails deeper understanding at end of North Korea summit Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：半岛、研究所、韩国人、更新、学习。RSS 中文摘要显示：朝鲜半岛最新消息，2026 年 6 月 9 日 战争研究所 战争研究所 平壤与习近平和金正恩的盛况背后 中国与朝鲜的关系 NPR 习近平将中国列为首要任务，巩固了朝鲜的影响力 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, trump, attacks, launch, and wsj. The available excerpt says: Trump Says U.S. Will Launch New Attacks on Iran WSJ Live updates: U.S. and Iran trade attacks again after Trump pledges Tehran will "pay the price" for not accepting deal CBS News Trump Vows More Strikes on Iran Thursday If It Holds Out on Deal Bloomberg.com US launches a second day of strikes on Iran and Iran fires back at the Gulf states and Jordan AP News Trump boils over after Tehran kept him waiting Axios Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、特朗普、袭击、发射、华尔街日报。RSS 中文摘要显示：特朗普表示美国将对伊朗发动新的攻击 华尔街日报实时更新：在特朗普承诺德黑兰将因不接受协议而“付出代价”后，美国和伊朗再次进行贸易攻击 CBS新闻 特朗普周四誓言，如果协议坚持下去，将对伊朗进行更多打击 Bloomberg.com 美国对伊朗发动第二天的打击，伊朗向海湾国家和约旦开火还击 美联社新闻 在德黑兰让他等待后，特朗普沸腾了 Axios 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [U.K. leaders call for calm as protests break out after Belfast street stabbing - NPR](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcVBWcTRpWjFVWnl3RFVLUFhUQXRZMkJMRWpINGZRYXNBRzFTR2FYNzNpX1NpUnRmS1VoNGZlcWVjYmNFYjRQNnR6ZENkZzM5R2tTbkh0U1dyekxzSHNqdXhDVV93NEp6MjJMSDBTTmJ4Q3J5VzFEMFhTNFAtNU55dWs2X2E1OXdS?oc=5)
+
+- Source / 来源: NPR. Published: `2026-06-10T06:00:14+00:00`.
+- Keywords / 关键词: belfast, protests, stabbing, leaders, break, call, calm, out, cannon, water
+- 中文关键词: 贝尔法斯特、抗议、刺、领导者、休息、称呼、冷静的、出去、大炮、水
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: U.K. leaders call for calm as protests break out after Belfast street stabbing NPR Police use water cannon against rioters in Northern Ireland The Guardian ‘Thuggery’: Belfast police fire water cannon at anti-immigration protests Al Jazeera Belfast knife attack latest: Water cannon fired in latest disorder after - follow live BBC Belfast's anti-migration violence brings back dark memories of the 'Troubles' Reuters
+- RSS 中文摘要: 贝尔法斯特街头刺伤事件后爆发抗议活动，英国领导人呼吁保持冷静 NPR 警察在北爱尔兰使用高压水枪镇压骚乱者 《卫报》 “暴行”：贝尔法斯特警察在反移民抗议中发射高压水枪 半岛电视台贝尔法斯特持刀袭击事件最新消息：最新骚乱中发射高压水枪 - 跟随 BBC 直播 贝尔法斯特的反移民暴力事件带回人们对“麻烦”的黑暗记忆 路透社
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: belfast, protests, stabbing, leaders, and break. The available excerpt says: U.K. leaders call for calm as protests break out after Belfast street stabbing NPR Police use water cannon against rioters in Northern Ireland The Guardian ‘Thuggery’: Belfast police fire water cannon at anti-immigration protests Al Jazeera Belfast knife attack latest: Water cannon fired in latest disorder after - follow live BBC Belfast's anti-migration violence brings back dark memories of the 'Troubles' Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：贝尔法斯特、抗议、刺、领导者、休息。RSS 中文摘要显示：贝尔法斯特街头刺伤事件后爆发抗议活动，英国领导人呼吁保持冷静 NPR 警察在北爱尔兰使用高压水枪镇压骚乱者 《卫报》 “暴行”：贝尔法斯特警察在反移民抗议中发射高压水枪 半岛电视台贝尔法斯特持刀袭击事件最新消息：最新骚乱中发射高压水枪 - 跟随 BBC 直播 贝尔法斯特的反移民暴力事件带回人们对“麻烦”的黑暗记忆 路透社 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
 
 
