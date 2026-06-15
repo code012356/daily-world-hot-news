@@ -10,155 +10,155 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-06-14T08:11:20+00:00` UTC.
+Generated at `2026-06-15T09:57:56+00:00` UTC.
 
-### 1. [Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxUHJCWFpVUE1hUExUSk5pZEdkX2p5eENDMkxybDdLTFBoaEJ4TmpkcE5LVUowOVNScWJBeUY1MUtYNmtKams2eFAwdkJVeV9WZWc4SF9DYU1vdw?oc=5)
+### 1. [U.S. and Iran reach deal to extend ceasefire and open strait - Axios](https://news.google.com/rss/articles/CBMihgFBVV95cUxQb3dLRUwzdk1RYWV6S1dOLTNjYXFULU5BVGpCOFFkSEhrUksyNWpEZ1JmVV96RThKTnJUcXNxbXhyWG9xeDA5cUZpVW4xRllIMTN5ZGxnTG5obFdlNXpWSi0wb1BhNllsbURmM0h6SU1DVzM2Z0F2NzVCMmQyNzBvOVBRU1JQdw?oc=5)
 
-- Source / 来源: BBC. Published: `2026-06-14T05:41:07+00:00`.
-- Keywords / 关键词: trump, deal, signed, sunday, tehran, timing, us-iran, casts, doubt, iran
-- 中文关键词: 特朗普、交易、签署、星期日、德黑兰、定时、美国-伊朗、演员表、怀疑、伊朗
+- Source / 来源: Axios. Published: `2026-06-15T08:52:51+00:00`.
+- Keywords / 关键词: iran, deal, reach, ceasefire, extend, strait, axios, open, war, trump
+- 中文关键词: 伊朗、交易、抵达、停火、延长、海峡、轴、打开、战争、特朗普
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing BBC Live updates: Trump says agreement to be signed Sunday, Iran pushes back on timing CNN Iran war: Trump, Pakistan tease deal, but doubts remain DW Iran War Live Updates: U.S. and Tehran Send Mixed Signals on Emerging Peace Agreement The New York Times Trump Casually Drops ‘Ultimate’ Threat if War Deal Fizzles The Daily Beast
-- RSS 中文摘要: 特朗普称美伊协议将于周日签署，德黑兰对时机表示怀疑 BBC 直播更新：特朗普表示将于周日签署协议，伊朗推迟了时间 CNN 伊朗战争：特朗普、巴基斯坦戏弄协议，但疑虑依然存在 DW 伊朗战争实时更新：美国和德黑兰就即将达成的和平协议发出混合信号 《纽约时报》 如果战争协议失败，特朗普随意放弃“终极”威胁
+- RSS Excerpt / RSS 摘要: U.S. and Iran reach deal to extend ceasefire and open strait Axios The true test of Trump’s Iran agreement will come only if the fighting stops CNN Live updates: Trump and Iran reach tentative deal to end war, reopen Hormuz NBC News Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release Reuters Iran war live: Tehran says ‘peace deal’ ends US blockade, war on all fronts Al Jazeera
+- RSS 中文摘要: 美国和伊朗达成延长停火和开放海峡的协议 Axios 只有战斗停止，特朗普与伊朗协议的真正考验才会到来 CNN 实时更新：特朗普和伊朗达成结束战争的暂定协议，重新开放霍尔木兹 NBC 新闻 伊朗称美国协议草案包括石油制裁豁免、核限制和资产释放 路透社 伊朗战争直播：德黑兰表示“和平协议”结束了美国的封锁，全面战争
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, deal, signed, sunday, and tehran. The available excerpt says: Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing BBC Live updates: Trump says agreement to be signed Sunday, Iran pushes back on timing CNN Iran war: Trump, Pakistan tease deal, but doubts remain DW Iran War Live Updates: U.S. and Tehran Send Mixed Signals on Emerging Peace Agreement The New York Times Trump Casually Drops ‘Ultimate’ Threat if War Deal Fizzles The Daily Beast Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、交易、签署、星期日、德黑兰。RSS 中文摘要显示：特朗普称美伊协议将于周日签署，德黑兰对时机表示怀疑 BBC 直播更新：特朗普表示将于周日签署协议，伊朗推迟了时间 CNN 伊朗战争：特朗普、巴基斯坦戏弄协议，但疑虑依然存在 DW 伊朗战争实时更新：美国和德黑兰就即将达成的和平协议发出混合信号 《纽约时报》 如果战争协议失败，特朗普随意放弃“终极”威胁 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, deal, reach, ceasefire, and extend. The available excerpt says: U.S. and Iran reach deal to extend ceasefire and open strait Axios The true test of Trump’s Iran agreement will come only if the fighting stops CNN Live updates: Trump and Iran reach tentative deal to end war, reopen Hormuz NBC News Iran says draft US deal includes oil sanctions waiver, nuclear limits and asset release Reuters Iran war live: Tehran says ‘peace deal’ ends US blockade, war on all fronts Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、交易、抵达、停火、延长。RSS 中文摘要显示：美国和伊朗达成延长停火和开放海峡的协议 Axios 只有战斗停止，特朗普与伊朗协议的真正考验才会到来 CNN 实时更新：特朗普和伊朗达成结束战争的暂定协议，重新开放霍尔木兹 NBC 新闻 伊朗称美国协议草案包括石油制裁豁免、核限制和资产释放 路透社 伊朗战争直播：德黑兰表示“和平协议”结束了美国的封锁，全面战争 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 2. [Germany and Japan Are Rearming Again, 80 Years After World War II - The New York Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVU1ZVlNCZl9yYjlodVVwTDJPVjhEVnQydkkwdU5hU0UyVF9PQkRqWkUtMGtWSTRCWlpCb0ZTVThiMjZYYzR5Q2F2M0tfNl9oZEt3eHNxeGxwRFNldzBFaUU5WUhjcXVpNHJ3Ui1DWmZyQ2pUUEhUdEkxMmxEQkU4VUtVUzZUeEFidnlIdXgzNA?oc=5)
+### 2. [Starmer says Britain will ban under-16s from using a range of social media apps - AP News](https://news.google.com/rss/articles/CBMilwFBVV95cUxPS09GclpMaDVCWjhseWZMdmtBZmV3d0o2bFNPT1pjZVd4SFd4eUVvYkc2OFdjRjZnalpfamVmZTI5NWhhS2VGNVpCd0hKRkNuSWZNS2dfQ3ZPd2Vic0h1TmhVb19nNDIyNXliX0dRRVctUE1KbVFrNkJpRTM0cHlScjBUY2Y2SG8xbE12Y2ZDLV80Vm5ka2pn?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-06-14T04:01:15+00:00`.
-- Keywords / 关键词: germany, japan, rearming, years, war, vice-ministers, idn-indepthnews, japan-germany, marketwatch, industries
-- 中文关键词: 德国、日本、重新武装、年、战争、副部长、idn-深度新闻、日本-德国、市场观察、行业
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Germany and Japan Are Rearming Again, 80 Years After World War II The New York Times Yomiuri: Japan, Germany Seek Closer Ties for Their Defense Industries at Conference MarketWatch Japan-Germany Vice-Ministers' Meeting mofa.go.jp Germany, Japan and the Return of Military Power (Part I) IDN-InDepthNews
-- RSS 中文摘要: 二战后 80 年后，德国和日本再次重新武装 纽约时报 读卖新闻：日本、德国在会议上寻求加强国防工业联系 MarketWatch 日德副部长会议 mofa.go.jp 德国、日本与军事力量的回归（第一部分） IDN-InDepthNews
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: germany, japan, rearming, years, and war. The available excerpt says: Germany and Japan Are Rearming Again, 80 Years After World War II The New York Times Yomiuri: Japan, Germany Seek Closer Ties for Their Defense Industries at Conference MarketWatch Japan-Germany Vice-Ministers' Meeting mofa.go.jp Germany, Japan and the Return of Military Power (Part I) IDN-InDepthNews Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：德国、日本、重新武装、年、战争。RSS 中文摘要显示：二战后 80 年后，德国和日本再次重新武装 纽约时报 读卖新闻：日本、德国在会议上寻求加强国防工业联系 MarketWatch 日德副部长会议 mofa.go.jp 德国、日本与军事力量的回归（第一部分） IDN-InDepthNews 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 3. [Swiss to vote on whether to cap population at 10 million - DW](https://news.google.com/rss/articles/CBMikwFBVV95cUxQNF84V2tQY2ZPWm5VOGdsX3lTcC1pWXFva1JjaERqbHp1TGJldy13dTNQOGF4M08zLUxJXzN2UFB0Ymd3R2YzVUhOLURMM2dlNTJzdjhpNUMwUEU3Z0d2d1FOVXlqNDZIbDJQOXZjSlFLaFVhbVVwYmdGSTZQVThZdk12WUo5YWJ1Ri1mN3lEX0Y2dmPSAZMBQVVfeXFMTjZtaWhoZkhUcXVJdlJoNDA4MThmX1kyZlVmT2dJbkM0X3hCTm13Qi1Hd01SeHpKQVZidzd6R0VBNTVMRUNkNkR2SXZLQ0tjcjZzLUk2eHBxcDRIRTBnWjhscGxSNU1qM281TFFqRUtmZ19qV0RZb2xUbTNCbHZuM2lXdUduWXM5X2tFNVo3VUdWUnBZ?oc=5)
-
-- Source / 来源: DW. Published: `2026-06-14T06:50:26+00:00`.
-- Keywords / 关键词: population, cap, million, vote, swiss, whether, switzerland, right-wing, potential, collision
-- 中文关键词: 人口、帽、百万、投票、瑞士人、无论、瑞士、右翼、潜在的、碰撞
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Swiss to vote on whether to cap population at 10 million DW Switzerland to vote on plan to cap population at 10 million BBC Swiss cast ballots on right-wing’s bid to cap country’s population at 10 million NBC News Should Switzerland Cap Its Population at 10 Million? Voters Will Decide. The New York Times Switzerland’s ‘Brexit moment’: Vote on a population cap sets up potential collision with EU CNN
-- RSS 中文摘要: 瑞士将投票决定是否将人口限制在1000万 DW 瑞士将就将人口限制在1000万的计划进行投票 BBC 瑞士就右翼将国家人口限制在1000万的计划进行投票 NBC新闻 瑞士应该将人口限制在1000万吗？选民将做出决定。 《纽约时报》瑞士的“脱欧时刻”：人口上限投票可能与欧盟发生冲突 CNN
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: population, cap, million, vote, and swiss. The available excerpt says: Swiss to vote on whether to cap population at 10 million DW Switzerland to vote on plan to cap population at 10 million BBC Swiss cast ballots on right-wing’s bid to cap country’s population at 10 million NBC News Should Switzerland Cap Its Population at 10 Million? Voters Will Decide. The New York Times Switzerland’s ‘Brexit moment’: Vote on a population cap sets up potential collision with EU CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：人口、帽、百万、投票、瑞士人。RSS 中文摘要显示：瑞士将投票决定是否将人口限制在1000万 DW 瑞士将就将人口限制在1000万的计划进行投票 BBC 瑞士就右翼将国家人口限制在1000万的计划进行投票 NBC新闻 瑞士应该将人口限制在1000万吗？选民将做出决定。 《纽约时报》瑞士的“脱欧时刻”：人口上限投票可能与欧盟发生冲突 CNN 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 4. [Donald Trump’s Name Has Been Removed From the Kennedy Center, Court Docs Say - Rolling Stone](https://news.google.com/rss/articles/CBMipAFBVV95cUxOYzZCUnNyTGFrMUpnd0x1UHlXRnFHaVZyb3gzUXlHV1pJZVJPSlZXUzhaVFlmTnQ4RER5MW4xdjhLNTBSZl9CMVV1WE9EMEc0cnhvTE5KSFhfQ053N3ZxcldSZ0J5X21ha3FnXzJVSWxGZDlmN291R2FFY1dCTG0yaVA5R3NHbE1xOFdBb3RDOXJnaVQ0NlFCdVpRTVJGLTZzbEJfVg?oc=5)
-
-- Source / 来源: Rolling Stone. Published: `2026-06-13T18:59:58+00:00`.
-- Keywords / 关键词: kennedy, center, trump, name, removed, rolling, donald, court, stone, docs
-- 中文关键词: 肯尼迪、中心、特朗普、姓名、已删除、滚动、唐纳德、法庭、石头、文档
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Donald Trump’s Name Has Been Removed From the Kennedy Center, Court Docs Say Rolling Stone Kennedy Center removes Trump's name from the building NPR The Kennedy Center, Minus Trump The Atlantic Trump Team Scrambles to Block Cameras in Kennedy Center Humiliation The Daily Beast The Kennedy Center drops 'Trump' branding as Bill Maher’s Twain Award guests are revealed AP News
-- RSS 中文摘要: 法庭文件称，唐纳德·特朗普的名字已从肯尼迪中心删除
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: kennedy, center, trump, name, and removed. The available excerpt says: Donald Trump’s Name Has Been Removed From the Kennedy Center, Court Docs Say Rolling Stone Kennedy Center removes Trump's name from the building NPR The Kennedy Center, Minus Trump The Atlantic Trump Team Scrambles to Block Cameras in Kennedy Center Humiliation The Daily Beast The Kennedy Center drops 'Trump' branding as Bill Maher’s Twain Award guests are revealed AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：肯尼迪、中心、特朗普、姓名、已删除。RSS 中文摘要显示：法庭文件称，唐纳德·特朗普的名字已从肯尼迪中心删除 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 5. [Mystery Potato Hovering Over Colorado Is Reported in Latest U.F.O. Files - The New York Times](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcTRzUWNzWW9FSlhQZF9MbXhNZmd0Ul9GZ2JpZ3J0VzlZMm9xSW5laENhMmtGNDRXRVhsRFg1bk9rTkgxNUdlQzBzcVZTelUxd2dUUGdTZE4xSFZsMHV2M09BTmZQbEVIWnc3MWhRNVFyVkdic1d6SEdkSjVHX3pBdnhfQkdiYW1SWTBZdi1vY3UtYmtpaTdPSEtlMnVWU253enc0Z216ZzR5RU5YTUZOZ2NR?oc=5)
-
-- Source / 来源: The New York Times. Published: `2026-06-13T21:36:33+00:00`.
-- Keywords / 关键词: files, mystery, hovering, colorado, reported, potato, latest, ufo, war, department
-- 中文关键词: 文件、神秘、盘旋、科罗拉多州、报道、土豆、最新的、飞碟、战争、部门
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Mystery Potato Hovering Over Colorado Is Reported in Latest U.F.O. Files The New York Times Mystery orb videos, other UFO records released by White House Axios Pentagon releases 3rd batch of UFO files, detailing mysterious orb sightings: "Are you seeing this?" CBS News UFO files: Plasma orbs a focus in third tranche of documents NewsNation Department of War Publishes Third Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO U.S. Department of War (.gov)
-- RSS 中文摘要: 最新的U.F.O.报道称，科罗拉多州上空盘旋着神秘的马铃薯文件 《纽约时报》神秘球体视频和白宫 Axios 发布的其他 UFO 记录 五角大楼发布了第三批 UFO 文件，详细描述了神秘球体目击事件：“你看到这个了吗？”哥伦比亚广播公司新闻 UFO 文件：等离子球体成为第三批文件的焦点 NewsNation Department of War 在 WAR.GOV/UFO UFO U.S. Department of War (.gov) 上发布第三次发布的不明异常现象文件
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: files, mystery, hovering, colorado, and reported. The available excerpt says: Mystery Potato Hovering Over Colorado Is Reported in Latest U.F.O. Files The New York Times Mystery orb videos, other UFO records released by White House Axios Pentagon releases 3rd batch of UFO files, detailing mysterious orb sightings: "Are you seeing this?" CBS News UFO files: Plasma orbs a focus in third tranche of documents NewsNation Department of War Publishes Third Release of Unidentified Anomalous Phenomena Files on WAR.GOV/UFO U.S. Department of War (.gov) Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：文件、神秘、盘旋、科罗拉多州、报道。RSS 中文摘要显示：最新的U.F.O.报道称，科罗拉多州上空盘旋着神秘的马铃薯文件 《纽约时报》神秘球体视频和白宫 Axios 发布的其他 UFO 记录 五角大楼发布了第三批 UFO 文件，详细描述了神秘球体目击事件：“你看到这个了吗？”哥伦比亚广播公司新闻 UFO 文件：等离子球体成为第三批文件的焦点 NewsNation Department of War 在 WAR.GOV/UFO UFO U.S. Department of War (.gov) 上发布第三次发布的不明异常现象文件 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 6. [‘A global rupture’: Carney calls for Canada-EU unity before G7 summit - Al Jazeera](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEpuLXVhbzIwOERYX2R2U3dZS2JpUGxJdmxkc3lvUDZwWmVTTDBVOVBkc0hFbzd6R1lXVUw1cERpNGJnbm56ckF1MXRHNmUxYVptZ0FWX3c5RTBCS2JHeVhWV1pEUjd4emMtNFNHTzdVOEc1cERycjJuc20xa05EbkgyN05KNzBZVWlWYlhic1pOSXFTODlhMEZ3YXdTRTQ4eEs4eXhMQVUwWUHSAbABQVVfeXFMTnhTTWpMWjBsNEtpdXZ2ellNUXB5d2FpT1ppaXVmdDFLR0VEZ2owcnZjUjh6OXMtRVp0VFlXVWpRckdCN1B2QlF6a20xaDVCSjFoX2ZrSzluTmNYai16aVJOSVpJV1NYbzZIb3pMOGNmb3FQUFRaUGR6dzNrRmtpRVBydDRmekwxODlPVXRDcjVaUXgwR0NpNV9VcnhsZG1jNnI2Rk1qa3JuQ3hlczA1V1I?oc=5)
-
-- Source / 来源: Al Jazeera. Published: `2026-06-13T19:57:08+00:00`.
-- Keywords / 关键词: carney, canada-eu, rupture, jazeera, global, before, summit, calls, unity, trade
-- 中文关键词: 卡尼、加拿大我、破裂、半岛电视台、全球的、前、首脑、来电、统一、贸易
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: ‘A global rupture’: Carney calls for Canada-EU unity before G7 summit Al Jazeera Canada’s Carney says middle-power countries shouldn’t compete for favor with the US AP News Canadian Prime Minister Mark Carney 'back home' on two-day visit to Ireland BBC Ahead of G7, Canada's Carney softens tone toward Trump with trade talks at stake PBS US Wants to Avoid Congressional Vote on Trade Deal, Carney Says Bloomberg.com
-- RSS 中文摘要: “全球决裂”：卡尼在七国集团峰会前呼吁加拿大与欧盟团结 半岛电视台 加拿大卡尼表示，中等强国不应与美国争夺青睐 美联社新闻 加拿大总理马克·卡尼“回国”对爱尔兰进行为期两天的访问 BBC 在七国集团峰会之前，加拿大卡尼因贸易谈判岌岌可危而软化了对特朗普的语气 PBS 卡尼表示，美国希望避免国会就贸易协议进行投票 彭博社.com
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: carney, canada-eu, rupture, jazeera, and global. The available excerpt says: ‘A global rupture’: Carney calls for Canada-EU unity before G7 summit Al Jazeera Canada’s Carney says middle-power countries shouldn’t compete for favor with the US AP News Canadian Prime Minister Mark Carney 'back home' on two-day visit to Ireland BBC Ahead of G7, Canada's Carney softens tone toward Trump with trade talks at stake PBS US Wants to Avoid Congressional Vote on Trade Deal, Carney Says Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：卡尼、加拿大我、破裂、半岛电视台、全球的。RSS 中文摘要显示：“全球决裂”：卡尼在七国集团峰会前呼吁加拿大与欧盟团结 半岛电视台 加拿大卡尼表示，中等强国不应与美国争夺青睐 美联社新闻 加拿大总理马克·卡尼“回国”对爱尔兰进行为期两天的访问 BBC 在七国集团峰会之前，加拿大卡尼因贸易谈判岌岌可危而软化了对特朗普的语气 PBS 卡尼表示，美国希望避免国会就贸易协议进行投票 彭博社.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 7. [What Astrologers See in Trump’s Birthday Horoscope - WSJ](https://news.google.com/rss/articles/CBMihwFBVV95cUxOMTBMUndaR2JwVDFvOUx4aFFVNXh5Z3A5U3JKVDlFdS14aDlTRDFaWjNPME5McE1qcnhNYjNNVTNiUHo1bHVxQXp1OW9ZOXVtR0JGenBaT09pYkpGbUpsbFdSekZxdmhsbGl6SkZIMFN2UlA3NWg2NEJZQkUza244Q2tKTnlHMU0?oc=5)
-
-- Source / 来源: WSJ. Published: `2026-06-13T23:00:00+00:00`.
-- Keywords / 关键词: trump, birthday, astrologers, horoscope, see, wsj, turns, octogenarians, showstopping, octogenarian
-- 中文关键词: 特朗普、生日、占星家、星座运势、看、华尔街日报、轮流、八旬老人、引人注目的
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: What Astrologers See in Trump’s Birthday Horoscope WSJ Let him eat cake! Birthday greetings for President Trump as he turns 80 – from Greta Thunberg, Piers Morgan and more The Guardian Opinion | Trump Is 80. Bob Dylan and Five More Octogenarians Have Some Words of Wisdom. The New York Times Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom AP News As Trump turns 80, what's it really like to work as an octogenarian? BBC
-- RSS 中文摘要: 占星家在特朗普的生日星座中看到了什么《华尔街日报》 让他吃蛋糕！格蕾塔·桑伯格、皮尔斯·摩根等人为特朗普总统 80 岁生日致以生日祝福特朗普已经 80 岁了。鲍勃·迪伦 (Bob Dylan) 和另外五位八旬老人有一些智慧之言。 《纽约时报》 特朗普 80 岁生日之际，在白宫上演了一场令人惊叹的笼斗场面。但重大问题迫在眉睫 美联社新闻 随着特朗普年满 80 岁，作为一个八旬老人工作到底是什么感觉？英国广播公司
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: trump, birthday, astrologers, horoscope, and see. The available excerpt says: What Astrologers See in Trump’s Birthday Horoscope WSJ Let him eat cake! Birthday greetings for President Trump as he turns 80 – from Greta Thunberg, Piers Morgan and more The Guardian Opinion | Trump Is 80. Bob Dylan and Five More Octogenarians Have Some Words of Wisdom. The New York Times Trump turns 80 with a showstopping spectacle of cage fights at the White House. But big issues loom AP News As Trump turns 80, what's it really like to work as an octogenarian? BBC Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：特朗普、生日、占星家、星座运势、看。RSS 中文摘要显示：占星家在特朗普的生日星座中看到了什么《华尔街日报》 让他吃蛋糕！格蕾塔·桑伯格、皮尔斯·摩根等人为特朗普总统 80 岁生日致以生日祝福特朗普已经 80 岁了。鲍勃·迪伦 (Bob Dylan) 和另外五位八旬老人有一些智慧之言。 《纽约时报》 特朗普 80 岁生日之际，在白宫上演了一场令人惊叹的笼斗场面。但重大问题迫在眉睫 美联社新闻 随着特朗普年满 80 岁，作为一个八旬老人工作到底是什么感觉？英国广播公司 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 8. [Pope Leo had to catch a ride from the king of Spain after plane’s engine failed - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxPTHJQV005X1dTNzNCWEpWZXd4VlQ1SzBteG9nYjJNbHNXNFBpUVpNR1pKRTFDV2E4WE1CN2dGM0Nwam9oT2pIalczZmxEMG9sSjhKc081YjRsTGxJbktZVXM4QmtSSk1qVjJVeHRlVC1hVHRvck9GUmV6THJKelE5cEdUTXpUOFZ1RkI1RWtROEwxZTNzUDFxaV9SVE1nNDduUG40eU9IXzdXV2th?oc=5)
-
-- Source / 来源: The Washington Post. Published: `2026-06-13T02:12:38+00:00`.
-- Keywords / 关键词: pope, leo, king, spain, plane, ride, washington, engine, failed, catch
-- 中文关键词: 教皇、狮子座、国王、西班牙、飞机、骑、华盛顿、引擎、失败的、抓住
+- Source / 来源: AP News. Published: `2026-06-15T07:31:00+00:00`.
+- Keywords / 关键词: social, media, under-16s, ban, britain, starmer, using, range, apps, announces
+- 中文关键词: 社会的、媒体、16岁以下、禁止、英国、斯塔默、使用、范围、应用程序、宣布
 - Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Pope Leo had to catch a ride from the king of Spain after plane’s engine failed The Washington Post Pope Leo’s plane was grounded. Then the King of Spain stepped in to help CNN Pope Leo XIV's flight home from Spain was grounded so the king came to his aid NPR Pope Leo returns to Vatican on aircraft provided by Spanish King Vatican News Pope Leo hitches ride to Rome on Spanish king's plane National Catholic Reporter
-- RSS 中文摘要: 飞机引擎故障后，教皇利奥不得不搭乘西班牙国王的便车《华盛顿邮报》教皇利奥的飞机被停飞。随后，西班牙国王出面帮助 CNN 教皇利奥十四世从西班牙回国的航班停飞，因此国王前来援助 NPR 教皇利奥乘坐西班牙国王提供的飞机返回梵蒂冈 梵蒂冈新闻 教皇利奥乘坐西班牙国王的飞机前往罗马 国家天主教记者
+- RSS Excerpt / RSS 摘要: Starmer says Britain will ban under-16s from using a range of social media apps AP News Social media to be banned for under-16s in landmark government move to give kids their childhood back GOV.UK Social media ban for under-16s 'fantastic' says Ellen Roome BBC Britain Announces Social Media Ban for Children The New York Times UK announces sweeping social media ban for under-16s CNN
+- RSS 中文摘要: 斯塔默表示，英国将禁止 16 岁以下青少年使用一系列社交媒体应用程序 美联社新闻 英国将禁止 16 岁以下青少年使用社交媒体，这是政府为让孩子们重获童年而采取的具有里程碑意义的举措 GOV.UK 艾伦·鲁姆 (Ellen Roome) 表示，英国对 16 岁以下青少年的社交媒体禁令“太棒了” BBC 英国宣布禁止儿童使用社交媒体 《纽约时报》 英国宣布全面禁止 16 岁以下青少年使用社交媒体 CNN
 - EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
 - 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: pope, leo, king, spain, and plane. The available excerpt says: Pope Leo had to catch a ride from the king of Spain after plane’s engine failed The Washington Post Pope Leo’s plane was grounded. Then the King of Spain stepped in to help CNN Pope Leo XIV's flight home from Spain was grounded so the king came to his aid NPR Pope Leo returns to Vatican on aircraft provided by Spanish King Vatican News Pope Leo hitches ride to Rome on Spanish king's plane National Catholic Reporter Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：教皇、狮子座、国王、西班牙、飞机。RSS 中文摘要显示：飞机引擎故障后，教皇利奥不得不搭乘西班牙国王的便车《华盛顿邮报》教皇利奥的飞机被停飞。随后，西班牙国王出面帮助 CNN 教皇利奥十四世从西班牙回国的航班停飞，因此国王前来援助 NPR 教皇利奥乘坐西班牙国王提供的飞机返回梵蒂冈 梵蒂冈新闻 教皇利奥乘坐西班牙国王的飞机前往罗马 国家天主教记者 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN Detailed Reading: Key signals: social, media, under-16s, ban, and britain. The available excerpt says: Starmer says Britain will ban under-16s from using a range of social media apps AP News Social media to be banned for under-16s in landmark government move to give kids their childhood back GOV.UK Social media ban for under-16s 'fantastic' says Ellen Roome BBC Britain Announces Social Media Ban for Children The New York Times UK announces sweeping social media ban for under-16s CNN Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：社会的、媒体、16岁以下、禁止、英国。RSS 中文摘要显示：斯塔默表示，英国将禁止 16 岁以下青少年使用一系列社交媒体应用程序 美联社新闻 英国将禁止 16 岁以下青少年使用社交媒体，这是政府为让孩子们重获童年而采取的具有里程碑意义的举措 GOV.UK 艾伦·鲁姆 (Ellen Roome) 表示，英国对 16 岁以下青少年的社交媒体禁令“太棒了” BBC 英国宣布禁止儿童使用社交媒体 《纽约时报》 英国宣布全面禁止 16 岁以下青少年使用社交媒体 CNN 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
 - EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
 - 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 9. [Taiwan launches website for Chinese nationals to report intelligence - Reuters](https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHdsYlU2aFRQelJLNE5Qdk4zM0tYRksxQ1VmUHRGSUNsUmFMT0ZzcVRzSlI3Y0Rha1RQLV91cXdVZVlIOWFXZ1h4eEVOZFNCRkVlaXUxcGxpa1I4YUJrSkIyVzRGdHBtV3RqcW92MDhNS2w2aGNXeFBpdzJ5cmRKYXI1Z2RNUVJxUHg4Z0w1UGZfeE9jTGhsZW1lZFJXQTNDbklFVV9hSHBPZDg3Q0E?oc=5)
+### 3. [Trump heads to G7 summit with wind at his back after announcing agreement aimed at ending Iran war - AP News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOSnFWNXBOU2RxYjZkSTBuTjVWdmtySDQ4YU5IODFVeHM2aVNyUVJVYURrQlczOGFiQnluOTlZeV9MUzZ5Mk1DWmpzUURoc0QtWE1ERkJpX2hMTEM5X3ZzNzRrWjNGZVhFT2hDRnpBZHhqbVVOWHMyRlJCUWpNLWs1SGU4aUZhNEsxWlZIZS1qM1oyUQ?oc=5)
 
-- Source / 来源: Reuters. Published: `2026-06-14T03:41:00+00:00`.
-- Keywords / 关键词: intelligence, nationals, launches, website, chinese, taiwan, perspectives, headlines, google, see
-- 中文关键词: 智力、国民、发射、网站、中国、台湾、观点、头条新闻、谷歌、看
+- Source / 来源: AP News. Published: `2026-06-15T05:55:00+00:00`.
+- Keywords / 关键词: trump, iran, summit, heads, war, announcing, agreement, ending, aimed, wind
+- 中文关键词: 特朗普、伊朗、首脑、头、战争、宣布、协议、结束、瞄准的、风
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Taiwan launches website for Chinese nationals to report intelligence Reuters See more headlines & perspectives on Google News
-- RSS 中文摘要: 台湾推出供中国公民报告情报的网站 路透社 在谷歌新闻上查看更多头条新闻和观点
+- RSS Excerpt / RSS 摘要: Trump heads to G7 summit with wind at his back after announcing agreement aimed at ending Iran war AP News Trump to face European allies at odds with him over two wars at G7 summit NBC News Questions About Trump’s Iran Deal Set to Dominate G-7 WSJ The U.S.-led war in Iran will dominate Trump’s G7 trip to France NPR Trump Heads to Group of 7 as Allies Rethink Their Relationship With U.S. The New York Times
+- RSS 中文摘要: 特朗普在宣布旨在结束伊朗战争的协议后，乘风破浪地前往七国集团峰会 美联社新闻 特朗普将在七国集团峰会上面对欧洲盟友，因为两场战争与他存在分歧 NBC新闻 关于特朗普伊朗协议的问题将主导七国集团 华尔街日报 美国领导的伊朗战争将主导特朗普的七国集团法国之行 NPR 特朗普前往七国集团，盟友重新考虑与美国的关系 纽约时报
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: intelligence, nationals, launches, website, and chinese. The available excerpt says: Taiwan launches website for Chinese nationals to report intelligence Reuters See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：智力、国民、发射、网站、中国。RSS 中文摘要显示：台湾推出供中国公民报告情报的网站 路透社 在谷歌新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: trump, iran, summit, heads, and war. The available excerpt says: Trump heads to G7 summit with wind at his back after announcing agreement aimed at ending Iran war AP News Trump to face European allies at odds with him over two wars at G7 summit NBC News Questions About Trump’s Iran Deal Set to Dominate G-7 WSJ The U.S.-led war in Iran will dominate Trump’s G7 trip to France NPR Trump Heads to Group of 7 as Allies Rethink Their Relationship With U.S. The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：特朗普、伊朗、首脑、头、战争。RSS 中文摘要显示：特朗普在宣布旨在结束伊朗战争的协议后，乘风破浪地前往七国集团峰会 美联社新闻 特朗普将在七国集团峰会上面对欧洲盟友，因为两场战争与他存在分歧 NBC新闻 关于特朗普伊朗协议的问题将主导七国集团 华尔街日报 美国领导的伊朗战争将主导特朗普的七国集团法国之行 NPR 特朗普前往七国集团，盟友重新考虑与美国的关系 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 10. [Spencer Pratt appears to concede election in aggressive video threatening Bass and Raman - Los Angeles Times](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWWZxU01rWlQ0ZnE4cnE1S1llVlFGUlFGbUVuUlJSNGV2eGVBMHlxZm9HUGpyUGZwWTFrSE5TYVFGSXRyRG9xZEkzSmZfMEVuSnFEN1F0SmthZTNTTEkwbFh2OU1CM19jVlNJcXpoS0xlWDdVXzc1Qk02bGhRNHcxT044Ql91elJ3S0o3eUFpaW5FS1VOQWhJX25lMUVtTGlzWnQ1QXk2ZDFxU2VqdmdNdHJCeHlGUFFydHU2S0E3M2ZYX1NhMlo2UDBjME1menVnTDBn?oc=5)
+### 4. [G7 leaders meet in France after U.S. and Iran declare agreement to end war - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGtVRXdXck12Y2VTLVJSaTBZOHBwcElNZWE4SGs3TS1OeEh0QVhsQTM3cjE3S2JuQktheXJxQzhob3F2c0xJakRBeld1TElLaTg5OUFoYlEyMDVWaWdWWENMbE1QVUd2NDUxZWFJN1VISE5sdk9CZXFyYmhWSFBZTW1zbXRGOUF0MzREYk5NLXNqNllIWkhlMENVZ2NfSlZmc2I2dTUtMjBmTm5wWTdF?oc=5)
 
-- Source / 来源: Los Angeles Times. Published: `2026-06-12T18:36:18+00:00`.
-- Keywords / 关键词: pratt, spencer, angeles, los, video, raman, bass, threatening, aggressive, election
-- 中文关键词: 普拉特、斯宾塞、安吉利斯、洛斯、视频、拉曼、低音、威胁、挑衅的、选举
+- Source / 来源: Reuters. Published: `2026-06-15T04:03:00+00:00`.
+- Keywords / 关键词: france, iran, war, agreement, leaders, declare, meet, end, trump, dominate
+- 中文关键词: 法国、伊朗、战争、协议、领导者、宣布、见面、结尾、特朗普、支配
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Spencer Pratt appears to concede election in aggressive video threatening Bass and Raman Los Angeles Times Who loved Bass, Raman and Pratt the most? A district-by-district breakdown Los Angeles Times Spencer Pratt responds to L.A. mayoral race loss, says 'it's war' in new video ABC7 Los Angeles Despite Trump Claims, Spencer Pratt Seems to Accept L.A. Mayor Results The New York Times Former Los Angeles mayoral candidate Spencer Pratt releases video, saying he's moving to the "next, more interesting phase" CBS News
-- RSS 中文摘要: 斯宾塞·普拉特 (Spencer Pratt) 在威胁巴斯和拉曼的激进视频中似乎承认选举失败 《洛杉矶时报》 谁最喜欢巴斯、拉曼和普拉特？洛杉矶时报 斯宾塞·普拉特 (Spencer Pratt) 在新视频中回应洛杉矶市长竞选失利，称“这是战争” 尽管特朗普声称，斯宾塞·普拉特似乎接受洛杉矶市长选举结果 《纽约时报》前洛杉矶市长候选人斯宾塞·普拉特 (Spencer Pratt) 发布视频，称他正在进入“下一个更有趣的阶段” CBS 新闻
+- RSS Excerpt / RSS 摘要: G7 leaders meet in France after U.S. and Iran declare agreement to end war Reuters Trump to face European allies at odds with him over two wars at G7 summit NBC News Questions About Trump’s Iran Deal Set to Dominate G-7 WSJ The U.S.-led war in Iran will dominate Trump’s G7 trip to France NPR G7 meeting in France: What’s on agenda, who is attending? Al Jazeera
+- RSS 中文摘要: 美国和伊朗宣布结束战争后，七国集团领导人在法国举行会议 路透社 特朗普将在七国集团峰会上面对欧洲盟友，因为两场战争与他存在分歧 NBC新闻 关于特朗普的伊朗协议将主导七国集团的问题 华尔街日报 美国领导的伊朗战争将主导特朗普的七国集团法国之行 NPR 在法国举行的七国集团会议：议程是什么，谁将出席？半岛电视台
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: pratt, spencer, angeles, los, and video. The available excerpt says: Spencer Pratt appears to concede election in aggressive video threatening Bass and Raman Los Angeles Times Who loved Bass, Raman and Pratt the most? A district-by-district breakdown Los Angeles Times Spencer Pratt responds to L.A. mayoral race loss, says 'it's war' in new video ABC7 Los Angeles Despite Trump Claims, Spencer Pratt Seems to Accept L.A. Mayor Results The New York Times Former Los Angeles mayoral candidate Spencer Pratt releases video, saying he's moving to the "next, more interesting phase" CBS News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：普拉特、斯宾塞、安吉利斯、洛斯、视频。RSS 中文摘要显示：斯宾塞·普拉特 (Spencer Pratt) 在威胁巴斯和拉曼的激进视频中似乎承认选举失败 《洛杉矶时报》 谁最喜欢巴斯、拉曼和普拉特？洛杉矶时报 斯宾塞·普拉特 (Spencer Pratt) 在新视频中回应洛杉矶市长竞选失利，称“这是战争” 尽管特朗普声称，斯宾塞·普拉特似乎接受洛杉矶市长选举结果 《纽约时报》前洛杉矶市长候选人斯宾塞·普拉特 (Spencer Pratt) 发布视频，称他正在进入“下一个更有趣的阶段” CBS 新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: france, iran, war, agreement, and leaders. The available excerpt says: G7 leaders meet in France after U.S. and Iran declare agreement to end war Reuters Trump to face European allies at odds with him over two wars at G7 summit NBC News Questions About Trump’s Iran Deal Set to Dominate G-7 WSJ The U.S.-led war in Iran will dominate Trump’s G7 trip to France NPR G7 meeting in France: What’s on agenda, who is attending? Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：法国、伊朗、战争、协议、领导者。RSS 中文摘要显示：美国和伊朗宣布结束战争后，七国集团领导人在法国举行会议 路透社 特朗普将在七国集团峰会上面对欧洲盟友，因为两场战争与他存在分歧 NBC新闻 关于特朗普的伊朗协议将主导七国集团的问题 华尔街日报 美国领导的伊朗战争将主导特朗普的七国集团法国之行 NPR 在法国举行的七国集团会议：议程是什么，谁将出席？半岛电视台 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 5. [Historic Orthodox Cathedral Burns in Russian Attack on Kyiv - The New York Times](https://news.google.com/rss/articles/CBMinwFBVV95cUxNSF91TkhJWVB0ZVRKRmRwb0t2MXN0MjdWZ0JfemlRb3ZZbUc1UXdYNVZOVGF0Y2owU0U2eUZoeDBZS21mVjJ1SnNxaWdac2R5UGxZQk42ci1VNEZqQnNRYS1KNEpUZDNiV1E4UDFnT2ktRjluMDVZd3R6V0xBbjl0Q1E0N2k5bWlGRk1WakE2djFPVjhLUWw0RDNTbU01U28?oc=5)
+
+- Source / 来源: The New York Times. Published: `2026-06-15T05:50:31+00:00`.
+- Keywords / 关键词: kyiv, cathedral, historic, russian, attack, orthodox, burns, ukraine, strikes, set
+- 中文关键词: 基辅、大教堂、历史性、俄罗斯、袭击、正统、烧伤、乌克兰、放
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Historic Orthodox Cathedral Burns in Russian Attack on Kyiv The New York Times Ukraine’s historic Kyiv Pechersk Lavra monastery set on fire following major Russian attack CNN Russia strikes Kyiv cathedral in overnight drone attacks politico.eu Russian strikes kill nine in Ukraine and damage historic cathedral, officials say BBC EU leaders set to meet after deadly strikes on Ukraine, including Unesco-listed religious site in Kyiv – Europe live The Guardian
+- RSS 中文摘要: 历史悠久的东正教大教堂在俄罗斯对基辅的袭击中被烧毁 《纽约时报》 乌克兰历史悠久的基辅佩乔尔斯克修道院修道院在俄罗斯重大袭击后起火 CNN 俄罗斯在夜间无人机袭击中袭击了基辅大教堂 politico.eu 官员称，BBC 官员称，俄罗斯的空袭在乌克兰造成九人死亡，并损坏了历史悠久的大教堂
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: kyiv, cathedral, historic, russian, and attack. The available excerpt says: Historic Orthodox Cathedral Burns in Russian Attack on Kyiv The New York Times Ukraine’s historic Kyiv Pechersk Lavra monastery set on fire following major Russian attack CNN Russia strikes Kyiv cathedral in overnight drone attacks politico.eu Russian strikes kill nine in Ukraine and damage historic cathedral, officials say BBC EU leaders set to meet after deadly strikes on Ukraine, including Unesco-listed religious site in Kyiv – Europe live The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：基辅、大教堂、历史性、俄罗斯、袭击。RSS 中文摘要显示：历史悠久的东正教大教堂在俄罗斯对基辅的袭击中被烧毁 《纽约时报》 乌克兰历史悠久的基辅佩乔尔斯克修道院修道院在俄罗斯重大袭击后起火 CNN 俄罗斯在夜间无人机袭击中袭击了基辅大教堂 politico.eu 官员称，BBC 官员称，俄罗斯的空袭在乌克兰造成九人死亡，并损坏了历史悠久的大教堂 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 6. [Russian attack sets fire to centuries-old religious site in Kyiv and kills rescuers in Kharkiv - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOdWp3RXVfeXJxWmlqVTRDbXU1dDRjX3JxUnU0b0t1Y0VJMVJBOGFHVjBSX1RjQjhma1hjVnNDc2N5b0ZCS1N0SGxRcU5KTnVEM1lzbVA3WkhLZHgxdkkxcWhfVTVuZXY0V1lyM2dHaFkxOVBEN2o4a1dLX1g1dWdxMkJwaGxjbEpDYVVQYW1oN1d5V1FxaE95VWk5RDdOek0?oc=5)
+
+- Source / 来源: AP News. Published: `2026-06-15T03:48:00+00:00`.
+- Keywords / 关键词: kyiv, russian, religious, attack, fire, site, centuries-old, rescuers, kharkiv, kills
+- 中文关键词: 基辅、俄罗斯、宗教的、袭击、火、地点、已有数百年历史、救援人员、哈尔科夫、造成死亡
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Russian attack sets fire to centuries-old religious site in Kyiv and kills rescuers in Kharkiv AP News Ukraine’s historic Kyiv Pechersk Lavra monastery set on fire following major Russian attack CNN Russia strikes Kyiv cathedral in overnight drone attacks politico.eu Russian strikes kill nine in Ukraine and damage historic cathedral, officials say BBC EU leaders set to meet after deadly strikes on Ukraine, including Unesco-listed religious site in Kyiv – Europe live The Guardian
+- RSS 中文摘要: 俄罗斯袭击导致基辅有数百年历史的宗教场所起火，并导致哈尔科夫的救援人员丧生 美联社新闻 乌克兰历史悠久的基辅佩乔尔斯克修道院修道院在俄罗斯重大袭击后起火 CNN 俄罗斯在夜间无人机袭击中袭击了基辅大教堂 politico.eu 官员称，BBC 官员称，俄罗斯的袭击在乌克兰造成九人死亡，并损坏了历史悠久的大教堂 欧盟领导人将在对乌克兰发动致命袭击后举行会议，其中包括被联合国教科文组织列为基辅的宗教场所 - 欧洲直播卫报
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: kyiv, russian, religious, attack, and fire. The available excerpt says: Russian attack sets fire to centuries-old religious site in Kyiv and kills rescuers in Kharkiv AP News Ukraine’s historic Kyiv Pechersk Lavra monastery set on fire following major Russian attack CNN Russia strikes Kyiv cathedral in overnight drone attacks politico.eu Russian strikes kill nine in Ukraine and damage historic cathedral, officials say BBC EU leaders set to meet after deadly strikes on Ukraine, including Unesco-listed religious site in Kyiv – Europe live The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：基辅、俄罗斯、宗教的、袭击、火。RSS 中文摘要显示：俄罗斯袭击导致基辅有数百年历史的宗教场所起火，并导致哈尔科夫的救援人员丧生 美联社新闻 乌克兰历史悠久的基辅佩乔尔斯克修道院修道院在俄罗斯重大袭击后起火 CNN 俄罗斯在夜间无人机袭击中袭击了基辅大教堂 politico.eu 官员称，BBC 官员称，俄罗斯的袭击在乌克兰造成九人死亡，并损坏了历史悠久的大教堂 欧盟领导人将在对乌克兰发动致命袭击后举行会议，其中包括被联合国教科文组织列为基辅的宗教场所 - 欧洲直播卫报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [Early results on "Swiss Brexit" indicate defeat of measure that would cap population at 10 million - CBS News](https://news.google.com/rss/articles/CBMic0FVX3lxTE93MVd6c0ZscndJRzN6anB0Q2ZudDNweUo4VmsxYXRfalFxaUNvZFZ4c1lVZWUwekxza1JoMk1jaUFjTnBwYlBTbWFqVVBVOGFnLUNXZWFiQkJoTkFsYUp2cFg2RXNTY2lvOFNERS04NVdoc1E?oc=5)
+
+- Source / 来源: CBS News. Published: `2026-06-15T08:42:16+00:00`.
+- Keywords / 关键词: population, cap, million, swiss, results, early, indicate, measure, brexit, defeat
+- 中文关键词: 人口、帽、百万、瑞士人、结果、早期的、表明、措施、英国脱欧、击败
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Early results on "Swiss Brexit" indicate defeat of measure that would cap population at 10 million CBS News Swiss voters reject proposal to cap population at 10 million The Guardian Swiss reject population cap in referendum, avoiding EU clash and cheering business CNN Vote looms in Switzerland after foes of migration put proposal to cap population at 10 million AP News Swiss reject right-wing's bid to cap population at 10 million, early results show NPR
+- RSS 中文摘要: “瑞士脱欧”的初步结果表明将人口限制在1000万的措施失败 CBS新闻瑞士选民拒绝将人口限制在1000万的提议 《卫报》瑞士在公投中拒绝人口限制，避免欧盟冲突并欢呼商业 CNN 在移民反对者提出将人口限制在1000万的提议后，投票在瑞士迫在眉睫 美联社新闻 瑞士拒绝右翼将人口限制在1000万的提议，早期结果显示NPR
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: population, cap, million, swiss, and results. The available excerpt says: Early results on "Swiss Brexit" indicate defeat of measure that would cap population at 10 million CBS News Swiss voters reject proposal to cap population at 10 million The Guardian Swiss reject population cap in referendum, avoiding EU clash and cheering business CNN Vote looms in Switzerland after foes of migration put proposal to cap population at 10 million AP News Swiss reject right-wing's bid to cap population at 10 million, early results show NPR Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：人口、帽、百万、瑞士人、结果。RSS 中文摘要显示：“瑞士脱欧”的初步结果表明将人口限制在1000万的措施失败 CBS新闻瑞士选民拒绝将人口限制在1000万的提议 《卫报》瑞士在公投中拒绝人口限制，避免欧盟冲突并欢呼商业 CNN 在移民反对者提出将人口限制在1000万的提议后，投票在瑞士迫在眉睫 美联社新闻 瑞士拒绝右翼将人口限制在1000万的提议，早期结果显示NPR 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 8. [Mitch McConnell admitted to the hospital and "receiving excellent care," spokesperson says - CBS News](https://news.google.com/rss/articles/CBMiggFBVV95cUxObVZqTWc1dWJYWTU5ZlNtWVQ5LUFYSXpMOFRFdThZcGsxSkJxNVRlT0VaY0hvVUVjbXY3S0dSNWIySld6UEdRSEV5UVRHVzVPZ3BnMTlOME5GNGVJTGlCcEJJRVdqLXN2TTZxNDJLRjF3TS1ia20tRFZ3RGNmY3ZVSkt3?oc=5)
+
+- Source / 来源: CBS News. Published: `2026-06-14T20:04:47+00:00`.
+- Keywords / 关键词: mcconnell, mitch, receiving, admitted, hospital, care, spokesperson, excellent, cbs, hospitalized
+- 中文关键词: 麦康奈尔、米奇、接收、承认、医院、关心、发言人、出色的、哥伦比亚广播公司、住院治疗
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Mitch McConnell admitted to the hospital and "receiving excellent care," spokesperson says CBS News McConnell hospitalized and ‘receiving excellent care,’ spokesperson says CNN Former Republican Senate Majority Leader Mitch McConnell hospitalized NPR Mitch McConnell receiving medical care after being admitted to hospital The Guardian Sen. Mitch McConnell Admitted to Hospital, Aide Says WSJ
+- RSS 中文摘要: 米奇·麦康奈尔 (Mitch McConnell) 入院，并“得到优质护理”
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: mcconnell, mitch, receiving, admitted, and hospital. The available excerpt says: Mitch McConnell admitted to the hospital and "receiving excellent care," spokesperson says CBS News McConnell hospitalized and ‘receiving excellent care,’ spokesperson says CNN Former Republican Senate Majority Leader Mitch McConnell hospitalized NPR Mitch McConnell receiving medical care after being admitted to hospital The Guardian Sen. Mitch McConnell Admitted to Hospital, Aide Says WSJ Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：麦康奈尔、米奇、接收、承认、医院。RSS 中文摘要显示：米奇·麦康奈尔 (Mitch McConnell) 入院，并“得到优质护理” 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 9. [12 dead in Missouri skydiving plane crash, officials say - The Washington Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxPcmRlTEVEckFWTW1ldTVfVjdSUVc1UkV5S1lfRzktR2MzSDIxRFdsZnBkT1d6RU0zQUk4U0tsUkFlOWYwVWJiQ0ZmLUNLNlA1YUdQMExldkdYN3JHMDd6RlY1akVySEl4ZnhfOVRvTDRyV0pMOWN4R2lTSDgtd2pJSkkzOWVkMXFmeXY2MktTTEw5Y2FNRkpFRDNCZU96QmhTQmk3bE9QNTlZMWdVWUtqYWZnejlwNHVyVUNkU2RoQm80NVdrUDV4ZjlB?oc=5)
+
+- Source / 来源: The Washington Post. Published: `2026-06-15T06:39:07+00:00`.
+- Keywords / 关键词: plane, crash, skydiving, missouri, dead, washington, officials, say, killed, skydivers
+- 中文关键词: 飞机、碰撞、跳伞、密苏里州、死亡、华盛顿、官员、说、跳伞者
+- Category / 分类: Public safety and society / 公共安全与社会
+- RSS Excerpt / RSS 摘要: 12 dead in Missouri skydiving plane crash, officials say The Washington Post 11 skydivers, one pilot dead after plane crashes south of Kansas City metro FOX4KC.com 11 skydivers and pilot killed in US plane crash BBC 12 Killed in Skydiving Plane Crash in Butler, Missouri The New York Times Skydive KC makes statement after 12 killed in Butler plane crash KCTV
+- RSS 中文摘要: 官员称，密苏里州跳伞飞机失事造成 12 人死亡 《华盛顿邮报》 堪萨斯城地铁以南飞机失事后，11 名跳伞运动员和一名飞行员死亡 FOX4KC.com 11 名跳伞运动员和飞行员在美国飞机失事中丧生 BBC 12 人在密苏里州巴特勒的跳伞飞机失事中丧生 《纽约时报》Skydive KC 在巴特勒飞机失事造成 12 人死亡后发表声明 KCTV
+- EN Summary: This story centers on harm to people, emergency response, or social disruption.
+- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
+- EN Detailed Reading: Key signals: plane, crash, skydiving, missouri, and dead. The available excerpt says: 12 dead in Missouri skydiving plane crash, officials say The Washington Post 11 skydivers, one pilot dead after plane crashes south of Kansas City metro FOX4KC.com 11 skydivers and pilot killed in US plane crash BBC 12 Killed in Skydiving Plane Crash in Butler, Missouri The New York Times Skydive KC makes statement after 12 killed in Butler plane crash KCTV Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
+- 中文详细解读: 关键词信号：飞机、碰撞、跳伞、密苏里州、死亡。RSS 中文摘要显示：官员称，密苏里州跳伞飞机失事造成 12 人死亡 《华盛顿邮报》 堪萨斯城地铁以南飞机失事后，11 名跳伞运动员和一名飞行员死亡 FOX4KC.com 11 名跳伞运动员和飞行员在美国飞机失事中丧生 BBC 12 人在密苏里州巴特勒的跳伞飞机失事中丧生 《纽约时报》Skydive KC 在巴特勒飞机失事造成 12 人死亡后发表声明 KCTV 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
+- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
+- 后续关注: 官方调查；确认伤亡数字；预防措施
+
+### 10. [The Latest: Trump celebrates his 80th birthday with Iran deal and UFC cage fight at the White House - Yahoo](https://news.google.com/rss/articles/CBMingFBVV95cUxQVG5URXozbldUZVRfYTl5aGRwX2UzMml2aDk2b0J4aUdWRTJRcFhocTZkR1hSdnQ0XzdadEtSMl9CVEdubW1qajAzaEFaeWFhT0lXbXF1QTkyQ3lGZE5Ic3FRWXFaUURBamsxTkZIcTYxRTFBMkVqUm5DaEdxYnAwalNKZnltNjRQOEVlOV91cXI3R3owTlp3SGktYkx0dw?oc=5)
+
+- Source / 来源: Yahoo. Published: `2026-06-14T21:09:48+00:00`.
+- Keywords / 关键词: iran, birthday, trump, deal, his, ufc, celebrates, white, house, latest
+- 中文关键词: 伊朗、生日、特朗普、交易、他的、终极格斗冠军赛、庆祝、白色的、房子、最新的
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: The Latest: Trump celebrates his 80th birthday with Iran deal and UFC cage fight at the White House Yahoo Trump celebrates 80th birthday with Iran deal and UFC fights at the White House NPR A U.S.-Iran ceasefire deal and the Knicks win the NBA Finals: Weekend Rundown NBC News Trump’s Too Busy with His UFC Birthday Party to Sign a Ceasefire Agreement with Iran Esquire Trump reveals his 80th birthday wish amid the US’s war with Iran: ‘Peace for the world’ The Independent
+- RSS 中文摘要: 最新消息：特朗普通过伊朗协议庆祝他的 80 岁生日，并在白宫举行 UFC 笼斗比赛 雅虎特朗普通过伊朗协议庆祝他的 80 岁生日，并在白宫举行 UFC 比赛 NPR 美伊停火协议，尼克斯队赢得 NBA 总决赛：周末简报 NBC 新闻 特朗普忙于他的 UFC 生日派对，无暇与伊朗签署停火协议 《时尚先生》特朗普透露了他在美国战争中的 80 岁生日愿望与伊朗：“世界和平”
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: iran, birthday, trump, deal, and his. The available excerpt says: The Latest: Trump celebrates his 80th birthday with Iran deal and UFC cage fight at the White House Yahoo Trump celebrates 80th birthday with Iran deal and UFC fights at the White House NPR A U.S.-Iran ceasefire deal and the Knicks win the NBA Finals: Weekend Rundown NBC News Trump’s Too Busy with His UFC Birthday Party to Sign a Ceasefire Agreement with Iran Esquire Trump reveals his 80th birthday wish amid the US’s war with Iran: ‘Peace for the world’ The Independent Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、生日、特朗普、交易、他的。RSS 中文摘要显示：最新消息：特朗普通过伊朗协议庆祝他的 80 岁生日，并在白宫举行 UFC 笼斗比赛 雅虎特朗普通过伊朗协议庆祝他的 80 岁生日，并在白宫举行 UFC 比赛 NPR 美伊停火协议，尼克斯队赢得 NBA 总决赛：周末简报 NBC 新闻 特朗普忙于他的 UFC 生日派对，无暇与伊朗签署停火协议 《时尚先生》特朗普透露了他在美国战争中的 80 岁生日愿望与伊朗：“世界和平” 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
