@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-06-17T08:58:55+00:00` UTC.
+Generated at `2026-06-18T08:40:43+00:00` UTC.
 
-### 1. [UN chief visits Haiti, where a new international force will be deployed to help fight gangs - AP News](https://news.google.com/rss/articles/CBMiowFBVV95cUxNLUVwN3psTkpySDQ4SXlUX1d4LXFDUVVYOW9UTF9zV2VpaUIwa2JNWXlRbGx3R01DN2ZtNGp4anFhTWNyZ1VsRHgzejFmbU92YnFJejFQcDQ1UzBNcHJsaVUwN1Fra0tWNS0xTzZndkxyWXhpUlNlQjh2N09Hb3gtTzJoRERveHNVeXd0VE1mVVBjeVgzTGhvU2FoZV9WSU5EcWpn?oc=5)
+### 1. [Trump and Iran's Pezeshkian sign initial deal to end war - live updates - BBC](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NYm9jeGotYkFwU05OQlNxZm45V1M5aFM0Q1drNzdrOHFUX2dWUldoMVFWbjViOVNHREpYV3lhSzlCaE9KYkpKb1VzSlpvd0FGSDR5cA?oc=5)
 
-- Source / 来源: AP News. Published: `2026-06-17T01:27:00+00:00`.
-- Keywords / 关键词: haiti, chief, visits, force, fight, gangs, international, deployed, where, help
-- 中文关键词: 海地、首席、访问、力量、斗争、帮派、国际的、已部署、在哪里、帮助
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: UN chief visits Haiti, where a new international force will be deployed to help fight gangs AP News A turning point for Haiti? New security force takes fight to powerful gangs UN News At least 2,300 killed this year in Haiti gang violence, UN human rights chief says Euronews.com UN chief visits Haiti as gang violence deepens humanitarian crisis The Independent UN chief Guterres visits Haiti in ‘solidarity’ mission The Haitian Times
-- RSS 中文摘要: 联合国秘书长访问海地，将在那里部署一支新的国际部队帮助打击帮派 美联社新闻 海地的转折点？新安全部队打击强大帮派 联合国新闻 联合国人权事务负责人表示，今年海地帮派暴力事件至少造成 2,300 人死亡 Euronews.com 联合国秘书长访问海地，帮派暴力加深人道主义危机 独立联合国秘书长古特雷斯访问海地执行“团结”使命 海地时报
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: haiti, chief, visits, force, and fight. The available excerpt says: UN chief visits Haiti, where a new international force will be deployed to help fight gangs AP News A turning point for Haiti? New security force takes fight to powerful gangs UN News At least 2,300 killed this year in Haiti gang violence, UN human rights chief says Euronews.com UN chief visits Haiti as gang violence deepens humanitarian crisis The Independent UN chief Guterres visits Haiti in ‘solidarity’ mission The Haitian Times Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：海地、首席、访问、力量、斗争。RSS 中文摘要显示：联合国秘书长访问海地，将在那里部署一支新的国际部队帮助打击帮派 美联社新闻 海地的转折点？新安全部队打击强大帮派 联合国新闻 联合国人权事务负责人表示，今年海地帮派暴力事件至少造成 2,300 人死亡 Euronews.com 联合国秘书长访问海地，帮派暴力加深人道主义危机 独立联合国秘书长古特雷斯访问海地执行“团结”使命 海地时报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 2. [Trump-backed Rep. Mike Collins projected to win Georgia GOP Senate primary runoff, setting up race against Ossoff - CBS News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNzBCekRwMEMyTGY4Z0x1MUljckt5dTBsT1BvUGNmd2NIQURzUWx2ekQ1T1g3N293ZVo1ZWxZRmVtdUFZcDlNWlQtc09aNy1pZFlYNzlvYjE0cklwb2ZfbTZXZ1VGeDZCeHlHSmt4VGpaQlpFNVNsRGFKTmlfUkd2SC0zemJCOVFRM3NfdnQ0N3JwdUpKbTdUc3hUZ2hTV3hyMlBNaFYxckthQTJKekNzcU84T0Z6dGt6?oc=5)
-
-- Source / 来源: CBS News. Published: `2026-06-17T00:22:00+00:00`.
-- Keywords / 关键词: georgia, runoff, trump-backed, senate, ossoff, cbs, projected, collins, primary, setting
-- 中文关键词: 乔治亚州、径流、特朗普支持的、参议院、奥索夫、哥伦比亚广播公司、预计的、柯林斯、基本的、环境
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Trump-backed Rep. Mike Collins projected to win Georgia GOP Senate primary runoff, setting up race against Ossoff CBS News Trump beats a longtime adversary with a late Georgia endorsement, and other election takeaways CNN Georgia Republicans Go With Trump’s Pick for Senate, but Not Governor The New York Times Trump, Kemp and Cruz make competing endorsements in Georgia runoff races ahead of Election Day CBS News Georgia runoff: Republican voters choose Trump-backed conservative to face Jon Ossoff The Guardian
-- RSS 中文摘要: 特朗普支持的众议员迈克·柯林斯 (Mike Collins) 预计将赢得佐治亚州共和党参议院初选，与奥索夫 (Ossoff) 展开角逐。 哥伦比亚广播公司新闻 (CBS News) 特朗普在佐治亚州后期的支持下击败了长期对手，以及其他选举要点 CNN 佐治亚州共和党人支持特朗普竞选参议员，但不支持州长 《纽约时报》 特朗普、坎普和克鲁兹在选举日之前在佐治亚州决选中相互竞争支持 CBS 新闻 佐治亚州决选：共和党选民选择特朗普支持的保守派来面对乔恩奥索夫卫报
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: georgia, runoff, trump-backed, senate, and ossoff. The available excerpt says: Trump-backed Rep. Mike Collins projected to win Georgia GOP Senate primary runoff, setting up race against Ossoff CBS News Trump beats a longtime adversary with a late Georgia endorsement, and other election takeaways CNN Georgia Republicans Go With Trump’s Pick for Senate, but Not Governor The New York Times Trump, Kemp and Cruz make competing endorsements in Georgia runoff races ahead of Election Day CBS News Georgia runoff: Republican voters choose Trump-backed conservative to face Jon Ossoff The Guardian Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：乔治亚州、径流、特朗普支持的、参议院、奥索夫。RSS 中文摘要显示：特朗普支持的众议员迈克·柯林斯 (Mike Collins) 预计将赢得佐治亚州共和党参议院初选，与奥索夫 (Ossoff) 展开角逐。 哥伦比亚广播公司新闻 (CBS News) 特朗普在佐治亚州后期的支持下击败了长期对手，以及其他选举要点 CNN 佐治亚州共和党人支持特朗普竞选参议员，但不支持州长 《纽约时报》 特朗普、坎普和克鲁兹在选举日之前在佐治亚州决选中相互竞争支持 CBS 新闻 佐治亚州决选：共和党选民选择特朗普支持的保守派来面对乔恩奥索夫卫报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 3. [Australian right-wing leader Pauline Hanson says multiculturalism has failed - Yahoo](https://news.google.com/rss/articles/CBMikgFBVV95cUxNcnA4R0N6YllCa1MzR1M5dkVPYzFDR25WSWdISXpYWXRjQWU3SGUyci12XzJTTWUyWTFrc3ZaQ2FVMHFoUEZFUWVtcGpja0I1YXFrWHJaR21BQTZYVjhEUGdjTjR3QVh1eDNySS1TZ2R4a2ZtRWJjZTZ3MWFrSFphbjFJb2NsQXBxbGhqT0otWmRYZw?oc=5)
-
-- Source / 来源: Yahoo. Published: `2026-06-17T05:12:00+00:00`.
-- Keywords / 关键词: multiculturalism, australian, right-wing, pauline, leader, hanson, failed, yahoo, perspectives, headlines
-- 中文关键词: 多元文化主义、澳大利亚人、右翼、宝琳、领导者、汉森、失败的、雅虎、观点、头条新闻
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Australian right-wing leader Pauline Hanson says multiculturalism has failed Yahoo See more headlines & perspectives on Google News
-- RSS 中文摘要: 澳大利亚右翼领袖宝琳·汉森 (Pauline Hanson) 表示多元文化主义失败了 雅虎 在 Google 新闻上查看更多头条新闻和观点
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: multiculturalism, australian, right-wing, pauline, and leader. The available excerpt says: Australian right-wing leader Pauline Hanson says multiculturalism has failed Yahoo See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：多元文化主义、澳大利亚人、右翼、宝琳、领导者。RSS 中文摘要显示：澳大利亚右翼领袖宝琳·汉森 (Pauline Hanson) 表示多元文化主义失败了 雅虎 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 4. [Education Dept. plans to move special ed and civil rights out of the agency - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxNc3VWZ2JZc3MzWWptYXZBSFNOclJiTmtndlQzMXVhZnVvenhtR2FCYUdEOVU2S1l1bk1VWDdMdTNzVEYwSkhrcktuRE41YXpHRlZ5cTJUdUZTQ0g4X295QndqRmNiYkZMWllCel9YWnNGcjM3Um9SaTVBNnQ3X2FhOFRPTU11M3F6VDNOcmUxRGdEMWlBRzluZWdSS0JkWjNVZkFwYTNHSWk3ODVkcF9DQnd4SQ?oc=5)
-
-- Source / 来源: The Washington Post. Published: `2026-06-17T02:52:05+00:00`.
-- Keywords / 关键词: education, special, rights, civil, washington, agency, plans, dept, move, out
-- 中文关键词: 教育、特别的、权利、民事、华盛顿、机构、计划、部门、移动、出去
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Education Dept. plans to move special ed and civil rights out of the agency The Washington Post Education Department's two biggest responsibilities shifted to other federal agencies NPR Trump ramps up Education Department's dismantling with changes on special education and civil rights AP News LINDA McMAHON: Parents told me special education needs less red tape, stronger results Fox News RFK Jr. Will Oversee Disability Education Policy Mother Jones
-- RSS 中文摘要: 教育部计划将特殊教育和公民权利从该机构中移出 《华盛顿邮报》教育部的两项最大职责转移给其他联邦机构 NPR 特朗普通过对特殊教育和公民权利的改革加大了对教育部的解散 美联社新闻 琳达·麦克马洪：家长告诉我特殊教育需要减少繁文缛节，取得更好的结果 福克斯新闻 小罗伯特·肯尼迪将监督残疾教育政策 琼斯母亲
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: education, special, rights, civil, and washington. The available excerpt says: Education Dept. plans to move special ed and civil rights out of the agency The Washington Post Education Department's two biggest responsibilities shifted to other federal agencies NPR Trump ramps up Education Department's dismantling with changes on special education and civil rights AP News LINDA McMAHON: Parents told me special education needs less red tape, stronger results Fox News RFK Jr. Will Oversee Disability Education Policy Mother Jones Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：教育、特别的、权利、民事、华盛顿。RSS 中文摘要显示：教育部计划将特殊教育和公民权利从该机构中移出 《华盛顿邮报》教育部的两项最大职责转移给其他联邦机构 NPR 特朗普通过对特殊教育和公民权利的改革加大了对教育部的解散 美联社新闻 琳达·麦克马洪：家长告诉我特殊教育需要减少繁文缛节，取得更好的结果 福克斯新闻 小罗伯特·肯尼迪将监督残疾教育政策 琼斯母亲 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 5. [Ukraine-Russia war latest: G7 leaders agree to boost Ukraine’s air defence after ‘very good’ Trump-Zelensky meeting - The Independent](https://news.google.com/rss/articles/CBMivAFBVV95cUxPZkxoYnR1TWxaT0VxY21LY0FlbXNibVpTVW1FRXpTVEhNeDRBUkJiZWhuLUdxcVpzRHBDYnFPZUNmRVhqcmpKbXBjeDBaOUJPbk9LSkhRVU55bC1vZjlVNTRYdk1aempLcTVHRTN4emlKNFlBZ0xWblB3c25ZXzZSOVJBYnI5YkpsaUh6cjl5MTJLZ3JPNk1jREdXbU9oSkgtcTZCRGV2WGtQbjZIallQUzZrSDRWWDNMUXluWg?oc=5)
-
-- Source / 来源: The Independent. Published: `2026-06-17T08:34:00+00:00`.
-- Keywords / 关键词: ukraine, leaders, meeting, war, ukraine-russia, trump-zelensky, independent, defence, latest, agree
-- 中文关键词: 乌克兰、领导者、会议、战争、乌克兰-俄罗斯、特朗普-泽连斯基、独立的、防御、最新的、同意
+- Source / 来源: BBC. Published: `2026-06-18T07:49:39+00:00`.
+- Keywords / 关键词: trump, pezeshkian, iran's, sign, deal, end, war, initial, updates, live
+- 中文关键词: 特朗普、佩泽什基安、伊朗的、符号、交易、结尾、战争、最初的、更新、居住
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Ukraine-Russia war latest: G7 leaders agree to boost Ukraine’s air defence after ‘very good’ Trump-Zelensky meeting The Independent G7 leaders back Ukraine, plan greater pressure on Russia Reuters Historian on whether deal to end Ukraine war can be made at G7 summit NPR Trump turns his attention to Ukraine ahead of Iran deal: 'I’m going to do whatever I can’ CNBC Macron, Zelensky heard on hot-mic talking about Trump at G7 meeting NewsNation
-- RSS 中文摘要: 乌克兰-俄罗斯战争最新消息：特朗普与泽伦斯基“非常好”会晤后，七国集团领导人同意加强乌克兰防空 七国集团独立领导人支持乌克兰，计划对俄罗斯施加更大压力
+- RSS Excerpt / RSS 摘要: Trump and Iran's Pezeshkian sign initial deal to end war - live updates BBC US releases official agreement with Iran. Read the 14-point text CNN Iran’s President Signs Interim Peace Deal After Trump—Key Details Of Agreement Shared Forbes Trump and Iran's President Pezeshkian sign memorandum aimed to end war CNBC Former Iranian diplomat reacts to preliminary U.S.-Iran agreement NPR
+- RSS 中文摘要: 特朗普和伊朗总统佩泽什基安签署了结束战争的初步协议 - BBC US 实时更新发布了与伊朗的正式协议。阅读 14 点文本 CNN 特朗普后伊朗总统签署临时和平协议 - 共享协议的关键细节 福布斯 特朗普和伊朗总统佩泽什基安签署旨在结束战争的备忘录 CNBC 前伊朗外交官对美伊初步协议作出反应 NPR
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: ukraine, leaders, meeting, war, and ukraine-russia. The available excerpt says: Ukraine-Russia war latest: G7 leaders agree to boost Ukraine’s air defence after ‘very good’ Trump-Zelensky meeting The Independent G7 leaders back Ukraine, plan greater pressure on Russia Reuters Historian on whether deal to end Ukraine war can be made at G7 summit NPR Trump turns his attention to Ukraine ahead of Iran deal: 'I’m going to do whatever I can’ CNBC Macron, Zelensky heard on hot-mic talking about Trump at G7 meeting NewsNation Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：乌克兰、领导者、会议、战争、乌克兰-俄罗斯。RSS 中文摘要显示：乌克兰-俄罗斯战争最新消息：特朗普与泽伦斯基“非常好”会晤后，七国集团领导人同意加强乌克兰防空 七国集团独立领导人支持乌克兰，计划对俄罗斯施加更大压力 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: trump, pezeshkian, iran's, sign, and deal. The available excerpt says: Trump and Iran's Pezeshkian sign initial deal to end war - live updates BBC US releases official agreement with Iran. Read the 14-point text CNN Iran’s President Signs Interim Peace Deal After Trump—Key Details Of Agreement Shared Forbes Trump and Iran's President Pezeshkian sign memorandum aimed to end war CNBC Former Iranian diplomat reacts to preliminary U.S.-Iran agreement NPR Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：特朗普、佩泽什基安、伊朗的、符号、交易。RSS 中文摘要显示：特朗普和伊朗总统佩泽什基安签署了结束战争的初步协议 - BBC US 实时更新发布了与伊朗的正式协议。阅读 14 点文本 CNN 特朗普后伊朗总统签署临时和平协议 - 共享协议的关键细节 福布斯 特朗普和伊朗总统佩泽什基安签署旨在结束战争的备忘录 CNBC 前伊朗外交官对美伊初步协议作出反应 NPR 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 6. [Bruce Springsteen, U2, Stevie Wonder, More Stars to Perform at Obama Presidential Center's Opening - Rolling Stone](https://news.google.com/rss/articles/CBMisAFBVV95cUxPakRHRDA5dTRKbnRDWFQzLTFzS1NacV9vampCVWRnbmwzTU9HNl9Gd0pEc0tUSUVfWG1TMnJZc0xKZUE1Y0VySFJEZ3FpamVpcldpazdrS2JIaEdSNThnbmlTeVViY0FDMm9HYTV1SEpKQmtVV2RFTkVjeHdhTHZ0RXNORTVwdm5KYVhfUEFBbTVLTVk4U1BWOXA4YjBhZXRPMFNQNDhhQnMzSjl0RnNNUA?oc=5)
+### 2. [Why a Small Election in England Will Have Giant Consequences - The New York Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnVxN3BlNncxVEh2TkFtMHdlSl9OdXB4TDdzNV9PaUlMSWpCWGR0djJRNlBTS2FzMFBjTHhKS1BYb2FKMThhbVM0QTNoeTJjX3I1TmEyRXQtMGVTR2FDcFgzbWVFNWdXYTc0eXJtTExDYzJWWGxZdGliOWE5bGVUSU5IUmMzZlU2SHhNd2FTcjlDWjB6NEVkazBR?oc=5)
 
-- Source / 来源: Rolling Stone. Published: `2026-06-17T00:40:46+00:00`.
-- Keywords / 关键词: obama, springsteen, opening, stevie, wonder, presidential, perform, bruce, center's, rolling
-- 中文关键词: 奥巴马、斯普林斯汀、开幕、史蒂夫、想知道、总统、履行、布鲁斯、中心的、滚动
+- Source / 来源: The New York Times. Published: `2026-06-18T04:01:09+00:00`.
+- Keywords / 关键词: consequences, election, england, small, giant, makerfield, minister, prime, by-election, campaigners
+- 中文关键词: 结果、选举、英格兰、小的、巨大的、梅克菲尔德、部长、主要的、补选、活动人士
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Bruce Springsteen, U2, Stevie Wonder, More Stars to Perform at Obama Presidential Center's Opening Rolling Stone Springsteen, Bono, Stevie Wonder, Christina Aguilera To Perform At Obama Center Opening Celebration Block Club Chicago Opening ceremony for Obama Center to feature Stevie Wonder, Jennifer Hudson and Bruce Springsteen Chicago Tribune Springsteen, Stevie Wonder headline Obama Center opening Axios ‘This will be timeless’: what art can we expect from Chicago’s $850m Obama Presidential Center? The Guardian
-- RSS 中文摘要: 布鲁斯·斯普林斯汀 (Bruce Springsteen)、U2、史蒂夫·旺德 (Stevie Wonder)、更多明星将在奥巴马总统中心开幕式上表演 滚石乐队 (Rolling Stone) 斯普林斯汀 (Bruce Springsteen)、波诺 (Bono)、史蒂夫·旺德 (Stevie Wonder)、克里斯蒂娜·阿奎莱拉 (Christina Aguilera) 将在芝加哥奥巴马中心开幕庆典街区俱乐部上表演 奥巴马中心开幕式将邀请史蒂夫·旺德 (Stevie Wonder)、詹妮弗·哈德森 (Jennifer Hudson) 和布鲁斯·斯普林斯汀 (Bruce Springsteen) 芝加哥论坛报 斯普林斯汀 (Stevie Wonder) 头条新闻 奥巴马中心开幕 Axios “这将是永恒的”：我们对芝加哥的艺术能期待什么8.5 亿美元的奥巴马总统中心？卫报
+- RSS Excerpt / RSS 摘要: Why a Small Election in England Will Have Giant Consequences The New York Times He Quit Parliament. Now He’s Set to Become Britain’s Prime Minister. Politico Voters head to the polls for Makerfield by-election BBC Labour campaigners fear hordes of MPs may annoy public as Makerfield votes The Guardian Why 0.1% of Britons could determine the prime minister’s fate CNN
+- RSS 中文摘要: 为什么英国的小规模选举会产生巨大的后果 《纽约时报》 他退出了议会。现在他即将成为英国首相。政治选民前往梅克菲尔德补选投票 BBC 工党活动人士担心，梅克菲尔德投票时大批议员可能会惹恼公众 为什么 0.1% 的英国人可以决定首相的命运 CNN
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: obama, springsteen, opening, stevie, and wonder. The available excerpt says: Bruce Springsteen, U2, Stevie Wonder, More Stars to Perform at Obama Presidential Center's Opening Rolling Stone Springsteen, Bono, Stevie Wonder, Christina Aguilera To Perform At Obama Center Opening Celebration Block Club Chicago Opening ceremony for Obama Center to feature Stevie Wonder, Jennifer Hudson and Bruce Springsteen Chicago Tribune Springsteen, Stevie Wonder headline Obama Center opening Axios ‘This will be timeless’: what art can we expect from Chicago’s $850m Obama Presidential Center? The Guardian Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：奥巴马、斯普林斯汀、开幕、史蒂夫、想知道。RSS 中文摘要显示：布鲁斯·斯普林斯汀 (Bruce Springsteen)、U2、史蒂夫·旺德 (Stevie Wonder)、更多明星将在奥巴马总统中心开幕式上表演 滚石乐队 (Rolling Stone) 斯普林斯汀 (Bruce Springsteen)、波诺 (Bono)、史蒂夫·旺德 (Stevie Wonder)、克里斯蒂娜·阿奎莱拉 (Christina Aguilera) 将在芝加哥奥巴马中心开幕庆典街区俱乐部上表演 奥巴马中心开幕式将邀请史蒂夫·旺德 (Stevie Wonder)、詹妮弗·哈德森 (Jennifer Hudson) 和布鲁斯·斯普林斯汀 (Bruce Springsteen) 芝加哥论坛报 斯普林斯汀 (Stevie Wonder) 头条新闻 奥巴马中心开幕 Axios “这将是永恒的”：我们对芝加哥的艺术能期待什么8.5 亿美元的奥巴马总统中心？卫报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: consequences, election, england, small, and giant. The available excerpt says: Why a Small Election in England Will Have Giant Consequences The New York Times He Quit Parliament. Now He’s Set to Become Britain’s Prime Minister. Politico Voters head to the polls for Makerfield by-election BBC Labour campaigners fear hordes of MPs may annoy public as Makerfield votes The Guardian Why 0.1% of Britons could determine the prime minister’s fate CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：结果、选举、英格兰、小的、巨大的。RSS 中文摘要显示：为什么英国的小规模选举会产生巨大的后果 《纽约时报》 他退出了议会。现在他即将成为英国首相。政治选民前往梅克菲尔德补选投票 BBC 工党活动人士担心，梅克菲尔德投票时大批议员可能会惹恼公众 为什么 0.1% 的英国人可以决定首相的命运 CNN 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 7. ['It was surreal': British couple describe having warning shots fired near them by Russian warship - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE53LWR2UWZ0VDFBQVBCTTBXaFU5TkltRWIyY2xDbkg0aG5SUzR2UFJYVFNPSGtDU1B5c0k0Tk1OREVHSnZfaW1GVkE3dGFvZFRsNC1WSnVjVTRSZw?oc=5)
+### 3. [Inside the Race to Save One of Ukraine’s Holiest Sites From a Russian Strike - WSJ](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQXVpdmlFd1AtUjVPNmVuVWhxZk9CeTYyd2ZmemVBLS1sNktIckNSZ3dlSUh5VVFTYnlnSmtOTHMzUHJQd2RWTXdSVHVwVDNLMUFPZWJ6dFlKOGx3dHczRmwyTlpOX01jTFlOTUNic05mZ2ktM1lGVnVnQ0lKN1FxdHVsMVo2cHF1YlRjTXFkLWJGazk3U0FlSG12RnU3UmRocUU1ekttVFRFcUh4dV9vUm9ycGxBZWFi?oc=5)
 
-- Source / 来源: BBC. Published: `2026-06-17T08:38:24+00:00`.
-- Keywords / 关键词: russian, warning, warship, shots, fired, near, surreal, describe, british, couple
-- 中文关键词: 俄罗斯、警告、军舰、镜头、被解雇、靠近、超现实的、描述、英国人、夫妻
+- Source / 来源: WSJ. Published: `2026-06-18T06:35:56+00:00`.
+- Keywords / 关键词: ukraine, russian, holiest, inside, strike, sites, race, save, one, wsj
+- 中文关键词: 乌克兰、俄罗斯、最神圣的、里面、袭击、网站、种族、节省、一、华尔街日报
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: 'It was surreal': British couple describe having warning shots fired near them by Russian warship BBC Russian warship incident in Channel deeply concerning, says Starmer The Guardian Russian warship fired warning shots near a yacht in the English Channel NBC News Russian Navy Ship Accused of Firing Warning Shots at U.K. Yacht The New York Times Russian warship fires warning shots at a UK-flagged yacht on ‘dangerous course’ in the English Channel CNN
-- RSS 中文摘要: “这太超现实了”：英国夫妇描述俄罗斯军舰向他们附近开枪示警 BBC 斯塔默表示，俄罗斯军舰在英吉利海峡发生的事件令人深感忧虑 英国卫报 俄罗斯军舰在英吉利海峡的一艘游艇附近开枪示警 NBC 新闻 俄罗斯海军舰艇被指控向英国游艇开枪示警 纽约时报 CNN 英吉利海峡的俄罗斯军舰向一艘处于“危险航线”上的英国国旗游艇开枪示警
+- RSS Excerpt / RSS 摘要: Inside the Race to Save One of Ukraine’s Holiest Sites From a Russian Strike WSJ Russian Offensive Campaign Assessment, June 15, 2026 Institute for the Study of War As Russia Strikes Ukraine, a Cultural Symbol Catches Fire The New York Times Faith, belonging, survival – and now destruction: a photographic account of Kyiv’s Pechersk Lavra monastery before Russia’s attack The Guardian Ukraine hits Moscow refinery again as Zelenskiy seeks Trump's support for peace deal Reuters
+- RSS 中文摘要: 拯救乌克兰最圣地之一免遭俄罗斯袭击的竞赛内部 《华尔街日报》俄罗斯进攻战役评估，2026 年 6 月 15 日 战争研究所 俄罗斯袭击乌克兰，一种文化象征着火 《纽约时报》 信仰、归属感、生存——以及现在的毁灭：俄罗斯袭击前基辅佩乔尔斯克修道院修道院的摄影记录 乌克兰卫报再次袭击莫斯科炼油厂，泽连斯基寻求特朗普对和平协议的支持 路透社
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: russian, warning, warship, shots, and fired. The available excerpt says: 'It was surreal': British couple describe having warning shots fired near them by Russian warship BBC Russian warship incident in Channel deeply concerning, says Starmer The Guardian Russian warship fired warning shots near a yacht in the English Channel NBC News Russian Navy Ship Accused of Firing Warning Shots at U.K. Yacht The New York Times Russian warship fires warning shots at a UK-flagged yacht on ‘dangerous course’ in the English Channel CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：俄罗斯、警告、军舰、镜头、被解雇。RSS 中文摘要显示：“这太超现实了”：英国夫妇描述俄罗斯军舰向他们附近开枪示警 BBC 斯塔默表示，俄罗斯军舰在英吉利海峡发生的事件令人深感忧虑 英国卫报 俄罗斯军舰在英吉利海峡的一艘游艇附近开枪示警 NBC 新闻 俄罗斯海军舰艇被指控向英国游艇开枪示警 纽约时报 CNN 英吉利海峡的俄罗斯军舰向一艘处于“危险航线”上的英国国旗游艇开枪示警 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: ukraine, russian, holiest, inside, and strike. The available excerpt says: Inside the Race to Save One of Ukraine’s Holiest Sites From a Russian Strike WSJ Russian Offensive Campaign Assessment, June 15, 2026 Institute for the Study of War As Russia Strikes Ukraine, a Cultural Symbol Catches Fire The New York Times Faith, belonging, survival – and now destruction: a photographic account of Kyiv’s Pechersk Lavra monastery before Russia’s attack The Guardian Ukraine hits Moscow refinery again as Zelenskiy seeks Trump's support for peace deal Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：乌克兰、俄罗斯、最神圣的、里面、袭击。RSS 中文摘要显示：拯救乌克兰最圣地之一免遭俄罗斯袭击的竞赛内部 《华尔街日报》俄罗斯进攻战役评估，2026 年 6 月 15 日 战争研究所 俄罗斯袭击乌克兰，一种文化象征着火 《纽约时报》 信仰、归属感、生存——以及现在的毁灭：俄罗斯袭击前基辅佩乔尔斯克修道院修道院的摄影记录 乌克兰卫报再次袭击莫斯科炼油厂，泽连斯基寻求特朗普对和平协议的支持 路透社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 8. [G7 promises to support Ukraine and sanction Russia in joint declaration - politico.eu](https://news.google.com/rss/articles/CBMimwFBVV95cUxQall0SjktWUtFZnV0SnItX05fVUpQSW5FOW9XTERXVU55aEVyOWdmNmgwLXp1ZlE5WWt2UUlWTThYaS1kQ2JEdy1Za01Kd1lCUmNJaFVwNjM4eC1FakdzbWNNanFQUzJZR3RTR29DNTN0QXZVVUxybUpPVEtBYjQ0VjQ5clNqeTdjaDUtcEp4M1hDMl94STN5YTFMVQ?oc=5)
+### 4. [Trump and allies keep the peace at the G7 summit after months of tumult - Politico](https://news.google.com/rss/articles/CBMivgFBVV95cUxOeE1pYzhtVHB1YmVWUm94cFV0aHE3VVh1bFZ1d3dDZmFaWVA5eGc2TS0taWYxTGwwTWlrVXRxYmNzbEZNNU1xakxNd0V3WFFUTTdHb0JuM09EZlE3amRhWlVsaEFqRURKWWJiVjVGX2VxVWFacXU1cVJya3FpazB0VWxIVmZDYzBXXzNiWm5nYUVGRTFKVE9DNWVMUHI4bDdnRXZsa1o5YXZTT0NyT2t1d3VPYm9TYTk4MjRqMExR?oc=5)
 
-- Source / 来源: politico.eu. Published: `2026-06-17T00:36:00+00:00`.
-- Keywords / 关键词: ukraine, russia, declaration, promises, sanction, politico, support, joint, trump, deal
-- 中文关键词: 乌克兰、俄罗斯、宣言、承诺、制裁、政治报、支持、联合的、特朗普、交易
+- Source / 来源: Politico. Published: `2026-06-17T21:18:56+00:00`.
+- Keywords / 关键词: trump, allies, politico, summit, months, tumult, peace, keep, iran, deal
+- 中文关键词: 特朗普、盟国、政治报、首脑、月、骚乱、和平、保持、伊朗、交易
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: G7 promises to support Ukraine and sanction Russia in joint declaration politico.eu G7 leaders back Ukraine, plan greater pressure on Russia Reuters Historian on whether deal to end Ukraine war can be made at G7 summit NPR Trump turns his attention to Ukraine ahead of Iran deal: 'I’m going to do whatever I can’ CNBC Macron, Zelensky heard on hot-mic talking about Trump at G7 meeting NewsNation
-- RSS 中文摘要: 七国集团承诺在联合声明中支持乌克兰并制裁俄罗斯 政治.欧盟 七国集团领导人支持乌克兰，计划对俄罗斯施加更大压力
+- RSS Excerpt / RSS 摘要: Trump and allies keep the peace at the G7 summit after months of tumult Politico Dinner at Versailles, alpine air and an Iran agreement: How Trump made it through another G7 CNN Trump signs and defends his Iran deal, criticizes longtime ally Israel as G-7 ends The Washington Post Takeaways from the G7: Trump's new attitude toward allies buoyed by their praise for Iran deal AP News 'I'm the boss', Trump says at G7, as he warms to Ukraine's war aims Reuters
+- RSS 中文摘要: 经过几个月的动荡，特朗普和盟友在七国集团峰会上保持和平 凡尔赛政治晚宴、高山空气和伊朗协议：特朗普如何度过另一场七国集团 CNN 特朗普签署并捍卫了他的伊朗协议，在七国集团结束时批评长期盟友以色列 《华盛顿邮报》七国集团的要点：特朗普对盟友的新态度因他们对伊朗协议的赞扬而受到鼓舞 美联社新闻 特朗普在七国集团上表示，在温暖时“我是老板”乌克兰的战争目标 路透
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: ukraine, russia, declaration, promises, and sanction. The available excerpt says: G7 promises to support Ukraine and sanction Russia in joint declaration politico.eu G7 leaders back Ukraine, plan greater pressure on Russia Reuters Historian on whether deal to end Ukraine war can be made at G7 summit NPR Trump turns his attention to Ukraine ahead of Iran deal: 'I’m going to do whatever I can’ CNBC Macron, Zelensky heard on hot-mic talking about Trump at G7 meeting NewsNation Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：乌克兰、俄罗斯、宣言、承诺、制裁。RSS 中文摘要显示：七国集团承诺在联合声明中支持乌克兰并制裁俄罗斯 政治.欧盟 七国集团领导人支持乌克兰，计划对俄罗斯施加更大压力 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: trump, allies, politico, summit, and months. The available excerpt says: Trump and allies keep the peace at the G7 summit after months of tumult Politico Dinner at Versailles, alpine air and an Iran agreement: How Trump made it through another G7 CNN Trump signs and defends his Iran deal, criticizes longtime ally Israel as G-7 ends The Washington Post Takeaways from the G7: Trump's new attitude toward allies buoyed by their praise for Iran deal AP News 'I'm the boss', Trump says at G7, as he warms to Ukraine's war aims Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：特朗普、盟国、政治报、首脑、月。RSS 中文摘要显示：经过几个月的动荡，特朗普和盟友在七国集团峰会上保持和平 凡尔赛政治晚宴、高山空气和伊朗协议：特朗普如何度过另一场七国集团 CNN 特朗普签署并捍卫了他的伊朗协议，在七国集团结束时批评长期盟友以色列 《华盛顿邮报》七国集团的要点：特朗普对盟友的新态度因他们对伊朗协议的赞扬而受到鼓舞 美联社新闻 特朗普在七国集团上表示，在温暖时“我是老板”乌克兰的战争目标 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 9. [Live Updates: Iran says deal with U.S. requires Israeli forces to leave Lebanon - CBS News](https://news.google.com/rss/articles/CBMipAFBVV95cUxQWTBweC1tYndkYjVDOEZTeHc3UVBWVGtER2o5UmZsUzN4RUp3eUpXNjg1dm9TMTZfX21LT3RHaWRFNEJWYzMtT0hSWUlrX0FuUEVkUHBlek0xdVZmZllwTjFuWTI3cXpYZGdacHI2bmlDa3lydU9YdWxOREFadkhkekI0YVMxYldZZlQzUXNPRVVkUk04RnBySDVMVDFuLWp5SFM3UQ?oc=5)
+### 5. [Massive fire at warehouse in Boyle Heights triggers shelter-in-place orders, rare helicopter drops - ABC7 Los Angeles](https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1MxMnNHVW9hNE1RdU5vN25QMUwzdDc3c2VsUWxsQUdCUV9Cc3JEV3VGVExNSnpqdVJrSE1fTm4yR3hlY1BRQmtWR200UGtaRGt2MzlFMEpWWnIwU3hZMmY5YXBZc3ZFQWh0dVExQWpMazRJbktwWmNQMEFHdjQxS21xa3I4S0F3eHdxZzBrb3dVSXJJdVZFMDFVWEgxLVgzcE52Z2k3OW5QdEZqTkdyMXRxdW9OenZPaVE?oc=5)
 
-- Source / 来源: CBS News. Published: `2026-06-17T06:11:00+00:00`.
-- Keywords / 关键词: lebanon, iran, deal, requires, updates, israeli, forces, leave, live, cbs
-- 中文关键词: 黎巴嫩、伊朗、交易、需要、更新、以色列、力量、离开、居住、哥伦比亚广播公司
+- Source / 来源: ABC7 Los Angeles. Published: `2026-06-18T06:56:00+00:00`.
+- Keywords / 关键词: warehouse, fire, shelter-in-place, heights, angeles, boyle, los, helicopter, triggers, massive
+- 中文关键词: 仓库、火、就地避难、高度、安吉利斯、博伊尔、洛斯、直升机、触发器、大量的
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Live Updates: Iran says deal with U.S. requires Israeli forces to leave Lebanon CBS News Iran’s top envoy says peace deal with US dependent on Israel’s withdrawal from Lebanon The Guardian Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon Yahoo Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions BBC US, Iran, Hezbollah spar over murky terms of ceasefire deal dw.com
-- RSS 中文摘要: 实时更新：伊朗表示与美国的协议要求以色列军队撤离黎巴嫩 CBS 新闻 伊朗最高特使表示与美国的和平协议取决于以色列从黎巴嫩撤军 《卫报》伊朗表示，结束与美国的战争的协议要求以色列从黎巴嫩撤军 雅虎 黎巴嫩局势脆弱，美伊休战留下悬而未决的问题 BBC 美国、伊朗、真主党就停火协议的模糊条款争论不休 dw.com
+- RSS Excerpt / RSS 摘要: Massive fire at warehouse in Boyle Heights triggers shelter-in-place orders, rare helicopter drops ABC7 Los Angeles Hourslong shelter-in-place order lifted for Boyle Heights warehouse fire NBC Los Angeles Crews gain control of Boyle Heights warehouse fire; 'highly toxic' ammonia leak spurs concern Los Angeles Times Shelter-in-place ordered in LA as blaze engulfs roof of 500,000 sq-ft warehouse The Guardian Commercial building fire LAist
+- RSS 中文摘要: 博伊尔高地仓库发生大规模火灾，触发就地避难令，罕见直升机空投 ABC7 洛杉矶 因博伊尔高地仓库火灾而解除了长达数小时的就地避难令 NBC 洛杉矶工作人员控制了博伊尔高地仓库火灾； “剧毒”氨泄漏引发关注 洛杉矶时报 大火吞没了 500,000 平方英尺仓库的屋顶，洛杉矶下令就地避难 The Guardian Commercial Building Fire LAist
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: lebanon, iran, deal, requires, and updates. The available excerpt says: Live Updates: Iran says deal with U.S. requires Israeli forces to leave Lebanon CBS News Iran’s top envoy says peace deal with US dependent on Israel’s withdrawal from Lebanon The Guardian Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon Yahoo Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions BBC US, Iran, Hezbollah spar over murky terms of ceasefire deal dw.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：黎巴嫩、伊朗、交易、需要、更新。RSS 中文摘要显示：实时更新：伊朗表示与美国的协议要求以色列军队撤离黎巴嫩 CBS 新闻 伊朗最高特使表示与美国的和平协议取决于以色列从黎巴嫩撤军 《卫报》伊朗表示，结束与美国的战争的协议要求以色列从黎巴嫩撤军 雅虎 黎巴嫩局势脆弱，美伊休战留下悬而未决的问题 BBC 美国、伊朗、真主党就停火协议的模糊条款争论不休 dw.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: warehouse, fire, shelter-in-place, heights, and angeles. The available excerpt says: Massive fire at warehouse in Boyle Heights triggers shelter-in-place orders, rare helicopter drops ABC7 Los Angeles Hourslong shelter-in-place order lifted for Boyle Heights warehouse fire NBC Los Angeles Crews gain control of Boyle Heights warehouse fire; 'highly toxic' ammonia leak spurs concern Los Angeles Times Shelter-in-place ordered in LA as blaze engulfs roof of 500,000 sq-ft warehouse The Guardian Commercial building fire LAist Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：仓库、火、就地避难、高度、安吉利斯。RSS 中文摘要显示：博伊尔高地仓库发生大规模火灾，触发就地避难令，罕见直升机空投 ABC7 洛杉矶 因博伊尔高地仓库火灾而解除了长达数小时的就地避难令 NBC 洛杉矶工作人员控制了博伊尔高地仓库火灾； “剧毒”氨泄漏引发关注 洛杉矶时报 大火吞没了 500,000 平方英尺仓库的屋顶，洛杉矶下令就地避难 The Guardian Commercial Building Fire LAist 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 10. [Billionaire Rick Jackson defeats Trump-backed Burt Jones for the GOP nomination in Georgia governor’s race - NBC News](https://news.google.com/rss/articles/CBMitAFBVV95cUxPeUNiUkZyemc3S1dIWmJkNjV3a3cxSWdpalZHX28yRU12OGs2cUxSVThnenpjWnFJeVE3QWxfZUxvdE5fQ3pWN2V2b3FXeHF0UUFRZ2pFbWR6YUdMQ2lpWVAydzAwaGtmR2lseHpGNDlJRk1ONElZS0xSbXNuQnBiSzBwbVpDVkFNTzFkTHNZTkliaTVobk9nSXFIVHVCNGFhbG9SS1VmQnJNcENRWWtHakY3NnA?oc=5)
+### 6. [Ukraine's Azov fighters were forced from Mariupol. Now they're hitting back - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxOaG5PMXNscERiQXBBSU1xcEdDMTVmcmtuWEZNMlJ1SmpTd3BIME91RlRveWpFblo5NzhYMUJ1MjFCa3ViaWNVdl9feTdXXzZwaWE1Q2k0UnZPNlhGTE1faHJOaEhpcHZ6ejVIdE1DeEZlQjJwZ3BUQnozVVdnLVZNaDhYdmh1SURTVzRocHdjeHRmM2JVanNfNFAzNnlOdjdfbWctMWtjU1VwckItYV83YnVvSGotSFE?oc=5)
 
-- Source / 来源: NBC News. Published: `2026-06-17T01:22:00+00:00`.
-- Keywords / 关键词: georgia, billionaire, governor, trump-backed, jackson, defeats, jones, rick, burt, race
-- 中文关键词: 乔治亚州、亿万富翁、州长、特朗普支持的、杰克逊、失败、琼斯、里克、伯特、种族
+- Source / 来源: Reuters. Published: `2026-06-18T06:03:00+00:00`.
+- Keywords / 关键词: mariupol, ukraine's, fighters, they're, hitting, forced, azov, back, ukrainian, occupied
+- 中文关键词: 马里乌波尔、乌克兰的、战士、他们是、击中、被迫、亚速、后退、乌克兰、占领
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Ukraine's Azov fighters were forced from Mariupol. Now they're hitting back Reuters Ukraine Hits 244-Meter Shadow Fleet Tanker, 2 Bridges and Multiple Russian Command Posts Overnight Kyiv Post Russia was unprepared to counter Ukrainian maritime drones, expert says Ukrinform - Ukrainian National News Agency Ukraine strikes occupied Mariupol port, Russia’s key oil refineries Al Jazeera Ukrainian Military Hits Two Russian Logistics Bridges in Temporarily Occupied Kherson Region UNITED24 Media
+- RSS 中文摘要: 乌克兰的亚速战士被迫离开马里乌波尔。现在他们正在反击 路透社 乌克兰一夜之间袭击了 244 米影子舰队油轮、两座桥梁和多个俄罗斯指挥所 基辅邮报 专家称，俄罗斯没有准备好反击乌克兰海上无人机媒体
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: mariupol, ukraine's, fighters, they're, and hitting. The available excerpt says: Ukraine's Azov fighters were forced from Mariupol. Now they're hitting back Reuters Ukraine Hits 244-Meter Shadow Fleet Tanker, 2 Bridges and Multiple Russian Command Posts Overnight Kyiv Post Russia was unprepared to counter Ukrainian maritime drones, expert says Ukrinform - Ukrainian National News Agency Ukraine strikes occupied Mariupol port, Russia’s key oil refineries Al Jazeera Ukrainian Military Hits Two Russian Logistics Bridges in Temporarily Occupied Kherson Region UNITED24 Media Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：马里乌波尔、乌克兰的、战士、他们是、击中。RSS 中文摘要显示：乌克兰的亚速战士被迫离开马里乌波尔。现在他们正在反击 路透社 乌克兰一夜之间袭击了 244 米影子舰队油轮、两座桥梁和多个俄罗斯指挥所 基辅邮报 专家称，俄罗斯没有准备好反击乌克兰海上无人机媒体 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [Man killed after horse-drawn carriage bolts and flips near popular New York City tourist destination - Fox News](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQanFyc0FnbmFtX2pQR0JjTVpob2pHWnJHcVdRaTBHTzY5c2owUUQ4ampuUlU3dkhURk13RVVUamdvdmVFeFdRTHRtbEVvY3B0dWtWc3ViaXBvTHhxbFVySEo0VVJHMl9ULUhiRXlpY1Q5Ynh4aHgyYWwwdXBQVS01TW5peUpsanhqT3pQQzdCLVFsZjdvdk5DWmxUbkNlbVNuR2lMbHRkV1pyclNLZXFvVmdWMFJMU2wx0gG-AUFVX3lxTE0ySm56Z1ZLR2VOVDdFclhobkFIYXlnUEU0LUdBM0Nja1RWN0RiSGJjRVNSUGR6eXZSMzNobUx6SkNjLUtVNzNXZVFKNHRkM2VFUGVfdG1tc2EyLXY1X05uX1RUazRkMkRkQUtLdmVkTGxLbUN0V1M4V3hTb2lZYnVoMFZIRzBzTWdzTWNSZzZNOXd5SzdaYVJhSy1GQndlMWcyZEU2X0VvYVJwUDRubUJDZlZjM016elRpQlhaY1E?oc=5)
+
+- Source / 来源: Fox News. Published: `2026-06-18T01:12:25+00:00`.
+- Keywords / 关键词: carriage, horse-drawn, tourist, destination, popular, central, killed, bolts, flips, near
+- 中文关键词: 运输、马车的、游客、目的地、受欢迎的、中央、死亡、螺栓、翻转、靠近
+- Category / 分类: Public safety and society / 公共安全与社会
+- RSS Excerpt / RSS 摘要: Man killed after horse-drawn carriage bolts and flips near popular New York City tourist destination Fox News Central Park carriage horse gets loose, killing 18-year-old tourist visiting NYC ABC7 New York Teenager dies in horse-drawn carriage accident in New York City's Central Park Sky News Central Park carriage horse's cause of death revealed ABC News - Breaking News, Latest News and Videos 18-Year-Old Dies in Fall From Horse Carriage in Central Park The New York Times
+- RSS 中文摘要: 纽约市著名旅游胜地福克斯新闻中央公园马车失控导致18岁游客死亡 ABC7 纽约 青少年在纽约中央公园马车事故中死亡 天空新闻 中央公园马车死因揭晓 ABC新闻 - 突发新闻、最新新闻和视频 18岁青年在中央公园马车坠落身亡 纽约时报
+- EN Summary: This story centers on harm to people, emergency response, or social disruption.
+- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
+- EN Detailed Reading: Key signals: carriage, horse-drawn, tourist, destination, and popular. The available excerpt says: Man killed after horse-drawn carriage bolts and flips near popular New York City tourist destination Fox News Central Park carriage horse gets loose, killing 18-year-old tourist visiting NYC ABC7 New York Teenager dies in horse-drawn carriage accident in New York City's Central Park Sky News Central Park carriage horse's cause of death revealed ABC News - Breaking News, Latest News and Videos 18-Year-Old Dies in Fall From Horse Carriage in Central Park The New York Times Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
+- 中文详细解读: 关键词信号：运输、马车的、游客、目的地、受欢迎的。RSS 中文摘要显示：纽约市著名旅游胜地福克斯新闻中央公园马车失控导致18岁游客死亡 ABC7 纽约 青少年在纽约中央公园马车事故中死亡 天空新闻 中央公园马车死因揭晓 ABC新闻 - 突发新闻、最新新闻和视频 18岁青年在中央公园马车坠落身亡 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
+- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
+- 后续关注: 官方调查；确认伤亡数字；预防措施
+
+### 8. [More than 1,000 people have been killed in Gaza during ceasefire, Palestinian authorities say - AP News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOT1lKQ1RrM1JacURrZ3l6MUIwTVQ4MFZUeHpXZlRWT2tNbkxDTy1PNFdpeTFKN2xPRndoVUtqbDJlcDhsSEFpVm9YYXdCbG9ieHF6SHY0aHREZmVtVEY2WG1rcnJvM0hMbHBORUJlZ3dlZnNtdlhYblZBUWVCcU11SUdSdDJjYXh4LTRyZ1VNRUcxUHFuRFQ0dzY0bVVkU2N2dWVXSjJIX19jcHFCWHZweTFBbXJuZFk?oc=5)
+
+- Source / 来源: AP News. Published: `2026-06-18T00:54:00+00:00`.
+- Keywords / 关键词: gaza, ceasefire, people, killed, during, say, palestinian, authorities, cease-fire, territory
+- 中文关键词: 加沙、停火、人们、死亡、期间、说、巴勒斯坦人、当局、领土
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: More than 1,000 people have been killed in Gaza during ceasefire, Palestinian authorities say AP News Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000 Al Jazeera Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say NPR Israeli military takes more territory, kills two people in Gaza, medics and witnesses say Reuters 253 children, 121 women among 1,000+ Gazans killed during cease-fire Haaretz
+- RSS 中文摘要: 巴勒斯坦当局称，加沙停火期间已造成 1,000 多人死亡 美联社新闻 自与以色列“停火”以来，加沙死亡人数已超过 1,000 人 半岛电视台 巴勒斯坦当局称，加沙停火期间有 1,000 多人死亡国土报停火
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: gaza, ceasefire, people, killed, and during. The available excerpt says: More than 1,000 people have been killed in Gaza during ceasefire, Palestinian authorities say AP News Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000 Al Jazeera Over 1,000 people killed during Gaza ceasefire, Palestinian authorities say NPR Israeli military takes more territory, kills two people in Gaza, medics and witnesses say Reuters 253 children, 121 women among 1,000+ Gazans killed during cease-fire Haaretz Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：加沙、停火、人们、死亡、期间。RSS 中文摘要显示：巴勒斯坦当局称，加沙停火期间已造成 1,000 多人死亡 美联社新闻 自与以色列“停火”以来，加沙死亡人数已超过 1,000 人 半岛电视台 巴勒斯坦当局称，加沙停火期间有 1,000 多人死亡国土报停火 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 9. [How Macron won Trump round at the G7. Until the next bust-up. - politico.eu](https://news.google.com/rss/articles/CBMiowFBVV95cUxPY3J2VDl4OXVHU0pFOUJMVF9DTkZwWEdzMGlXaHdaa2lqTTBpMEtUdjNlNnZoSV9rcFpDUWFfY1VGQlBtNVFSejE1SXVwVDRfNE9ndmkycE8wVzgwQW1FQUk2V1Vtc1VYUEVYMnRCUTNPcUJUYmNmd1BpR0JRWjUwbEVMR25acXFWNkVuelZEaTlXb1JWTTQwVHpVdEFrQUo5RnBz?oc=5)
+
+- Source / 来源: politico.eu. Published: `2026-06-17T22:54:00+00:00`.
+- Keywords / 关键词: trump, macron, versailles, politico, bust-up, round, until, next, won, palace
+- 中文关键词: 特朗普、马克龙、凡尔赛宫、政治报、争吵、圆形的、直到、下一个、韩元、宫殿
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Billionaire Rick Jackson defeats Trump-backed Burt Jones for the GOP nomination in Georgia governor’s race NBC News Billionaire Rick Jackson defeats Trump-backed Burt Jones in Georgia governor race Politico Trump wins two, loses one: Georgia billionaire delivers rare blow to endorsement machine Fox News Georgia Governor Primary Runoff Election 2026 Live Results NBC News Georgia Vexes Trump Yet Again: 6 Takeaways From Tuesday’s Primaries The New York Times
-- RSS 中文摘要: 亿万富翁里克·杰克逊在佐治亚州州长竞选中击败特朗普支持的伯特·琼斯获得共和党提名 NBC新闻 亿万富翁里克·杰克逊在佐治亚州州长竞选中击败特朗普支持的伯特·琼斯 Politico 特朗普赢得两场，输一场：佐治亚州亿万富翁对背书机造成罕见的打击 福克斯新闻 佐治亚州州长初选决选 2026 实时结果 NBC新闻 佐治亚州再次惹恼特朗普：周二初选的 6 个要点 纽约时报
+- RSS Excerpt / RSS 摘要: How Macron won Trump round at the G7. Until the next bust-up. politico.eu France's Macron hosts Trump at Versailles Palace Reuters In pictures: The Palace of Versailles, Macron's beloved soft-power tool France 24 Golden ticket: why Versailles invite is the ‘real deal’ for Trump The Guardian Macron deploys Versailles’ gold, mirrors and history in a high-stakes courtship of Trump NBC News
+- RSS 中文摘要: 马克龙如何在七国集团中赢得特朗普的胜利。直到下一次的争吵。 politico.eu 法国马克龙在凡尔赛宫接待特朗普 路透社 图片：凡尔赛宫，马克龙钟爱的软实力工具 法国 24 小时金票：为什么凡尔赛宫的邀请对特朗普来说是“真正的交易” 《卫报》 马克龙在对特朗普的高风险求爱中部署了凡尔赛宫的黄金、镜子和历史 NBC 新闻
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: georgia, billionaire, governor, trump-backed, and jackson. The available excerpt says: Billionaire Rick Jackson defeats Trump-backed Burt Jones for the GOP nomination in Georgia governor’s race NBC News Billionaire Rick Jackson defeats Trump-backed Burt Jones in Georgia governor race Politico Trump wins two, loses one: Georgia billionaire delivers rare blow to endorsement machine Fox News Georgia Governor Primary Runoff Election 2026 Live Results NBC News Georgia Vexes Trump Yet Again: 6 Takeaways From Tuesday’s Primaries The New York Times Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：乔治亚州、亿万富翁、州长、特朗普支持的、杰克逊。RSS 中文摘要显示：亿万富翁里克·杰克逊在佐治亚州州长竞选中击败特朗普支持的伯特·琼斯获得共和党提名 NBC新闻 亿万富翁里克·杰克逊在佐治亚州州长竞选中击败特朗普支持的伯特·琼斯 Politico 特朗普赢得两场，输一场：佐治亚州亿万富翁对背书机造成罕见的打击 福克斯新闻 佐治亚州州长初选决选 2026 实时结果 NBC新闻 佐治亚州再次惹恼特朗普：周二初选的 6 个要点 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: trump, macron, versailles, politico, and bust-up. The available excerpt says: How Macron won Trump round at the G7. Until the next bust-up. politico.eu France's Macron hosts Trump at Versailles Palace Reuters In pictures: The Palace of Versailles, Macron's beloved soft-power tool France 24 Golden ticket: why Versailles invite is the ‘real deal’ for Trump The Guardian Macron deploys Versailles’ gold, mirrors and history in a high-stakes courtship of Trump NBC News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：特朗普、马克龙、凡尔赛宫、政治报、争吵。RSS 中文摘要显示：马克龙如何在七国集团中赢得特朗普的胜利。直到下一次的争吵。 politico.eu 法国马克龙在凡尔赛宫接待特朗普 路透社 图片：凡尔赛宫，马克龙钟爱的软实力工具 法国 24 小时金票：为什么凡尔赛宫的邀请对特朗普来说是“真正的交易” 《卫报》 马克龙在对特朗普的高风险求爱中部署了凡尔赛宫的黄金、镜子和历史 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 10. [Graham now says Iran MOU signing will be ‘beneficial’ to US - The Hill](https://news.google.com/rss/articles/CBMie0FVX3lxTE1uUi1lRXZhckVnTF84Y3FtLVZoRW1sbnpLSFlKUEl3R0d4M281TnJkVU12WWpPRzJLZ1lwWVFoVmlIQ2N6aWFFYmN0UGtyRktjV0NVcXozbkRMc1d0cnRyU2E1cnB5bVR6MHhsQXRSdjdGRlBFRG9hMllUQdIBgAFBVV95cUxPbVIwdXhUYm5yUzFlVURmUU9uUWQ4YlhiNFlWc1l2cE1Xbl9jdUNKbm9XRW5QUFMyR0YzWmM5dUVPcjFjbm1xS1R4WmR3TzFGUzBKTXdKRFh1MEtuRjJfdzQzN3JRRXE0aENpbDNCYXNaUjZ6WC00bThaeG9IMnlSUQ?oc=5)
+
+- Source / 来源: The Hill. Published: `2026-06-17T19:19:00+00:00`.
+- Keywords / 关键词: iran, mou, beneficial, signing, graham, hill, trump, republicans, draws, deal
+- 中文关键词: 伊朗、牟、有利、签名、格雷厄姆、爬坡道、特朗普、共和党人、画、交易
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Graham now says Iran MOU signing will be ‘beneficial’ to US The Hill Trump’s MoU with Iran draws backlash from some Republicans Al Jazeera Republicans in Washington on edge over Iran deal as Trump touts its merits NBC News Trump’s Iran Agreement Draws More Alarm Than Relief From GOP Time Magazine Top House Democrats demand "immediate" Rubio briefing on U.S.-Iran deal Axios
+- RSS 中文摘要: 格雷厄姆现在表示，伊朗谅解备忘录的签署将对美国“有利” 特朗普与伊朗的谅解备忘录引起了一些共和党人的强烈反对 半岛电视台 华盛顿的共和党人对伊朗协议感到紧张，因为特朗普吹捧其优点 NBC新闻 特朗普的伊朗协议引起的恐慌多于共和党时代杂志的宽慰 众议院民主党人要求卢比奥“立即”就美伊协议进行简报 Axios
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: iran, mou, beneficial, signing, and graham. The available excerpt says: Graham now says Iran MOU signing will be ‘beneficial’ to US The Hill Trump’s MoU with Iran draws backlash from some Republicans Al Jazeera Republicans in Washington on edge over Iran deal as Trump touts its merits NBC News Trump’s Iran Agreement Draws More Alarm Than Relief From GOP Time Magazine Top House Democrats demand "immediate" Rubio briefing on U.S.-Iran deal Axios Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、牟、有利、签名、格雷厄姆。RSS 中文摘要显示：格雷厄姆现在表示，伊朗谅解备忘录的签署将对美国“有利” 特朗普与伊朗的谅解备忘录引起了一些共和党人的强烈反对 半岛电视台 华盛顿的共和党人对伊朗协议感到紧张，因为特朗普吹捧其优点 NBC新闻 特朗普的伊朗协议引起的恐慌多于共和党时代杂志的宽慰 众议院民主党人要求卢比奥“立即”就美伊协议进行简报 Axios 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
 
 
