@@ -10,155 +10,155 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-06-20T07:46:03+00:00` UTC.
+Generated at `2026-06-21T08:24:54+00:00` UTC.
 
-### 1. [Massive fire destroys resort in Dominican Republic and forces evacuation of almost 1,700 tourists - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxPRjNJLV9XTmprR08xYUNtQ0s1c1NoU2p6MHBvLTRIX2p3eWlkWDJnc19ZaHBjajNIVThPSkFaOFRzX1lnX1VPQVVidWt6ZnpHVklmOVhkMmtsamlRZnU0YjUzRkYtcDc5V2QxR2ViLTMwRzhjRk9MZl90WC1sOUtxNGFxOGlsVDdmdm12V1ZYSUVSQ3FoN2pZcXZicjRmcjg?oc=5)
+### 1. [US Vice President JD Vance arrives in Switzerland to launch talks with Iran on its nuclear program - AP News](https://news.google.com/rss/articles/CBMingFBVV95cUxNNFh5b3dHTzJSUUpQVUtRWDdqTG5SYWtlNHhyNXBuRWZEbHgycFNiZUVkLTJsa3d5NkJiMDVjeDE2LVpEVGJ1YkZURGlpZnc0WlAySkJVcVc2dTJsNHAzNVZQaElzS1BZeVN6TzJDTGFzOV9TZVdZMV9FRHhYNVpsMkV2MjcwNXI0NUtORXlMd2lzTmdlUDl3TWxOblBZQQ?oc=5)
 
-- Source / 来源: AP News. Published: `2026-06-20T04:07:00+00:00`.
-- Keywords / 关键词: dominican, republic, resort, fire, destroys, massive, evacuation, tourists, forces, almost
-- 中文关键词: 多米尼加、共和国、采取、火、破坏、大量的、疏散、游客、力量、几乎
-- Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: Massive fire destroys resort in Dominican Republic and forces evacuation of almost 1,700 tourists AP News Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic CNN Tourist dead after massive fire breaks out at Dominican Republic resort: Officials ABC News - Breaking News, Latest News and Videos Dominican Republic: Tourist dies after huge fire destroys luxury beach resort Sky News Raging inferno at Dominican resort leaves one dead, nearly 1,700 forced to evacuate New York Post
-- RSS 中文摘要: 大火摧毁了多米尼加共和国的度假村，迫使近 1,700 名游客疏散 美联社新闻 多米尼加共和国的海滩酒店发生火灾，一名妇女丧生，1,700 人被疏散 CNN 多米尼加共和国度假村发生大规模火灾后，游客死亡：官方 ABC 新闻 - 突发新闻、最新新闻和视频 多米尼加共和国：大火摧毁了豪华海滩度假村，游客死亡 天空新闻 多米尼加度假村的熊熊大火造成一人死亡，近纽约邮报1700人被迫撤离
-- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
-- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: dominican, republic, resort, fire, and destroys. The available excerpt says: Massive fire destroys resort in Dominican Republic and forces evacuation of almost 1,700 tourists AP News Woman killed, 1,700 evacuated in beach hotel fire in Dominican Republic CNN Tourist dead after massive fire breaks out at Dominican Republic resort: Officials ABC News - Breaking News, Latest News and Videos Dominican Republic: Tourist dies after huge fire destroys luxury beach resort Sky News Raging inferno at Dominican resort leaves one dead, nearly 1,700 forced to evacuate New York Post Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：多米尼加、共和国、采取、火、破坏。RSS 中文摘要显示：大火摧毁了多米尼加共和国的度假村，迫使近 1,700 名游客疏散 美联社新闻 多米尼加共和国的海滩酒店发生火灾，一名妇女丧生，1,700 人被疏散 CNN 多米尼加共和国度假村发生大规模火灾后，游客死亡：官方 ABC 新闻 - 突发新闻、最新新闻和视频 多米尼加共和国：大火摧毁了豪华海滩度假村，游客死亡 天空新闻 多米尼加度假村的熊熊大火造成一人死亡，近纽约邮报1700人被迫撤离 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
-- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
-- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
-
-### 2. [Trump visits new Air Force One, a luxury gift from Qatar that will soon fly him - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxONW5YUnZBMXdubGF4VTVMUUk1Vk9RMEEtQUVzSXdpOG1LSG4waFVPTTZ2RU5UV1FPemNSVzY4X2NHeHBiLVZfUUxrcUFLYXh2Mk41ZXdFTllEbnZNYVVCN0haVThWS05wMklqX2xzZ0h6ZDFUcXYyUlFYWnZScEJSQ1lsekw5a3pNZHFOQUUwWGNwa2NMTXFubG1qemoyV00wcExBRFVZOTZnaEkwb3NwcWVDSXkxVjhh?oc=5)
-
-- Source / 来源: The Washington Post. Published: `2026-06-20T03:35:37+00:00`.
-- Keywords / 关键词: air, force, one, trump, washington, visits, luxury, qatar, gift, soon
-- 中文关键词: 空气、力量、一、特朗普、华盛顿、访问、奢华、卡塔尔、礼物、很快
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Trump visits new Air Force One, a luxury gift from Qatar that will soon fly him The Washington Post President Donald Trump unveils the new Air Force One, a converted Qatari jet wfla.com New Air Force One delivered to Joint Base Andrews FOX 11 Los Angeles Trump reveals new Qatari Air Force One with Starlink comms system Yahoo From the Sacred Cow to the VC-25B Bridge: The aircraft that carried US presidents Air Data News
-- RSS 中文摘要: 特朗普参观新的空军一号，这是卡塔尔送给他的豪华礼物，他很快就会乘坐华盛顿邮报总统唐纳德·特朗普揭晓新的空军一号，这是一架经过改装的卡塔尔喷气式飞机 wfla.com 新空军一号交付给安德鲁斯联合基地 FOX 11 洛杉矶 特朗普展示了带有星链通讯系统的新卡塔尔空军一号 雅虎 从圣牛到 VC-25B 大桥：这架运载美国总统的飞机 航空数据新闻
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: air, force, one, trump, and washington. The available excerpt says: Trump visits new Air Force One, a luxury gift from Qatar that will soon fly him The Washington Post President Donald Trump unveils the new Air Force One, a converted Qatari jet wfla.com New Air Force One delivered to Joint Base Andrews FOX 11 Los Angeles Trump reveals new Qatari Air Force One with Starlink comms system Yahoo From the Sacred Cow to the VC-25B Bridge: The aircraft that carried US presidents Air Data News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：空气、力量、一、特朗普、华盛顿。RSS 中文摘要显示：特朗普参观新的空军一号，这是卡塔尔送给他的豪华礼物，他很快就会乘坐华盛顿邮报总统唐纳德·特朗普揭晓新的空军一号，这是一架经过改装的卡塔尔喷气式飞机 wfla.com 新空军一号交付给安德鲁斯联合基地 FOX 11 洛杉矶 特朗普展示了带有星链通讯系统的新卡塔尔空军一号 雅虎 从圣牛到 VC-25B 大桥：这架运载美国总统的飞机 航空数据新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 3. [As Juneteenth is celebrated across the US, Obama’s presidential center opens in Chicago - AP News](https://news.google.com/rss/articles/CBMisAFBVV95cUxQR3RLTld3X1BZSEtTRUFwb3BWRmRkblYxVHlNZXpZaGt3TFZPRDhyU2dacF9HR0VJODU0Tk00UHVXSFJ6aXFGNm0tUFNYbTV3M0EzeTFXYlN2dTZXajR3MFRTOGJKY0lnN19nSV9NYkdNdnZFZWM0Z3UyVzBrbUhBVDBqR2VjOVRFaXY4MG9JNEc4aHNGZmpzcUZnaVBKclZqbE52bGcwSnJJSE1pcWMzcw?oc=5)
-
-- Source / 来源: AP News. Published: `2026-06-20T02:27:00+00:00`.
-- Keywords / 关键词: obama, presidential, chicago, center, juneteenth, celebrated, across, opens, opening, president
-- 中文关键词: 奥巴马、总统、芝加哥、中心、六月节、著名、穿过、打开、开幕
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: As Juneteenth is celebrated across the US, Obama’s presidential center opens in Chicago AP News Barack and Michelle Obama surprise Chicago students at opening of presidential center's public library WBEZ Chicago The Shadow Looming Over Obama’s Day in the Sun Politico Opinion | The Obama Presidential Center is unlike anything we've ever seen MS NOW President Trump was not invited to the Obama Presidential Center grand opening NBC 5 Chicago
-- RSS 中文摘要: 在美国各地庆祝六月节之际，奥巴马总统中心在芝加哥开业 美联社新闻 巴拉克和米歇尔·奥巴马在总统中心公共图书馆 WBEZ 芝加哥的开放仪式上给芝加哥学生带来了惊喜 奥巴马日的阴影笼罩在阳光下奥巴马总统中心与我们见过的任何东西都不一样 MS NOW 特朗普总统没有被邀请参加奥巴马总统中心的盛大开幕式 NBC 5 芝加哥
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: obama, presidential, chicago, center, and juneteenth. The available excerpt says: As Juneteenth is celebrated across the US, Obama’s presidential center opens in Chicago AP News Barack and Michelle Obama surprise Chicago students at opening of presidential center's public library WBEZ Chicago The Shadow Looming Over Obama’s Day in the Sun Politico Opinion | The Obama Presidential Center is unlike anything we've ever seen MS NOW President Trump was not invited to the Obama Presidential Center grand opening NBC 5 Chicago Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：奥巴马、总统、芝加哥、中心、六月节。RSS 中文摘要显示：在美国各地庆祝六月节之际，奥巴马总统中心在芝加哥开业 美联社新闻 巴拉克和米歇尔·奥巴马在总统中心公共图书馆 WBEZ 芝加哥的开放仪式上给芝加哥学生带来了惊喜 奥巴马日的阴影笼罩在阳光下奥巴马总统中心与我们见过的任何东西都不一样 MS NOW 特朗普总统没有被邀请参加奥巴马总统中心的盛大开幕式 NBC 5 芝加哥 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 4. [Driver dies and 33 people seriously injured in Bedford train crash - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zU0thTGVJM29udEdMX2lCdHdGb0hETksxaktzamdFSlFRRUZISmlvTkpDajloNHFrMHNNeFlyS2lKTjVHYUM2aUdJNUw3eEpTYzRPcHE2VjZRdw?oc=5)
-
-- Source / 来源: BBC. Published: `2026-06-20T00:37:23+00:00`.
-- Keywords / 关键词: injured, bedford, driver, train, seriously, dies, people, crash, collide, trains
-- 中文关键词: 受伤、贝德福德、司机、火车、严重地、死了、人们、碰撞
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Driver dies and 33 people seriously injured in Bedford train crash BBC Driver dies and 11 passengers very seriously injured in Bedford train crash as police declare major incident BBC Emergency Workers On Scene After Two Trains Collide In The Bedford Area Yahoo Train driver dies and 89 people injured after two trains collide near Bedford The Guardian Train driver killed in collision - with dozens seriously injured Sky News
-- RSS 中文摘要: 贝德福德火车相撞事故中，司机死亡，33人重伤 贝德福德地区两列火车相撞后，BBC司机在贝德福德火车相撞事故中死亡，11名乘客重伤
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: injured, bedford, driver, train, and seriously. The available excerpt says: Driver dies and 33 people seriously injured in Bedford train crash BBC Driver dies and 11 passengers very seriously injured in Bedford train crash as police declare major incident BBC Emergency Workers On Scene After Two Trains Collide In The Bedford Area Yahoo Train driver dies and 89 people injured after two trains collide near Bedford The Guardian Train driver killed in collision - with dozens seriously injured Sky News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：受伤、贝德福德、司机、火车、严重地。RSS 中文摘要显示：贝德福德火车相撞事故中，司机死亡，33人重伤 贝德福德地区两列火车相撞后，BBC司机在贝德福德火车相撞事故中死亡，11名乘客重伤 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 5. [How China’s Navy Is Tightening the Noose on Taiwan - WSJ](https://news.google.com/rss/articles/CBMilAFBVV95cUxPODM5dGF5Z2pUS1NPNlFWU1ZuTlNxRmNQMUFSQlNKR2V0OE14M1pCa1ZOdVg2UnVlZEpuQXpYdzJzUG5mdkVpNGkzOGtKS0l2ZUtiOEdxQnpWcHVCTVRwdUl4SUVpYmIzaHNsLXRsSE9RX2I5bFE5MTdOdGsxZHlkMnJFUHpVOEdVcHk5TzFPUUlHT0hT?oc=5)
-
-- Source / 来源: WSJ. Published: `2026-06-20T03:00:00+00:00`.
-- Keywords / 关键词: taiwan, china, tightening, noose, navy, wsj, beijing, tokyo-manila, philippines, thinkchina
-- 中文关键词: 台湾、中国、收紧、套索、海军、华尔街日报、北京、东京-马尼拉、菲律宾、思华
+- Source / 来源: AP News. Published: `2026-06-21T06:55:00+00:00`.
+- Keywords / 关键词: switzerland, president, arrives, nuclear, program, launch, vance, talks, vice, iran
+- 中文关键词: 瑞士、总统、到达、核、程序、发射、万斯、会谈、副、伊朗
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: How China’s Navy Is Tightening the Noose on Taiwan WSJ Taiwan holding off PRC at sea: officials Taipei Times Beijing details rare marine survey east of Taiwan after Tokyo-Manila talks South China Morning Post Did Japan and the Philippines expand Beijing’s reach in Taiwan’s eastern waters? ThinkChina Taiwan tracks 5 Chinese military planes and 14 ships Taiwan News
-- RSS 中文摘要: 中国海军如何收紧对台湾的绞索 《华尔街日报》 台湾在海上阻止中华人民共和国：官员 《台北时报·北京》详细介绍了东京-马尼拉会谈后在台湾东部进行的罕见海洋调查 《南华早报》 日本和菲律宾是否扩大了北京在台湾东部海域的影响力？ ThinkChina台湾追踪5架中国军机和14艘舰船 台湾新闻
+- RSS Excerpt / RSS 摘要: US Vice President JD Vance arrives in Switzerland to launch talks with Iran on its nuclear program AP News See more headlines & perspectives on Google News
+- RSS 中文摘要: 美国副总统万斯抵达瑞士，与伊朗就其核计划展开会谈 美联社新闻 在 Google 新闻上查看更多头条新闻和观点
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: taiwan, china, tightening, noose, and navy. The available excerpt says: How China’s Navy Is Tightening the Noose on Taiwan WSJ Taiwan holding off PRC at sea: officials Taipei Times Beijing details rare marine survey east of Taiwan after Tokyo-Manila talks South China Morning Post Did Japan and the Philippines expand Beijing’s reach in Taiwan’s eastern waters? ThinkChina Taiwan tracks 5 Chinese military planes and 14 ships Taiwan News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：台湾、中国、收紧、套索、海军。RSS 中文摘要显示：中国海军如何收紧对台湾的绞索 《华尔街日报》 台湾在海上阻止中华人民共和国：官员 《台北时报·北京》详细介绍了东京-马尼拉会谈后在台湾东部进行的罕见海洋调查 《南华早报》 日本和菲律宾是否扩大了北京在台湾东部海域的影响力？ ThinkChina台湾追踪5架中国军机和14艘舰船 台湾新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: switzerland, president, arrives, nuclear, and program. The available excerpt says: US Vice President JD Vance arrives in Switzerland to launch talks with Iran on its nuclear program AP News See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：瑞士、总统、到达、核、程序。RSS 中文摘要显示：美国副总统万斯抵达瑞士，与伊朗就其核计划展开会谈 美联社新闻 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 6. [Trump envoys head to Switzerland for potential Iran talks - Axios](https://news.google.com/rss/articles/CBMieEFVX3lxTE1PRXNIYTNBc0dxTW93ZUt2Q0M5SlA2LVplTkxfNmZoYkljYUo3Qkx3Q3VNVkxjMWFqc1o0bkxCZVhmSGxzaUdNVC1uWFlva1FHSXdVQkI3SW9hRmc5bjNkMFlKZXYyYnNkcE1ZR3Q2SkJwbkhhb1B6Tg?oc=5)
+### 2. [Vance travels to Switzerland for nuclear talks with Iran - Axios](https://news.google.com/rss/articles/CBMibkFVX3lxTFBnckVEWGdpeEMwTVRqeXdqaHpJNjBzOVdoLWU2VV9WM1JXcVVJM2F3VFBsX0p6NndwQmx3MFNzY1pTaGRRZGZFblRudy1HbHR1YzhUVXZDUnM5SkRZQTkwZmRVRm5ONHE5UklxY3JR?oc=5)
 
-- Source / 来源: Axios. Published: `2026-06-20T00:46:40+00:00`.
-- Keywords / 关键词: talks, switzerland, iran, envoys, head, potential, trump, axios, witkoff, heading
-- 中文关键词: 会谈、瑞士、伊朗、特使、头、潜在的、特朗普、轴、威特科夫、标题
+- Source / 来源: Axios. Published: `2026-06-21T05:54:16+00:00`.
+- Keywords / 关键词: switzerland, travels, nuclear, vance, talks, axios, iran, perspectives, headlines, google
+- 中文关键词: 瑞士、旅行、核、万斯、会谈、轴、伊朗、观点、头条新闻、谷歌
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump envoys head to Switzerland for potential Iran talks Axios Live updates: Witkoff heading to Switzerland for Iran talks, US official says CNN Iran war: Steve Witkoff heading to Switzerland for talks dw.com US, Iran envoys head for talks, Israeli strikes continue after ceasefire Reuters US envoy headed for Switzerland, Israeli strikes on Lebanon threaten talks Al Jazeera
-- RSS 中文摘要: 特朗普特使前往瑞士进行潜在的伊朗会谈 Axios Live更新：威特科夫前往瑞士进行伊朗会谈，美国官员称 CNN 伊朗战争：史蒂夫·威特科夫前往瑞士进行会谈 dw.com 美国，伊朗特使前往瑞士进行会谈，以色列在停火后继续发动袭击 路透社 美国特使前往瑞士，以色列对黎巴嫩的袭击威胁到会谈
+- RSS Excerpt / RSS 摘要: Vance travels to Switzerland for nuclear talks with Iran Axios See more headlines & perspectives on Google News
+- RSS 中文摘要: 万斯前往瑞士与伊朗进行核谈判 Axios 在 Google 新闻上查看更多头条新闻和观点
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: talks, switzerland, iran, envoys, and head. The available excerpt says: Trump envoys head to Switzerland for potential Iran talks Axios Live updates: Witkoff heading to Switzerland for Iran talks, US official says CNN Iran war: Steve Witkoff heading to Switzerland for talks dw.com US, Iran envoys head for talks, Israeli strikes continue after ceasefire Reuters US envoy headed for Switzerland, Israeli strikes on Lebanon threaten talks Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：会谈、瑞士、伊朗、特使、头。RSS 中文摘要显示：特朗普特使前往瑞士进行潜在的伊朗会谈 Axios Live更新：威特科夫前往瑞士进行伊朗会谈，美国官员称 CNN 伊朗战争：史蒂夫·威特科夫前往瑞士进行会谈 dw.com 美国，伊朗特使前往瑞士进行会谈，以色列在停火后继续发动袭击 路透社 美国特使前往瑞士，以色列对黎巴嫩的袭击威胁到会谈 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: switzerland, travels, nuclear, vance, and talks. The available excerpt says: Vance travels to Switzerland for nuclear talks with Iran Axios See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：瑞士、旅行、核、万斯、会谈。RSS 中文摘要显示：万斯前往瑞士与伊朗进行核谈判 Axios 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 7. [UK Bonds Fall as Burnham Win, Oil Prices Renew Fiscal Concerns - Bloomberg.com](https://news.google.com/rss/articles/CBMisgFBVV95cUxNcjRhTEdyZmVsajAzWGU0LTc3aXlPUXlrVTBEdTQtYWpuSFhFQ05QaWZZTE9SUjFKcFctYlBvckNBd2VJNVA1cGR0bVJYTVk2YWwtaDhPaXc1WEcwak1EUVZPdFpNMmtacklyYnBoRDdSTm5ZbFJhUEw4SHczLXg1S1pYM1RlUGlPTVlIRWV0d0VrU2pwNjJZQ09BMFpvR091V2FxTG54WWdPRWVOeHVHZXF3?oc=5)
+### 3. [Cyclist arrested at Reflecting Pool is former Olympian who denies vandalism claims - The Washington Post](https://news.google.com/rss/articles/CBMisgFBVV95cUxNSUNjLVVfUkprV1lmWVo5V2lFVmdTX2dsbGMybmhJMllvQzllOTFONkNiWWlxRTJJa0tVdzVRb195VXBRa3JiSU4ycU9KbEZhOGltU2RCMHZ5SGtqanRtVHZqbWVaa2RNTlR0NFNBaHUzNjBJR1cxOC04czV5QmZZazZZQjkzclJmcmg3YnBIVmxZRDZPbG9GWjBVQUlKakNXUjVKc05SZE9uR1V3X25xZkV3?oc=5)
 
-- Source / 来源: Bloomberg.com. Published: `2026-06-19T15:11:33+00:00`.
-- Keywords / 关键词: burnham, fiscal, com, concerns, prices, bonds, renew, fall, win, oil
-- 中文关键词: 伯纳姆、财、com、担忧、价格、债券、更新、落下、赢、石油
+- Source / 来源: The Washington Post. Published: `2026-06-21T05:41:34+00:00`.
+- Keywords / 关键词: reflecting, pool, olympian, former, washington, vandalism, arrested, denies, cyclist, claims
+- 中文关键词: 反映、水池、奥林匹斯山的、以前的、华盛顿、破坏公物、被捕、否认、骑自行车的人、索赔
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: UK Bonds Fall as Burnham Win, Oil Prices Renew Fiscal Concerns Bloomberg.com PM under pressure from Labour MPs and ministers to set timetable for exit BBC Burnham May Yet Rewrite UK Fiscal Playbook If He Becomes Premier Bloomberg.com Reform’s genius plan is finally coming into view: field terrible candidates then lose | Marina Hyde The Guardian He Quit Parliament. Now He’s Set to Become Britain’s Prime Minister. Politico
-- RSS 中文摘要: 伯纳姆获胜，英国债券下跌，油价重燃财政担忧 彭博社首相在工党议员和部长的压力下制定退出时间表 BBC 伯纳姆如果成为总理，可能会重写英国财政剧本 彭博社改革的天才计划终于进入人们的视野：糟糕的候选人然后失败 |玛丽娜·海德 (Marina Hyde) 卫报 他退出议会。现在他即将成为英国首相。政治报
+- RSS Excerpt / RSS 摘要: Cyclist arrested at Reflecting Pool is former Olympian who denies vandalism claims The Washington Post Bethesda man and former olympian arrested for taking paint from Reflecting Pool WUSA9 Davey Hearn: Former Olympian denies vandalising Washington Reflecting Pool after arrest BBC Trump, Claiming Vandalism, Says Reflecting Pool Will Likely Need to Be Drained The New York Times Algae clouded Trump's vision for the Reflecting Pool. But scientists aren't surprised NPR
+- RSS 中文摘要: 在倒影池被捕的自行车手是前奥运选手，他否认蓄意破坏行为 《华盛顿邮报》贝塞斯达男子和前奥运会选手因从倒影池拿油漆而被捕 WUSA9 戴维·赫恩：前奥运选手被捕后否认破坏华盛顿倒影池 BBC 特朗普声称故意破坏，称倒影池可能需要排水 《纽约时报》 藻类给特朗普对倒影池的愿景蒙上了阴影。但科学家们对 NPR 并不感到惊讶
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: burnham, fiscal, com, concerns, and prices. The available excerpt says: UK Bonds Fall as Burnham Win, Oil Prices Renew Fiscal Concerns Bloomberg.com PM under pressure from Labour MPs and ministers to set timetable for exit BBC Burnham May Yet Rewrite UK Fiscal Playbook If He Becomes Premier Bloomberg.com Reform’s genius plan is finally coming into view: field terrible candidates then lose | Marina Hyde The Guardian He Quit Parliament. Now He’s Set to Become Britain’s Prime Minister. Politico Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：伯纳姆、财、com、担忧、价格。RSS 中文摘要显示：伯纳姆获胜，英国债券下跌，油价重燃财政担忧 彭博社首相在工党议员和部长的压力下制定退出时间表 BBC 伯纳姆如果成为总理，可能会重写英国财政剧本 彭博社改革的天才计划终于进入人们的视野：糟糕的候选人然后失败 |玛丽娜·海德 (Marina Hyde) 卫报 他退出议会。现在他即将成为英国首相。政治报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: reflecting, pool, olympian, former, and washington. The available excerpt says: Cyclist arrested at Reflecting Pool is former Olympian who denies vandalism claims The Washington Post Bethesda man and former olympian arrested for taking paint from Reflecting Pool WUSA9 Davey Hearn: Former Olympian denies vandalising Washington Reflecting Pool after arrest BBC Trump, Claiming Vandalism, Says Reflecting Pool Will Likely Need to Be Drained The New York Times Algae clouded Trump's vision for the Reflecting Pool. But scientists aren't surprised NPR Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：反映、水池、奥林匹斯山的、以前的、华盛顿。RSS 中文摘要显示：在倒影池被捕的自行车手是前奥运选手，他否认蓄意破坏行为 《华盛顿邮报》贝塞斯达男子和前奥运会选手因从倒影池拿油漆而被捕 WUSA9 戴维·赫恩：前奥运选手被捕后否认破坏华盛顿倒影池 BBC 特朗普声称故意破坏，称倒影池可能需要排水 《纽约时报》 藻类给特朗普对倒影池的愿景蒙上了阴影。但科学家们对 NPR 并不感到惊讶 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 8. [Israeli official spurns call for truce: ‘All of Lebanon must burn’ - The Hill](https://news.google.com/rss/articles/CBMimAFBVV95cUxQTTlYaXdKN2ZHWUU0X19seEIxMDVCOWxKRWlYaHR5bVRpYWVhWmxYQzhXWDkxWFhHeGVVQjcwVFJULS1Ma2xaSHlNdXVhTTl2RTFEN3JxS3cwXzFTZEZGWjJzT2oxWm9SZVlTYWo3dm9xNjFPakhMNjd2Vnk2TDZNbmNEVjdpdWxKSXlRSk5jMXFRcS1WT1RRMdIBngFBVV95cUxQelRFQlVxRUxyNUhtdW9GdlcwX0hmNlBPbFNDZzhjVXl3c09ITWhEeEpBamtkeTR2aUdKRUFZNUJtbFFjZ3cxd0FwSUFwZXo5RkRDeWVaSmxTS0djV2NtdHZhblJoSURCYWliVEFTemNoV1I0dFYyaG1fckt0NEM5ZVJDNTZraUpBR001TDdCZjNvYWZTVl9aSjNOQWlzUQ?oc=5)
+### 4. [Polish president strips Zelensky of honor after special forces unit’s renaming - The Washington Post](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPb3VmcFJkSmZSeEZGTTdiWEFfZjdrN1R5ZnBqLVp4d0p3VHRJbkc5UEFfbkJvY2ZuWHBLcW9lR2s4blVKSWhoNzZOMXl0VldnTmNCRHpRa3hyZ1Y1c0FFQzVfQXVnSHN2TkNjN19FQ2ZJYjdmcDNjT3BQYm1EMDJwMDRmdXhSMm43VTBCWE4yVHYtY3ZnVlhoUEdwam1yUzRlMDFVWjc5M1lEZlZJanlTOUdEdlhuRVAzY3BTOF9IcjU?oc=5)
 
-- Source / 来源: The Hill. Published: `2026-06-19T14:55:00+00:00`.
-- Keywords / 关键词: lebanon, israeli, official, strikes, spurns, truce, call, must, burn, hill
-- 中文关键词: 黎巴嫩、以色列、官方的、袭击、鳍、休战、称呼、必须、烧伤、爬坡道
+- Source / 来源: The Washington Post. Published: `2026-06-21T03:57:15+00:00`.
+- Keywords / 关键词: zelensky, polish, honor, president, unit, washington, renaming, special, strips, forces
+- 中文关键词: 泽伦斯基、抛光、荣誉、总统、单元、华盛顿、重命名、特别的、条状、力量
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Israeli official spurns call for truce: ‘All of Lebanon must burn’ The Hill At least five killed in Israeli strikes on south Lebanon despite ceasefire Reuters Lebanon says Israel has carried out a wave of fresh strikes, killing at least five people Euronews.com Shut out of U.S.-Iran talks, Israel makes its impact felt with deadly Lebanon strikes NBC News Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah BBC
-- RSS 中文摘要: 以色列官员拒绝休战呼吁：“整个黎巴嫩都必须被烧毁” 尽管停火，以色列对黎巴嫩南部的袭击至少造成 5 人死亡 路透社 黎巴嫩称，以色列发动了一波新的袭击，造成至少 5 人死亡 Euronews.com 被排除在美伊谈判之外，以色列对黎巴嫩发动致命袭击，以体现其影响力 NBC 新闻 黎巴嫩称，以色列的袭击造成 47 人死亡，以色列称四名士兵被真主党打死 BBC
+- RSS Excerpt / RSS 摘要: Polish president strips Zelensky of honor after special forces unit’s renaming The Washington Post Zelensky returns Poland’s highest honor amid escalating row over nationalist wartime unit CNN Ukraine's third president on renouncing Polish Order of White Eagle: Nawrocki's decision unquestionably irres Українська правда Zelenskyy returns Poland's highest honor as row deepens DW.com Zelensky returns highest Polish honour after award stripped BBC
+- RSS 中文摘要: 特种部队更名后，波兰总统剥夺了泽连斯基的荣誉 《华盛顿邮报》 泽连斯基在民族主义战时部队争议不断升级之际，返回波兰最高荣誉 CNN 乌克兰第三位总统放弃波兰白鹰勋章：纳罗基的决定毫无疑问会影响 Українська правда 泽连斯基在争端加深之际，返回波兰最高荣誉 DW.com 泽连斯基返回波兰最高荣誉被剥夺BBC奖项后
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: lebanon, israeli, official, strikes, and spurns. The available excerpt says: Israeli official spurns call for truce: ‘All of Lebanon must burn’ The Hill At least five killed in Israeli strikes on south Lebanon despite ceasefire Reuters Lebanon says Israel has carried out a wave of fresh strikes, killing at least five people Euronews.com Shut out of U.S.-Iran talks, Israel makes its impact felt with deadly Lebanon strikes NBC News Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah BBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：黎巴嫩、以色列、官方的、袭击、鳍。RSS 中文摘要显示：以色列官员拒绝休战呼吁：“整个黎巴嫩都必须被烧毁” 尽管停火，以色列对黎巴嫩南部的袭击至少造成 5 人死亡 路透社 黎巴嫩称，以色列发动了一波新的袭击，造成至少 5 人死亡 Euronews.com 被排除在美伊谈判之外，以色列对黎巴嫩发动致命袭击，以体现其影响力 NBC 新闻 黎巴嫩称，以色列的袭击造成 47 人死亡，以色列称四名士兵被真主党打死 BBC 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: zelensky, polish, honor, president, and unit. The available excerpt says: Polish president strips Zelensky of honor after special forces unit’s renaming The Washington Post Zelensky returns Poland’s highest honor amid escalating row over nationalist wartime unit CNN Ukraine's third president on renouncing Polish Order of White Eagle: Nawrocki's decision unquestionably irres Українська правда Zelenskyy returns Poland's highest honor as row deepens DW.com Zelensky returns highest Polish honour after award stripped BBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：泽伦斯基、抛光、荣誉、总统、单元。RSS 中文摘要显示：特种部队更名后，波兰总统剥夺了泽连斯基的荣誉 《华盛顿邮报》 泽连斯基在民族主义战时部队争议不断升级之际，返回波兰最高荣誉 CNN 乌克兰第三位总统放弃波兰白鹰勋章：纳罗基的决定毫无疑问会影响 Українська правда 泽连斯基在争端加深之际，返回波兰最高荣誉 DW.com 泽连斯基返回波兰最高荣誉被剥夺BBC奖项后 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 9. [Newly released images show Karmelo Anthony at murder scene before & after stabbing - KBOI](https://news.google.com/rss/articles/CBMijwNBVV95cUxOZV9iWXZXZV9kUTNtVGUxdk5vOTdpbGxDT19CSFIzZGtfNUYzNmdBUDhBN1FDWTZCSTVweW9udEZ5cFRLN1ExdmdFSmxEeGVxUDc5T0pZSE5RRjdDSVFZaE13bUFMVV9HUlFWOHNqOVh6ZGNIS2pSV09HYnp1bXhqSWQ1dkpqdS1kXzJMUElBNUo0NUdZaE1TMk13bTJ5M3BhWnVoOW9rTmx2WmppMlFyVHBDMUlnWFlZTmpsNktfdXlwc3FUQWNfYVc4eTZuTWJTUWxOZkE3cnNpaDVjcmkzWHpHNUJ4dWdOQlQ1LWJvR0dJNE9JeU51ZzFkeUZjeW56Y3VjU0dBWlFMMnowSTJCVzJoRzdPb0FWSGdTN2NzZmlhVHhTNFpLaG14R2Rkb2lSejlyQkh4TktadnY1TkdVOVVIODhjcVEtQ1RNWjJ2bUtwN2RsaHJkMXdCczc5d1J6d1I0R0F5OUJHQUJzRFZiaTlTTHdQREk5SE1uZG10WFFnaWM4cFBGejl5b3BGLTg?oc=5)
+### 5. [Luxury Kushner Project Collides With Albanian Discontent - The New York Times](https://news.google.com/rss/articles/CBMijgFBVV95cUxOcE43N3BLeW42TWVnY2JkaUVWSHFKVTBjQU8tVzZ1b0xKLXNhRjlwV3JqaDgzT0dNQ3R4YnAyZlRxdjlmOEs1djJvU3R6clZhaHNWN0hfMmFrWkIxUTNMSjVZa3RWTXc0UzVRb3hUWElqRGtqZkR2eGExbVM4ZmxfZHRIc2tkdkV6OUszNFNn?oc=5)
 
-- Source / 来源: KBOI. Published: `2026-06-20T02:25:50+00:00`.
-- Keywords / 关键词: karmelo, anthony, murder, released, stabbing, images, show, before, newly, scene
-- 中文关键词: 卡梅尔、安东尼、谋杀、释放、刺、图片、展示、前、新、场景
+- Source / 来源: The New York Times. Published: `2026-06-21T04:01:19+00:00`.
+- Keywords / 关键词: albanian, kushner, project, discontent, collides, luxury, flamingo, albania, trump, kushner-linked
+- 中文关键词: 阿尔巴尼亚语、库什纳、项目、不满、碰撞、奢华、火烈鸟、阿尔巴尼亚、特朗普、库什纳相关
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Luxury Kushner Project Collides With Albanian Discontent The New York Times Albania’s flamingo protests target Donald Trump’s son-in-law The Economist A controversial resort project in Albania linked to Jared Kushner and Ivanka Trump NPR Albanian Protesters Demand Premier Quit Over Kushner-Linked Plan Bloomberg.com Tens of thousands of Albanians join ‘Flamingo Revolution’ protest Financial Times
+- RSS 中文摘要: 豪华库什纳项目与阿尔巴尼亚人的不满情绪发生冲突 《纽约时报》阿尔巴尼亚的火烈鸟抗议活动针对唐纳德·特朗普的女婿《经济学人》 阿尔巴尼亚一个有争议的度假村项目与贾里德·库什纳和伊万卡·特朗普有关 NPR 阿尔巴尼亚抗议者要求总理退出与库什纳相关的计划
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: albanian, kushner, project, discontent, and collides. The available excerpt says: Luxury Kushner Project Collides With Albanian Discontent The New York Times Albania’s flamingo protests target Donald Trump’s son-in-law The Economist A controversial resort project in Albania linked to Jared Kushner and Ivanka Trump NPR Albanian Protesters Demand Premier Quit Over Kushner-Linked Plan Bloomberg.com Tens of thousands of Albanians join ‘Flamingo Revolution’ protest Financial Times Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：阿尔巴尼亚语、库什纳、项目、不满、碰撞。RSS 中文摘要显示：豪华库什纳项目与阿尔巴尼亚人的不满情绪发生冲突 《纽约时报》阿尔巴尼亚的火烈鸟抗议活动针对唐纳德·特朗普的女婿《经济学人》 阿尔巴尼亚一个有争议的度假村项目与贾里德·库什纳和伊万卡·特朗普有关 NPR 阿尔巴尼亚抗议者要求总理退出与库什纳相关的计划 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 6. [Vance Heads to Peace Talks, After Iran Says It Closed Strait of Hormuz - WSJ](https://news.google.com/rss/articles/CBMitAFBVV95cUxQNkd5TEZMLWtpYzV4VUhyVUw5ZEhBWlpFbnNYU0RveVFYUmFka2pfakU3XzF6RFFQbHpSU09ud0lyN000bld1WHdkaUxaT1RydUFDbWRJalduUU1yQjlHaHh2NlFneDZDRm00cTZ4WkRhN25BUmtxV3ozNjFBYzZNSHBoNURFYWdnMWhvNG9yOGFQaHhNMTZHQ2w0dThNRnBwY0djajBMb0NtM2g3VU84ZGZrbUo?oc=5)
+
+- Source / 来源: WSJ. Published: `2026-06-20T22:34:00+00:00`.
+- Keywords / 关键词: iran, closed, strait, hormuz, vance, heads, peace, talks, wsj, switzerland
+- 中文关键词: 伊朗、关闭、海峡、霍尔木兹、万斯、头、和平、会谈、华尔街日报、瑞士
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Vance Heads to Peace Talks, After Iran Says It Closed Strait of Hormuz WSJ Vance lands in Switzerland as Iran says Strait of Hormuz is closed over ceasefire violations NBC News Iran claims the Strait of Hormuz is closed again. Few ships were leaving in the first place CNN Iran negotiators, Vance head for Switzerland but Lebanon fighting continues Reuters Vice President JD Vance's Boast Blows Up in His Face While Live on Air The Daily Beast
+- RSS 中文摘要: 伊朗称关闭霍尔木兹海峡后，万斯前往和谈 华尔街日报 万斯登陆瑞士，伊朗称霍尔木兹海峡因违反停火协议而关闭 NBC新闻 伊朗声称霍尔木兹海峡再次关闭。 CNN 伊朗谈判代表万斯前往瑞士，但黎巴嫩战斗仍在继续 路透社副总统 JD 万斯在直播时夸口不已 The Daily Beast
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: iran, closed, strait, hormuz, and vance. The available excerpt says: Vance Heads to Peace Talks, After Iran Says It Closed Strait of Hormuz WSJ Vance lands in Switzerland as Iran says Strait of Hormuz is closed over ceasefire violations NBC News Iran claims the Strait of Hormuz is closed again. Few ships were leaving in the first place CNN Iran negotiators, Vance head for Switzerland but Lebanon fighting continues Reuters Vice President JD Vance's Boast Blows Up in His Face While Live on Air The Daily Beast Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、关闭、海峡、霍尔木兹、万斯。RSS 中文摘要显示：伊朗称关闭霍尔木兹海峡后，万斯前往和谈 华尔街日报 万斯登陆瑞士，伊朗称霍尔木兹海峡因违反停火协议而关闭 NBC新闻 伊朗声称霍尔木兹海峡再次关闭。 CNN 伊朗谈判代表万斯前往瑞士，但黎巴嫩战斗仍在继续 路透社副总统 JD 万斯在直播时夸口不已 The Daily Beast 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [Israeli strikes kill 32 in Lebanon, putting US-Iran talks in peril - Al Jazeera](https://news.google.com/rss/articles/CBMitAFBVV95cUxPSDl2OG5XVG5xYXVhY2xOd2I3QXV3T2d0dDVGOTdZNk1NMDRVUFJMX2FFVjdrNkVkRzhOYURfS3ppUF9rLVZ2SDM5UU41Yk1HZWhWX0hvbFlpVUlBdjNmbE83ZmVLYzdfUXc2Q1FqMUFnaEhMaFNDR3JnUlJ1SjBpeFNkVTN2V215VlZCT2piTlRqZU82ZnB4dVlfTnBpS3k5UEZpajEtczg1Nkw1VFNQbk1jU1bSAboBQVVfeXFMTmx0dHpURVpIa0lJU1N1U01wMlBTUmFuamFZTTZPWEQyamhsdy1vTHlGTmxxTDRJYmFDN1hIVHE0Tm1HbmRUQUM5MUNiNG5sTFJhWE9vUzFnRHdicnAzN0RuNksxNkp6WjFOTm9wMkxrUkdQbTFNYnRKN00zblU0U3d0bmU3Y3JCbm5vVkdDcWdkWGt2X1RzSjZRWkw3QnJ1Mm1nb2xNMUhHdi1NSkhGbHhzSUpkc20wU3pn?oc=5)
+
+- Source / 来源: Al Jazeera. Published: `2026-06-21T07:11:06+00:00`.
+- Keywords / 关键词: lebanon, israeli, strikes, kill, putting, us-iran, jazeera, talks, peril, hezbollah
+- 中文关键词: 黎巴嫩、以色列、袭击、杀、推杆、美国-伊朗、半岛电视台、会谈、危险、真主党
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Israeli strikes kill 32 in Lebanon, putting US-Iran talks in peril Al Jazeera Israel and Hezbollah Are Still Fighting, Several Cease-Fires Later The New York Times Israeli strikes kill at least 20 in Lebanon hours after ceasefire Reuters IDF soldier killed, 13 injured in overnight Hezbollah attack in southern Lebanon The Times of Israel IDF soldiers pin dozens of Hezbollah terrorists in secret tunnel base The Jerusalem Post
+- RSS 中文摘要: 以色列空袭在黎巴嫩造成 32 人死亡，使美伊谈判陷入危险 半岛电视台 以色列和真主党仍在战斗，数次停火后 《纽约时报》 停火数小时后，以色列空袭在黎巴嫩造成至少 20 人死亡 路透社 以色列国防军士兵在黎巴嫩南部真主党夜间袭击中丧生，13 人受伤 以色列时报 以色列国防军士兵将数十名真主党恐怖分子压在秘密隧道基地 耶路撒冷邮报
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: lebanon, israeli, strikes, kill, and putting. The available excerpt says: Israeli strikes kill 32 in Lebanon, putting US-Iran talks in peril Al Jazeera Israel and Hezbollah Are Still Fighting, Several Cease-Fires Later The New York Times Israeli strikes kill at least 20 in Lebanon hours after ceasefire Reuters IDF soldier killed, 13 injured in overnight Hezbollah attack in southern Lebanon The Times of Israel IDF soldiers pin dozens of Hezbollah terrorists in secret tunnel base The Jerusalem Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：黎巴嫩、以色列、袭击、杀、推杆。RSS 中文摘要显示：以色列空袭在黎巴嫩造成 32 人死亡，使美伊谈判陷入危险 半岛电视台 以色列和真主党仍在战斗，数次停火后 《纽约时报》 停火数小时后，以色列空袭在黎巴嫩造成至少 20 人死亡 路透社 以色列国防军士兵在黎巴嫩南部真主党夜间袭击中丧生，13 人受伤 以色列时报 以色列国防军士兵将数十名真主党恐怖分子压在秘密隧道基地 耶路撒冷邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 8. [Report says UK PM Starmer ready to quit, but source says he is still focused on the job - CNBC](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFRzR0JGMHNZRmtoY2RScW5kV05GQTBFT2pmTExFRnpxbmpwN1pwNkRnVHlseUpCemgtc0paSkVXcFp2cXhSZ2pfbDZjUkUxQS1LSzliMFJwR0pRMDhIMmVocXItcXlQcGw5NHVWUVU2bGlaSnFQdXljTTNvcjNZUml1eTNveWhDdElSLURXN3RLbDl1SmJ6Sjl2WUJrdExCcGZJS0JoNGgwUdIBrwFBVV95cUxObzg4OVZVeW9SOWlZM2Y0eVZySnFEM1c4V3V1MzB6MUxQdnRUaFFqd1FEZVJkVjJWZ0xNMTN1MnM5ZEVMTk5QNXRCdXBHQnhMd2tqTzY5WkJscGcyRjhTeDdORDFEQnJtb0ViQk5ETE5pLXBwb1pCaFNZQmt0QXNiZld2alBOMFVuSDZRSk5VR0FaSEhTTHMxU25KU1plSGxUUklFRnVDTnd6Yk9kMG5V?oc=5)
+
+- Source / 来源: CNBC. Published: `2026-06-20T22:44:41+00:00`.
+- Keywords / 关键词: starmer, focused, source, ready, still, quit, cnbc, job, perspectives, headlines
+- 中文关键词: 斯塔默、专注的、来源、准备好、仍然、辞职、美国全国广播公司财经频道、工作、观点、头条新闻
 - Category / 分类: Global affairs / 全球事务
-- RSS Excerpt / RSS 摘要: Newly released images show Karmelo Anthony at murder scene before & after stabbing KBOI New images show murder weapon, fatal injury in Texas high school track meet stabbing of Austin Metcalf Fox News Collin County judge releases evidence in Karmelo Anthony trial WFAA Grisly photos released of Karmelo Anthony’s victim Austin Metcalf’s wound, a bloody coat and murder weapon New York Post Mother, jury expert weigh in as Karmelo Anthony conviction casts new spotlight on Denton County trial Denton Record-Chronicle
-- RSS 中文摘要: 新发布的图像显示卡梅洛·安东尼在刺伤 KBOI 前后在谋杀现场 新图像显示德克萨斯州高中田径比赛中刺伤奥斯汀·梅特卡夫的凶器、致命伤 福克斯新闻 科林县法官公布了卡梅洛·安东尼审判中的证据 WFAA 发布了卡梅洛·安东尼受害者奥斯汀·梅特卡夫的伤口、血淋淋的外套和凶器的恐怖照片 《纽约邮报》 母亲、陪审团专家发表意见，卡梅洛·安东尼定罪给丹顿县审判带来了新的焦点丹顿纪事记录
+- RSS Excerpt / RSS 摘要: Report says UK PM Starmer ready to quit, but source says he is still focused on the job CNBC See more headlines & perspectives on Google News
+- RSS 中文摘要: 报道称英国首相斯塔默准备辞职，但消息人士称他仍专注于工作 CNBC 在 Google 新闻上查看更多头条新闻和观点
 - EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
 - 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
-- EN Detailed Reading: Key signals: karmelo, anthony, murder, released, and stabbing. The available excerpt says: Newly released images show Karmelo Anthony at murder scene before & after stabbing KBOI New images show murder weapon, fatal injury in Texas high school track meet stabbing of Austin Metcalf Fox News Collin County judge releases evidence in Karmelo Anthony trial WFAA Grisly photos released of Karmelo Anthony’s victim Austin Metcalf’s wound, a bloody coat and murder weapon New York Post Mother, jury expert weigh in as Karmelo Anthony conviction casts new spotlight on Denton County trial Denton Record-Chronicle Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文详细解读: 关键词信号：卡梅尔、安东尼、谋杀、释放、刺。RSS 中文摘要显示：新发布的图像显示卡梅洛·安东尼在刺伤 KBOI 前后在谋杀现场 新图像显示德克萨斯州高中田径比赛中刺伤奥斯汀·梅特卡夫的凶器、致命伤 福克斯新闻 科林县法官公布了卡梅洛·安东尼审判中的证据 WFAA 发布了卡梅洛·安东尼受害者奥斯汀·梅特卡夫的伤口、血淋淋的外套和凶器的恐怖照片 《纽约邮报》 母亲、陪审团专家发表意见，卡梅洛·安东尼定罪给丹顿县审判带来了新的焦点丹顿纪事记录 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
+- EN Detailed Reading: Key signals: starmer, focused, source, ready, and still. The available excerpt says: Report says UK PM Starmer ready to quit, but source says he is still focused on the job CNBC See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
+- 中文详细解读: 关键词信号：斯塔默、专注的、来源、准备好、仍然。RSS 中文摘要显示：报道称英国首相斯塔默准备辞职，但消息人士称他仍专注于工作 CNBC 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
 - EN What to watch: follow-up reporting; official statements; regional or market reaction
 - 后续关注: 后续报道；官方声明；地区或市场反应
 
-### 10. ['All of Lebanon must burn,' Israeli minister says after IDF reports four soldiers killed - Euronews.com](https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3IzN0V6aGd2N3FSQ2ZPSTR1U2VhX2tRc1BBZ2NsMGdJaGd3T1BJb0x2eGtySlo1aWs5LTV1UHoydWZNYmdDVWFLMjY3SzBZVDlsN002UUZ5T2dheW5VcXI2TnJ5UlpxRlR0T2R4NTkwZERmbUpSQzBuSUFTaWJYVXV1amhuSUFqMkhzdDVSd1lnRkZ4OUlWV1RZZ0dRVUhRZU9nUEJjcmMxeUdRdFpaMG9vdGJ4ellYUzcwN2pR?oc=5)
+### 9. [Chaotic run-up to U.S.-Iran talks signals steep hurdles ahead - The Washington Post](https://news.google.com/rss/articles/CBMiswFBVV95cUxQaUtPVWtFNFMzQ2NkazdwdTU5VWpzSFNKQnRuX3c3UkNLMjE1b2tkemttdXZJVVpDTm1JRjJ5Tk5FYXN4NEtEMVMwYmFCdzVpaVNzQTFaU2ZtYTlmN2REYXduOE01T3h0S0x5aHQ5Njg1Y3pUVVlSc05ab0FPYV91bndfUDdEUDIzNHJqaE1wTWg0UzU4LXJzUV9UdkhNNGZQY09WZDJQeWdHX1pEVW9ObFlMMA?oc=5)
 
-- Source / 来源: Euronews.com. Published: `2026-06-19T07:54:44+00:00`.
-- Keywords / 关键词: lebanon, israeli, killed, soldiers, euronews, four, com, minister, strikes, must
-- 中文关键词: 黎巴嫩、以色列、死亡、士兵、欧洲新闻报、四、com、部长、袭击、必须
+- Source / 来源: The Washington Post. Published: `2026-06-21T04:10:10+00:00`.
+- Keywords / 关键词: iran, chaotic, washington, signals, hurdles, run-up, talks, steep, ahead, negotiations
+- 中文关键词: 伊朗、混乱的、华盛顿、信号、障碍、助跑、会谈、陡、前面、谈判
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: 'All of Lebanon must burn,' Israeli minister says after IDF reports four soldiers killed Euronews.com At least five killed in Israeli strikes on south Lebanon despite ceasefire Reuters Lebanon says Israel has carried out a wave of fresh strikes, killing at least five people Euronews.com Shut out of U.S.-Iran talks, Israel makes its impact felt with deadly Lebanon strikes NBC News Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah BBC
-- RSS 中文摘要: 以色列部长在以色列国防军报告四名士兵丧生后表示，“整个黎巴嫩都必须燃烧” Euronews.com 尽管停火，但以色列对黎巴嫩南部的空袭至少造成 5 人死亡 路透社 黎巴嫩称，以色列发动了一波新的空袭，造成至少 5 人死亡 Euronews.com 被排除在美伊谈判之外，以色列对黎巴嫩发动致命空袭，以体现其影响力 NBC 新闻 黎巴嫩称，以色列空袭造成 47 人死亡，以色列称 4 名士兵被杀真主党 BBC
+- RSS Excerpt / RSS 摘要: Chaotic run-up to U.S.-Iran talks signals steep hurdles ahead The Washington Post Iran Can Now Sell Oil. How Fast Can It Ramp Up? WSJ The U.S.-Iran negotiations have been chaotic. But the confusion has only grown since the MOU was signed. NBC News Opinion | Trump Put His Own Interests Above All in the Iran Deal The New York Times White House delivers Iran agreement to Congress Politico
+- RSS 中文摘要: 美国与伊朗谈判的混乱局面预示着未来将面临巨大障碍 华盛顿邮报 伊朗现在可以出售石油。它能提升多快？ 《华尔街日报》 美国与伊朗的谈判一直很混乱。但自谅解备忘录签署以来，这种混乱有增无减。 NBC 新闻观点 |特朗普在伊朗协议中将自己的利益置于首位 《纽约时报》 白宫将伊朗协议提交给国会政治
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: lebanon, israeli, killed, soldiers, and euronews. The available excerpt says: 'All of Lebanon must burn,' Israeli minister says after IDF reports four soldiers killed Euronews.com At least five killed in Israeli strikes on south Lebanon despite ceasefire Reuters Lebanon says Israel has carried out a wave of fresh strikes, killing at least five people Euronews.com Shut out of U.S.-Iran talks, Israel makes its impact felt with deadly Lebanon strikes NBC News Lebanon says Israeli strikes kill 47 as Israel says four soldiers killed by Hezbollah BBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：黎巴嫩、以色列、死亡、士兵、欧洲新闻报。RSS 中文摘要显示：以色列部长在以色列国防军报告四名士兵丧生后表示，“整个黎巴嫩都必须燃烧” Euronews.com 尽管停火，但以色列对黎巴嫩南部的空袭至少造成 5 人死亡 路透社 黎巴嫩称，以色列发动了一波新的空袭，造成至少 5 人死亡 Euronews.com 被排除在美伊谈判之外，以色列对黎巴嫩发动致命空袭，以体现其影响力 NBC 新闻 黎巴嫩称，以色列空袭造成 47 人死亡，以色列称 4 名士兵被杀真主党 BBC 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, chaotic, washington, signals, and hurdles. The available excerpt says: Chaotic run-up to U.S.-Iran talks signals steep hurdles ahead The Washington Post Iran Can Now Sell Oil. How Fast Can It Ramp Up? WSJ The U.S.-Iran negotiations have been chaotic. But the confusion has only grown since the MOU was signed. NBC News Opinion | Trump Put His Own Interests Above All in the Iran Deal The New York Times White House delivers Iran agreement to Congress Politico Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、混乱的、华盛顿、信号、障碍。RSS 中文摘要显示：美国与伊朗谈判的混乱局面预示着未来将面临巨大障碍 华盛顿邮报 伊朗现在可以出售石油。它能提升多快？ 《华尔街日报》 美国与伊朗的谈判一直很混乱。但自谅解备忘录签署以来，这种混乱有增无减。 NBC 新闻观点 |特朗普在伊朗协议中将自己的利益置于首位 《纽约时报》 白宫将伊朗协议提交给国会政治 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [US disputes Iranian claims about closing Strait of Hormuz as negotiators arrive in Switzerland - The Detroit News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU1cwMldYb3kxY1N1TWtoT25ONDk5Q1Rjb082eUROMUlWMURZT0ZUejk2YV80cmVvREQ0b0ZBY2Y0NU9HRUJjNVU3WDlJMHBVc3hoWjdXbDlTV1dXc09PRm1BZlJTcXE3ZG1VMXZvM3BlaDNHaW1fd2tvSGV5MzA2TlljQ1VtQ0N3YmViWVhiYnVpZ2Z5VGNpSDQ0c2RDZUE1M05uTERMaHFRVEN5T3VETWNiOW5TOWN1NHFTaVd1M19RQQ?oc=5)
+
+- Source / 来源: The Detroit News. Published: `2026-06-21T01:01:00+00:00`.
+- Keywords / 关键词: switzerland, strait, hormuz, negotiators, claims, disputes, iranian, closing, detroit, arrive
+- 中文关键词: 瑞士、海峡、霍尔木兹、谈判者、索赔、纠纷、伊朗的、关闭、底特律、到达
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: US disputes Iranian claims about closing Strait of Hormuz as negotiators arrive in Switzerland The Detroit News Vance lands in Switzerland as Iran says Strait of Hormuz is closed over ceasefire violations NBC News Iran claims the Strait of Hormuz is closed again. Few ships were leaving in the first place CNN Iran negotiators, Vance head for Switzerland but Lebanon fighting continues Reuters Vice President JD Vance's Boast Blows Up in His Face While Live on Air The Daily Beast
+- RSS 中文摘要: 谈判代表抵达瑞士时，美国对伊朗关于关闭霍尔木兹海峡的说法提出异议 底特律新闻 万斯登陆瑞士，伊朗称霍尔木兹海峡因违反停火而关闭 NBC新闻伊朗声称霍尔木兹海峡再次关闭。 CNN 伊朗谈判代表万斯前往瑞士，但黎巴嫩战斗仍在继续 路透社副总统 JD 万斯在直播时夸口不已 The Daily Beast
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: switzerland, strait, hormuz, negotiators, and claims. The available excerpt says: US disputes Iranian claims about closing Strait of Hormuz as negotiators arrive in Switzerland The Detroit News Vance lands in Switzerland as Iran says Strait of Hormuz is closed over ceasefire violations NBC News Iran claims the Strait of Hormuz is closed again. Few ships were leaving in the first place CNN Iran negotiators, Vance head for Switzerland but Lebanon fighting continues Reuters Vice President JD Vance's Boast Blows Up in His Face While Live on Air The Daily Beast Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：瑞士、海峡、霍尔木兹、谈判者、索赔。RSS 中文摘要显示：谈判代表抵达瑞士时，美国对伊朗关于关闭霍尔木兹海峡的说法提出异议 底特律新闻 万斯登陆瑞士，伊朗称霍尔木兹海峡因违反停火而关闭 NBC新闻伊朗声称霍尔木兹海峡再次关闭。 CNN 伊朗谈判代表万斯前往瑞士，但黎巴嫩战斗仍在继续 路透社副总统 JD 万斯在直播时夸口不已 The Daily Beast 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
