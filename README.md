@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-06-26T07:45:16+00:00` UTC.
+Generated at `2026-06-27T06:49:01+00:00` UTC.
 
-### 1. [Venezuela earthquakes kill at least 235, injure thousands, with toll likely to rise, officials say - CBS News](https://news.google.com/rss/articles/CBMihgFBVV95cUxPcTRJb3JGemtoZVNUTlZneWd4ZU5KTmhMOVp5UDZXVWtjUEF4YmtiRlhUR1Vkc0xENEJ4NEw3Y1B2R1dDMXkzZG5DdGZ6QXF3b050STJWM1pLU3pCUVFRcERON0Q4STdLOGl4cVVocjJQOTQ0QVk2QXlIZFVOVVQyN0tKM1FiUQ?oc=5)
+### 1. [U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz - The Washington Post](https://news.google.com/rss/articles/CBMixgFBVV95cUxQZE5FZXRUMFlMa2d1OWJhZW11RFJjeUw3Z1lzbEM4c3NQQXA3MDRYbFI2SW5KU3Bac3A2bDE1dGt5ZkV1UTg5dml2VXNFZHlwSEJLaXZMRVZOamwtOFNMSmtHYkNjazdidVpUZDRoWjB2ak5McGNndHdoZEdhMklSTmlvQWtRaDV6RDRBWTI4RzVwek5CQUtDZXZzQzZEVklSaXdKekNQU25mZlpndEhYbDNGMVdhblhmc1E5bXFELXJBMTdidHc?oc=5)
 
-- Source / 来源: CBS News. Published: `2026-06-26T07:17:52+00:00`.
-- Keywords / 关键词: venezuela, earthquakes, thousands, officials, injure, likely, kill, toll, rise, say
-- 中文关键词: 委内瑞拉、地震、数千、官员、损伤、可能、杀、收费、上升、说
-- Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: Venezuela earthquakes kill at least 235, injure thousands, with toll likely to rise, officials say CBS News He Was Deported Back to Venezuela and Started Anew. Then the Quakes Hit. The New York Times Venezuela reels from earthquakes as rescuers scramble to find survivors NPR Venezuelan mother digs with bare hands for missing son Yahoo M 7.1 - 28 km NW of Montalbán, Venezuela USGS (.gov)
-- RSS 中文摘要: 哥伦比亚广播公司 (CBS) 官员称，委内瑞拉地震造成至少 235 人死亡、数千人受伤，死亡人数可能还会上升，他被驱逐回委内瑞拉并重新开始。然后地震袭来。纽约时报 委内瑞拉因地震而陷入困境，救援人员争先恐后地寻找幸存者 NPR 委内瑞拉母亲徒手挖掘失踪的儿子 Yahoo M 7.1 - 委内瑞拉蒙塔尔班西北 28 公里 USGS (.gov)
-- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
-- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: venezuela, earthquakes, thousands, officials, and injure. The available excerpt says: Venezuela earthquakes kill at least 235, injure thousands, with toll likely to rise, officials say CBS News He Was Deported Back to Venezuela and Started Anew. Then the Quakes Hit. The New York Times Venezuela reels from earthquakes as rescuers scramble to find survivors NPR Venezuelan mother digs with bare hands for missing son Yahoo M 7.1 - 28 km NW of Montalbán, Venezuela USGS (.gov) Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：委内瑞拉、地震、数千、官员、损伤。RSS 中文摘要显示：哥伦比亚广播公司 (CBS) 官员称，委内瑞拉地震造成至少 235 人死亡、数千人受伤，死亡人数可能还会上升，他被驱逐回委内瑞拉并重新开始。然后地震袭来。纽约时报 委内瑞拉因地震而陷入困境，救援人员争先恐后地寻找幸存者 NPR 委内瑞拉母亲徒手挖掘失踪的儿子 Yahoo M 7.1 - 委内瑞拉蒙塔尔班西北 28 公里 USGS (.gov) 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
-- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
-- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
-
-### 2. [Iran-U.S. Updates: Iran strikes vessel in Strait of Hormuz amid debate over "transit fees" - CBS News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUVZzMlQ0WHZ6YjZubExwTjRtMHM1WUtRSmNDWUszaWJhNkNwTXpOT3JEZTd5QnBYNE5lMDN0YUJOejFEaEZoejU3Y2pqZW5nUTV0SlFSbWFmSFZFMDNBZHpSN1oxSkVTTG00cFR1eWt0cEtlVGVWOVhPMGxscnZGNmdTeUxPdlpqc2dz?oc=5)
-
-- Source / 来源: CBS News. Published: `2026-06-26T05:58:00+00:00`.
-- Keywords / 关键词: hormuz, iran, strikes, vessel, strait, updates, transit, iran-u, debate, fees
-- 中文关键词: 霍尔木兹、伊朗、袭击、血管、海峡、更新、过境、飞往伊朗、辩论、费用
+- Source / 来源: The Washington Post. Published: `2026-06-27T04:44:15+00:00`.
+- Keywords / 关键词: strikes, hormuz, strait, ship, iran, washington, military, iranian, sites, hit
+- 中文关键词: 袭击、霍尔木兹、海峡、船、伊朗、华盛顿、军事、伊朗的、网站、打
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Iran-U.S. Updates: Iran strikes vessel in Strait of Hormuz amid debate over "transit fees" CBS News Iran strikes vessel, pausing UN efforts to evacuate ships from Hormuz CNN Traffic Flows Through Hormuz After Shock Container Ship Attack Bloomberg.com Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW CNBC Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic The New York Times
-- RSS 中文摘要: 伊朗-美国更新：伊朗在霍尔木兹海峡袭击船只，引发关于“过境费”的争论 CBS 新闻 伊朗袭击船只，暂停联合国从霍尔木兹海峡撤离船只的努力 CNN 集装箱船袭击事件后流经霍尔木兹的交通 Bloomberg.com 美国官员告诉 MS NOW CNBC 伊朗在霍尔木兹海峡袭击船只，破坏了恢复交通的努力 纽约时代
+- RSS Excerpt / RSS 摘要: U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz The Washington Post Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz Al Jazeera CENTCOM releases video of US strike on Iran after attack on cargo ship AP News Iran strikes vessel, pausing UN efforts to evacuate ships from Hormuz CNN U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz CNBC
+- RSS 中文摘要: 美国在霍尔木兹海峡船只被击中后袭击伊朗军事基地 华盛顿邮报 伊朗战争实况：美国在霍尔木兹海峡船只遇袭后袭击伊朗 半岛电视台中央司令部发布了美国在货船遇袭后对伊朗发动袭击的视频 美联社新闻 伊朗袭击船只，暂停联合国从霍尔木兹海峡撤离船只的努力 CNN 在特朗普指责德黑兰违反霍尔木兹海峡停火后，美国袭击伊朗 CNBC
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: hormuz, iran, strikes, vessel, and strait. The available excerpt says: Iran-U.S. Updates: Iran strikes vessel in Strait of Hormuz amid debate over "transit fees" CBS News Iran strikes vessel, pausing UN efforts to evacuate ships from Hormuz CNN Traffic Flows Through Hormuz After Shock Container Ship Attack Bloomberg.com Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW CNBC Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：霍尔木兹、伊朗、袭击、血管、海峡。RSS 中文摘要显示：伊朗-美国更新：伊朗在霍尔木兹海峡袭击船只，引发关于“过境费”的争论 CBS 新闻 伊朗袭击船只，暂停联合国从霍尔木兹海峡撤离船只的努力 CNN 集装箱船袭击事件后流经霍尔木兹的交通 Bloomberg.com 美国官员告诉 MS NOW CNBC 伊朗在霍尔木兹海峡袭击船只，破坏了恢复交通的努力 纽约时代 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: strikes, hormuz, strait, ship, and iran. The available excerpt says: U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz The Washington Post Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz Al Jazeera CENTCOM releases video of US strike on Iran after attack on cargo ship AP News Iran strikes vessel, pausing UN efforts to evacuate ships from Hormuz CNN U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz CNBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：袭击、霍尔木兹、海峡、船、伊朗。RSS 中文摘要显示：美国在霍尔木兹海峡船只被击中后袭击伊朗军事基地 华盛顿邮报 伊朗战争实况：美国在霍尔木兹海峡船只遇袭后袭击伊朗 半岛电视台中央司令部发布了美国在货船遇袭后对伊朗发动袭击的视频 美联社新闻 伊朗袭击船只，暂停联合国从霍尔木兹海峡撤离船只的努力 CNN 在特朗普指责德黑兰违反霍尔木兹海峡停火后，美国袭击伊朗 CNBC 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 3. [Europe's heatwave 'virtually impossible' without climate change, scientists say - Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxOa0M1dVdRTjNTSDlXLU5XaEVxUzBaSUU0eG80UWdYZVlIaWtHYWVIdHctMXhlWlZlU2JJYm84VGVOaUxKVDZIVTU2N1MyLUdVdW5ldy1uZGNYWktuQ1p3ZzY0aVZJYTZCcnYtaGlIbndob0xmUUJZY1FqN1ZxZXRuUTVtaGNrMUNxaFdtaTR4ek1PZHZUd285YW5OSFNoLWJYR3p0ZGZaYVZwWURPa1hnR2oyMUhPX0E2WTZiYkVnSlNNbWN2U2RocEFB?oc=5)
+### 2. [Germany, Poland poised for soaring temperatures as heatwave moves east - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNW4yWVJLNlBEUHVERnVYU0hDWHc0bE5Ua0psdk04TkRMTk9JZjZiRlRkWGhlR2ljZTV6Tmx2eXFiM09ZdjFZTkswTkczeG1iZGJzVDk5ZWRSckZrV2o3cGFxSjV1ZDNnZk45Rkw1ZXhZdm1uOXJVZTg2Z2l4Y1g0M1hsU1F5VWxqUnRSdjdOX3ZidV8yNnYwU05yRlV0VnVyNHVaZnQ1V19IQ2xpMjBjWEpRLTlwVE5MT0k0?oc=5)
 
-- Source / 来源: Reuters. Published: `2026-06-26T04:12:00+00:00`.
-- Keywords / 关键词: heatwave, impossible, scientists, virtually, europe's, without, climate, change, say, heat
-- 中文关键词: 热浪、不可能的、科学家、几乎、欧洲的、没有、气候、改变、说、热
-- Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: Europe's heatwave 'virtually impossible' without climate change, scientists say Reuters See Record-Breaking Extreme Heat Wave Across Europe in Photos The New York Times France’s heat this week was worse than a dire scenario imagined for 2050 The Washington Post Europe swelters under record-breaking heat wave Axios Paris sets up ban on drinking alcohol in public to deal with heatwave Reuters
-- RSS 中文摘要: 科学家表示，如果没有气候变化，欧洲“几乎不可能”出现热浪 路透社 照片中欧洲各地出现破纪录的极端热浪 《纽约时报》 法国本周的高温比想象的 2050 年的可怕情景还要糟糕 《华盛顿邮报》 欧洲在破纪录的热浪下闷热难耐 Axios 巴黎制定公共场所饮酒禁令以应对热浪 路透
-- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
-- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: heatwave, impossible, scientists, virtually, and europe's. The available excerpt says: Europe's heatwave 'virtually impossible' without climate change, scientists say Reuters See Record-Breaking Extreme Heat Wave Across Europe in Photos The New York Times France’s heat this week was worse than a dire scenario imagined for 2050 The Washington Post Europe swelters under record-breaking heat wave Axios Paris sets up ban on drinking alcohol in public to deal with heatwave Reuters Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：热浪、不可能的、科学家、几乎、欧洲的。RSS 中文摘要显示：科学家表示，如果没有气候变化，欧洲“几乎不可能”出现热浪 路透社 照片中欧洲各地出现破纪录的极端热浪 《纽约时报》 法国本周的高温比想象的 2050 年的可怕情景还要糟糕 《华盛顿邮报》 欧洲在破纪录的热浪下闷热难耐 Axios 巴黎制定公共场所饮酒禁令以应对热浪 路透 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
-- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
-- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
+- Source / 来源: Reuters. Published: `2026-06-27T02:11:00+00:00`.
+- Keywords / 关键词: heatwave, germany, poland, east, temperatures, soaring, poised, moves, economist, equipped
+- 中文关键词: 热浪、德国、波兰、东方、温度、翱翔、蓄势待发、动作、经济学家、装备齐全
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Germany, Poland poised for soaring temperatures as heatwave moves east Reuters Berlin is even worse equipped than Paris for Europe’s heatwave The Economist Weather tracker: Heatwave expected to bring Germany and Poland to 40C The Guardian Germany news: Deutsche Bahn advises against travel amid heat dw.com Record heatwave to spread east as Germany, Poland swelter RTE.ie
+- RSS 中文摘要: 热浪东移，德国、波兰气温将飙升 路透社 柏林对欧洲热浪的应对能力比巴黎还要差 《经济学人》天气追踪：热浪预计将使德国和波兰气温达到 40 摄氏度 《卫报》德国新闻：德国铁路公司建议不要在酷暑中旅行 dw.com 随着德国、波兰闷热，创纪录的热浪将向东蔓延 RTE.ie
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: heatwave, germany, poland, east, and temperatures. The available excerpt says: Germany, Poland poised for soaring temperatures as heatwave moves east Reuters Berlin is even worse equipped than Paris for Europe’s heatwave The Economist Weather tracker: Heatwave expected to bring Germany and Poland to 40C The Guardian Germany news: Deutsche Bahn advises against travel amid heat dw.com Record heatwave to spread east as Germany, Poland swelter RTE.ie Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：热浪、德国、波兰、东方、温度。RSS 中文摘要显示：热浪东移，德国、波兰气温将飙升 路透社 柏林对欧洲热浪的应对能力比巴黎还要差 《经济学人》天气追踪：热浪预计将使德国和波兰气温达到 40 摄氏度 《卫报》德国新闻：德国铁路公司建议不要在酷暑中旅行 dw.com 随着德国、波兰闷热，创纪录的热浪将向东蔓延 RTE.ie 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 4. [Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz - The Washington Post](https://news.google.com/rss/articles/CBMirwFBVV95cUxOb2hvUU8ta3ZNNEpHLXViODlSdk1odzlhUUtPLUtLWkV3ZWtaVi02RmxKbTdjbnNGUjk2SVhxQWVwVjdDbURXdUMyWW9vX2R2Y1V2bWZKLVpnLWc4eWJsUDd0RW5sZWxYTFMzZ1RKNE5vSTFMUkUtOG50LTVJM3NRaW5ERXdnUmhwNHhjYWo2enhOWENiQWJTWHdzNnhfTXEyNWNYbEVobzh1a2Z2RjdZ?oc=5)
+### 3. [Venezuela earthquakes kill 920 people as families desperate for news - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE40U1N0b2VicmpGTzZSQWJCYm1SVnBwcDRFMkdRY2NBRHRfTF9ramg3aE1pbnVsdTdHLUpWMDRKYmtGSkQyX04zQ2dEcEl2OVhKN3czQUo2SERXZw?oc=5)
 
-- Source / 来源: The Washington Post. Published: `2026-06-26T01:51:58+00:00`.
-- Keywords / 关键词: hormuz, iran, strikes, strait, cargo, ship, washington, backed, route, vessel
-- 中文关键词: 霍尔木兹、伊朗、袭击、海峡、货物、船、华盛顿、支持的、路线、血管
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz The Washington Post Iran strikes vessel, pausing UN efforts to evacuate ships from Hormuz CNN Traffic Flows Through Hormuz After Shock Container Ship Attack Bloomberg.com Iran-U.S. Updates: Iran strikes vessel in Strait of Hormuz amid debate over "transit fees" CBS News Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW CNBC
-- RSS 中文摘要: 伊朗在霍尔木兹海峡袭击联合国支持的航线上的货船 《华盛顿邮报》 伊朗袭击船只，暂停了联合国从霍尔木兹海峡撤离船只的努力 集装箱船袭击事件发生后，美国有线电视新闻网（CNN）的交通流经霍尔木兹海峡 Bloomberg.com 伊朗-美国更新：伊朗在关于“过境费”的争论中袭击了霍尔木兹海峡的船只 美国官员告诉 MS NOW CNBC，伊朗是霍尔木兹海峡阿曼附近货船袭击的幕后黑手
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: hormuz, iran, strikes, strait, and cargo. The available excerpt says: Iran strikes cargo ship on U.N.-backed route in Strait of Hormuz The Washington Post Iran strikes vessel, pausing UN efforts to evacuate ships from Hormuz CNN Traffic Flows Through Hormuz After Shock Container Ship Attack Bloomberg.com Iran-U.S. Updates: Iran strikes vessel in Strait of Hormuz amid debate over "transit fees" CBS News Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW CNBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：霍尔木兹、伊朗、袭击、海峡、货物。RSS 中文摘要显示：伊朗在霍尔木兹海峡袭击联合国支持的航线上的货船 《华盛顿邮报》 伊朗袭击船只，暂停了联合国从霍尔木兹海峡撤离船只的努力 集装箱船袭击事件发生后，美国有线电视新闻网（CNN）的交通流经霍尔木兹海峡 Bloomberg.com 伊朗-美国更新：伊朗在关于“过境费”的争论中袭击了霍尔木兹海峡的船只 美国官员告诉 MS NOW CNBC，伊朗是霍尔木兹海峡阿曼附近货船袭击的幕后黑手 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 5. [Australia considers tougher enforcement of social media ban for teens - Reuters](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWNkQ0k2eWdCOTZ2X0ZaWi13Qm5ISlJUUHVtVVVHWlRlNERqWmpEVDBGYXluWmczS3NhNUVOUjZ1aExTc2c5bjY0VUhIdDIxaXNoVmVjakkyNXpSLXVOdnVqQ0VIaGZCdUlQbmhVSFZpbkIzYl9LVWtueV8xVmhlMFVicUMwbnZUeTdWLXEybk5ac1lsYWs5Y0E2Umt0dF9XSlBaX2NfeXZOV3ROc0Jyczg5WC1ZZw?oc=5)
-
-- Source / 来源: Reuters. Published: `2026-06-26T02:58:00+00:00`.
-- Keywords / 关键词: social, media, ban, australia, enforcement, considers, tougher, teens, australian, study
-- 中文关键词: 社会的、媒体、禁止、澳大利亚、执行、考虑、更强硬、青少年、澳大利亚人、学习
+- Source / 来源: BBC. Published: `2026-06-27T04:09:24+00:00`.
+- Keywords / 关键词: venezuela, earthquakes, desperate, families, people, kill, earthquake, death, toll, devastation
+- 中文关键词: 委内瑞拉、地震、绝望的、家庭、人们、杀、死亡、收费、破坏
 - Category / 分类: Economy and markets / 经济与市场
-- RSS Excerpt / RSS 摘要: Australia considers tougher enforcement of social media ban for teens Reuters Eighty per cent of Australian children escape social media ban telegraph.co.uk Federal politics: PM flags strengthening powers of eSafety Commissioner for social media ban — as it happened Australian Broadcasting Corporation Four in five under-16s in Australia using social media despite ban, study shows The Guardian 'Worrying' study shows Australia's social media ban has made no 'meaningful difference' to teenagers Sky News
-- RSS 中文摘要: 澳大利亚考虑更严格地执行针对青少年的社交媒体禁令 路透社 80% 的澳大利亚儿童逃脱社交媒体禁令 telegraph.co.uk 联邦政治：总理表示将加强电子安全专员在社交媒体禁令方面的权力 — 正如它所发生的那样 澳大利亚广播公司 研究显示，尽管有禁令，澳大利亚 16 岁以下儿童中，有五分之四仍在使用社交媒体 《卫报》“令人担忧”的研究表明，澳大利亚的社交媒体禁令对青少年没有产生“有意义的影响” 天空新闻
+- RSS Excerpt / RSS 摘要: Venezuela earthquakes kill 920 people as families desperate for news BBC Live updates: Rescuers race to save trapped residents as death toll soars after Venezuela quakes CNN Satellite images show scope of devastation in Venezuela after dual earthquakes NBC News Venezuelans take search for the missing into their own hands as earthquake death toll climbs AP News Earthquake Tests Growing Ties Between U.S. and Venezuela The New York Times
+- RSS 中文摘要: 委内瑞拉地震造成 920 人死亡，家人迫切需要消息 BBC 实时更新：委内瑞拉地震后死亡人数激增，救援人员竞相营救被困居民 CNN 卫星图像显示了委内瑞拉两次地震后的破坏范围 NBC 新闻 随着地震死亡人数攀升，委内瑞拉人自行寻找失踪人员 美联社新闻 地震考验美国和委内瑞拉之间日益密切的关系 纽约时报
 - EN Summary: This story is tied to business conditions, financial expectations, or the cost of goods and capital.
 - 中文概要: 这条新闻与商业环境、金融预期或商品与资金成本相关。
-- EN Detailed Reading: Key signals: social, media, ban, australia, and enforcement. The available excerpt says: Australia considers tougher enforcement of social media ban for teens Reuters Eighty per cent of Australian children escape social media ban telegraph.co.uk Federal politics: PM flags strengthening powers of eSafety Commissioner for social media ban — as it happened Australian Broadcasting Corporation Four in five under-16s in Australia using social media despite ban, study shows The Guardian 'Worrying' study shows Australia's social media ban has made no 'meaningful difference' to teenagers Sky News Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
-- 中文详细解读: 关键词信号：社会的、媒体、禁止、澳大利亚、执行。RSS 中文摘要显示：澳大利亚考虑更严格地执行针对青少年的社交媒体禁令 路透社 80% 的澳大利亚儿童逃脱社交媒体禁令 telegraph.co.uk 联邦政治：总理表示将加强电子安全专员在社交媒体禁令方面的权力 — 正如它所发生的那样 澳大利亚广播公司 研究显示，尽管有禁令，澳大利亚 16 岁以下儿童中，有五分之四仍在使用社交媒体 《卫报》“令人担忧”的研究表明，澳大利亚的社交媒体禁令对青少年没有产生“有意义的影响” 天空新闻 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
+- EN Detailed Reading: Key signals: venezuela, earthquakes, desperate, families, and people. The available excerpt says: Venezuela earthquakes kill 920 people as families desperate for news BBC Live updates: Rescuers race to save trapped residents as death toll soars after Venezuela quakes CNN Satellite images show scope of devastation in Venezuela after dual earthquakes NBC News Venezuelans take search for the missing into their own hands as earthquake death toll climbs AP News Earthquake Tests Growing Ties Between U.S. and Venezuela The New York Times Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
+- 中文详细解读: 关键词信号：委内瑞拉、地震、绝望的、家庭、人们。RSS 中文摘要显示：委内瑞拉地震造成 920 人死亡，家人迫切需要消息 BBC 实时更新：委内瑞拉地震后死亡人数激增，救援人员竞相营救被困居民 CNN 卫星图像显示了委内瑞拉两次地震后的破坏范围 NBC 新闻 随着地震死亡人数攀升，委内瑞拉人自行寻找失踪人员 美联社新闻 地震考验美国和委内瑞拉之间日益密切的关系 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
 - EN What to watch: price movements; company and government guidance; second-round supply-chain effects
 - 后续关注: 价格变化；企业与政府指引；供应链二次影响
 
-### 6. [Supreme Court allows Trump to end protected status for Haitian and Syrian migrants - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEemtaeFUxeVh3a21uU0hEei1NODJRVnYxeE5wMkFrYXVwLUlSbm40R1VPelNscmowVWRDOWlubTNYd3FNa2pxRVpELXpQcTJWNG01c2Mxanpzdw?oc=5)
+### 4. [China strips generals, ex-financial regulator, politburo member of lawmaker posts - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWktpdnJVbDdTMjBZVnVlckdrTXFaSFVIbDlaTnZhSzNONE0wVzlkNV9MWk1Fcld5TjUyQWVyWmJiS0dWYnZFcndkdEd5YXpuTXBKVVppOGVLeGpvZUtNbzdaUW9sRjJ4UERTT2xHaDM2UFgyLWFRMkNXa2VTaloxYnpGNXlGV0lISlNfaEREdllBUjhnaTlEZEluN18tSU9tRWIzSFlPRkFWeWlvSnpkOGdmSjYzR0FNbXpGZjlEYTlLZw?oc=5)
 
-- Source / 来源: BBC. Published: `2026-06-26T02:18:04+00:00`.
-- Keywords / 关键词: supreme, court, trump, protected, migrants, haitian, allows, status, syrian, end
-- 中文关键词: 最高、法庭、特朗普、受保护的、移民、海地、允许、地位、叙利亚人、结尾
+- Source / 来源: Reuters. Published: `2026-06-27T03:42:00+00:00`.
+- Keywords / 关键词: china, generals, ex-financial, regulator, politburo, lawmaker, strips, member, posts, military
+- 中文关键词: 中国、将军、前财务、调节器、政治局、立法者、条状、成员、帖子、军事
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: China strips generals, ex-financial regulator, politburo member of lawmaker posts Reuters China Ousts Six Military Lawmakers as Xi’s Purge Continues Bloomberg.com Not Just the Military: Xi Jinping’s Other Senior Party Purge The Diplomat – Asia-Pacific China removes 6 generals from legislature amid ongoing anti-corruption drive South China Morning Post The Problem With Purges Geopolitical Futures
+- RSS 中文摘要: 中国罢免了将军、前金融监管机构、政治局委员等议员职务 路透 中国罢黜了六名军事委员 习近平的清洗仍在继续
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: china, generals, ex-financial, regulator, and politburo. The available excerpt says: China strips generals, ex-financial regulator, politburo member of lawmaker posts Reuters China Ousts Six Military Lawmakers as Xi’s Purge Continues Bloomberg.com Not Just the Military: Xi Jinping’s Other Senior Party Purge The Diplomat – Asia-Pacific China removes 6 generals from legislature amid ongoing anti-corruption drive South China Morning Post The Problem With Purges Geopolitical Futures Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：中国、将军、前财务、调节器、政治局。RSS 中文摘要显示：中国罢免了将军、前金融监管机构、政治局委员等议员职务 路透 中国罢黜了六名军事委员 习近平的清洗仍在继续 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 5. [Small aircraft crashes into Beijing’s tallest building, videos show - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxQWERXTjgwNEkzS194X09PNFp4cTgyNmhoSDZYTi1MUXR5NjNMOHIzUjA1WExHaHBJdkJUMWNCQkNCNTJpWndxeFFuUEVQUW9XQUV1dEM1NGpZM1RHOU9tN21YTnFtSXJrVk9ESnFfVV9tWDBhZHBJQTVqRUg0MVhTNkRQZEZfVGpzNVktbVpEbDFwNXl5cGlzQW1aeTNMMXYtd2xiUXZhSFVtZ0JyUjZrQXpjYVk?oc=5)
+
+- Source / 来源: The Washington Post. Published: `2026-06-27T03:37:28+00:00`.
+- Keywords / 关键词: beijing, crashes, small, aircraft, tallest, building, washington, videos, show, skyscraper
+- 中文关键词: 北京、崩溃、小的、飞机、最高、建筑、华盛顿、视频、展示、摩天大楼
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Small aircraft crashes into Beijing’s tallest building, videos show The Washington Post Small aircraft crashes into Beijing’s tallest skyscraper CNN Owner of car searched by police after Beijing tower plane crash identified Financial Times Small aircraft crashes into Beijing skyscraper, eyewitnesses say Yahoo Small Plane Crashes Into Tallest Building in Beijing The New York Times
+- RSS 中文摘要: 视频显示小型飞机撞上北京最高建筑 华盛顿邮报 小型飞机撞上北京最高的摩天大楼 CNN 北京塔空难确认后车主被警方搜查 英国金融时报 目击者称小型飞机撞上北京摩天大楼 雅虎小型飞机撞上北京最高的建筑 纽约时报
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: beijing, crashes, small, aircraft, and tallest. The available excerpt says: Small aircraft crashes into Beijing’s tallest building, videos show The Washington Post Small aircraft crashes into Beijing’s tallest skyscraper CNN Owner of car searched by police after Beijing tower plane crash identified Financial Times Small aircraft crashes into Beijing skyscraper, eyewitnesses say Yahoo Small Plane Crashes Into Tallest Building in Beijing The New York Times Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：北京、崩溃、小的、飞机、最高。RSS 中文摘要显示：视频显示小型飞机撞上北京最高建筑 华盛顿邮报 小型飞机撞上北京最高的摩天大楼 CNN 北京塔空难确认后车主被警方搜查 英国金融时报 目击者称小型飞机撞上北京摩天大楼 雅虎小型飞机撞上北京最高的建筑 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 6. [Gavin Newsom calls for national billionaires tax: 'It's time for an economic reset' - CNBC](https://news.google.com/rss/articles/CBMijwFBVV95cUxORDZ1REF3QWFWYVMyd1ROSFE4TEtpdkhVbklCQmNJSDQ0X0syX1YwUEhObEkyUC1RLWFjemxBVzc2RnRDMGE1WGtqUkhOZGZJN2Z5QnQ5bXMzZk1lbHVVT3pWRUU3UjdhZFBZMURGVGRGY24wNGdhcmhTdnpDc3lYblZ5cjdwN0ZhLTZoZDc3a9IBlAFBVV95cUxONDJVVVo1M2xHbVVkcWlUd1Y2VTlqXzZtNEgtbVFDV0dNUVJRTDBhQ0NHTy1ReFdINm9CaVNrRjNPbEZuMWkyczh5LUdBd2JGMnV1bzBSaU9WblVwOXVmLXFubTlBQ1cxU1c1cjN2a043R1pPdkNaTGZBajdLRDhrZmJRdjR5TTh2dzFyMnNFdTU4czVn?oc=5)
+
+- Source / 来源: CNBC. Published: `2026-06-26T18:01:58+00:00`.
+- Keywords / 关键词: newsom, gavin, national, tax, billionaires, economic, reset, calls, it's, time
+- 中文关键词: 消息、加文、国家的、税、亿万富翁、经济的、重置、来电、它是、时间
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Gavin Newsom calls for national billionaires tax: 'It's time for an economic reset' CNBC Gavin Newsom urges a national 'billionaires' tax' while fighting one in California The Guardian Your November ballot: See the 14 measures California voters will decide CalMatters California’s Billionaire Tax Kicks Off a Democratic Civil War WSJ Gavin Newsom’s populist pivot runs into a wealth-tax fight at home Politico
+- RSS 中文摘要: 加文·纽瑟姆 (Gavin Newsom) 呼吁征收全国亿万富翁税：“是时候进行经济重置了” CNBC 加文·纽瑟姆 (Gavin Newsom) 敦促征收全国“亿万富翁税”，同时与加利福尼亚州的一项法案进行斗争 《卫报》 你的 11 月投票：查看加州选民将决定的 14 项措施 加州亿万富翁税拉开了一场民主内战 华尔街日报 加文·纽瑟姆 (Gavin Newsom) 的民粹主义转向在国内引发了一场财富税斗争 Politico
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: newsom, gavin, national, tax, and billionaires. The available excerpt says: Gavin Newsom calls for national billionaires tax: 'It's time for an economic reset' CNBC Gavin Newsom urges a national 'billionaires' tax' while fighting one in California The Guardian Your November ballot: See the 14 measures California voters will decide CalMatters California’s Billionaire Tax Kicks Off a Democratic Civil War WSJ Gavin Newsom’s populist pivot runs into a wealth-tax fight at home Politico Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：消息、加文、国家的、税、亿万富翁。RSS 中文摘要显示：加文·纽瑟姆 (Gavin Newsom) 呼吁征收全国亿万富翁税：“是时候进行经济重置了” CNBC 加文·纽瑟姆 (Gavin Newsom) 敦促征收全国“亿万富翁税”，同时与加利福尼亚州的一项法案进行斗争 《卫报》 你的 11 月投票：查看加州选民将决定的 14 项措施 加州亿万富翁税拉开了一场民主内战 华尔街日报 加文·纽瑟姆 (Gavin Newsom) 的民粹主义转向在国内引发了一场财富税斗争 Politico 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [Trump's Great American State Fair opens with melted ice cream, empty booths - USA Today](https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXFmOWJHT3F0bURkd2s0S2ZUTmxIU1ZxTGVMMFNTYUxGTl9EZ3BoOEVSVGdob1FPT0lJS1pzcTN6dVQwUzRFc0hxUi1oakpFQ3BOTmR0aDBHX2liWm0wYkhMa1NwcUs2SlFwcE5IWjgwbjNTa09DNnY3Qkx5QnZJSmRGZlhXSjRHeUx1SWJMb3VpY0hVOGpKbnhNcEQ4RHo2ZlRvdWd0dl9YTmNIX0Rj?oc=5)
+
+- Source / 来源: USA Today. Published: `2026-06-26T22:54:00+00:00`.
+- Keywords / 关键词: state, fair, american, great, trump's, melted, booths, opens, cream, empty
+- 中文关键词: 状态、公平的、美国人、伟大的、特朗普的、融化了、摊位、打开、奶油、空的
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Supreme Court allows Trump to end protected status for Haitian and Syrian migrants BBC Supreme Court gives Trump major wins on two immigration cases CNN Justices Clash on Whether Race Played a Role in Trump’s Bid to Deport Haitians The New York Times WATCH: Stephen Miller says 'America's doors are closed fully to asylum seekers' after Supreme Court rulings PBS What the Supreme Court rulings mean for America’s immigrants and the nation The Washington Post
-- RSS 中文摘要: 最高法院允许特朗普终止对海地和叙利亚移民的保护身份 BBC 最高法院让特朗普在两起移民案件中取得重大胜利 CNN 法官就种族是否在特朗普驱逐海地人的努力中发挥了作用发生了冲突 纽约时报观看：最高法院裁决后斯蒂芬·米勒表示“美国的大门对寻求庇护者完全关闭” PBS 最高法院的裁决对美国移民和国家意味着什么 华盛顿邮报
+- RSS Excerpt / RSS 摘要: Trump's Great American State Fair opens with melted ice cream, empty booths USA Today A bumpy beginning for the Great American State Fair The Washington Post Organizers say the Great American State Fair is for everyone. Some disagree NPR Pennsylvania skipping Trump state fair celebration, joining 7 other states ABC27 At the Great American State Fair, MAHA Meets Sno-Cones and Corn Dogs The New York Times
+- RSS 中文摘要: 特朗普的伟大美国州博览会以融化的冰淇淋、空荡荡的摊位拉开帷幕 《今日美国》 伟大美国州博览会的坎坷开端 《华盛顿邮报》组织者表示，伟大美国州博览会适合所有人。一些人不同意 NPR 宾夕法尼亚州跳过特朗普州博览会庆祝活动，加入其他 7 个州的行列 ABC27 在伟大的美国州博览会上，MAHA 遇见了雪糕筒和玉米热狗 《纽约时报》
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: supreme, court, trump, protected, and migrants. The available excerpt says: Supreme Court allows Trump to end protected status for Haitian and Syrian migrants BBC Supreme Court gives Trump major wins on two immigration cases CNN Justices Clash on Whether Race Played a Role in Trump’s Bid to Deport Haitians The New York Times WATCH: Stephen Miller says 'America's doors are closed fully to asylum seekers' after Supreme Court rulings PBS What the Supreme Court rulings mean for America’s immigrants and the nation The Washington Post Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：最高、法庭、特朗普、受保护的、移民。RSS 中文摘要显示：最高法院允许特朗普终止对海地和叙利亚移民的保护身份 BBC 最高法院让特朗普在两起移民案件中取得重大胜利 CNN 法官就种族是否在特朗普驱逐海地人的努力中发挥了作用发生了冲突 纽约时报观看：最高法院裁决后斯蒂芬·米勒表示“美国的大门对寻求庇护者完全关闭” PBS 最高法院的裁决对美国移民和国家意味着什么 华盛顿邮报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: state, fair, american, great, and trump's. The available excerpt says: Trump's Great American State Fair opens with melted ice cream, empty booths USA Today A bumpy beginning for the Great American State Fair The Washington Post Organizers say the Great American State Fair is for everyone. Some disagree NPR Pennsylvania skipping Trump state fair celebration, joining 7 other states ABC27 At the Great American State Fair, MAHA Meets Sno-Cones and Corn Dogs The New York Times Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：状态、公平的、美国人、伟大的、特朗普的。RSS 中文摘要显示：特朗普的伟大美国州博览会以融化的冰淇淋、空荡荡的摊位拉开帷幕 《今日美国》 伟大美国州博览会的坎坷开端 《华盛顿邮报》组织者表示，伟大美国州博览会适合所有人。一些人不同意 NPR 宾夕法尼亚州跳过特朗普州博览会庆祝活动，加入其他 7 个州的行列 ABC27 在伟大的美国州博览会上，MAHA 遇见了雪糕筒和玉米热狗 《纽约时报》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 7. [Jonathan Rinderknecht: Jurors deadlocked in arson trial of Palisades Fire suspect - ABC7 Los Angeles](https://news.google.com/rss/articles/CBMisgFBVV95cUxOUEZOMERrcGZERUMzVC0yQmNqMVRfamhCX1FnZmJFZ1VjanFsSzFRaV9kenNYckxDYUZiLTV3dkJhZzl0dXVPbmRzbkVzU3Z2WkoyNGphQU5ZTG44WXFqU25nMnNnd3FxZ1hTYzNjOG9SSlA0MWJUX3RNZm1IM25Mc05NNTM0blpjRXQ2TW0wWGdKdXJHRmcxNmJteGJkTGhkaHpsYlBmeE9hdDFsVzdGZFhn0gG3AUFVX3lxTFBETWJYeFFPWVdKSTlCMGdWc2x4QWhFc1NHR1pVUDJoNUQtbVQtNDlPSWo2ek43QjZ4U04wNTlKRE9kaGFSZUJzN0ZKazJqSV9EWExVbEVab0FVMThLbkkxTlVYMWFiQkt2RlZxazdYNXNfcHlqN3VkOVN1M1pBajRLUnRqMnE0cjVsYTl3QjNuX2d2VGlseUFYQnJVUnM1TTZQZmFJakZtalRqampVUF9kelg5X2VNbw?oc=5)
+### 8. [Paris halts alcohol sales to help hospitals amid deadly heat wave, as scientists blame human-caused climate change - CBS News](https://news.google.com/rss/articles/CBMie0FVX3lxTE1GMElGcWUzUmRkVWdpdTI3M2Y1dG9qNEZWNTkxM0lJV0hBYW5iSFRQckxhN0hUT0RyVUJhek5LaHNiTEZzNzRLTG1TRkhIRHRJVmtoNmFNaEx0eHQ5MUtkUzUydVI5VDRaQmpHSU91UDJsVVhUUVMyTWpHWQ?oc=5)
 
-- Source / 来源: ABC7 Los Angeles. Published: `2026-06-26T01:56:33+00:00`.
-- Keywords / 关键词: palisades, trial, arson, fire, angeles, los, rinderknecht, deadlocked, jonathan, suspect
-- 中文关键词: 栅栏、审判、纵火、火、安吉利斯、洛斯、林德克内希特、陷入僵局、乔纳森、怀疑
-- Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: Jonathan Rinderknecht: Jurors deadlocked in arson trial of Palisades Fire suspect ABC7 Los Angeles Jury to return Friday for further instruction after reaching a standstill in Palisades Fire arson trial CNN Jury reaches verdict in arson trial of Palisades Fire suspect Jonathan Rinderknecht ABC7 Los Angeles Jury says it is deadlocked in trial of man accused in Palisades Fire KTLA Jury at standstill in arson trial over January 2025 Palisades fires NBC Los Angeles
-- RSS 中文摘要: 乔纳森·林德克内希特 (Jonathan Rinderknecht)：陪审员在帕利塞兹火灾嫌疑人纵火案中陷入僵局 ABC7 洛杉矶陪审团在帕利塞兹火灾纵火案审判陷入僵局后于周五返回接受进一步指示 CNN 陪审团在帕利塞兹火灾嫌疑人纵火案审判中做出裁决 乔纳森·林德克内希特 (Jonathan Rinderknecht) 洛杉矶陪审团表示，在帕利塞兹火灾案被告人的审判中陷入僵局 KTLA 陪审团在一月份的纵火案审判中处于停顿状态2025 年 Palisades 火灾 NBC 洛杉矶
-- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
-- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: palisades, trial, arson, fire, and angeles. The available excerpt says: Jonathan Rinderknecht: Jurors deadlocked in arson trial of Palisades Fire suspect ABC7 Los Angeles Jury to return Friday for further instruction after reaching a standstill in Palisades Fire arson trial CNN Jury reaches verdict in arson trial of Palisades Fire suspect Jonathan Rinderknecht ABC7 Los Angeles Jury says it is deadlocked in trial of man accused in Palisades Fire KTLA Jury at standstill in arson trial over January 2025 Palisades fires NBC Los Angeles Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：栅栏、审判、纵火、火、安吉利斯。RSS 中文摘要显示：乔纳森·林德克内希特 (Jonathan Rinderknecht)：陪审员在帕利塞兹火灾嫌疑人纵火案中陷入僵局 ABC7 洛杉矶陪审团在帕利塞兹火灾纵火案审判陷入僵局后于周五返回接受进一步指示 CNN 陪审团在帕利塞兹火灾嫌疑人纵火案审判中做出裁决 乔纳森·林德克内希特 (Jonathan Rinderknecht) 洛杉矶陪审团表示，在帕利塞兹火灾案被告人的审判中陷入僵局 KTLA 陪审团在一月份的纵火案审判中处于停顿状态2025 年 Palisades 火灾 NBC 洛杉矶 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
-- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
-- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
+- Source / 来源: CBS News. Published: `2026-06-26T13:37:00+00:00`.
+- Keywords / 关键词: heat, deadly, human-caused, scientists, hospitals, alcohol, climate, change, paris, halts
+- 中文关键词: 热、致命、人为造成的、科学家、医院、酒精、气候、改变、巴黎、停止
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Paris halts alcohol sales to help hospitals amid deadly heat wave, as scientists blame human-caused climate change CBS News Europe’s Trains, Nuclear Plants and Factories Can’t Take the Heat Either The New York Times Where will Europe’s heatwave be most deadly? The Economist Fossil fuel emissions have rapidly worsened European heatwaves in just a few decades World Weather Attribution Europe on high alert as killer heat set to move east and south Reuters
+- RSS 中文摘要: 巴黎停止酒精销售，以帮助医院应对致命的热浪，科学家将其归咎于人为造成的气候变化 CBS 新闻 欧洲的火车、核电站和工厂都无法承受高温 纽约时报 欧洲的热浪将在哪里最致命？经济学人 化石燃料排放在短短几十年内迅速加剧了欧洲的热浪
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: heat, deadly, human-caused, scientists, and hospitals. The available excerpt says: Paris halts alcohol sales to help hospitals amid deadly heat wave, as scientists blame human-caused climate change CBS News Europe’s Trains, Nuclear Plants and Factories Can’t Take the Heat Either The New York Times Where will Europe’s heatwave be most deadly? The Economist Fossil fuel emissions have rapidly worsened European heatwaves in just a few decades World Weather Attribution Europe on high alert as killer heat set to move east and south Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：热、致命、人为造成的、科学家、医院。RSS 中文摘要显示：巴黎停止酒精销售，以帮助医院应对致命的热浪，科学家将其归咎于人为造成的气候变化 CBS 新闻 欧洲的火车、核电站和工厂都无法承受高温 纽约时报 欧洲的热浪将在哪里最致命？经济学人 化石燃料排放在短短几十年内迅速加剧了欧洲的热浪 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 8. [Politics - The Economist](https://news.google.com/rss/articles/CBMic0FVX3lxTFB2cHJCSXY4TXhFSVJfdGEwa0dabjdQOHVtd2hkb09JTHJxZEM2aGQtT2hXNVN6eEpzQUFtR3I1b0ptUXdnVVZBMUFlZndUTmRkMkozb0Z2QlBHNEJ0SURoMzhrY2V2ajQ5ME1sTXdCZjhyaDA?oc=5)
+### 9. [Three unusual things about the King's tax bill - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxT3hRZ1RpN3FEQVNJS0tNNUQzaTZVUFQxWTdwVS0yMTRscHpxeEFGb1k3ellIaGRFeXFZU0RuRWpJemhOSkk0NHFOcGMteG1fQkhsdGRab0hCQQ?oc=5)
 
-- Source / 来源: The Economist. Published: `2026-06-25T12:58:00+00:00`.
-- Keywords / 关键词: economist, politics, prime, minister's, leadership, ministers, countries, downfall, threaten, turnover
-- 中文关键词: 经济学家、政治、主要的、部长的、领导、部长、国家、倒台、威胁、周转
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Politics The Economist Chris Mason: The anatomy of the prime minister's downfall BBC Why Britain devours its prime ministers Al Jazeera Why the forces that felled Keir Starmer threaten so many Western leaders CNN Graphic: Compare U.K. leadership turnover to other major countries NBC News
-- RSS 中文摘要: 政治 经济学家克里斯·梅森：首相垮台的剖析 BBC 为什么英国吞噬其首相 半岛电视台 为什么击倒基尔·斯塔默的力量威胁到如此多的西方领导人 CNN 图片：比较英国与其他主要国家的领导层更替率 NBC 新闻
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: economist, politics, prime, minister's, and leadership. The available excerpt says: Politics The Economist Chris Mason: The anatomy of the prime minister's downfall BBC Why Britain devours its prime ministers Al Jazeera Why the forces that felled Keir Starmer threaten so many Western leaders CNN Graphic: Compare U.K. leadership turnover to other major countries NBC News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：经济学家、政治、主要的、部长的、领导。RSS 中文摘要显示：政治 经济学家克里斯·梅森：首相垮台的剖析 BBC 为什么英国吞噬其首相 半岛电视台 为什么击倒基尔·斯塔默的力量威胁到如此多的西方领导人 CNN 图片：比较英国与其他主要国家的领导层更替率 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+- Source / 来源: BBC. Published: `2026-06-26T23:00:30+00:00`.
+- Keywords / 关键词: tax, bill, unusual, things, king's, three, charles, king, royal, disclosure
+- 中文关键词: 税、账单、异常、事物、国王的、三、查尔斯、国王、皇家的、披露
+- Category / 分类: Economy and markets / 经济与市场
+- RSS Excerpt / RSS 摘要: Three unusual things about the King's tax bill BBC King Charles III Has Paid More Than $39.6 Million in Taxes, Palace Discloses in a U.K. First The New York Times How is Britain's royal family financed? Reuters The Guardian view on royal tax secrecy: it survives King Charles’s latest disclosure | Editorial The Guardian King Charles reveals his personal tax bill. Spoiler alert: He’s very rich. The Washington Post
+- RSS 中文摘要: 关于国王税单的三件不寻常的事情 BBC 国王查理三世已缴纳超过 3960 万美元的税款，宫殿在英国首次披露《纽约时报》 英国王室的财务状况如何？路透社《卫报》对王室税务保密的看法：它在查尔斯国王最新披露的内容中幸存下来 |社论《卫报》查尔斯国王透露了他的个人税单。剧透警报：他非常富有。华盛顿邮报
+- EN Summary: This story is tied to business conditions, financial expectations, or the cost of goods and capital.
+- 中文概要: 这条新闻与商业环境、金融预期或商品与资金成本相关。
+- EN Detailed Reading: Key signals: tax, bill, unusual, things, and king's. The available excerpt says: Three unusual things about the King's tax bill BBC King Charles III Has Paid More Than $39.6 Million in Taxes, Palace Discloses in a U.K. First The New York Times How is Britain's royal family financed? Reuters The Guardian view on royal tax secrecy: it survives King Charles’s latest disclosure | Editorial The Guardian King Charles reveals his personal tax bill. Spoiler alert: He’s very rich. The Washington Post Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
+- 中文详细解读: 关键词信号：税、账单、异常、事物、国王的。RSS 中文摘要显示：关于国王税单的三件不寻常的事情 BBC 国王查理三世已缴纳超过 3960 万美元的税款，宫殿在英国首次披露《纽约时报》 英国王室的财务状况如何？路透社《卫报》对王室税务保密的看法：它在查尔斯国王最新披露的内容中幸存下来 |社论《卫报》查尔斯国王透露了他的个人税单。剧透警报：他非常富有。华盛顿邮报 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
+- EN What to watch: price movements; company and government guidance; second-round supply-chain effects
+- 后续关注: 价格变化；企业与政府指引；供应链二次影响
 
-### 9. [12-year-old boy rushed to hospital after shark attacks him in Bahamas, police say - Fox News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPV3F6SVIyQ2dfc2FEMEZIdW10V09YajRvd29fOTlySk9aZ0VwUjFnR2M2YkVBcVQtcVZHZjJabFc2VkFUMmthNWd6ZXA4YXp4czNvZHJWRGNhYzlULWNYUldPTWRRRS05cjAzcXdCMXBhQkVkS0I5d2xaZVRWc0FUOEthVWZFSmlFMTdSY1N1VWtyT2dtNnfSAZsBQVVfeXFMTlgwZ2dkcmJ5aXN3NkY4OUEtSVA3OW5aODdaV21oVFYwczR6VUt5NmlHZTY2MUxOa3NVS2lJckpoRzVGaVB2Q0RuVi0zRTFkZ2RKajJhZFRHenpIbDVKQzQwQnVIX2JUSG9zUENJMnI5cE0zdWJ0ZHVFRUdJcFBvUU50X0JxbGtyN2pPQ29yMkFxNVlFNW5zMHk2UG8?oc=5)
+### 10. [Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says - AP News](https://news.google.com/rss/articles/CBMihwFBVV95cUxOc1lwcVc4a1RVM0RhenNCcVhMaHRWUzE0YTlXQm8yeExSWko5UFNlMmZXYVEzZDlHUUhlRlQ1WGp1Vy12LVZySHM3V1F0WUJTeWR0aTdINTlGTGMwTWN2UEx4NGNlT0REM2Z2VmlKcU1YU3QzYnM4bkZYSlMxd2Vud285cllVNVE?oc=5)
 
-- Source / 来源: Fox News. Published: `2026-06-25T16:44:51+00:00`.
-- Keywords / 关键词: bahamas, shark, boy, year-old, fox, hospital, attacks, rushed, police, him
-- 中文关键词: 巴哈马、鲨鱼、男生、岁、狐狸、医院、袭击、冲、警察、他
-- Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: 12-year-old boy rushed to hospital after shark attacks him in Bahamas, police say Fox News 12-year-old American boy attacked by shark while vacationing in the Bahamas FOX Weather 12-year-old American boy injured in shark encounter in Bahamas ABC News - Breaking News, Latest News and Videos American boy, 12, attacked by shark in Bahamas while swimming with brother CBS News 12-year-old boy attacked by shark while swimming in Bahamas Global News
-- RSS 中文摘要: 警方称，巴哈马 12 岁男孩在巴哈马遭到鲨鱼袭击，被送往医院 福克斯新闻 12 岁美国男孩在巴哈马度假时遭到鲨鱼袭击 福克斯天气 12 岁美国男孩在巴哈马遇到鲨鱼时受伤
-- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
-- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: bahamas, shark, boy, year-old, and fox. The available excerpt says: 12-year-old boy rushed to hospital after shark attacks him in Bahamas, police say Fox News 12-year-old American boy attacked by shark while vacationing in the Bahamas FOX Weather 12-year-old American boy injured in shark encounter in Bahamas ABC News - Breaking News, Latest News and Videos American boy, 12, attacked by shark in Bahamas while swimming with brother CBS News 12-year-old boy attacked by shark while swimming in Bahamas Global News Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：巴哈马、鲨鱼、男生、岁、狐狸。RSS 中文摘要显示：警方称，巴哈马 12 岁男孩在巴哈马遭到鲨鱼袭击，被送往医院 福克斯新闻 12 岁美国男孩在巴哈马度假时遭到鲨鱼袭击 福克斯天气 12 岁美国男孩在巴哈马遇到鲨鱼时受伤 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
-- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
-- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
-
-### 10. [Temperature records smashed as extreme heat wave grips Europe - NBC News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOZFZ3V094bWxhdjVNeVh3QS1lV1FIckZfb2oxQ1FmU0RkS1dRUkc1a1FQemJFNVhLNXFRM2hyUGRDbU5uSE1VSjN6Y3dsRTkzTHdqTXcxTEd0R01zU3JNZjZqWVdnWDdLWXBicFJWVndzX0NDZW5tLU5iNldkT01TaGNYellKbWVKV2hpY3FMUlpfR0J0OGFtLTk1ZnhRVTJZdmcyUmRqOTN1Y1F0MEZBcWln?oc=5)
-
-- Source / 来源: NBC News. Published: `2026-06-25T14:03:19+00:00`.
-- Keywords / 关键词: heat, europe, wave, extreme, temperature, records, smashed, grips, nbc, record-breaking
-- 中文关键词: 热、欧洲、一波袭击、极端、温度、记录、砸碎、握把、全国广播公司、破纪录的
-- Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: Temperature records smashed as extreme heat wave grips Europe NBC News See Record-Breaking Extreme Heat Wave Across Europe in Photos The New York Times France’s heat this week was worse than a dire scenario imagined for 2050 The Washington Post Europe swelters under record-breaking heat wave Axios Paris sets up ban on drinking alcohol in public to deal with heatwave Reuters
-- RSS 中文摘要: 极端热浪席卷欧洲，温度记录被打破 NBC News 照片中看到欧洲各地破纪录的极端热浪 《纽约时报》 法国本周的高温比想象的 2050 年的可怕情景还要糟糕 《华盛顿邮报》 欧洲在破纪录的热浪中闷热难耐 Axios 巴黎制定公共场所饮酒禁令以应对热浪 路透
-- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
-- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: heat, europe, wave, extreme, and temperature. The available excerpt says: Temperature records smashed as extreme heat wave grips Europe NBC News See Record-Breaking Extreme Heat Wave Across Europe in Photos The New York Times France’s heat this week was worse than a dire scenario imagined for 2050 The Washington Post Europe swelters under record-breaking heat wave Axios Paris sets up ban on drinking alcohol in public to deal with heatwave Reuters Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：热、欧洲、一波袭击、极端、温度。RSS 中文摘要显示：极端热浪席卷欧洲，温度记录被打破 NBC News 照片中看到欧洲各地破纪录的极端热浪 《纽约时报》 法国本周的高温比想象的 2050 年的可怕情景还要糟糕 《华盛顿邮报》 欧洲在破纪录的热浪中闷热难耐 Axios 巴黎制定公共场所饮酒禁令以应对热浪 路透 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
-- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
-- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
+- Source / 来源: AP News. Published: `2026-06-26T21:44:00+00:00`.
+- Keywords / 关键词: lebanon, israel, agreement, framework, peace, rubio, sign, toward, first, step
+- 中文关键词: 黎巴嫩、以色列、协议、框架、和平、卢比奥、符号、朝向、第一的、步
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says AP News Israel, Lebanon sign initial agreement after US-mediated talks Reuters Rubio says Israel, Lebanon reach framework agreement aimed at 'lasting peace and security' CNBC In Small Step, Israel Agrees to Withdrawal From Two Areas in Lebanon The New York Times Israel to withdraw from two areas in Lebanon under newly signed agreement CNN
+- RSS 中文摘要: 卢比奥表示，以色列和黎巴嫩与美国签署框架协议，迈向和平的“第一步” 美联社新闻 以色列和黎巴嫩在美国斡旋谈判后签署初步协议 路透社 卢比奥表示，以色列和黎巴嫩达成旨在“持久和平与安全”的框架协议 CNBC 以色列同意从黎巴嫩两个地区撤军 纽约时报 以色列将根据新签署的协议从黎巴嫩两个地区撤军 CNN
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: lebanon, israel, agreement, framework, and peace. The available excerpt says: Israel and Lebanon sign framework agreement with US in 'first step' toward peace, Rubio says AP News Israel, Lebanon sign initial agreement after US-mediated talks Reuters Rubio says Israel, Lebanon reach framework agreement aimed at 'lasting peace and security' CNBC In Small Step, Israel Agrees to Withdrawal From Two Areas in Lebanon The New York Times Israel to withdraw from two areas in Lebanon under newly signed agreement CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：黎巴嫩、以色列、协议、框架、和平。RSS 中文摘要显示：卢比奥表示，以色列和黎巴嫩与美国签署框架协议，迈向和平的“第一步” 美联社新闻 以色列和黎巴嫩在美国斡旋谈判后签署初步协议 路透社 卢比奥表示，以色列和黎巴嫩达成旨在“持久和平与安全”的框架协议 CNBC 以色列同意从黎巴嫩两个地区撤军 纽约时报 以色列将根据新签署的协议从黎巴嫩两个地区撤军 CNN 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
 
 
