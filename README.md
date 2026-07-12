@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-07-11T06:08:56+00:00` UTC.
+Generated at `2026-07-12T06:28:41+00:00` UTC.
 
-### 1. [U.S.-Iran Latest: Trump reiterates that ceasefire is over, but says U.S. to continue negotiating - CBS News](https://news.google.com/rss/articles/CBMikgFBVV95cUxOd2FLbExRcUwzLVpNZmVpbGdLVUttNC1uaDFnUmxZS2lleVNqZlI2WDdTOGVvSFc4M0w2dzh4RVdyRlNQWUNnVXRqZWw1WjJDUWdfWmN6TU9XbkNRYVhTX0kzem83cHprdmc4bVRWQThSZDJ3TUVQaE5raDJwMzFMM2FJOTlNQy13UlZPTEJjWVhKdw?oc=5)
+### 1. [Live updates: New US strikes on Iran and Gulf nations intercept attacks - CNN](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5)
 
-- Source / 来源: CBS News. Published: `2026-07-11T05:21:00+00:00`.
-- Keywords / 关键词: trump, iran, ceasefire, continue, negotiating, reiterates, latest, cbs, talks, negotiations
-- 中文关键词: 特朗普、伊朗、停火、继续、谈判、重申、最新的、哥伦比亚广播公司、会谈
+- Source / 来源: CNN. Published: `2026-07-12T05:43:00+00:00`.
+- Keywords / 关键词: intercept, updates, strikes, nations, attacks, live, iran, gulf, perspectives, headlines
+- 中文关键词: 截距、更新、袭击、国家、居住、伊朗、海湾、观点、头条新闻
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: U.S.-Iran Latest: Trump reiterates that ceasefire is over, but says U.S. to continue negotiating CBS News Trump says US, Iran agree to continue talks but ceasefire over Reuters Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes The New York Times US-Iran war: Will peace talks resume, and when? Al Jazeera Trump says the Iran ceasefire is ‘OVER.’ What now? CNN
-- RSS 中文摘要: 美国与伊朗最新消息：特朗普重申停火已经结束，但表示美国将继续谈判 哥伦比亚广播公司新闻 特朗普表示，美国和伊朗同意继续谈判，但停火 路透社 特朗普表示，随着美国加大打击力度，与伊朗的谈判将继续进行 纽约时报 美伊战争：和谈会恢复吗？何时恢复？半岛电视台特朗普称伊朗停火已经“结束”。现在怎么办？美国有线电视新闻网
+- RSS Excerpt / RSS 摘要: Live updates: New US strikes on Iran and Gulf nations intercept attacks CNN See more headlines & perspectives on Google News
+- RSS 中文摘要: 实时更新：美国对伊朗和海湾国家的新打击拦截攻击 CNN 在 Google 新闻上查看更多头条新闻和观点
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, iran, ceasefire, continue, and negotiating. The available excerpt says: U.S.-Iran Latest: Trump reiterates that ceasefire is over, but says U.S. to continue negotiating CBS News Trump says US, Iran agree to continue talks but ceasefire over Reuters Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes The New York Times US-Iran war: Will peace talks resume, and when? Al Jazeera Trump says the Iran ceasefire is ‘OVER.’ What now? CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、伊朗、停火、继续、谈判。RSS 中文摘要显示：美国与伊朗最新消息：特朗普重申停火已经结束，但表示美国将继续谈判 哥伦比亚广播公司新闻 特朗普表示，美国和伊朗同意继续谈判，但停火 路透社 特朗普表示，随着美国加大打击力度，与伊朗的谈判将继续进行 纽约时报 美伊战争：和谈会恢复吗？何时恢复？半岛电视台特朗普称伊朗停火已经“结束”。现在怎么办？美国有线电视新闻网 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: intercept, updates, strikes, nations, and attacks. The available excerpt says: Live updates: New US strikes on Iran and Gulf nations intercept attacks CNN See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：截距、更新、袭击、国家、居住。RSS 中文摘要显示：实时更新：美国对伊朗和海湾国家的新打击拦截攻击 CNN 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 2. [Bipartisan Housing Bill Becomes Law Even Though Trump Refuses to Sign It - The New York Times](https://news.google.com/rss/articles/CBMiekFVX3lxTE1fRTlmQ0hGYi01dERHWEM2aEpsZ1U5SE1VUWhlNDhhOGt0ak9qU0JfX0dDUnhlekNPb3Flbm1GcHExdU92bG1UaGxPV0NnWGE5TVVseTJmTXpoVEZtcm5odjdCV2c0X0JCbnZ4ZnBwNkRQdHhYQkc3Nm93?oc=5)
+### 2. [July 11, 2026 — US strikes Iran after ship attack in Strait of Hormuz - CNN](https://news.google.com/rss/articles/CBMibkFVX3lxTFBYMVlvZWhZemtQSGdfTzNxam9JME9jc3RlNy1rUDNIT1lzM0l6ZHlFWGQyU3FpV2JNVXlDRUlMbEVhWi13bHZTSHdfS0VvWkhmTksyY041b19tLUNHajB6RkVHaloxdnBEX0dheGln?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-07-11T04:04:11+00:00`.
-- Keywords / 关键词: housing, bill, trump, law, becomes, bipartisan, refuses, though, even, sign
-- 中文关键词: 住房、账单、特朗普、法律、变成、两党、拒绝、尽管、甚至、符号
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Bipartisan Housing Bill Becomes Law Even Though Trump Refuses to Sign It The New York Times Trump denies this Congress what could be its last major bill-signing ceremony The Washington Post Largest housing affordability bill in decades becomes law without Trump's signature NPR Trump takes wind out of GOP win on housing bill The Hill A look at the new regulations and incentives in the housing bill set to become law PBS
-- RSS 中文摘要: 尽管特朗普拒绝签署，两党住房法案仍成为法律 《纽约时报》 特朗普否认本届国会可能是其最后一次重大法案签署仪式 《华盛顿邮报》 数十年来最大的住房负担能力法案在没有特朗普签署的情况下成为法律 NPR 特朗普从共和党在住房法案上获胜中获得胜利 国会大厦 看看即将成为法律的住房法案中的新规定和激励措施 PBS
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: housing, bill, trump, law, and becomes. The available excerpt says: Bipartisan Housing Bill Becomes Law Even Though Trump Refuses to Sign It The New York Times Trump denies this Congress what could be its last major bill-signing ceremony The Washington Post Largest housing affordability bill in decades becomes law without Trump's signature NPR Trump takes wind out of GOP win on housing bill The Hill A look at the new regulations and incentives in the housing bill set to become law PBS Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：住房、账单、特朗普、法律、变成。RSS 中文摘要显示：尽管特朗普拒绝签署，两党住房法案仍成为法律 《纽约时报》 特朗普否认本届国会可能是其最后一次重大法案签署仪式 《华盛顿邮报》 数十年来最大的住房负担能力法案在没有特朗普签署的情况下成为法律 NPR 特朗普从共和党在住房法案上获胜中获得胜利 国会大厦 看看即将成为法律的住房法案中的新规定和激励措施 PBS 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 3. [U.S. gives Iran Saturday deadline to publicly renounce Hormuz attacks - Axios](https://news.google.com/rss/articles/CBMid0FVX3lxTE9fbDF2MXNnVE9vRGkxYndQRE44ZEpSdUFJcE1JMXF5dXoxcm9UTEwwbmc4RlgxMW5qMTVWU0gyZHFjcUVKZnFTOGZ4eVZrMEVRbklTV3Y1b19UZFVpMTlycUlZQnl5M2NYNHlJNXpOdWpfcVE3cVBn?oc=5)
-
-- Source / 来源: Axios. Published: `2026-07-11T00:27:19+00:00`.
-- Keywords / 关键词: iran, hormuz, publicly, saturday, deadline, renounce, attacks, gives, axios, strait
-- 中文关键词: 伊朗、霍尔木兹、公开、周六、最后期限、放弃、袭击、给出、轴、海峡
+- Source / 来源: CNN. Published: `2026-07-12T05:43:00+00:00`.
+- Keywords / 关键词: iran, strikes, strait, hormuz, ship, attack, july, updates, live, attacks
+- 中文关键词: 伊朗、袭击、海峡、霍尔木兹、船、七月、更新、居住
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: U.S. gives Iran Saturday deadline to publicly renounce Hormuz attacks Axios Iran war live: US demands Iran publicly state Strait of Hormuz open for all Al Jazeera US wants Iran to pledge to stop shooting at ships in Strait of Hormuz BBC Europe considering proposals to allow navigational fees in strait of Hormuz The Guardian Trump demands ‘public statement’ from Iran in ongoing negotiations Politico
-- RSS 中文摘要: 美国给伊朗周六公开放弃霍尔木兹海峡袭击的最后期限 伊朗战争直播：美国要求伊朗公开声明霍尔木兹海峡对所有人开放
+- RSS Excerpt / RSS 摘要: July 11, 2026 — US strikes Iran after ship attack in Strait of Hormuz CNN Live updates: New US strikes on Iran and Gulf nations intercept attacks CNN Iran indefinitely closes Strait of Hormuz and attacks ship, prompting more U.S. strikes NBC News Iran War Live Updates: U.S. Launches Strikes After Iran Fires on Ship in Strait of Hormuz The New York Times Live updates: U.S. conducts another round of strikes on Iran as Trump, supreme leader exchange threats CBS News
+- RSS 中文摘要: 2026 年 7 月 11 日 — 美国在霍尔木兹海峡船只遇袭后对伊朗进行打击 CNN 实时更新：美国对伊朗和海湾国家进行新的打击特朗普与最高领导人相互威胁，打击伊朗 CBS 新闻
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, hormuz, publicly, saturday, and deadline. The available excerpt says: U.S. gives Iran Saturday deadline to publicly renounce Hormuz attacks Axios Iran war live: US demands Iran publicly state Strait of Hormuz open for all Al Jazeera US wants Iran to pledge to stop shooting at ships in Strait of Hormuz BBC Europe considering proposals to allow navigational fees in strait of Hormuz The Guardian Trump demands ‘public statement’ from Iran in ongoing negotiations Politico Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、霍尔木兹、公开、周六、最后期限。RSS 中文摘要显示：美国给伊朗周六公开放弃霍尔木兹海峡袭击的最后期限 伊朗战争直播：美国要求伊朗公开声明霍尔木兹海峡对所有人开放 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, strikes, strait, hormuz, and ship. The available excerpt says: July 11, 2026 — US strikes Iran after ship attack in Strait of Hormuz CNN Live updates: New US strikes on Iran and Gulf nations intercept attacks CNN Iran indefinitely closes Strait of Hormuz and attacks ship, prompting more U.S. strikes NBC News Iran War Live Updates: U.S. Launches Strikes After Iran Fires on Ship in Strait of Hormuz The New York Times Live updates: U.S. conducts another round of strikes on Iran as Trump, supreme leader exchange threats CBS News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、袭击、海峡、霍尔木兹、船。RSS 中文摘要显示：2026 年 7 月 11 日 — 美国在霍尔木兹海峡船只遇袭后对伊朗进行打击 CNN 实时更新：美国对伊朗和海湾国家进行新的打击特朗普与最高领导人相互威胁，打击伊朗 CBS 新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 4. [UK police arrest man suspected of murdering former MP Ann Widdecombe - Al Jazeera](https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0pDUktrUDUzWVh5cGkyU0JZWUxyckxMbHpNX3dobkRoVXkzb2lzLVJLcUdJNU5EbmVDd2xySUJUejk0c1BLT1BidE1CdS1mOTNQMTJMcVhIQkxlZ1dHdGFBRElCSG16SjNiZzRPeHpsM0dRZUY0eVpneTdqXzVnNlBuN0Yxd2RxQ2xUb1RETlRwMXpxY2VZZGNPcVR3dGY2NzNHMjRRUDZCQjkxcWfSAbMBQVVfeXFMT3JCS0NSYk5xamFOR0h3R001XzQyMWJPSUVvQ1lKbm5XdUlTOGZQLUNFRHNBWFJJU1BBWk9TZnV6b3NtaklXSzhrMjVlVUlFN0FuUjY5QU9IeEJsOFJoOWt5RC1vQmlCSF8ybEF4T2pSSGZCQ1R4ajRFamk3RWFxMjhLdzM0dTRiM3FGOWp0cFNOeERoSGRjMklETjg0anFBZXVDYUJENlBydzNvMTVzLXFqR3M?oc=5)
+### 3. [At least two killed in Toronto street festival shooting - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TaGp6dURmZU91R3BQTTV0Z0lkRVkyUUFVaWdDQTZ3Rm9xUUN2S3RvZWtxaDJMdy1sTzBpbVhQQXpJV2xtdS1JMEVReEw0d3dCUWFMcDZhdWpoUQ?oc=5)
 
-- Source / 来源: Al Jazeera. Published: `2026-07-10T18:19:57+00:00`.
-- Keywords / 关键词: widdecombe, man, ann, former, murdering, police, arrest, suspected, jazeera, suspicion
-- 中文关键词: 维德科姆、男人、安、以前的、谋杀、警察、逮捕、怀疑、半岛电视台
+- Source / 来源: BBC. Published: `2026-07-12T03:56:02+00:00`.
+- Keywords / 关键词: toronto, festival, shooting, killed, two, injured, dead, police, people, latin
+- 中文关键词: 多伦多、节日、射击、死亡、二、受伤、警察、人们、拉丁
+- Category / 分类: Climate, environment, and safety / 气候、环境与安全
+- RSS Excerpt / RSS 摘要: At least two killed in Toronto street festival shooting BBC Two killed in mass shooting at Canada’s largest Latin street festival in Toronto, police say CNN 2 people dead, multiple injured after shooting at Toronto street festival CBC Gunfire shatters Toronto Latin street festival, leaving at least 2 dead and 3 injured Fox News Toronto active shooter incident leaves 5 people injured, 2 dead, police say Reuters
+- RSS 中文摘要: 多伦多街头音乐节枪击事件造成至少两人死亡 BBC 加拿大多伦多最大的拉丁街头音乐节发生大规模枪击事件，两人死亡，警方称 CNN 多伦多街头音乐节发生枪击事件，造成 2 人死亡、多人受伤 CBC 枪声摧毁了多伦多拉丁街头音乐节，造成至少 2 人死亡、3 人受伤 福克斯新闻 警方称，多伦多枪击事件造成 5 人受伤、2 人死亡 路透
+- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
+- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
+- EN Detailed Reading: Key signals: toronto, festival, shooting, killed, and two. The available excerpt says: At least two killed in Toronto street festival shooting BBC Two killed in mass shooting at Canada’s largest Latin street festival in Toronto, police say CNN 2 people dead, multiple injured after shooting at Toronto street festival CBC Gunfire shatters Toronto Latin street festival, leaving at least 2 dead and 3 injured Fox News Toronto active shooter incident leaves 5 people injured, 2 dead, police say Reuters Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
+- 中文详细解读: 关键词信号：多伦多、节日、射击、死亡、二。RSS 中文摘要显示：多伦多街头音乐节枪击事件造成至少两人死亡 BBC 加拿大多伦多最大的拉丁街头音乐节发生大规模枪击事件，两人死亡，警方称 CNN 多伦多街头音乐节发生枪击事件，造成 2 人死亡、多人受伤 CBC 枪声摧毁了多伦多拉丁街头音乐节，造成至少 2 人死亡、3 人受伤 福克斯新闻 警方称，多伦多枪击事件造成 5 人受伤、2 人死亡 路透 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
+- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
+- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
+
+### 4. [Justice Dept. subpoenas N.Y. Times journalists over reports on new Air Force One - The Washington Post](https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXBLMkpwVWJyWjNMWXNlOWpvQ0hHYkxKZkdLc0J1aWZoTkRxSzNHdVJDZkVVeW9aZUE3TEozeXhIdy0tUG02a1Y0S0Z0ZlV0MWJ5aGcxdld1bGlHZ1l1ZGpBcTdFdS1uRGwxQV9kbHJnZ1RoWG85U3RkRy1xaVBtbGw2TzVFdUc1Z0FBWVVDbWEya2lnQThSblNBNEQ0Q0xhQVFxWTNOcEFtSmdOZFRXcmptWHhESll2NmNSbU1TOHVhU2xFU2ZfbFhB?oc=5)
+
+- Source / 来源: The Washington Post. Published: `2026-07-11T23:55:26+00:00`.
+- Keywords / 关键词: subpoenas, force, air, one, journalists, washington, justice, dept, administration, trump
+- 中文关键词: 传票、力量、空气、一、记者、华盛顿、正义、部门、行政、特朗普
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: UK police arrest man suspected of murdering former MP Ann Widdecombe Al Jazeera Man held on suspicion of Ann Widdecombe's murder released and no longer part of investigation BBC Man arrested on suspicion of Ann Widdecombe’s murder is released The Guardian Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician The New York Times UK police arrest 26-year-old suspect in the killing of former minister Widdecombe CNN
-- RSS 中文摘要: 英国警方逮捕涉嫌谋杀前议员安·维德科姆的男子 半岛电视台 因涉嫌谋杀安·维德科姆而被捕的男子已获释，不再参与调查 BBC 因涉嫌谋杀安·维德科姆而被捕的男子已被释放 《卫报》男子因涉嫌谋杀英国前政治家安·维德科姆而被捕 《纽约时报》 英国警方逮捕了杀害前部长的 26 岁嫌疑人维德科姆美国有线电视新闻网
+- RSS Excerpt / RSS 摘要: Justice Dept. subpoenas N.Y. Times journalists over reports on new Air Force One The Washington Post White House Directed Patel to Oversee Investigation Involving Times Reporting - The New York Times The New York Times Trump administration subpoenas New York Times journalists who reported security concerns around new Air Force One CNN Trump Administration Subpoenas New York Times Reporters After Air Force One Reporting WSJ Trump administration subpoenas New York Times reporters over coverage Al Jazeera
+- RSS 中文摘要: 司法部就新空军一号的报道向《纽约时报》记者发出传票 《华盛顿邮报》白宫指示帕特尔监督涉及《纽约时报》报道的调查 - 《纽约时报》 《纽约时报》特朗普政府就报道新空军一号的安全问题向《纽约时报》记者发出传票 CNN 特朗普政府对《纽约时报》记者发出传票 空军一号报道后 《华尔街日报》特朗普政府就报道问题向《纽约时报》记者发出传票 半岛电视台
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: widdecombe, man, ann, former, and murdering. The available excerpt says: UK police arrest man suspected of murdering former MP Ann Widdecombe Al Jazeera Man held on suspicion of Ann Widdecombe's murder released and no longer part of investigation BBC Man arrested on suspicion of Ann Widdecombe’s murder is released The Guardian Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician The New York Times UK police arrest 26-year-old suspect in the killing of former minister Widdecombe CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：维德科姆、男人、安、以前的、谋杀。RSS 中文摘要显示：英国警方逮捕涉嫌谋杀前议员安·维德科姆的男子 半岛电视台 因涉嫌谋杀安·维德科姆而被捕的男子已获释，不再参与调查 BBC 因涉嫌谋杀安·维德科姆而被捕的男子已被释放 《卫报》男子因涉嫌谋杀英国前政治家安·维德科姆而被捕 《纽约时报》 英国警方逮捕了杀害前部长的 26 岁嫌疑人维德科姆美国有线电视新闻网 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: subpoenas, force, air, one, and journalists. The available excerpt says: Justice Dept. subpoenas N.Y. Times journalists over reports on new Air Force One The Washington Post White House Directed Patel to Oversee Investigation Involving Times Reporting - The New York Times The New York Times Trump administration subpoenas New York Times journalists who reported security concerns around new Air Force One CNN Trump Administration Subpoenas New York Times Reporters After Air Force One Reporting WSJ Trump administration subpoenas New York Times reporters over coverage Al Jazeera Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：传票、力量、空气、一、记者。RSS 中文摘要显示：司法部就新空军一号的报道向《纽约时报》记者发出传票 《华盛顿邮报》白宫指示帕特尔监督涉及《纽约时报》报道的调查 - 《纽约时报》 《纽约时报》特朗普政府就报道新空军一号的安全问题向《纽约时报》记者发出传票 CNN 特朗普政府对《纽约时报》记者发出传票 空军一号报道后 《华尔街日报》特朗普政府就报道问题向《纽约时报》记者发出传票 半岛电视台 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 5. [Small plane crash in Bahamas kills 10 people - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmSHpUUDRjV1BRQXo0aVlXSVo1SXgtQVlkaEd2ajg3Q0xYSWs3WnRSRkhvNTRNVzJDZWJqNW1VeHcxdFNSelBqNEowd0lROXR2czJoZVhjdkM1QQ?oc=5)
+### 5. [UK police free suspect in ex-MP Ann Widdecombe murder investigation - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxORG1rcXp4M25hbU05bkNvS0g1dXVDaHlQQ2VNdnhmRXBsZ084bk9NQUtRNThrcnlDOXJSbWhiVEUzZ1F5dVd5QWJ6YmQ3Wlk5VHE0ODVYQy11WlN1bzB4NVJ3T1lNS3RLcGN4V3dlUnh0cDZFcHRIaE1fVFczcW5DQzhrSU0wN2ZOcno1VHhXazljbWtQNWhWZUkzdXFKOWxMVE5XTkh6MmZxbGNt0gGyAUFVX3lxTE5jRnRZVEdxdkNWNE9KcVBUbGhfZ1FIMVQ5SEdjNVpDTzZRdkkwUWlzSmIwWnNEbXNIel9UbTI5RXNXTWlEUzJua01PRkJ0T3QxUVBDakcyZzJ6Vi1OMHdET0J6RU1FUlJRcXBqY2ZCZDlXd1FqY0hJVUZ5TG11ZnItLWNXTjd4Q0J6Nm96aUJ1Rlh3OWhBX0xjSFllalFZU2RYUWZKT3ZEX0JiQ2thQU5ibHc?oc=5)
 
-- Source / 来源: BBC. Published: `2026-07-11T04:47:37+00:00`.
-- Keywords / 关键词: bahamas, plane, people, small, crash, kills, killed, officials, largest, several
-- 中文关键词: 巴哈马、飞机、人们、小的、碰撞、造成死亡、死亡、官员、最大的、一些
+- Source / 来源: Al Jazeera. Published: `2026-07-11T14:28:51+00:00`.
+- Keywords / 关键词: widdecombe, murder, ann, police, investigation, suspect, jazeera, ex-mp, free, suspicion
+- 中文关键词: 维德科姆、谋杀、安、警察、调查、怀疑、半岛电视台、前议员、自由的
+- Category / 分类: Global affairs / 全球事务
+- RSS Excerpt / RSS 摘要: UK police free suspect in ex-MP Ann Widdecombe murder investigation Al Jazeera Man arrested on suspicion of murder of Ann Widdecombe, police say BBC 28-year-old man arrested on suspicion of murdering former UK lawmaker CNN U.K. rattled by killing of politician Ann Widdecombe as murder probe continues NBC News Widdecombe’s final text messages revealed The Telegraph
+- RSS 中文摘要: 英国警方释放前议员安·维德科姆谋杀案嫌疑人 半岛电视台男子因涉嫌谋杀安·维德科姆而被捕，警方称 BBC 28 岁男子因涉嫌谋杀前英国议员而被捕
+- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
+- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
+- EN Detailed Reading: Key signals: widdecombe, murder, ann, police, and investigation. The available excerpt says: UK police free suspect in ex-MP Ann Widdecombe murder investigation Al Jazeera Man arrested on suspicion of murder of Ann Widdecombe, police say BBC 28-year-old man arrested on suspicion of murdering former UK lawmaker CNN U.K. rattled by killing of politician Ann Widdecombe as murder probe continues NBC News Widdecombe’s final text messages revealed The Telegraph Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
+- 中文详细解读: 关键词信号：维德科姆、谋杀、安、警察、调查。RSS 中文摘要显示：英国警方释放前议员安·维德科姆谋杀案嫌疑人 半岛电视台男子因涉嫌谋杀安·维德科姆而被捕，警方称 BBC 28 岁男子因涉嫌谋杀前英国议员而被捕 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
+- EN What to watch: follow-up reporting; official statements; regional or market reaction
+- 后续关注: 后续报道；官方声明；地区或市场反应
+
+### 6. [Mitch McConnell spokesperson says senator continues recovery in hospital - WDRB](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSkkxNFF4SWRaWEJEYlB3UExMVHNLeFctTWpqTXdud0Q4VTJMYzVLMmtSakQtMTFPZXY5Y1A2NVdHQUs0T2NmczNDN0tVZE1kUWs0VWJBdGlQTC1WWUxFVF85TFFuVDg2M2NYZG9BcEg4aEl0UnRUSEtTUHljRW96SVdCZ1JpT2dxWlluYlBMRWFwc2tHY204ck45UExxQjcyWTBKazZnbmlCaUtWX1JrWXMtcXh1YUs0QU9scl9NWS1PUENxMDhrckJibEhTRUJYMkVoSFVvdVpxZHNYRFgxU3UxdDg2MWF5WG0zUzRR?oc=5)
+
+- Source / 来源: WDRB. Published: `2026-07-12T03:11:37+00:00`.
+- Keywords / 关键词: mcconnell, mitch, spokesperson, continues, recovery, hospital, senator, health, wdrb, eyewitness
+- 中文关键词: 麦康奈尔、米奇、发言人、继续、恢复、医院、参议员、健康、西德布、目击者
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Mitch McConnell spokesperson says senator continues recovery in hospital WDRB McConnell was loaded into ambulance on a stretcher, according to eyewitness and new video CNN Mitch McConnell mystery deepens as health questions remain unanswered The Guardian Dem governor escalates McConnell health demands, cites response to past Trump health concerns Fox News CNN Throws Scott Jennings Under Bus on McConnell Health Claim The Daily Beast
+- RSS 中文摘要: 米奇·麦康奈尔发言人表示，参议员在医院继续康复 WDRB 麦康奈尔被担架抬上救护车，根据目击者和新视频 CNN 米奇·麦康奈尔的谜团加深，因为健康问题仍未得到解答 《卫报》民主党州长升级了麦康奈尔的健康要求，援引了对过去特朗普健康问题的回应 福克斯新闻 CNN 将斯科特·詹宁斯扔下公共汽车谈论麦康奈尔的健康声明
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: mcconnell, mitch, spokesperson, continues, and recovery. The available excerpt says: Mitch McConnell spokesperson says senator continues recovery in hospital WDRB McConnell was loaded into ambulance on a stretcher, according to eyewitness and new video CNN Mitch McConnell mystery deepens as health questions remain unanswered The Guardian Dem governor escalates McConnell health demands, cites response to past Trump health concerns Fox News CNN Throws Scott Jennings Under Bus on McConnell Health Claim The Daily Beast Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：麦康奈尔、米奇、发言人、继续、恢复。RSS 中文摘要显示：米奇·麦康奈尔发言人表示，参议员在医院继续康复 WDRB 麦康奈尔被担架抬上救护车，根据目击者和新视频 CNN 米奇·麦康奈尔的谜团加深，因为健康问题仍未得到解答 《卫报》民主党州长升级了麦康奈尔的健康要求，援引了对过去特朗普健康问题的回应 福克斯新闻 CNN 将斯科特·詹宁斯扔下公共汽车谈论麦康奈尔的健康声明 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 7. [Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated - AP News](https://news.google.com/rss/articles/CBMilgFBVV95cUxQUFpYaEtpZ2dWSzVtVndmRk01cTZ0aHQybGswb1c5QXd1WGtBRjIwejcwbUQ3cFJOVDV1MEpzdVQ0MGNKWWdETkVxVTRYV0ZHYVNTOEVJTktCWlQwVFJnVklJMEIwa3R0SHJDZVotNHdnRi1lbXl1dFpMcXo4eE5pV1lyeWlLWmdoeWxlX0pFRFk5QXRRMHc?oc=5)
+
+- Source / 来源: AP News. Published: `2026-07-11T19:21:00+00:00`.
+- Keywords / 关键词: typhoon, bavi, evacuated, landfall, million, makes, china, eastern, hundreds, china's
+- 中文关键词: 台风、处理、疏散、登陆、百万、使、中国、东、数百、中国的
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated AP News China's second typhoon in a week makes landfall BBC Typhoon Bavi brings strong winds and rain to eastern China as more than 2 million people evacuated Yahoo More than 1.7 million evacuated as Typhoon Bavi makes landfall in China Al Jazeera Bavi injures 113, leaves hundreds of homes in dark Taipei Times
+- RSS 中文摘要: 台风巴威在中国东部登陆，逾100万人被疏散 美联社新闻 中国一周内第二次台风登陆 BBC 台风巴威给中国东部带来强风和降雨，超过200万人撤离 雅虎 台风巴威在中国登陆，超过170万人被疏散 半岛电视台 巴威造成113人受伤，数百户房屋陷入黑暗 台北时报
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: typhoon, bavi, evacuated, landfall, and million. The available excerpt says: Typhoon Bavi makes landfall in eastern China as more than 1 million are evacuated AP News China's second typhoon in a week makes landfall BBC Typhoon Bavi brings strong winds and rain to eastern China as more than 2 million people evacuated Yahoo More than 1.7 million evacuated as Typhoon Bavi makes landfall in China Al Jazeera Bavi injures 113, leaves hundreds of homes in dark Taipei Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：台风、处理、疏散、登陆、百万。RSS 中文摘要显示：台风巴威在中国东部登陆，逾100万人被疏散 美联社新闻 中国一周内第二次台风登陆 BBC 台风巴威给中国东部带来强风和降雨，超过200万人撤离 雅虎 台风巴威在中国登陆，超过170万人被疏散 半岛电视台 巴威造成113人受伤，数百户房屋陷入黑暗 台北时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 8. [Tall ships in Boston Harbor causing delays at Logan Airport - CBS News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY1BRX0RDMDNmSXJENEVPYTk0QjVwLUJvV0RPNGhWS3ZoVUU4Rll0U1RIWDRMRFFDNGxhZTRqQktBQ3dDT1RYcVU4OENGczRia29yTkJ1RmFRTlFDREdxbk13VFQ2MW4yc28zblVHdXZiTmtUeTk3d003b183WEtIYXJwR0tyQmNXWmlF?oc=5)
+
+- Source / 来源: CBS News. Published: `2026-07-11T18:47:00+00:00`.
+- Keywords / 关键词: boston, ships, tall, harbor, causing, airport, delays, logan, cbs, locals-only
+- 中文关键词: 波士顿、船舶、高的、港口、引起、飞机场、延误、洛根、哥伦比亚广播公司、仅限当地人
 - Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Small plane crash in Bahamas kills 10 people BBC Ten Killed in Plane Crash on the Bahamas’ Largest Island The New York Times Small plane crashes in the Bahamas, killing several people. Officials report one survivor ABC News - Breaking News, Latest News and Videos Ten people were killed when a plane crashed on the largest island in the Bahamas, the authorities said. facebook.com Several killed in small plane crash in the Bahamas, officials say CBS News
-- RSS 中文摘要: 巴哈马小型飞机失事，造成 10 人死亡 BBC 十人在巴哈马最大岛屿的飞机失事中丧生 《纽约时报》 巴哈马小型飞机失事，造成数人死亡。官员称，一名幸存者 ABC News - 突发新闻、最新新闻和视频 当局称，一架飞机在巴哈马最大的岛屿上坠毁，造成 10 人死亡。哥伦比亚广播公司 (CBS) 官员称，巴哈马小型飞机失事造成数人死亡
+- RSS Excerpt / RSS 摘要: Tall ships in Boston Harbor causing delays at Logan Airport CBS News Photos: Thousands of people turn out to see majestic tall ships in Boston The Boston Globe A Locals-Only Guide to Watching Boston's Tall Ships Boston Magazine Sail Boston 2026: 60+ Tall Ships turning the Harbor into a massive boat party Boston Herald Tall ships pass off Scituate on way to Boston Harbor The Patriot Ledger
+- RSS 中文摘要: 波士顿港的高桅帆船造成洛根机场延误 哥伦比亚广播公司 (CBS) 新闻图片： 成千上万的人前来观看波士顿雄伟的高桅帆船 《波士顿环球报》 波士顿高桅帆船当地人专用指南 波士顿杂志 2026 年启航波士顿：60 多艘高桅帆船将港口变成一场盛大的游船派对 波士顿先驱报 高桅帆船在前往波士顿港的途中驶过 Scituate 爱国者纪事报
 - EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
 - 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: bahamas, plane, people, small, and crash. The available excerpt says: Small plane crash in Bahamas kills 10 people BBC Ten Killed in Plane Crash on the Bahamas’ Largest Island The New York Times Small plane crashes in the Bahamas, killing several people. Officials report one survivor ABC News - Breaking News, Latest News and Videos Ten people were killed when a plane crashed on the largest island in the Bahamas, the authorities said. facebook.com Several killed in small plane crash in the Bahamas, officials say CBS News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：巴哈马、飞机、人们、小的、碰撞。RSS 中文摘要显示：巴哈马小型飞机失事，造成 10 人死亡 BBC 十人在巴哈马最大岛屿的飞机失事中丧生 《纽约时报》 巴哈马小型飞机失事，造成数人死亡。官员称，一名幸存者 ABC News - 突发新闻、最新新闻和视频 当局称，一架飞机在巴哈马最大的岛屿上坠毁，造成 10 人死亡。哥伦比亚广播公司 (CBS) 官员称，巴哈马小型飞机失事造成数人死亡 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN Detailed Reading: Key signals: boston, ships, tall, harbor, and causing. The available excerpt says: Tall ships in Boston Harbor causing delays at Logan Airport CBS News Photos: Thousands of people turn out to see majestic tall ships in Boston The Boston Globe A Locals-Only Guide to Watching Boston's Tall Ships Boston Magazine Sail Boston 2026: 60+ Tall Ships turning the Harbor into a massive boat party Boston Herald Tall ships pass off Scituate on way to Boston Harbor The Patriot Ledger Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：波士顿、船舶、高的、港口、引起。RSS 中文摘要显示：波士顿港的高桅帆船造成洛根机场延误 哥伦比亚广播公司 (CBS) 新闻图片： 成千上万的人前来观看波士顿雄伟的高桅帆船 《波士顿环球报》 波士顿高桅帆船当地人专用指南 波士顿杂志 2026 年启航波士顿：60 多艘高桅帆船将港口变成一场盛大的游船派对 波士顿先驱报 高桅帆船在前往波士顿港的途中驶过 Scituate 爱国者纪事报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
 - EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
 - 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 6. [Man fatally shot by ICE in Houston was not intended target, DHS says - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kYnYtRHludGRjcXh6Rzk5YUU2M2RsaWNzX05iQm1nR2QzbHRGNGR2blNTUUhrU1M1ajVnZ1BubmtibnNoSG9ZLTlVX0NqZHlZYXBtZWUyR0NVZw?oc=5)
+### 9. [British couple saved from Spanish ravine after deadly wildfire - Reuters](https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGxiS3BEWDM1MlRCOFB1Vi1tQXpvai0wbEJHODdYbUFNclJidWhkLXRxYXMtQlNzTU1NNlFQZWJneVFkN3poMFE1TnVPQVdmUEc4WldQVXhSaFE3c292VU45SEQ4eFBTcGI2LVN1ZlRtbzczWmhiM1BGeHBIVmMtX1F0a2xwQWpvWG5OWGVqY3U4dzhxYl9zU1hvODVHSjlIb1gzbm5LQmw5QnlBeGtrOVlMZw?oc=5)
 
-- Source / 来源: BBC. Published: `2026-07-10T22:38:03+00:00`.
-- Keywords / 关键词: houston, ice, man, intended, fatally, target, shot, dhs, shooting, lorenzo
-- 中文关键词: 休斯顿、冰、男人、故意的、致命地、目标、射击、国土安全部、洛伦索
-- Category / 分类: Public safety and society / 公共安全与社会
-- RSS Excerpt / RSS 摘要: Man fatally shot by ICE in Houston was not intended target, DHS says BBC Lorenzo Salgado Araujo’s passengers dispute ICE’s account of his fatal shooting, their attorney says Houston Public Media ICE Killing in Houston Puts Focus on Surge in Immigration Arrests The New York Times Migrants who saw man killed by ICE in Houston say he did not ram officers The Washington Post Harris County ME rules Houston ICE shooting death of Lorenzo Salgado Araujo a homicide Click2Houston
-- RSS 中文摘要: 国土安全部表示，BBC 洛伦佐·萨尔加多·阿劳霍 (Lorenzo Salgado Araujo) 在休斯顿被 ICE 枪杀的男子不是预定目标，国土安全部表示，BBC 洛伦佐·萨尔加多·阿劳霍 (Lorenzo Salgado Araujo) 的乘客对 ICE 对他致命枪击事件的说法提出异议，他们的律师表示，休斯顿公共媒体 ICE 在休斯敦发生的枪击事件将焦点放在移民逮捕人数激增上。 Click2休斯顿
-- EN Summary: This story centers on harm to people, emergency response, or social disruption.
-- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
-- EN Detailed Reading: Key signals: houston, ice, man, intended, and fatally. The available excerpt says: Man fatally shot by ICE in Houston was not intended target, DHS says BBC Lorenzo Salgado Araujo’s passengers dispute ICE’s account of his fatal shooting, their attorney says Houston Public Media ICE Killing in Houston Puts Focus on Surge in Immigration Arrests The New York Times Migrants who saw man killed by ICE in Houston say he did not ram officers The Washington Post Harris County ME rules Houston ICE shooting death of Lorenzo Salgado Araujo a homicide Click2Houston Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
-- 中文详细解读: 关键词信号：休斯顿、冰、男人、故意的、致命地。RSS 中文摘要显示：国土安全部表示，BBC 洛伦佐·萨尔加多·阿劳霍 (Lorenzo Salgado Araujo) 在休斯顿被 ICE 枪杀的男子不是预定目标，国土安全部表示，BBC 洛伦佐·萨尔加多·阿劳霍 (Lorenzo Salgado Araujo) 的乘客对 ICE 对他致命枪击事件的说法提出异议，他们的律师表示，休斯顿公共媒体 ICE 在休斯敦发生的枪击事件将焦点放在移民逮捕人数激增上。 Click2休斯顿 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
-- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
-- 后续关注: 官方调查；确认伤亡数字；预防措施
-
-### 7. [Platner formally withdraws from Maine Senate race and Democrats announce process to name new nominee - AP News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOemlPZlZNWnlEalI4aURqeU96Rmd0UFkyNlZJZjdjQkRBLW40M2FYY29RRTN6UWNpcU1aRHJOeDFLTjVmMTFNb21aYU5pdDBfbV9VVXdhN1N0UnJ5eWpCbTJIZ2lYUjZQS2xiNVdiMTlpVDdqeGk3aHpCWUhhTFdpNHRnVVB1Mlh1VWw2YkVRX18?oc=5)
-
-- Source / 来源: AP News. Published: `2026-07-11T01:45:00+00:00`.
-- Keywords / 关键词: platner, maine, withdraws, democrats, senate, race, formally, announce, process, nominee
-- 中文关键词: 普拉特纳、缅因州、撤回、民主党人、参议院、种族、正式地、宣布、过程、被提名人
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Platner formally withdraws from Maine Senate race and Democrats announce process to name new nominee AP News Democrats Haunted by Biden-Harris Switch as They Replace Platner in Maine The New York Times ‘No one planned for this’: The rapidly-evolving 18-day primary to replace Platner Politico Graham Platner officially withdraws from the Maine Senate race NBC News It’s not me, it’s them: Platner goes down snarling with graceless exit video The Guardian
-- RSS 中文摘要: 普拉特纳正式退出缅因州参议院竞选，民主党宣布任命新提名人的程序 美联社新闻 民主党在缅因州接替普拉特纳时，被拜登和哈里斯的转变所困扰 《纽约时报》“没有人计划这样做”：接替普拉特纳的为期 18 天的快速发展的初选 政客格雷厄姆·普拉特纳正式退出缅因州参议院竞选 NBC 新闻 这不是我，是他们：普拉特纳以无礼的退出方式咆哮着倒下视频《卫报》
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: platner, maine, withdraws, democrats, and senate. The available excerpt says: Platner formally withdraws from Maine Senate race and Democrats announce process to name new nominee AP News Democrats Haunted by Biden-Harris Switch as They Replace Platner in Maine The New York Times ‘No one planned for this’: The rapidly-evolving 18-day primary to replace Platner Politico Graham Platner officially withdraws from the Maine Senate race NBC News It’s not me, it’s them: Platner goes down snarling with graceless exit video The Guardian Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：普拉特纳、缅因州、撤回、民主党人、参议院。RSS 中文摘要显示：普拉特纳正式退出缅因州参议院竞选，民主党宣布任命新提名人的程序 美联社新闻 民主党在缅因州接替普拉特纳时，被拜登和哈里斯的转变所困扰 《纽约时报》“没有人计划这样做”：接替普拉特纳的为期 18 天的快速发展的初选 政客格雷厄姆·普拉特纳正式退出缅因州参议院竞选 NBC 新闻 这不是我，是他们：普拉特纳以无礼的退出方式咆哮着倒下视频《卫报》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 8. [White House Grounded Trump’s Qatari Jet Over Security Concerns, More Reports Confirm - Forbes](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQakxnMGpCb29aTGtKZl8tdTY2cXFLcUlFVTdVemtmS0dTdVdrdWV4c2V6MFhxT0t5X1UxVFpjV3F2QjF1QUtQMW4wb2dqNTdCeEpSbjdqUlRBVk5STi1fa0FISGZnWnBEMDFnYkxhRDJHazJXZllfUmtUNVgwTWp1eWtXdjg1STVPTHB3dDZ3eDZSaFBxUmtzdzBndUlyOXloRUxPS3VMbFZ2TnZNS0h5VWx5SWg0NjhsLW14Sk9LZk11VXJPSnB1SWMzMUYwU3Zk?oc=5)
-
-- Source / 来源: Forbes. Published: `2026-07-10T19:48:00+00:00`.
-- Keywords / 关键词: trump, security, concerns, jet, grounded, confirm, qatari, forbes, white, house
-- 中文关键词: 特朗普、安全、担忧、喷射、接地气、确认、卡塔尔、福布斯、白色的、房子
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: White House Grounded Trump’s Qatari Jet Over Security Concerns, More Reports Confirm Forbes New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say The New York Times Security concerns prompted Trump to depart Turkey on older plane while sending Qatari-donated jet ahead, officials say CNN Questions arise over Qatari-donated Air Force One after Secret Service advised Trump to take old plane CBS News Which Air Force One is going to Trump library? Son's comments raise questions USA Today
-- RSS 中文摘要: 官员称，白宫因安全问题而停飞特朗普的卡塔尔喷气式飞机，更多报道证实《福布斯》新空军一号缺乏先前型号的防御对策 《纽约时报》 官员称，出于安全考虑，特朗普乘坐旧飞机离开土耳其，同时派遣卡塔尔捐赠的喷气式飞机继续前进儿子的言论引发质疑《今日美国》
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: trump, security, concerns, jet, and grounded. The available excerpt says: White House Grounded Trump’s Qatari Jet Over Security Concerns, More Reports Confirm Forbes New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say The New York Times Security concerns prompted Trump to depart Turkey on older plane while sending Qatari-donated jet ahead, officials say CNN Questions arise over Qatari-donated Air Force One after Secret Service advised Trump to take old plane CBS News Which Air Force One is going to Trump library? Son's comments raise questions USA Today Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：特朗普、安全、担忧、喷射、接地气。RSS 中文摘要显示：官员称，白宫因安全问题而停飞特朗普的卡塔尔喷气式飞机，更多报道证实《福布斯》新空军一号缺乏先前型号的防御对策 《纽约时报》 官员称，出于安全考虑，特朗普乘坐旧飞机离开土耳其，同时派遣卡塔尔捐赠的喷气式飞机继续前进儿子的言论引发质疑《今日美国》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 9. [Trump officials sought ways to sidestep election agency before firings, sources say - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZ212b0ZrNWhJVzRuSG9yeXBaUnNhaksyc01TRHRWR2NjcGNVYnVNNUowSzQ4UVA1ZW1pX1FCZExTMUJwWVN3cUl4R1k0TWgyckFsYVN1bHROVVNEa05aX3FzQ0FwZkpfZDRScmtnUFFkVEVmcWJvVWxRaHhpbVpyZktQYWd2MDRETlh5Mzd4V1hWaXA3TUhVM1N5WTJUVmI5Qk5TNkQxc2RKSThheWtxWVY4azF1RWFabEx2aEtzX0lzUktfLWw5dzROZ24?oc=5)
-
-- Source / 来源: Reuters. Published: `2026-07-11T00:41:00+00:00`.
-- Keywords / 关键词: election, trump, agency, officials, sidestep, firings, sources, sought, before, ways
-- 中文关键词: 选举、特朗普、机构、官员、回避、解雇、来源、寻求、前、方式
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Trump officials sought ways to sidestep election agency before firings, sources say Reuters Trump fires Election Assistance Commission members ahead of midterms Yahoo Trump looked to bypass federal election agency, report says DW.com Faithful Execution and the Removal Power Lawfare Trump fires election commission members in latest attempt to control voting process PBS
-- RSS 中文摘要: 消息人士称，特朗普官员在解雇前寻求办法绕过选举机构 路透社 特朗普在中期选举前解雇了选举援助委员会成员 雅虎 报道称，DW.com 特朗普希望绕过联邦选举机构 忠实执行和罢免权力法 特朗普解雇选举委员会成员，这是控制投票过程的最新尝试 PBS
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: election, trump, agency, officials, and sidestep. The available excerpt says: Trump officials sought ways to sidestep election agency before firings, sources say Reuters Trump fires Election Assistance Commission members ahead of midterms Yahoo Trump looked to bypass federal election agency, report says DW.com Faithful Execution and the Removal Power Lawfare Trump fires election commission members in latest attempt to control voting process PBS Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：选举、特朗普、机构、官员、回避。RSS 中文摘要显示：消息人士称，特朗普官员在解雇前寻求办法绕过选举机构 路透社 特朗普在中期选举前解雇了选举援助委员会成员 雅虎 报道称，DW.com 特朗普希望绕过联邦选举机构 忠实执行和罢免权力法 特朗普解雇选举委员会成员，这是控制投票过程的最新尝试 PBS 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 10. [King Charles, Camilla meet with Prince Harry, Meghan and kids in UK - ABC7 New York](https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkU1X1RQQXh3S3ZEUWxQWjZ6YVJHQmRFRVhIay1sdURMdUpXR1RDWG0zRktsV0lHem92Z0wyYW1nYi16RzJmU1NzclFPNWJoaGpCX0JxdjM1VlljZUdTazVMUExQNXpzeVNCeGtmQ3A4d1hxQTU2MEpmV3BJZS0xTDZnWWVrNGs1MmhBZTFiUGTSAZYBQVVfeXFMUF9zQi04UmxudjBCZ3c1VVRPSW1WVnR0eHZtX1JOX21Cb2pJZHBsYmpUQmY2dHF5VjBhLXBmbHdZT05ncEl4bUxlNEN4d0h2MVRlNnV1czM1WlUwakc5aWdwQlB0eDkwSzFfOGtxa1M1Wl92T1lPdFBsOUY5ZlZrcXR1SjZxaGVoSTRjZGlmdFY1Skdmakhn?oc=5)
-
-- Source / 来源: ABC7 New York. Published: `2026-07-10T20:01:43+00:00`.
-- Keywords / 关键词: harry, charles, prince, meghan, king, camilla, meet, kids, abc7, children
-- 中文关键词: 哈利、查尔斯、王子、梅根、国王、卡米拉、见面、孩子们、ABC7
+- Source / 来源: Reuters. Published: `2026-07-11T18:15:03+00:00`.
+- Keywords / 关键词: wildfire, spanish, deadly, british, couple, ravine, saved, wildfires, victims, killed
+- 中文关键词: 野火、西班牙语、致命、英国人、夫妻、山沟、已保存、受害者、死亡
 - Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: King Charles, Camilla meet with Prince Harry, Meghan and kids in UK ABC7 New York Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen The New York Times Prince Harry, Meghan and children Archie and Lilibet visit King Charles and Queen Camilla BBC Charles hosted Prince Harry and family for first time in years as they try to repair a family rift AP News King Charles Reunites with Prince Harry, Meghan Markle and Their Children Vanity Fair
-- RSS 中文摘要: 查尔斯国王、卡米拉在英国会见哈里王子、梅根和孩子们 ABC7 纽约 皇家和解：哈里和梅根罕见地拜访了国王和王后 《纽约时报》 哈里王子、梅根和孩子阿奇和莉莉贝特拜访查尔斯国王和卡米拉王后 BBC 查尔斯多年来首次接待了哈里王子和家人，试图修复家庭裂痕 美联社新闻 查尔斯国王与哈里王子、梅根·马克尔和他们的孩子团聚 《名利场》
+- RSS Excerpt / RSS 摘要: British couple saved from Spanish ravine after deadly wildfire Reuters At least 12 dead, 23 missing amid fast-moving wildfire in southern Spain Yahoo Victims of Spanish wildfires killed while trying to escape along river bed ‘trap’ CNN Hundreds of firefighters in Spain battle deadly wildfires that killed at least 12 fleeing flames CBS News Spanish wildfire victims burned in cars as roads turned into death traps Reuters
+- RSS 中文摘要: 英国夫妇在致命山火后从西班牙峡谷中获救 西班牙南部快速蔓延的山火造成至少12人死亡、23人失踪 雅虎 西班牙山火受害者在试图沿着河床“陷阱”逃生时丧生 CNN 西班牙数百名消防员与致命山火搏斗，造成至少12人死亡 哥伦比亚广播公司新闻 西班牙山火受害者在汽车中被烧死，道路变成了死亡陷阱 路透社
 - EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
 - 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: harry, charles, prince, meghan, and king. The available excerpt says: King Charles, Camilla meet with Prince Harry, Meghan and kids in UK ABC7 New York Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen The New York Times Prince Harry, Meghan and children Archie and Lilibet visit King Charles and Queen Camilla BBC Charles hosted Prince Harry and family for first time in years as they try to repair a family rift AP News King Charles Reunites with Prince Harry, Meghan Markle and Their Children Vanity Fair Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：哈利、查尔斯、王子、梅根、国王。RSS 中文摘要显示：查尔斯国王、卡米拉在英国会见哈里王子、梅根和孩子们 ABC7 纽约 皇家和解：哈里和梅根罕见地拜访了国王和王后 《纽约时报》 哈里王子、梅根和孩子阿奇和莉莉贝特拜访查尔斯国王和卡米拉王后 BBC 查尔斯多年来首次接待了哈里王子和家人，试图修复家庭裂痕 美联社新闻 查尔斯国王与哈里王子、梅根·马克尔和他们的孩子团聚 《名利场》 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN Detailed Reading: Key signals: wildfire, spanish, deadly, british, and couple. The available excerpt says: British couple saved from Spanish ravine after deadly wildfire Reuters At least 12 dead, 23 missing amid fast-moving wildfire in southern Spain Yahoo Victims of Spanish wildfires killed while trying to escape along river bed ‘trap’ CNN Hundreds of firefighters in Spain battle deadly wildfires that killed at least 12 fleeing flames CBS News Spanish wildfire victims burned in cars as roads turned into death traps Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：野火、西班牙语、致命、英国人、夫妻。RSS 中文摘要显示：英国夫妇在致命山火后从西班牙峡谷中获救 西班牙南部快速蔓延的山火造成至少12人死亡、23人失踪 雅虎 西班牙山火受害者在试图沿着河床“陷阱”逃生时丧生 CNN 西班牙数百名消防员与致命山火搏斗，造成至少12人死亡 哥伦比亚广播公司新闻 西班牙山火受害者在汽车中被烧死，道路变成了死亡陷阱 路透社 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
 - EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
 - 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 10. [More than 1.7 million evacuated as Typhoon Bavi makes landfall in China - Al Jazeera](https://news.google.com/rss/articles/CBMirwFBVV95cUxONmhKZVUzOHhLaGZlV1JPdVp6a3NyOVpuakMwc3l3N2FPNUk4WmVvYVhUZjM1eDU1ZEJJR21rVDNYcFhvOVY2N0NLSzF5Qmxubk1PSThxeGs0dWt1TDBHUzZkUFE4QmtzcXNsZFJxY1BBSDlNNUZFcUF1MnBEczdQd3NLdEJaQzkyaFRDLUZrdzVNQVdqVVRqVy0tVFFYUFJMeGxmMWJrTENEaFpfdUR30gG0AUFVX3lxTE1RQi1nZ2F4SEdGcHJVbTBjRjdxcTFqYW9HOXNBUm8xd3V3cmZoTFJOZ2NHU2lqejd2c2lWN1FldUs2blVsa19HOUFuRUJ5OFRXU0NEa09tZEdRUGRnZDF1X1hwM1NDSXRhcEhha0RxYS1HS0JSVWhHSXczSHBHUE9JM2JsTkJGV3hoVlRwUy1vVjFuWHVLRmFzZF85RkVUbVJQanRfc0NtRUdWckZsM3hzRmRrcw?oc=5)
+
+- Source / 来源: Al Jazeera. Published: `2026-07-11T19:07:33+00:00`.
+- Keywords / 关键词: typhoon, bavi, china, evacuated, landfall, million, makes, jazeera, eastern, rain
+- 中文关键词: 台风、处理、中国、疏散、登陆、百万、使、半岛电视台、东、雨
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: More than 1.7 million evacuated as Typhoon Bavi makes landfall in China Al Jazeera China's second typhoon in a week makes landfall BBC Typhoon Bavi brings strong winds and rain to eastern China as more than 2 million people evacuated Yahoo Bavi injures 113, leaves hundreds of homes in dark Taipei Times Typhoon Bavi batters eastern China, threatens days of heavy rain Reuters
+- RSS 中文摘要: 台风巴威登陆中国，逾 170 万人撤离 半岛电视台 中国一周内第二次台风登陆 BBC 台风巴威给中国东部带来强风和降雨，超过 200 万人撤离 雅虎巴威 造成 113 人受伤，数百户家庭陷入黑暗 台北时报 台风巴威袭击中国东部，可能会出现数日大雨 路透
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: typhoon, bavi, china, evacuated, and landfall. The available excerpt says: More than 1.7 million evacuated as Typhoon Bavi makes landfall in China Al Jazeera China's second typhoon in a week makes landfall BBC Typhoon Bavi brings strong winds and rain to eastern China as more than 2 million people evacuated Yahoo Bavi injures 113, leaves hundreds of homes in dark Taipei Times Typhoon Bavi batters eastern China, threatens days of heavy rain Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：台风、处理、中国、疏散、登陆。RSS 中文摘要显示：台风巴威登陆中国，逾 170 万人撤离 半岛电视台 中国一周内第二次台风登陆 BBC 台风巴威给中国东部带来强风和降雨，超过 200 万人撤离 雅虎巴威 造成 113 人受伤，数百户家庭陷入黑暗 台北时报 台风巴威袭击中国东部，可能会出现数日大雨 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
 
 
