@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-07-19T06:26:09+00:00` UTC.
+Generated at `2026-07-20T06:41:17+00:00` UTC.
 
-### 1. [Two U.S. troops killed, one missing in Iranian missile attack on Jordan - Axios](https://news.google.com/rss/articles/CBMifEFVX3lxTE5lejhSanE3ZWhrMU9BYk1xRDRBSElEaGdCcEl2NXNiMzY2YXgwQXY3VnF0aEF2YXQ0ZXRkbXJ1em9TY0wxWWY1YTBhUnB6WGJ3NU9DQUc4MGJtaEtmRk9QaVJ2VFZNLWF0NDB2N1pJdkhCM3pWZG1VTnFXRjI?oc=5)
+### 1. [US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone - Al Jazeera](https://news.google.com/rss/articles/CBMisgFBVV95cUxNbHltUU9hT0VWajZhM0YteFlIQkczRzN0YThsbnJsRXFtQWg4RmtfNlczVHNMZ1MzOUFkVnRUNUQwUERYMDcxekMyeThzbDNrRkVZT05JS2NId0FGLXd5Q0VETkt0MzBrNEpWekxaT2FlRXl0aDRvaWNiSGR0SW1nNXZmX3NNY0N0cldSallfQ2FHSXowOVRURFU1NmhGSzE0Vy1FQWxTOS1DNnVRN3QtcXhB0gG3AUFVX3lxTE5QeFd0eEVMajBuR0RWQlh1NkVQUERUaXV0UE9pSnlRWWRFV09Ed1NPYjBoQUpueWpqcHZhNm1aNHlVUmZXelp5azdkdXU2cTRzRW5vbWxxZlFocE9BZ2VTOC1NZFRidXBpMVpVMUpzYnJtUTc5RUdqeE5rQjAxcG5MN2w3Tlp5SnQ3a0U2OGZRNmdLUlMxOWc2LUEzT0RLNGNZLWtib1RtTndmUEhGTVhwSURhY2xtWQ?oc=5)
 
-- Source / 来源: Axios. Published: `2026-07-19T04:47:36+00:00`.
-- Keywords / 关键词: troops, jordan, two, missing, iranian, killed, attack, one, missile, axios
-- 中文关键词: 军队、约旦、二、丢失的、伊朗的、死亡、袭击、一、导弹、轴
+- Source / 来源: Al Jazeera. Published: `2026-07-20T05:02:38+00:00`.
+- Keywords / 关键词: killed, drone, controlled, detonation, soldier, iranian, jazeera, during, iraq, iran
+- 中文关键词: 死亡、无人机、受控、爆炸、士兵、伊朗的、半岛电视台、期间、伊拉克、伊朗
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Two U.S. troops killed, one missing in Iranian missile attack on Jordan Axios US and Iran exchange strikes after two US deaths in Jordan attack BBC Two US service members killed, one missing following Iranian strikes in Jordan CNN US military launches new airstrikes to ‘swiftly punish’ Iran for deaths of US troops AP News US retaliates against Iran’s Revolutionary Guard over killing of American troops South China Morning Post
-- RSS 中文摘要: 伊朗对约旦 Axios 的导弹袭击造成两名美军死亡，一名失踪 两名美国人在约旦袭击中死亡后，美国和伊朗进行了交锋 伊朗袭击约旦后，两名美国军人死亡，一名失踪 CNN 美国军方发动新的空袭，“迅速惩罚”伊朗杀害美军的行为 美联社新闻 美国对伊朗革命卫队杀害美军进行报复 南华早报
+- RSS Excerpt / RSS 摘要: US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone Al Jazeera Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands The New York Times IRGC says it struck US radar system, drone hangar in Kuwait The Times of Israel Trump on 2 troops killed in Iran attack: ‘A very sad thing’ NewsNation Trump Owes Americans a Better Explanation About Iran The Atlantic
+- RSS 中文摘要: 美国士兵在伊朗无人机“受控爆炸”中丧生 半岛电视台 伊朗战争实时更新：随着战争扩大，另一名美国军人被杀 《纽约时报》 IRGC 称，它袭击了美国雷达系统、科威特的无人机机库 《以色列时报》 特朗普就伊朗袭击中丧生的两名士兵表示：“非常悲伤的事情”
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: troops, jordan, two, missing, and iranian. The available excerpt says: Two U.S. troops killed, one missing in Iranian missile attack on Jordan Axios US and Iran exchange strikes after two US deaths in Jordan attack BBC Two US service members killed, one missing following Iranian strikes in Jordan CNN US military launches new airstrikes to ‘swiftly punish’ Iran for deaths of US troops AP News US retaliates against Iran’s Revolutionary Guard over killing of American troops South China Morning Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：军队、约旦、二、丢失的、伊朗的。RSS 中文摘要显示：伊朗对约旦 Axios 的导弹袭击造成两名美军死亡，一名失踪 两名美国人在约旦袭击中死亡后，美国和伊朗进行了交锋 伊朗袭击约旦后，两名美国军人死亡，一名失踪 CNN 美国军方发动新的空袭，“迅速惩罚”伊朗杀害美军的行为 美联社新闻 美国对伊朗革命卫队杀害美军进行报复 南华早报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: killed, drone, controlled, detonation, and soldier. The available excerpt says: US soldier killed in Iraq during ‘controlled detonation’ of Iranian drone Al Jazeera Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands The New York Times IRGC says it struck US radar system, drone hangar in Kuwait The Times of Israel Trump on 2 troops killed in Iran attack: ‘A very sad thing’ NewsNation Trump Owes Americans a Better Explanation About Iran The Atlantic Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：死亡、无人机、受控、爆炸、士兵。RSS 中文摘要显示：美国士兵在伊朗无人机“受控爆炸”中丧生 半岛电视台 伊朗战争实时更新：随着战争扩大，另一名美国军人被杀 《纽约时报》 IRGC 称，它袭击了美国雷达系统、科威特的无人机机库 《以色列时报》 特朗普就伊朗袭击中丧生的两名士兵表示：“非常悲伤的事情” 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 2. [July 18, 2026 – US-Iran war news - CNN](https://news.google.com/rss/articles/CBMic0FVX3lxTE9HcWdzWmNtRURwcnp2dVRsX1FSNEpQLTVnbEcxOE0zR3JGOVZBUlE1RDlzZUdZOHBxY0g3eFpRZ3A4VVNkQ2RjUHRFVktpRmdCVmJOQ3VxX1NLMlNCWjVMREdiOXFNbkZUamdqZXVTYWZHeUk?oc=5)
+### 2. [Live updates: US completes 9th night of strikes on Iran as troop deaths raise fear of wider war - CNN](https://news.google.com/rss/articles/CBMibkFVX3lxTE44bXlOcmpkb0k1N2ZtY2htQTFydkdHUXZ2THZMS3NGTEY3RXJKS1NiYVNuUUlKVGpzX0MzaElmbHZ5TDQ2MGhweGRPOWFnOHk2SWJiTThFVmluRjY3SGdFMGVKdzE1VFZNam5SdnNn?oc=5)
 
-- Source / 来源: CNN. Published: `2026-07-19T04:29:25+00:00`.
-- Keywords / 关键词: us-iran, july, war, iran, strikes, deaths, jordan, troops, two, revolutionary
-- 中文关键词: 美国-伊朗、七月、战争、伊朗、袭击、死亡、约旦、军队、二、革命性的
+- Source / 来源: CNN. Published: `2026-07-20T03:15:00+00:00`.
+- Keywords / 关键词: iran, strikes, night, completes, updates, deaths, troop, raise, wider, live
+- 中文关键词: 伊朗、袭击、夜晚、完成、更新、死亡、部队、增加、更宽、居住
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: July 18, 2026 – US-Iran war news CNN US and Iran exchange strikes after two US deaths in Jordan attack BBC Two US service members killed, one missing following Iranian strikes in Jordan CNN US military launches new airstrikes to ‘swiftly punish’ Iran for deaths of US troops AP News US retaliates against Iran’s Revolutionary Guard over killing of American troops South China Morning Post
-- RSS 中文摘要: 2026 年 7 月 18 日 – 美伊战争新闻 CNN 两名美国人在约旦袭击中死亡后，美国和伊朗相互袭击 BBC 伊朗袭击约旦后，两名美国军人死亡，一名失踪 CNN 美国军方发动新的空袭，“迅速惩罚”伊朗杀害美军的行为 美联社新闻 美国对伊朗革命卫队杀害美军进行报复 南华早报
+- RSS Excerpt / RSS 摘要: Live updates: US completes 9th night of strikes on Iran as troop deaths raise fear of wider war CNN Live updates: US completes ninth night of strikes on Iran as troop deaths raise fear of wider war CNN US Strikes Iran in Escalating Campaign After Troops Killed Bloomberg.com US bombs Iran for ninth consecutive night as Hormuz tensions escalate Al Jazeera US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states AP News
+- RSS 中文摘要: 实时更新：美国完成对伊朗的第九晚袭击，军队死亡引发了对更广泛战争的恐惧 CNN 实时更新：美国完成了对伊朗的第九晚袭击，军队死亡引发了对更广泛战争的恐惧 CNN 美国在军队被杀后对伊朗的打击升级 彭博社.com 随着霍尔木兹紧张局势升级，美国连续第九晚轰炸伊朗海湾国家 美联社新闻
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: us-iran, july, war, iran, and strikes. The available excerpt says: July 18, 2026 – US-Iran war news CNN US and Iran exchange strikes after two US deaths in Jordan attack BBC Two US service members killed, one missing following Iranian strikes in Jordan CNN US military launches new airstrikes to ‘swiftly punish’ Iran for deaths of US troops AP News US retaliates against Iran’s Revolutionary Guard over killing of American troops South China Morning Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：美国-伊朗、七月、战争、伊朗、袭击。RSS 中文摘要显示：2026 年 7 月 18 日 – 美伊战争新闻 CNN 两名美国人在约旦袭击中死亡后，美国和伊朗相互袭击 BBC 伊朗袭击约旦后，两名美国军人死亡，一名失踪 CNN 美国军方发动新的空袭，“迅速惩罚”伊朗杀害美军的行为 美联社新闻 美国对伊朗革命卫队杀害美军进行报复 南华早报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, strikes, night, completes, and updates. The available excerpt says: Live updates: US completes 9th night of strikes on Iran as troop deaths raise fear of wider war CNN Live updates: US completes ninth night of strikes on Iran as troop deaths raise fear of wider war CNN US Strikes Iran in Escalating Campaign After Troops Killed Bloomberg.com US bombs Iran for ninth consecutive night as Hormuz tensions escalate Al Jazeera US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、袭击、夜晚、完成、更新。RSS 中文摘要显示：实时更新：美国完成对伊朗的第九晚袭击，军队死亡引发了对更广泛战争的恐惧 CNN 实时更新：美国完成了对伊朗的第九晚袭击，军队死亡引发了对更广泛战争的恐惧 CNN 美国在军队被杀后对伊朗的打击升级 彭博社.com 随着霍尔木兹紧张局势升级，美国连续第九晚轰炸伊朗海湾国家 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 3. [Tate brothers arrested in Miami as UK adds rape, trafficking charges - Al Jazeera](https://news.google.com/rss/articles/CBMirAFBVV95cUxOLWl0eVBDUURpeE05UnNLdjBSdmh6VmNkNDBMa2JLOGhFTTVyM2lheUV2NTZvQXV6ZFVqeDdqSmRSdEtCNm1sQUxEMy1pM1pfVnZpYk9NTDU2MG1BbEo5bi15Y2lkZm04UmQzOWxTVkVDa3VJanZEeXgzUWZCY3kyd3BBd1RGSENrR0ppblFPRXVaU0k4TFgzTVhVMjF1VVBJdHRSUXpaTWhUak5s0gGyAUFVX3lxTFBhUnZlbm1iRWh2UVFJV0FrMzRwWnNrZVZyRmF3V3hiMXdISmN2ZVFDS0M2ZnNPZlBNWjBZd1Q4eWZ4ZzlqOXRHLUFJc0NjOGhJZmhmWTQxaTd2N3MtRkJiTjZCeUIyelFvbW5lRE5KbDZ3OVlpdmJBMWFEYTExZ1FCQXo0RlkxQkZWb2VBelp5N0ZhTEVtSDVtRVJKQlZ0NEVpMzhVSzA3bkN2Qm1kM3ZpRFE?oc=5)
+### 3. [US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxQajNHTE9aUmxpa2RIMy1jNjZ4RmgzZlk2OXE3ZXBtRzdxaUpnQldzeUtxaHh6Z3VTQzZMUGNtZ1oxNE5lQzZwLVhnX3BTZWk1OVBVT1ZiNFFtMnoyRDhHbFBnV0pFdTdNcnBKdWVuT0RidVJoWXFCYkdlNDE2V1hmZ1VhUlZhLXExZTZjOHo1YmRYMm5ra1U4RE9DU29CMVU?oc=5)
 
-- Source / 来源: Al Jazeera. Published: `2026-07-19T04:58:27+00:00`.
-- Keywords / 关键词: tate, arrested, charges, trafficking, miami, rape, brothers, jazeera, andrew, adds
-- 中文关键词: 泰特、被捕、收费、贩卖、迈阿密、强奸、兄弟、半岛电视台、安德鲁、添加
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Tate brothers arrested in Miami as UK adds rape, trafficking charges Al Jazeera Andrew Tate and brother arrested in US after more charges laid against them in UK BBC The Tate brothers arrested by US Marshals in Miami on UK extradition request over rape and sex trafficking charges CNN Andrew and Tristan Tate arrested in Miami on UK charges of rape and sex trafficking | Andrew Tate The Guardian US Marshals arrest 'hypermasculine' social media stars Andrew and Tristan Tate, UK seeks extradition Reuters
-- RSS 中文摘要: 英国增加强奸和性贩运指控，泰特兄弟在迈阿密被捕 半岛电视台 安德鲁·泰特 (Andrew Tate) 和兄弟在英国 BBC 对他们提出更多指控后在美国被捕 泰特兄弟因强奸和性贩运指控在英国引渡请求而在迈阿密被美国法警逮捕 CNN 安德鲁和特里斯坦·泰特 (Tristan Tate) 在英国因强奸和性贩运指控在迈阿密被捕安德鲁·泰特 《卫报》 美国法警逮捕了“超级阳刚”的社交媒体明星安德鲁·泰特和特里斯坦·泰特，英国寻求引渡 路透
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: tate, arrested, charges, trafficking, and miami. The available excerpt says: Tate brothers arrested in Miami as UK adds rape, trafficking charges Al Jazeera Andrew Tate and brother arrested in US after more charges laid against them in UK BBC The Tate brothers arrested by US Marshals in Miami on UK extradition request over rape and sex trafficking charges CNN Andrew and Tristan Tate arrested in Miami on UK charges of rape and sex trafficking | Andrew Tate The Guardian US Marshals arrest 'hypermasculine' social media stars Andrew and Tristan Tate, UK seeks extradition Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：泰特、被捕、收费、贩卖、迈阿密。RSS 中文摘要显示：英国增加强奸和性贩运指控，泰特兄弟在迈阿密被捕 半岛电视台 安德鲁·泰特 (Andrew Tate) 和兄弟在英国 BBC 对他们提出更多指控后在美国被捕 泰特兄弟因强奸和性贩运指控在英国引渡请求而在迈阿密被美国法警逮捕 CNN 安德鲁和特里斯坦·泰特 (Tristan Tate) 在英国因强奸和性贩运指控在迈阿密被捕安德鲁·泰特 《卫报》 美国法警逮捕了“超级阳刚”的社交媒体明星安德鲁·泰特和特里斯坦·泰特，英国寻求引渡 路透 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 4. [Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ - WSJ](https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDdNZzh3V3d5Zk1RTHdfV2FHMVk4My1ZZGpPX2E0S3BFUld1MVpub1BRcW9CNWRWREdVc2FwQ0xPWkFoa0F5RG5kcUVWYVVCT3FyRE9YaTdMM1R3S3lkTTVVU1JDOUxZTVZhQlpJT1JYMVl5Rktqa25JWldMN0hUeU5DQ00tLXg0aHY0d21lbVVnTkRwell0QzQyMWF4X3M?oc=5)
-
-- Source / 来源: WSJ. Published: `2026-07-19T01:24:00+00:00`.
-- Keywords / 关键词: russia, ukraine, strikes, amazon, war, escalates, deadly, air, wsj, ukrainian
-- 中文关键词: 俄罗斯、乌克兰、袭击、亚马逊、战争、升级、致命、空气、华尔街日报
+- Source / 来源: AP News. Published: `2026-07-20T03:58:00+00:00`.
+- Keywords / 关键词: iran, troops, killed, retaliates, american, bombing, expands, tehran, states, gulf
+- 中文关键词: 伊朗、军队、死亡、报复、美国人、轰炸、扩大、德黑兰、州、海湾
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ WSJ Ukraine war briefing: Strikes devastate Russian warehouses ‘used for drones’ The Guardian Warehouse workers among 8 dead in deadliest Ukrainian attacks inside Russia for two years CNN 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions NPR Putin Humiliated as Drones Set Russia’s Amazon Ablaze in Moscow The Daily Beast
-- RSS 中文摘要: 乌克兰空战升级，对俄罗斯“亚马逊”发动致命袭击 华尔街日报 乌克兰战争简报：袭击摧毁了俄罗斯“用于无人机”的仓库 卫报 仓库工人在俄罗斯境内两年来最致命的乌克兰袭击中丧生，其中 8 人死亡 CNN 乌克兰无人机对俄罗斯地区的袭击造成 8 人死亡、60 多人受伤 NPR 无人机在莫斯科点燃俄罗斯亚马逊，普京受到羞辱 The Daily Beast
+- RSS Excerpt / RSS 摘要: US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states AP News Live updates: US completes ninth night of strikes on Iran as troop deaths raise fear of wider war CNN US Strikes Iran in Escalating Campaign After Troops Killed Bloomberg.com US bombs Iran for ninth consecutive night as Hormuz tensions escalate Al Jazeera U.S. strikes Iran again after troop deaths Axios
+- RSS 中文摘要: 美国对伊朗的轰炸扩大，美军阵亡，德黑兰对海湾国家进行报复 美联社新闻实时更新：美国完成对伊朗的第九个晚上的袭击，因为部队死亡引发了对更广泛战争的恐惧 CNN 美国在部队被杀后对伊朗进行升级行动 Bloomberg.com 随着霍尔木兹紧张局势升级，美国连续第九个晚上轰炸伊朗 半岛电视台 在部队死亡后，美国再次对伊朗进行袭击 Axios
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: russia, ukraine, strikes, amazon, and war. The available excerpt says: Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’ WSJ Ukraine war briefing: Strikes devastate Russian warehouses ‘used for drones’ The Guardian Warehouse workers among 8 dead in deadliest Ukrainian attacks inside Russia for two years CNN 8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions NPR Putin Humiliated as Drones Set Russia’s Amazon Ablaze in Moscow The Daily Beast Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：俄罗斯、乌克兰、袭击、亚马逊、战争。RSS 中文摘要显示：乌克兰空战升级，对俄罗斯“亚马逊”发动致命袭击 华尔街日报 乌克兰战争简报：袭击摧毁了俄罗斯“用于无人机”的仓库 卫报 仓库工人在俄罗斯境内两年来最致命的乌克兰袭击中丧生，其中 8 人死亡 CNN 乌克兰无人机对俄罗斯地区的袭击造成 8 人死亡、60 多人受伤 NPR 无人机在莫斯科点燃俄罗斯亚马逊，普京受到羞辱 The Daily Beast 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, troops, killed, retaliates, and american. The available excerpt says: US bombing of Iran expands as American troops killed and Tehran retaliates against the Gulf states AP News Live updates: US completes ninth night of strikes on Iran as troop deaths raise fear of wider war CNN US Strikes Iran in Escalating Campaign After Troops Killed Bloomberg.com US bombs Iran for ninth consecutive night as Hormuz tensions escalate Al Jazeera U.S. strikes Iran again after troop deaths Axios Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、军队、死亡、报复、美国人。RSS 中文摘要显示：美国对伊朗的轰炸扩大，美军阵亡，德黑兰对海湾国家进行报复 美联社新闻实时更新：美国完成对伊朗的第九个晚上的袭击，因为部队死亡引发了对更广泛战争的恐惧 CNN 美国在部队被杀后对伊朗进行升级行动 Bloomberg.com 随着霍尔木兹紧张局势升级，美国连续第九个晚上轰炸伊朗 半岛电视台 在部队死亡后，美国再次对伊朗进行袭击 Axios 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 5. [ICE officer’s troubled past renews questions about vetting - The Washington Post](https://news.google.com/rss/articles/CBMixgFBVV95cUxNU29vX0FxVHV0eWxDUW82Q2MwQVpldjV2eGE0X05VT1dwNTF1cGFmZUZTNVhxeHhlTklpYlBWWnlHVFh3U1FjNnZzS2JmVHlDdU9aZWFTQjJWTHI5UV9TVE9Gb3hIZVZtMFBIWkMyUTc1QjRuZnBXbm1FaTU5ZVp6eDRKakxwV2NvSkhfdmVfc2laMGpXdFFSbUZMZkpPcHowRUZleVdjcUlVMy0yMWoxVnIwYTBYem9LT0JqSXNoSGJqd1V2bnc?oc=5)
+### 4. [Pledging to 'rewire Britain', 'King of the North' Burnham becomes PM - Reuters](https://news.google.com/rss/articles/CBMinwFBVV95cUxNTE9VQlQ2S2NibFRmdVNMTC1ISHlWLUt2YTl3T3FxOW9yZnRla2lOSm9pUFVMU2poWDFfOGZFcVVEa0ZfbHRDeXIzakRUaGxTYTlZOE1LUF9WRkFXOGFYWHR6V2VVU3Z6TG1BOVFYRnAwTlVEQ1F3Sm0wWmpTM2FlTU0tdWthMWlNWWFzZHg0UlM2TlVuY0hMR25BS1h5R3c?oc=5)
 
-- Source / 来源: The Washington Post. Published: `2026-07-19T03:12:43+00:00`.
-- Keywords / 关键词: ice, officer, washington, questions, troubled, vetting, renews, past, maine, shooting
-- 中文关键词: 冰、官、华盛顿、问题、陷入困境的、审查、更新、过去的、缅因州、射击
+- Source / 来源: Reuters. Published: `2026-07-19T23:04:00+00:00`.
+- Keywords / 关键词: burnham, pledging, britain, becomes, rewire, north, king, minister, prime, andy
+- 中文关键词: 伯纳姆、质押、英国、变成、rewire、北、国王、部长、主要的、安迪
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: ICE officer’s troubled past renews questions about vetting The Washington Post ICE Agent Defended Shooting of Immigrant in Maine, Ex-Wife Says The New York Times One week, two killings: Trump’s immigration crackdown turns deadly – again The Guardian ICE officer connected to fatal Maine shooting suffered 2021 head injury, which he said had left him with ‘cognitive deficits’ CNN Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies NPR
-- RSS 中文摘要: ICE 官员的麻烦过去再次引发有关审查的问题 《华盛顿邮报》 ICE 特工为缅因州枪击移民事件辩护，前妻称《纽约时报》 一周发生两起杀戮：特朗普的移民镇压再次变得致命 卫报 与缅因州致命枪击事件有关的 ICE 官员在 2021 年头部受伤，他说这让他出现了“认知缺陷” CNN 前妻表示，在缅因州枪杀一名移民的 ICE 特工有种族主义信仰、暴力倾向 NPR
+- RSS Excerpt / RSS 摘要: Pledging to 'rewire Britain', 'King of the North' Burnham becomes PM Reuters Who is Andy Burnham, the U.K.'s new prime minister? NPR Scotland's papers: Burnham's 'new era' and North Sea 'change' BBC How Britain’s new prime minister can revive Labour The Economist Andy Burnham says he will go ‘faster’ than Starmer. Why is that so hard? The Guardian
+- RSS 中文摘要: 承诺“重塑英国”，“北方之王”伯纳姆出任首相 路透 英国新任首相安迪·伯纳姆是谁？ NPR 苏格兰报纸：伯纳姆的“新时代”和北海“改变” BBC 英国新首相如何重振工党 经济学家安迪·伯纳姆表示，他会比斯塔默“更快”。为什么这么难？卫报
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: ice, officer, washington, questions, and troubled. The available excerpt says: ICE officer’s troubled past renews questions about vetting The Washington Post ICE Agent Defended Shooting of Immigrant in Maine, Ex-Wife Says The New York Times One week, two killings: Trump’s immigration crackdown turns deadly – again The Guardian ICE officer connected to fatal Maine shooting suffered 2021 head injury, which he said had left him with ‘cognitive deficits’ CNN Ex-wife says ICE agent who killed man in Maine had racist beliefs, violent tendencies NPR Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：冰、官、华盛顿、问题、陷入困境的。RSS 中文摘要显示：ICE 官员的麻烦过去再次引发有关审查的问题 《华盛顿邮报》 ICE 特工为缅因州枪击移民事件辩护，前妻称《纽约时报》 一周发生两起杀戮：特朗普的移民镇压再次变得致命 卫报 与缅因州致命枪击事件有关的 ICE 官员在 2021 年头部受伤，他说这让他出现了“认知缺陷” CNN 前妻表示，在缅因州枪杀一名移民的 ICE 特工有种族主义信仰、暴力倾向 NPR 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: burnham, pledging, britain, becomes, and rewire. The available excerpt says: Pledging to 'rewire Britain', 'King of the North' Burnham becomes PM Reuters Who is Andy Burnham, the U.K.'s new prime minister? NPR Scotland's papers: Burnham's 'new era' and North Sea 'change' BBC How Britain’s new prime minister can revive Labour The Economist Andy Burnham says he will go ‘faster’ than Starmer. Why is that so hard? The Guardian Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：伯纳姆、质押、英国、变成、rewire。RSS 中文摘要显示：承诺“重塑英国”，“北方之王”伯纳姆出任首相 路透 英国新任首相安迪·伯纳姆是谁？ NPR 苏格兰报纸：伯纳姆的“新时代”和北海“改变” BBC 英国新首相如何重振工党 经济学家安迪·伯纳姆表示，他会比斯塔默“更快”。为什么这么难？卫报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 6. [Zelenskyy May Fire Commander Syrskyi After Protests, FT Reports - Bloomberg.com](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFlHLUtCc3JuclJSMXBXT0hMMTM1MVA0cVJHeS1QRjZ3Vi1uZ3ZKdG5FN0N0WnpraU8weF9rN2FvTlZ5bGlUYjZZVEdBck5SSmVKNzROcEQxOUl0Y2RWeUlfNlpqTkdac05nLUwtdjRaUWpQaDVrN2FhQWtmaG9ZYVd5U0N6TWppSW9aTElnODExdDZKNE55VVdQLV9zN20zbG9YWlpCU2tKNjVhVkdYRmI0OA?oc=5)
+### 5. [Ukraine war live: Putin launches ‘biggest ballistic missile attack on Kyiv’ - The Independent](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMzdrR0pYOEVCSmQzUko3UnBVYVBYM2NVbE5jc3BxSHotZHkyWWlzUzFaaUttM203WURKRVBIMkFNVGtEZ0dGbk91eFlIdEhya29nR2NyWXVvYldYdjNOSjF5d0Fjc2xPV2o3cWItNVJyZEFlOWxmV2x3V1pLRV91S0kyTWFNMGpwM1hNWGRwaGZQdkxOeFFWUWhja0NJS095Nm90YVpLY1RZaEdHazZacWJyX2hMSlk?oc=5)
 
-- Source / 来源: Bloomberg.com. Published: `2026-07-18T12:19:25+00:00`.
-- Keywords / 关键词: zelenskyy, commander, protests, syrskyi, fire, com, ukraine, civil-military, mastermind, ukrainians
-- 中文关键词: 泽连斯基、指挥官、抗议、锡尔斯基、火、com、乌克兰、军民、策划者、乌克兰人
+- Source / 来源: The Independent. Published: `2026-07-20T05:19:00+00:00`.
+- Keywords / 关键词: kyiv, war, ballistic, launches, ukraine, biggest, missile, attack, independent, putin
+- 中文关键词: 基辅、战争、弹道的、发射、乌克兰、最大、导弹、袭击、独立的、普京
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Zelenskyy May Fire Commander Syrskyi After Protests, FT Reports Bloomberg.com The Rise and Fall of Ukraine’s Drone Warfare Mastermind The New York Times Sacking the Reformer: Ukraine’s Civil-Military Crisis, Russia’s Widening Dilemma, and the Middle East on Edge. The Big Five, 19 July 2026 Futura Doctrina | Mick Ryan Ukrainian soldiers criticise removal of popular defence minister BBC Ukrainians protest for second day, call to replace army chief Reuters
-- RSS 中文摘要: 据《金融时报》报道，泽连斯基可能在抗议后解雇指挥官西尔斯基。五巨头，2026 年 7 月 19 日 Futura Dotrina |乌克兰士兵批评罢免受欢迎的国防部长 BBC 乌克兰人连续第二天抗议，呼吁更换陆军参谋长 路透
+- RSS Excerpt / RSS 摘要: Ukraine war live: Putin launches ‘biggest ballistic missile attack on Kyiv’ The Independent Russian Offensive Campaign Assessment, July 19, 2026 Institute for the Study of War Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics CNBC Russia unleashes one of biggest ballistic missile attacks of the Ukraine war, Kyiv says CNN Russia launches major ballistic-missile attack on Ukrainian cities BBC
+- RSS 中文摘要: 乌克兰战争直播：普京对​​基辅发动“最大规模的弹道导弹袭击” 俄罗斯独立进攻战役评估，2026 年 7 月 19 日 俄罗斯攻击基辅，北约军事首脑警告莫斯科攻击波罗的海国家将“损失惨重” CNBC 基辅表示，俄罗斯发动了乌克兰战争中最大规模的弹道导弹袭击之一 BBC
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: zelenskyy, commander, protests, syrskyi, and fire. The available excerpt says: Zelenskyy May Fire Commander Syrskyi After Protests, FT Reports Bloomberg.com The Rise and Fall of Ukraine’s Drone Warfare Mastermind The New York Times Sacking the Reformer: Ukraine’s Civil-Military Crisis, Russia’s Widening Dilemma, and the Middle East on Edge. The Big Five, 19 July 2026 Futura Doctrina | Mick Ryan Ukrainian soldiers criticise removal of popular defence minister BBC Ukrainians protest for second day, call to replace army chief Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：泽连斯基、指挥官、抗议、锡尔斯基、火。RSS 中文摘要显示：据《金融时报》报道，泽连斯基可能在抗议后解雇指挥官西尔斯基。五巨头，2026 年 7 月 19 日 Futura Dotrina |乌克兰士兵批评罢免受欢迎的国防部长 BBC 乌克兰人连续第二天抗议，呼吁更换陆军参谋长 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: kyiv, war, ballistic, launches, and ukraine. The available excerpt says: Ukraine war live: Putin launches ‘biggest ballistic missile attack on Kyiv’ The Independent Russian Offensive Campaign Assessment, July 19, 2026 Institute for the Study of War Russia pounds Kyiv as NATO military chief warns Moscow would 'lose a lot' by attacking Baltics CNBC Russia unleashes one of biggest ballistic missile attacks of the Ukraine war, Kyiv says CNN Russia launches major ballistic-missile attack on Ukrainian cities BBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：基辅、战争、弹道的、发射、乌克兰。RSS 中文摘要显示：乌克兰战争直播：普京对​​基辅发动“最大规模的弹道导弹袭击” 俄罗斯独立进攻战役评估，2026 年 7 月 19 日 俄罗斯攻击基辅，北约军事首脑警告莫斯科攻击波罗的海国家将“损失惨重” CNBC 基辅表示，俄罗斯发动了乌克兰战争中最大规模的弹道导弹袭击之一 BBC 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 7. [Venezuela quake death toll tops 5,000 as IMF releases emergency aid - Al Jazeera](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQlZySDRLbXY3eGhXOU92Rlh2ajE1cmJPN1poeE9zdlpvR3p5VEhBSVFXd21BMUFZTHNmN0NFREVIc21ZdXdNUEdTV3lKd0oyazJzTzVmcy1rTzFWNmVOM05peHFqN1k5bWdObG04aTRlTHhLWjBmMVRLeWM5bG5BcGZzNDJ1ZzM5NDRnMTdWZDdaaXFOblBldFlJTC1CVkhTRVd5SXN4V1l4VlnSAbABQVVfeXFMTVc4bEVGdUpsRzlhRm5wd2ZiZ2x3QVlRU29XNDQtVnJ6VGdTNnE2U0dlbUxYekpfdXljUWZtTVQ5NjNzNExHOGZHUl9yTWUyLW94TklIaGZ6S0dPWmpCTG0yYXVSaDdsOFUzZ1hNWDNyeVRXSENoaXQ4RG5IZ2MxdTVzX2FhcGRlSVZkUWdkZXdNLXByTHpWUndyVEdjY254ai1rUlNmcGZPU0ZvRkxHdS0?oc=5)
+### 6. [Tropical Depression Two forms, could soon become Tropical Storm Bertha while days of rain target the Southeast - FOX Weather](https://news.google.com/rss/articles/CBMipAFBVV95cUxONFVsanNBcVpIQmEzLVBRenlMOGxDVFFUX3IwYXFvd2tSNmJJYkVZVlF4WldzZGZlTkFOZElpYTdMZVJsRHFxRFhmbk1aLVowSHZHb2o3U3BuamVGVDlUYnpPSHZqNzAyaTZpSzdJSERJd0w3YmxvMjhFalpFbGF1N1pnSHZQTWwxV0tZRXB5Mm5hZTc5R2NFTTRzeWlVemVVTmozRtIBqgFBVV95cUxQTUtHNUp6bmtQZDNDdmtiQkNrNG1Ib2tPUklEai1tWWgyS2xJM3FaUHBydFJ6M2pfdlJzWGVmc0QxQ1IydHRuOEduSFNLcjNsLUJxUzRqbWViSHpVZWI2T0JDYktTQTl6dEFROVUxWHk0RHlaRzF3N0EyaXB5YVE2WjJkLThXdWRLb2M4RWVwZzdiZGNmbjAwb1YwSU5rYTdlTlY0Y2FSaS1zdw?oc=5)
 
-- Source / 来源: Al Jazeera. Published: `2026-07-18T15:48:31+00:00`.
-- Keywords / 关键词: venezuela, death, toll, emergency, releases, jazeera, quake, tops, imf, aid
-- 中文关键词: 委内瑞拉、死亡、收费、紧急情况、发布、半岛电视台、地震、最高额、国际货币基金组织、援助
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Venezuela quake death toll tops 5,000 as IMF releases emergency aid Al Jazeera Venezuela earthquakes death toll surpasses 5,000 ABC News - Breaking News, Latest News and Videos Delayed orders, confusion slowed Venezuelan military's response to quakes, sources say Reuters Global Empowerment Mission president back in South Florida after weeks helping 115,000 people in Venezuela CBS News Venezuela Earthquakes Force a Grim Homecoming for Migrants The New York Times
-- RSS 中文摘要: 国际货币基金组织发布紧急援助，委内瑞拉地震死亡人数突破 5,000 人 半岛电视台 委内瑞拉地震死亡人数超过 5,000 人纽约时报
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: venezuela, death, toll, emergency, and releases. The available excerpt says: Venezuela quake death toll tops 5,000 as IMF releases emergency aid Al Jazeera Venezuela earthquakes death toll surpasses 5,000 ABC News - Breaking News, Latest News and Videos Delayed orders, confusion slowed Venezuelan military's response to quakes, sources say Reuters Global Empowerment Mission president back in South Florida after weeks helping 115,000 people in Venezuela CBS News Venezuela Earthquakes Force a Grim Homecoming for Migrants The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：委内瑞拉、死亡、收费、紧急情况、发布。RSS 中文摘要显示：国际货币基金组织发布紧急援助，委内瑞拉地震死亡人数突破 5,000 人 半岛电视台 委内瑞拉地震死亡人数超过 5,000 人纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+- Source / 来源: FOX Weather. Published: `2026-07-19T21:29:00+00:00`.
+- Keywords / 关键词: tropical, depression, forms, two, weather, rain, fox, southeast, become, bertha
+- 中文关键词: 热带、沮丧、形式、二、天气、雨、狐狸、东南、变得、伯莎
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Tropical Depression Two forms, could soon become Tropical Storm Bertha while days of rain target the Southeast FOX Weather Tropical Depression Two forms in the Gulf, will bring heavy rain and coastal flooding CNN Houston weather: July 19 overnight forecast FOX 26 Houston TD 2 predicted to strengthen near upper Gulf Coast Yale Climate Connections Tropical Depression Two forms in the Gulf and tracks into Houston late week Click2Houston
+- RSS 中文摘要: 热带低气压 两种形式，可能很快成为热带风暴伯莎，而几天的降雨将瞄准东南部 福克斯天气 热带低气压 墨西哥湾的两种形式，将带来大雨和沿海洪水 CNN 休斯顿天气：7 月 19 日夜间预报 FOX 26 休斯顿 TD 2 预计将在墨西哥湾沿岸上游附近加强 耶鲁气候联系 热带低气压 墨西哥湾的两种形式，并于本周晚些时候进入休斯顿 Click2Houston
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: tropical, depression, forms, two, and weather. The available excerpt says: Tropical Depression Two forms, could soon become Tropical Storm Bertha while days of rain target the Southeast FOX Weather Tropical Depression Two forms in the Gulf, will bring heavy rain and coastal flooding CNN Houston weather: July 19 overnight forecast FOX 26 Houston TD 2 predicted to strengthen near upper Gulf Coast Yale Climate Connections Tropical Depression Two forms in the Gulf and tracks into Houston late week Click2Houston Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：热带、沮丧、形式、二、天气。RSS 中文摘要显示：热带低气压 两种形式，可能很快成为热带风暴伯莎，而几天的降雨将瞄准东南部 福克斯天气 热带低气压 墨西哥湾的两种形式，将带来大雨和沿海洪水 CNN 休斯顿天气：7 月 19 日夜间预报 FOX 26 休斯顿 TD 2 预计将在墨西哥湾沿岸上游附近加强 耶鲁气候联系 热带低气压 墨西哥湾的两种形式，并于本周晚些时候进入休斯顿 Click2Houston 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 8. [NYC weather: Storms start to exit but downpour risks remain; air quality to improve | Live updates - ABC7 New York](https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGdkMjFEN21DWjNULXBTaF94VTMzMEduVHM0eEd5T0UzTndOaFVVLUI5WXZmWXJEOUFmRWJ6dXRpbk02SHpYbVNad0dsaE9SdXNuampzeHRNRXE1Mm1yR3RkXzdkVXlwVFlQSXAxc1UtU2pvYUR4UWVkNFZsekUzMXZQNmlQb09pUWhicktWWXhDSzRtQW1Xd2laWU1VZEZaTkRZVmo5WUJSbkkwaFBRdFlJNA?oc=5)
+### 7. [Mass shooting rocks crowded downtown Tucson district, leaving 10 wounded - Fox News](https://news.google.com/rss/articles/CBMinwFBVV95cUxOa1U3ODNCMDBTWjJQMUtpV2hud1dZLWE5NUdvbHFobm4zcDVmTFVRdDljaVRmeE1IUnNZNHpGM1JMTmd1S1poaUJEV3NXZ0szMllzaVpMUHlIcnV6YVVlUjhrdFhrRGY2ak93NTlKbVlwZHlYMzBRSGhhR3FyekhzdmR5UGRSS2tsNnd5UlpUOTRrS0ZBcmJHejZDWkstbknSAaQBQVVfeXFMTmVtSHdCRmVWanlFNnhlaFdpOXVSajNYdnI4N0J2VjVQYzBsMXhXUVhjOWQwWWFEdWpvdkItODZyNmQtMEN1TkRVXzlmVFIyckotNUFBWGlHZDFFUnR4QnBkUzhwdk5GRWxBM2dQaXJ0ZW54RllqejZ0SEM5QzhIVFFEbUh0MEpqTkJELVZBVkVSOUM1UGFUZ0h3MzF0V25PZWhZak8?oc=5)
 
-- Source / 来源: ABC7 New York. Published: `2026-07-19T04:30:00+00:00`.
-- Keywords / 关键词: weather, downpour, quality, improve, updates, storms, remain, start, risks, exit
-- 中文关键词: 天气、倾盆大雨、质量、提升、更新、风暴、保持、开始、风险、出口
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: NYC weather: Storms start to exit but downpour risks remain; air quality to improve | Live updates ABC7 New York New Yorkers, after days of heavy smoke and torrid temperatures, are met with thunderstorms and flash flooding CNN New York, New Jersey storm warnings: Saturday, July 18 FOX 5 New York Weather blog: Tornado watch expires, flash flooding remains threat for parts of NY and NJ NBC New York Thunderstorms, Flooding and Strong Winds Sweep the Northeast The New York Times
-- RSS 中文摘要: 纽约市天气：风暴开始消失，但倾盆大雨的风险仍然存在；空气质量改善|实时更新 ABC7 纽约 经历了多日的浓烟和酷热天气后，纽约人遭遇雷暴和山洪 CNN 新泽西州纽约风暴警告：7 月 18 日星期六 FOX 5 纽约天气博客：龙卷风监视到期，山洪仍然对纽约和新泽西部分地区构成威胁 NBC 纽约 雷暴、洪水和强风席卷东北部 纽约时报
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: weather, downpour, quality, improve, and updates. The available excerpt says: NYC weather: Storms start to exit but downpour risks remain; air quality to improve | Live updates ABC7 New York New Yorkers, after days of heavy smoke and torrid temperatures, are met with thunderstorms and flash flooding CNN New York, New Jersey storm warnings: Saturday, July 18 FOX 5 New York Weather blog: Tornado watch expires, flash flooding remains threat for parts of NY and NJ NBC New York Thunderstorms, Flooding and Strong Winds Sweep the Northeast The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：天气、倾盆大雨、质量、提升、更新。RSS 中文摘要显示：纽约市天气：风暴开始消失，但倾盆大雨的风险仍然存在；空气质量改善|实时更新 ABC7 纽约 经历了多日的浓烟和酷热天气后，纽约人遭遇雷暴和山洪 CNN 新泽西州纽约风暴警告：7 月 18 日星期六 FOX 5 纽约天气博客：龙卷风监视到期，山洪仍然对纽约和新泽西部分地区构成威胁 NBC 纽约 雷暴、洪水和强风席卷东北部 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+- Source / 来源: Fox News. Published: `2026-07-20T00:48:05+00:00`.
+- Keywords / 关键词: tucson, shooting, mass, downtown, district, crowded, leaving, wounded, rocks, fox
+- 中文关键词: 图森、射击、大量的、市中心、区、挤、离开、受伤的、岩石、狐狸
+- Category / 分类: Public safety and society / 公共安全与社会
+- RSS Excerpt / RSS 摘要: Mass shooting rocks crowded downtown Tucson district, leaving 10 wounded Fox News Family escapes Tucson mass shooting after woman spots gunman outside pizza restaurant AZ Family 9 people shot and injured in downtown Tucson early Sunday ABC News - Breaking News, Latest News and Videos Nine people injured in Arizona shooting; suspect shot by police CBS News 19 people injured in mass shootings in Tucson, Minneapolis upi.com
+- RSS 中文摘要: 图森市中心发生大规模枪击事件，造成 10 人受伤 福克斯新闻家庭 (Fox News Family) 在图森披萨店 AZ Family 外发现枪手后，逃离图森大规模枪击事件 周日凌晨，图森市中心有 9 人中枪受伤嫌疑人被警察射杀 CBS 新闻 明尼阿波利斯图森市发生大规模枪击事件，造成 19 人受伤 upi.com
+- EN Summary: This story centers on harm to people, emergency response, or social disruption.
+- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
+- EN Detailed Reading: Key signals: tucson, shooting, mass, downtown, and district. The available excerpt says: Mass shooting rocks crowded downtown Tucson district, leaving 10 wounded Fox News Family escapes Tucson mass shooting after woman spots gunman outside pizza restaurant AZ Family 9 people shot and injured in downtown Tucson early Sunday ABC News - Breaking News, Latest News and Videos Nine people injured in Arizona shooting; suspect shot by police CBS News 19 people injured in mass shootings in Tucson, Minneapolis upi.com Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
+- 中文详细解读: 关键词信号：图森、射击、大量的、市中心、区。RSS 中文摘要显示：图森市中心发生大规模枪击事件，造成 10 人受伤 福克斯新闻家庭 (Fox News Family) 在图森披萨店 AZ Family 外发现枪手后，逃离图森大规模枪击事件 周日凌晨，图森市中心有 9 人中枪受伤嫌疑人被警察射杀 CBS 新闻 明尼阿波利斯图森市发生大规模枪击事件，造成 19 人受伤 upi.com 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
+- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
+- 后续关注: 官方调查；确认伤亡数字；预防措施
 
-### 9. [Can Burnham's casual style survive contact with No 10? - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1qYmNxa3ZSQUZaLXJxUzNZM29VWlFnbVFmNnA0cmRwLUczZWozb1llY3V2SGJLNFZhb2I5VVRLaXQzRHZUZTdDLURmN1BRa09OOU5ydGRCWGk1Zw?oc=5)
+### 8. [Earthquake in Peru Kills 6 and Displaces Hundreds - The New York Times](https://news.google.com/rss/articles/CBMiekFVX3lxTE5XVndsblMtcV8xVUMtNDV1TmdnUEJWU0Zkd1FxZGtLVnl6bGNBZjZyWTJnRXRCSThfSXNuOC1OYjZ1dDlFdFZKX0xYNUZxek9LTU5VWXJ2dkN1RFhaa0FKU1VKNHQzYjl0Y0dEZVd2ZDE5M250V1ZEMWF3?oc=5)
 
-- Source / 来源: BBC. Published: `2026-07-19T00:08:17+00:00`.
-- Keywords / 关键词: burnham's, survive, contact, casual, style, minister, burnham, britain, leader, prime
-- 中文关键词: 伯纳姆的、存活、接触、随意的、风格、部长、伯纳姆、英国、领导者、主要的
+- Source / 来源: The New York Times. Published: `2026-07-19T18:19:52+00:00`.
+- Keywords / 关键词: peru, earthquake, displaces, hundreds, kills, earthquakes, killing, dead, six, magnitude
+- 中文关键词: 秘鲁、地震、取代、数百、造成死亡、死亡、六、震级
+- Category / 分类: Climate, environment, and safety / 气候、环境与安全
+- RSS Excerpt / RSS 摘要: Earthquake in Peru Kills 6 and Displaces Hundreds The New York Times Earthquake in Peru leaves at least six dead The Guardian At least six dead and 21 injured after 2 earthquakes in Peru Reuters 5.5-magnitude earthquake hits Peru’s Andes region, killing at least 5 people NBC News Twin earthquakes strike Peru killing at least five Al Jazeera
+- RSS 中文摘要: 秘鲁地震造成 6 人死亡、数百人流离失所 《纽约时报》 秘鲁地震造成至少 6 人死亡 《卫报》 秘鲁发生两次地震，造成至少 6 人死亡、21 人受伤 路透社 秘鲁安第斯山脉地区发生 5.5 级地震，造成至少 5 人死亡 NBC 新闻 秘鲁发生两次地震，造成至少 5 人死亡
+- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
+- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
+- EN Detailed Reading: Key signals: peru, earthquake, displaces, hundreds, and kills. The available excerpt says: Earthquake in Peru Kills 6 and Displaces Hundreds The New York Times Earthquake in Peru leaves at least six dead The Guardian At least six dead and 21 injured after 2 earthquakes in Peru Reuters 5.5-magnitude earthquake hits Peru’s Andes region, killing at least 5 people NBC News Twin earthquakes strike Peru killing at least five Al Jazeera Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
+- 中文详细解读: 关键词信号：秘鲁、地震、取代、数百、造成死亡。RSS 中文摘要显示：秘鲁地震造成 6 人死亡、数百人流离失所 《纽约时报》 秘鲁地震造成至少 6 人死亡 《卫报》 秘鲁发生两次地震，造成至少 6 人死亡、21 人受伤 路透社 秘鲁安第斯山脉地区发生 5.5 级地震，造成至少 5 人死亡 NBC 新闻 秘鲁发生两次地震，造成至少 5 人死亡 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
+- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
+- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
+
+### 9. [Police cane supporters of India's cockroach movement as thousands gather for march - Reuters](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZHI2Z0E0VHBNWTNNUXI0RnJPdXZUQ3V4QVBHYmZzTVJab2NfTi1UdHhON2ZyZlRzcDZESExqOHlkWWMwdkxRTEVMUHIwdG1GdmlIWi15UDNLQlEtYTREVGNMdm8xbWUyOEtrOFg2M3lNemJGUk5ZZXlmeDN2LW9NQ3o3QkhOSGpUSDRMd1NhNW5CZ3J3YWtvS2ZxMGpCMG1rYllWVGp2Z2xuWGhRSEdka0NiTG81dVk?oc=5)
+
+- Source / 来源: Reuters. Published: `2026-07-20T02:26:00+00:00`.
+- Keywords / 关键词: march, cockroach, police, supporters, parliament, thousands, movement, india's, gather, cane
+- 中文关键词: 行进、蟑螂、警察、支持者、议会、数千、移动、印度的、收集、甘蔗
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Can Burnham's casual style survive contact with No 10? BBC Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister The New York Times Britain hopes this man will save its economy. We went to Manchester to find out why CNN The U.K. Gets Another New Leader on Monday. His First Task: Reassure the Markets. WSJ Can Prime Minister Burnham Succeed? The American Prospect
-- RSS 中文摘要: 伯纳姆的休闲风格能经受住与 10 号球员的接触吗？ BBC 伯纳姆成为工党领袖和英国候任首相 《纽约时报》 英国希望此人能够拯救其经济。我们前往曼彻斯特了解为什么 CNN 英国周一迎来了另一位新领导人。他的首要任务：安抚市场。华尔街日报 伯纳姆总理能成功吗？美国前景
+- RSS Excerpt / RSS 摘要: Police cane supporters of India's cockroach movement as thousands gather for march Reuters Sonam Wangchuk: Cockroach Janta Party to hold protest march to parliament BBC India’s Cockroach party protesters to defy police and march to parliament The Guardian Indian Protesters to March on Parliament Over Exam Scandal The New York Times Video: Lathicharge By Cops, Chaos Ahead Of CJP's March To Parliament NDTV
+- RSS 中文摘要: 成千上万的印度蟑螂运动支持者聚集游行 路透社 Sonam Wangchuk：蟑螂简塔党将向议会举行抗议游行 BBC 印度蟑螂党抗议者无视警察并游行至议会 《卫报》 印度抗议者因考试丑闻向议会游行 《纽约时报》 视频：警察拉蒂收费，CJP 游行议会前一片混乱 NDTV
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: burnham's, survive, contact, casual, and style. The available excerpt says: Can Burnham's casual style survive contact with No 10? BBC Burnham Becomes Labour Leader and Britain’s Incoming Prime Minister The New York Times Britain hopes this man will save its economy. We went to Manchester to find out why CNN The U.K. Gets Another New Leader on Monday. His First Task: Reassure the Markets. WSJ Can Prime Minister Burnham Succeed? The American Prospect Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：伯纳姆的、存活、接触、随意的、风格。RSS 中文摘要显示：伯纳姆的休闲风格能经受住与 10 号球员的接触吗？ BBC 伯纳姆成为工党领袖和英国候任首相 《纽约时报》 英国希望此人能够拯救其经济。我们前往曼彻斯特了解为什么 CNN 英国周一迎来了另一位新领导人。他的首要任务：安抚市场。华尔街日报 伯纳姆总理能成功吗？美国前景 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: march, cockroach, police, supporters, and parliament. The available excerpt says: Police cane supporters of India's cockroach movement as thousands gather for march Reuters Sonam Wangchuk: Cockroach Janta Party to hold protest march to parliament BBC India’s Cockroach party protesters to defy police and march to parliament The Guardian Indian Protesters to March on Parliament Over Exam Scandal The New York Times Video: Lathicharge By Cops, Chaos Ahead Of CJP's March To Parliament NDTV Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：行进、蟑螂、警察、支持者、议会。RSS 中文摘要显示：成千上万的印度蟑螂运动支持者聚集游行 路透社 Sonam Wangchuk：蟑螂简塔党将向议会举行抗议游行 BBC 印度蟑螂党抗议者无视警察并游行至议会 《卫报》 印度抗议者因考试丑闻向议会游行 《纽约时报》 视频：警察拉蒂收费，CJP 游行议会前一片混乱 NDTV 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 10. [Troy Jackson jumps out to big lead in race to replace Graham Platner in Maine - Politico](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSThIdW5lelhDZDBKUGdmMm5vNndQVTVrZFAyZWF5eVc5VFN3aDVwelBLS1BZVkpjVXJ0eTdndVJJSVJoVmp1eFBXb05IbkpjaDRFZ3RkbG9UWEt2a0luS2JYdTNxZmtHY1lQaU4xQ1lvbDFxMC1tU1FaVXVLZ2NzTkJocjZBcmtlM0hF?oc=5)
+### 10. [U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan - PBS](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ3JISjVhU09hRnRaRnlUT3VMb3lSM0hrVmtmTGZBT21IVXoxS2I4ZFZkTzFTeDFLaS04SzZpNkFSd21RUG1vcFZrbklTa2hVZVBoVEdmUGw2RkMxSGczVkNEUFlMM0hUcHhSYndJNV9NYWoxMkJnQ051SnNGby0xbWZIcmthZC1iM1hCaUlxaHBkbE51LWZ1c0JJckVRcjNNZ2pXend5SlR2enNPUXhhbUREYVN4X0lwc3NiV1V0YW7SAcYBQVVfeXFMTjUtaWRqREtKekdYRDVaOWVSNVZCRUpDQ19OZWtsNXVQdVRJeF9HX1RrRUxkUVljU1JTc0otQzNrZTd0NjlpcHQweUh0NEp2Tk5JS01ISkt6QmZPM2FLdXFYQXozUjctZ1pudS0xODlTaDBVR2U0YWNfTl9HemdBQXBYSXdCc1ZLdkxaUENGekdTazN4a0k0RmV2eEJHMURfYlVFRE9OZms0aExXRmtMcGZKdEhyM1BrTWFiRmN5SUJyU2RwcTVB?oc=5)
 
-- Source / 来源: Politico. Published: `2026-07-19T01:05:00+00:00`.
-- Keywords / 关键词: maine, platner, graham, jackson, troy, politico, replace, jumps, lead, race
-- 中文关键词: 缅因州、普拉特纳、格雷厄姆、杰克逊、特洛伊、政治报、代替、跳跃、带领、种族
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Troy Jackson jumps out to big lead in race to replace Graham Platner in Maine Politico Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive The New York Times Maine Senate candidates battle for progressive mantle after Graham Platner’s exit NBC News Maine Democratic Senate hopefuls back once fringe position after ICE shooting The Washington Post Troy Jackson, a former Graham Platner ally, well-positioned to win Maine Democrats’ nomination to face Sen. Susan Collins CNN
-- RSS 中文摘要: 特洛伊·杰克逊在缅因州政客接替格雷厄姆·普拉特纳的竞选中取得巨大领先优势 没有普拉特纳，缅因州民主党竞相保持草根活力 《纽约时报》 缅因州参议院候选人在格雷厄姆·普拉特纳退出后争夺进步的衣钵 NBC新闻 缅因州民主党参议院希望在 ICE 枪击事件后重新回到边缘位置 《华盛顿邮报》 格雷厄姆·普拉特纳的前盟友特洛伊·杰克逊有能力赢得缅因州民主党的提名面对参议员苏珊柯林斯 CNN
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: maine, platner, graham, jackson, and troy. The available excerpt says: Troy Jackson jumps out to big lead in race to replace Graham Platner in Maine Politico Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive The New York Times Maine Senate candidates battle for progressive mantle after Graham Platner’s exit NBC News Maine Democratic Senate hopefuls back once fringe position after ICE shooting The Washington Post Troy Jackson, a former Graham Platner ally, well-positioned to win Maine Democrats’ nomination to face Sen. Susan Collins CNN Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：缅因州、普拉特纳、格雷厄姆、杰克逊、特洛伊。RSS 中文摘要显示：特洛伊·杰克逊在缅因州政客接替格雷厄姆·普拉特纳的竞选中取得巨大领先优势 没有普拉特纳，缅因州民主党竞相保持草根活力 《纽约时报》 缅因州参议院候选人在格雷厄姆·普拉特纳退出后争夺进步的衣钵 NBC新闻 缅因州民主党参议院希望在 ICE 枪击事件后重新回到边缘位置 《华盛顿邮报》 格雷厄姆·普拉特纳的前盟友特洛伊·杰克逊有能力赢得缅因州民主党的提名面对参议员苏珊柯林斯 CNN 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+- Source / 来源: PBS. Published: `2026-07-18T15:34:19+00:00`.
+- Keywords / 关键词: iran, troops, military, missing, attacks, jordan, dead, base, pbs, killed
+- 中文关键词: 伊朗、军队、军事、丢失的、袭击、约旦、死亡、根据、PBS
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan PBS Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands The New York Times IRGC says it struck US radar system, drone hangar in Kuwait The Times of Israel Trump on 2 troops killed in Iran attack: ‘A very sad thing’ NewsNation Trump Owes Americans a Better Explanation About Iran The Atlantic
+- RSS 中文摘要: 美国军方表示，伊朗袭击约旦基地后，造成 2 名士兵死亡，1 名士兵失踪 PBS 伊朗战争实时更新：随着战争扩大，另一名美国军人被杀 《纽约时报》 IRGC 称其袭击了美国雷达系统和科威特的无人机机库 以色列时报 特朗普就伊朗袭击中丧生的 2 名士兵表示：“非常悲伤的事情”
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: iran, troops, military, missing, and attacks. The available excerpt says: U.S. military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan PBS Iran War Live Updates: Another U.S. Service Member Is Killed as War Expands The New York Times IRGC says it struck US radar system, drone hangar in Kuwait The Times of Israel Trump on 2 troops killed in Iran attack: ‘A very sad thing’ NewsNation Trump Owes Americans a Better Explanation About Iran The Atlantic Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、军队、军事、丢失的、袭击。RSS 中文摘要显示：美国军方表示，伊朗袭击约旦基地后，造成 2 名士兵死亡，1 名士兵失踪 PBS 伊朗战争实时更新：随着战争扩大，另一名美国军人被杀 《纽约时报》 IRGC 称其袭击了美国雷达系统和科威特的无人机机库 以色列时报 特朗普就伊朗袭击中丧生的 2 名士兵表示：“非常悲伤的事情” 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
 
 
