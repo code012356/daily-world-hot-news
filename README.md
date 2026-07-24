@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-07-23T06:26:10+00:00` UTC.
+Generated at `2026-07-24T06:21:21+00:00` UTC.
 
-### 1. [U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel - The Washington Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxQeHgya3BPS203QXhIQVVkOV9JNmZpQ2M4eG1jSjJJZkk2UXY3eV8wVEhKZUZhd3o2TFJJaExWNWVTSUkyTi1QMTBSTkhGTGdTdXhGVEdVbnB0VzFqRzA5Y1JzMDJiNGROU2Q2VktGc2w4T3hoY0M0U3lVY3IybzFsUVdZUTF3aUtsUC1RRFRHcWVYZDV0OW9Yc2psMnctTmw4cU5NTV9weUMxRlBR?oc=5)
+### 1. [Trump imposes forced labor duties on 60 trading partners as 10% US tariffs expire - Reuters](https://news.google.com/rss/articles/CBMivwFBVV95cUxPcTlxTFMtLUhVcTNocVRYQ0t0NkdRamtCSUEySEhFbHE5N0FnNFlvMDNENWcyRVlHWUloTXRna3RlRVptLVFyZ0dfeG04cmhUZ1RSbkViNFNhM0FKZ0k5N29mUmY0UU9lUXlHMGw0ckJxVHFiZFJ3cjFhbFRQTUpSNEMzdFQ4U0REUzJlU2FFY2h3Q0U2UmxnS2lUbm90RnM0WUVfVEJiaFFEdUlGYWs2YXp4NzlRekdtQTEyZjYtMA?oc=5)
 
-- Source / 来源: The Washington Post. Published: `2026-07-23T03:12:30+00:00`.
-- Keywords / 关键词: nuclear, deal, saudi, arabia, fuel, washington, enriching, signs, gives, path
-- 中文关键词: 核、交易、沙特、阿拉伯、燃料、华盛顿、丰富、迹象、给出、小路
+- Source / 来源: Reuters. Published: `2026-07-24T04:03:00+00:00`.
+- Keywords / 关键词: trump, tariffs, partners, forced, imposes, trading, duties, expire, labor, tariff
+- 中文关键词: 特朗普、关税、合作伙伴、被迫、强加、贸易、职责、到期、劳动
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Trump imposes forced labor duties on 60 trading partners as 10% US tariffs expire Reuters Trump Administration Imposed New Tariffs of Around 10% on Over 80 Nations The New York Times ‘Forced labour’: rationale for Trump tariffs met with bewilderment The Guardian Trump's new global tariff draws rebukes from trade partners over forced-labor justification CNBC Trump launches new tariff push targeting dozens of countries CNN
+- RSS 中文摘要: 随着美国 10% 关税到期，特朗普对 60 个贸易伙伴征收强迫劳动税 路透社 特朗普政府对 80 多个国家征收约 10% 的新关税 《纽约时报》“强迫劳动”：特朗普关税的理由令人困惑 《卫报》 特朗普新的全球关税因强迫劳动理由而遭到贸易伙伴的谴责 CNBC 特朗普针对数十个国家发起新的关税举措 CNN
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: trump, tariffs, partners, forced, and imposes. The available excerpt says: Trump imposes forced labor duties on 60 trading partners as 10% US tariffs expire Reuters Trump Administration Imposed New Tariffs of Around 10% on Over 80 Nations The New York Times ‘Forced labour’: rationale for Trump tariffs met with bewilderment The Guardian Trump's new global tariff draws rebukes from trade partners over forced-labor justification CNBC Trump launches new tariff push targeting dozens of countries CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：特朗普、关税、合作伙伴、被迫、强加。RSS 中文摘要显示：随着美国 10% 关税到期，特朗普对 60 个贸易伙伴征收强迫劳动税 路透社 特朗普政府对 80 多个国家征收约 10% 的新关税 《纽约时报》“强迫劳动”：特朗普关税的理由令人困惑 《卫报》 特朗普新的全球关税因强迫劳动理由而遭到贸易伙伴的谴责 CNBC 特朗普针对数十个国家发起新的关税举措 CNN 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 2. [Trump vows to punish Iran and Houthis for attacks in Red Sea - Reuters](https://news.google.com/rss/articles/CBMiogFBVV95cUxQNFdZY1R2bFRCTk51X1E2U2dLZUphMDA2MVlUaGRzOEJXRXc5Vl9ObDNaVE9FNnU4eTV6TXBjYjRyR2xZekJYeGY2VHNrYW9hSjhpSjQ0aVJEdXBkSk9Ja2NXRjZjQng3Rkp1eFBHMlVwQ2paZUlVRnZUN0l3OThQRlZVLTJDanZHREpMTjFNVm9odWl5alZwRUpDbUhwSWRWeHc?oc=5)
+
+- Source / 来源: Reuters. Published: `2026-07-24T04:00:00+00:00`.
+- Keywords / 关键词: red, sea, houthis, attacks, iran, punish, trump, vows, another, war
+- 中文关键词: 红色的、海、胡塞武装、袭击、伊朗、惩治、特朗普、誓言、其他、战争
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel The Washington Post Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom WSJ Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel The New York Times Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign-off CNN Trump's Saudi nuclear deal risks igniting a Middle East arms race, lawmakers warn Politico
-- RSS 中文摘要: 美国与沙特阿拉伯签署核协议，为其提供浓缩燃料之路 《华盛顿邮报》 特朗普批准与沙特阿拉伯达成里程碑式的核协议，为王国带来重大胜利 《华尔街日报》 沙特与美国达成协议，可以让他们丰富核燃料 《纽约时报》 核协议将允许沙特阿拉伯进行铀浓缩，等待特朗普政府批准 CNN 立法者警告政治家，特朗普的沙特核协议有可能引发中东军备竞赛
+- RSS Excerpt / RSS 摘要: Trump vows to punish Iran and Houthis for attacks in Red Sea Reuters The Houthis Have Opened a New Front in the U.S.-Iran War WSJ Tanker Exits Red Sea Dark as Another China Ship Heads to Strait Bloomberg.com Tensions over Yemen chokepoint threaten to ignite another theater of US-Iran war ABC News - Breaking News, Latest News and Videos Former U.S. diplomat breaks down Houthi attacks on Red Sea shipping PBS
+- RSS 中文摘要: 特朗普发誓要惩罚伊朗和胡塞武装在红海的袭击 路透 胡塞武装在美伊战争中开辟了新战线 华尔街日报油轮驶出红海黑暗，另一艘中国船只驶向海峡 Bloomberg.com 也门阻塞点的紧张局势可能会点燃美伊战争的另一个战区 ABC News - 突发新闻、最新新闻和视频 美国前外交官剖析胡塞武装对红海航运的袭击 PBS
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: nuclear, deal, saudi, arabia, and fuel. The available excerpt says: U.S. signs nuclear deal with Saudi Arabia that gives it path to enriching fuel The Washington Post Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom WSJ Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel The New York Times Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign-off CNN Trump's Saudi nuclear deal risks igniting a Middle East arms race, lawmakers warn Politico Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：核、交易、沙特、阿拉伯、燃料。RSS 中文摘要显示：美国与沙特阿拉伯签署核协议，为其提供浓缩燃料之路 《华盛顿邮报》 特朗普批准与沙特阿拉伯达成里程碑式的核协议，为王国带来重大胜利 《华尔街日报》 沙特与美国达成协议，可以让他们丰富核燃料 《纽约时报》 核协议将允许沙特阿拉伯进行铀浓缩，等待特朗普政府批准 CNN 立法者警告政治家，特朗普的沙特核协议有可能引发中东军备竞赛 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: red, sea, houthis, attacks, and iran. The available excerpt says: Trump vows to punish Iran and Houthis for attacks in Red Sea Reuters The Houthis Have Opened a New Front in the U.S.-Iran War WSJ Tanker Exits Red Sea Dark as Another China Ship Heads to Strait Bloomberg.com Tensions over Yemen chokepoint threaten to ignite another theater of US-Iran war ABC News - Breaking News, Latest News and Videos Former U.S. diplomat breaks down Houthi attacks on Red Sea shipping PBS Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：红色的、海、胡塞武装、袭击、伊朗。RSS 中文摘要显示：特朗普发誓要惩罚伊朗和胡塞武装在红海的袭击 路透 胡塞武装在美伊战争中开辟了新战线 华尔街日报油轮驶出红海黑暗，另一艘中国船只驶向海峡 Bloomberg.com 也门阻塞点的紧张局势可能会点燃美伊战争的另一个战区 ABC News - 突发新闻、最新新闻和视频 美国前外交官剖析胡塞武装对红海航运的袭击 PBS 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 2. [U.S. deploys B-1 bomber as attacks on Iran intensify - Axios](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qV0NXSktTaGxGVlctS1kyTGV4SU1oaDhHY2xHdGxzZFNyMFVHRm9PR0F5dUJ1SnlGMXBfSGh2d1A1WlVqck9FSXpaM3hyWlFxbkVxcUxjYnZkUGVrZHBQZGxR?oc=5)
+### 3. [Trump Live Updates: U.S.-Saudi Nuclear Deal in Doubt as President Demands 'Normalizing' Relations With Israel - The New York Times](https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5NHVvazE0X1MtWFVEU0RCY2p0V0wtN1ctamNpMkU2bi1qNWh4U3IwSWRFN3ExN1ZVa2dacFVPeElLam5JZ2xfZ3ZiWTI1c0ZkRVJSaGNLR3ppREVMN2JKdFZfNA?oc=5)
 
-- Source / 来源: Axios. Published: `2026-07-23T03:09:19+00:00`.
-- Keywords / 关键词: iran, intensify, deploys, attacks, strikes, bomber, axios, b-1, updates, carries
-- 中文关键词: 伊朗、强化、部署、袭击、轰炸机、轴、b-1、更新、携带
+- Source / 来源: The New York Times. Published: `2026-07-24T04:52:00+00:00`.
+- Keywords / 关键词: nuclear, saudi, deal, trump, normalizing, president, relations, updates, demands, israel
+- 中文关键词: 核、沙特、交易、特朗普、正常化、总统、关系、更新、需求、以色列
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: U.S. deploys B-1 bomber as attacks on Iran intensify Axios Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait The New York Times Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen CBS News US military carries out strikes on Iran as both sides threaten civilian infrastructure AP News U.S. strikes unlikely to move Iran, intelligence reports say The Washington Post
-- RSS 中文摘要: 美国部署 B-1 轰炸机，对伊朗的攻击加剧 Axios 伊朗战争实时更新：如果伊朗袭击海峡，特朗普威胁要击中桥梁和发电厂 《纽约时报》 伊朗战争更新：随着对石油贸易的威胁加深，美国连续第 12 晚进行袭击 哥伦比亚广播公司新闻 美国军方对伊朗进行袭击，因为双方都威胁民用基础设施 美联社新闻 情报报告称，美国的袭击不太可能打动伊朗 华盛顿邮报
+- RSS Excerpt / RSS 摘要: Trump Live Updates: U.S.-Saudi Nuclear Deal in Doubt as President Demands 'Normalizing' Relations With Israel The New York Times Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom WSJ For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard The New York Times Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign-off CNN The Art of the Giveaway The Atlantic
+- RSS 中文摘要: 特朗普实时更新：美国与沙特核协议存疑，总统要求与以色列关系“正常化” 《纽约时报》特朗普批准与沙特阿拉伯达成具有里程碑意义的核协议，为王国带来重大胜利 《华尔街日报》 对于韩国来说，美国与沙特核协议暴露了双重标准 《纽约时报》核协议将允许沙特阿拉伯在等待特朗普政府签署的铀浓缩项目中陷入困境 CNN 赠品的艺术 大西洋月刊
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, intensify, deploys, attacks, and strikes. The available excerpt says: U.S. deploys B-1 bomber as attacks on Iran intensify Axios Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait The New York Times Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen CBS News US military carries out strikes on Iran as both sides threaten civilian infrastructure AP News U.S. strikes unlikely to move Iran, intelligence reports say The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、强化、部署、袭击、轰炸机。RSS 中文摘要显示：美国部署 B-1 轰炸机，对伊朗的攻击加剧 Axios 伊朗战争实时更新：如果伊朗袭击海峡，特朗普威胁要击中桥梁和发电厂 《纽约时报》 伊朗战争更新：随着对石油贸易的威胁加深，美国连续第 12 晚进行袭击 哥伦比亚广播公司新闻 美国军方对伊朗进行袭击，因为双方都威胁民用基础设施 美联社新闻 情报报告称，美国的袭击不太可能打动伊朗 华盛顿邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: nuclear, saudi, deal, trump, and normalizing. The available excerpt says: Trump Live Updates: U.S.-Saudi Nuclear Deal in Doubt as President Demands 'Normalizing' Relations With Israel The New York Times Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom WSJ For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard The New York Times Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign-off CNN The Art of the Giveaway The Atlantic Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：核、沙特、交易、特朗普、正常化。RSS 中文摘要显示：特朗普实时更新：美国与沙特核协议存疑，总统要求与以色列关系“正常化” 《纽约时报》特朗普批准与沙特阿拉伯达成具有里程碑意义的核协议，为王国带来重大胜利 《华尔街日报》 对于韩国来说，美国与沙特核协议暴露了双重标准 《纽约时报》核协议将允许沙特阿拉伯在等待特朗普政府签署的铀浓缩项目中陷入困境 CNN 赠品的艺术 大西洋月刊 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 3. [Yemen’s Houthis claim attack on two Saudi oil tankers - Al Jazeera](https://news.google.com/rss/articles/CBMimAFBVV95cUxQRkQ3bDFHdEZrQjNEQmtHZkRSUk1Ydnp4YXNDbHF2V0lDSkFmaEVrcmcxd3NPNVU5aXA3TnlWSFF0LW54cXBMcDcyS3ptOXlLaEl2ZVBITjN0T0Vra2llVjNBZUFTY0Z1N0FXQ0RNSnR1ZGI2MHN1bXJqdUZsdWxLNXA2dWdXVnhBejZYZEgzZnJwb2R3TTFTbdIBngFBVV95cUxQX2piN0J0Q2YwOUcyOTZBc2lFdkJpR3Q4SGJwMjhmVHlvZzJjM0pKUzgzWWZwMzRDdXhQWGRveG9NTTFwT1ZHX1ozYTdWcmlfa2J4STdFWXhuQ0U0azRaVEdIcDV3elJnRklrYWNUOHV2Z3ZrWDBEVC1DY3ZqWGRWTXpzYTJZNlZGWVlpaDIxb1R3ZFd5clItcE1VMDYtUQ?oc=5)
+### 4. [Justice Dept. drops 'New York Times' subpoenas under pressure from judge - NPR](https://news.google.com/rss/articles/CBMioAFBVV95cUxQUzB1YTBFc0RmazhoVTJiN2R1YXl3YW5EckZ0SnlRREVZWlhRdmYzR25rTGJNVkx0U1FSVDAwU1BYQWt6WUh6TFUxUmRiNkNkV2E2NkRSYlhSaU56dng2TUxoZUVzVzlHRnRmUy1zMURraWNQVEVzbEJESHJWQmNGRkszYlhKTEpITFJMcS1meXhxb29KZlVqOEhvZTdFS0Nk?oc=5)
 
-- Source / 来源: Al Jazeera. Published: `2026-07-23T04:30:02+00:00`.
-- Keywords / 关键词: houthis, saudi, tankers, jazeera, attack, oil, yemen, claim, two, red
-- 中文关键词: 胡塞武装、沙特、油轮、半岛电视台、袭击、石油、也门、宣称、二、红色的
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Yemen’s Houthis claim attack on two Saudi oil tankers Al Jazeera Live updates: US-Iran strikes; conflict widens with Houthis claiming Red Sea attacks CNN Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia Al Jazeera Iran war live: Houthis strike tankers in Red Sea to enforce blockade against Saudi oil Reuters Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says CNBC
-- RSS 中文摘要: 也门胡塞武装声称袭击了两艘沙特油轮 半岛电视台实时更新：美国和伊朗的袭击；胡塞武装声称袭击了红海
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: houthis, saudi, tankers, jazeera, and attack. The available excerpt says: Yemen’s Houthis claim attack on two Saudi oil tankers Al Jazeera Live updates: US-Iran strikes; conflict widens with Houthis claiming Red Sea attacks CNN Between hope and fear: Yemenis react to Houthi blockade on Saudi Arabia Al Jazeera Iran war live: Houthis strike tankers in Red Sea to enforce blockade against Saudi oil Reuters Houthis deploy missiles and drones to attack ships in southern Red Sea, naval group says CNBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：胡塞武装、沙特、油轮、半岛电视台、袭击。RSS 中文摘要显示：也门胡塞武装声称袭击了两艘沙特油轮 半岛电视台实时更新：美国和伊朗的袭击；胡塞武装声称袭击了红海 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+- Source / 来源: NPR. Published: `2026-07-24T03:31:19+00:00`.
+- Keywords / 关键词: subpoenas, pressure, justice, times, drops, under, judge, dept, journalists, withdraw
+- 中文关键词: 传票、压力、正义、次、滴、在下面、法官、部门、记者、提取
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Justice Dept. drops 'New York Times' subpoenas under pressure from judge NPR U.S. Withdraws Subpoenas Issued to New York Times Journalists The New York Times Trump’s DOJ says it will withdraw subpoenas targeting NY Times reporters CNN US prosecutors drop New York Times subpoenas in Trump plane leak probe Reuters DOJ agrees to withdraw subpoenas for New York Times journalists ABC News - Breaking News, Latest News and Videos
+- RSS 中文摘要: 美国司法部在 NPR 法官的压力下撤销了对《纽​​约时报》的传票 美国撤销了向《纽约时报》记者发出的传票 《纽约时报》特朗普的司法部表示将撤销针对《纽约时报》记者的传票 CNN 美国检察官撤销了对特朗普飞机泄漏调查的《纽约时报》传票 路透社 司法部同意撤销对《纽约时报》记者的传票 ABC News - 突发新闻、最新新闻和视频
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: subpoenas, pressure, justice, times, and drops. The available excerpt says: Justice Dept. drops 'New York Times' subpoenas under pressure from judge NPR U.S. Withdraws Subpoenas Issued to New York Times Journalists The New York Times Trump’s DOJ says it will withdraw subpoenas targeting NY Times reporters CNN US prosecutors drop New York Times subpoenas in Trump plane leak probe Reuters DOJ agrees to withdraw subpoenas for New York Times journalists ABC News - Breaking News, Latest News and Videos Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：传票、压力、正义、次、滴。RSS 中文摘要显示：美国司法部在 NPR 法官的压力下撤销了对《纽​​约时报》的传票 美国撤销了向《纽约时报》记者发出的传票 《纽约时报》特朗普的司法部表示将撤销针对《纽约时报》记者的传票 CNN 美国检察官撤销了对特朗普飞机泄漏调查的《纽约时报》传票 路透社 司法部同意撤销对《纽约时报》记者的传票 ABC News - 突发新闻、最新新闻和视频 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 4. [House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war - NPR](https://news.google.com/rss/articles/CBMikAFBVV95cUxNbzZDbVB0M1dMREVtclZpZVdKYUJtU2F6MWdzb2lGdDlxT0RzYzJaVXJPeUhDX2hySVNURFZlcjdXMkk4aGl0OXFmUTZ6T21yMi1LclM4ZDJBUzRzQ2l1eGFLSU9DaXpHUy1kRTA2RGE5UVJwZ3FQQ2QyeXE1M3ZKaFF4d2FkSXp6QmhvU3RYc0U?oc=5)
+### 5. [Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on - AP News](https://news.google.com/rss/articles/CBMioAFBVV95cUxNeTY2cVJHNnVRWG01TG14d1ZxTmUycTZWXzFmd3hEdnYwTUJtTzdiUDJOUXRUX05YMmFIcjVJTmRFWkFwaEJ2RXBEZnIxU3pITU1vbER1TlBvY0VqTW0za3RRRG1OQWI3ZHFDX2tOWDVsUjZDVU9tZkJUZEpCdlQxTGlDQ0Y2V1U0X2FBQThfSlEwampOWk14dWxKNE0xU2Ja?oc=5)
 
-- Source / 来源: NPR. Published: `2026-07-22T21:51:19+00:00`.
-- Keywords / 关键词: bill, house, passes, iran, war, blueprint, pentagon, funding, dollars, unlock
-- 中文关键词: 账单、房子、通过、伊朗、战争、蓝图、五角大楼、资金、美元、开锁
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war NPR US House passes $1.15 trillion military bill expanding Israel cooperation Al Jazeera House votes for Department of War renaming as part of an annual defense bill AP News 6 Democrats cross aisle, join GOP to back annual defense policy bill The Hill US House passes $1 trillion defense bill despite Iran, Israel concerns Reuters
-- RSS 中文摘要: 众议院通过五角大楼拨款法案和为伊朗战争解锁新资金的蓝图 NPR 美国众议院通过 1.15 万亿美元的军事法案，扩大与以色列的合作 半岛电视台 众议院投票支持更名为战争部，作为年度国防法案的一部分 美联社新闻 6 民主党跨党派，加入共和党支持年度国防政策法案 尽管伊朗和以色列担忧，但美国众议院通过了 1 万亿美元的国防法案 路透
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: bill, house, passes, iran, and war. The available excerpt says: House passes Pentagon funding bill and a blueprint to unlock new dollars for Iran war NPR US House passes $1.15 trillion military bill expanding Israel cooperation Al Jazeera House votes for Department of War renaming as part of an annual defense bill AP News 6 Democrats cross aisle, join GOP to back annual defense policy bill The Hill US House passes $1 trillion defense bill despite Iran, Israel concerns Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：账单、房子、通过、伊朗、战争。RSS 中文摘要显示：众议院通过五角大楼拨款法案和为伊朗战争解锁新资金的蓝图 NPR 美国众议院通过 1.15 万亿美元的军事法案，扩大与以色列的合作 半岛电视台 众议院投票支持更名为战争部，作为年度国防法案的一部分 美联社新闻 6 民主党跨党派，加入共和党支持年度国防政策法案 尽管伊朗和以色列担忧，但美国众议院通过了 1 万亿美元的国防法案 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 5. [Zelensky fires head of Ukraine military - The Hill](https://news.google.com/rss/articles/CBMikwFBVV95cUxOX0M1c1ZDZGxaczlpOWJRTVZOSlhNeEI2bUl6dFFKa0lVcVJYMnRYaGxqYzFkamU1cG9hSWx0QnVUWnlpelVNLWJlQkRtNVFRSVh0bm85c1JqSW5uQjhFMmgwLTh6Y2twNjN5Q3NkTGdwak9qcldTMTN5M28zNzU5azI0RmUxYW9BTW9Bdm9JUHlFb2_SAZgBQVVfeXFMTUJGSnpiWjEwZmpMa0hBZkhLOHExeFdUSFJyQkIzUGlRMUI4b0h1NmVnakFrOTVIYzU5MjA2Z0pHdk05MGZQdzFmdXZuSWxFY2dkQ3czWFZXTEVZM3YyZ1E5ZVZ5WmtaZzZOWkpUSjlPeUFHOGsxVWhqbGxhcjhxV1BoNC1xUG5LTmhEQnA4R3JmMmtIQWJBRGI?oc=5)
-
-- Source / 来源: The Hill. Published: `2026-07-22T17:08:00+00:00`.
-- Keywords / 关键词: military, ukraine, zelensky, fires, head, hill, chief, monumental, overhauls, dismissal
-- 中文关键词: 军事、乌克兰、泽伦斯基、火灾、头、爬坡道、首席、具有纪念意义的、大修、解雇
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Zelensky fires head of Ukraine military The Hill Why a week of protests pushed Zelensky to bring in a younger military chief CNN A Mandate for Change and a Monumental Test for Ukraine’s New Military Chief The New York Times Ukraine overhauls its military top brass for the fight against Russia AP News The Dismissal of Ukraine’s Defence Minister Royal United Services Institute (RUSI)
-- RSS 中文摘要: 泽伦斯基解雇乌克兰军方负责人 《国会山报》 为什么一周的抗议活动迫使泽伦斯基任命一位更年轻的军事首长 CNN 变革的指令和对乌克兰新军事首长的重大考验 《纽约时报》 乌克兰为对抗俄罗斯而彻底改革其军事高层 美联社新闻 解雇乌克兰国防部长 皇家联合军种研究所 (RUSI)
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: military, ukraine, zelensky, fires, and head. The available excerpt says: Zelensky fires head of Ukraine military The Hill Why a week of protests pushed Zelensky to bring in a younger military chief CNN A Mandate for Change and a Monumental Test for Ukraine’s New Military Chief The New York Times Ukraine overhauls its military top brass for the fight against Russia AP News The Dismissal of Ukraine’s Defence Minister Royal United Services Institute (RUSI) Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：军事、乌克兰、泽伦斯基、火灾、头。RSS 中文摘要显示：泽伦斯基解雇乌克兰军方负责人 《国会山报》 为什么一周的抗议活动迫使泽伦斯基任命一位更年轻的军事首长 CNN 变革的指令和对乌克兰新军事首长的重大考验 《纽约时报》 乌克兰为对抗俄罗斯而彻底改革其军事高层 美联社新闻 解雇乌克兰国防部长 皇家联合军种研究所 (RUSI) 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 6. [Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen - CBS News](https://news.google.com/rss/articles/CBMinAFBVV95cUxQbnFoblVaeW56TWFYUWE1SGl5N0RtX2t1S25oOFprWVlLZjFPa0Nmdm5hWjdzcmNpTGJCejk5OUxnMF9Pbnh0SklXc3BRYlktaVR2cS1Mbk1FNVVhak5QakV0UEh2VXF5UEFJQ2ppWXZ1Um9FX2lYSEpiaUEtT3dFaEQ2N3lRdTRLSjZRTnZGWk1PUk1tWHUwOVdVZjc?oc=5)
-
-- Source / 来源: CBS News. Published: `2026-07-23T02:55:00+00:00`.
-- Keywords / 关键词: iran, strikes, updates, carries, war, out, straight, threats, deepen, night
-- 中文关键词: 伊朗、袭击、更新、携带、战争、出去、直的、威胁、深化、夜晚
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen CBS News Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait The New York Times U.S. deploys B-1 bomber as attacks on Iran intensify Axios US military carries out strikes on Iran as both sides threaten civilian infrastructure AP News U.S. strikes unlikely to move Iran, intelligence reports say The Washington Post
-- RSS 中文摘要: 伊朗战争最新消息：随着对石油贸易的威胁加深，美国连续第 12 晚进行打击 哥伦比亚广播公司新闻 伊朗战争实时更新：如果伊朗袭击海峡，特朗普威胁要袭击桥梁和发电厂 《纽约时报》 美国部署 B-1 轰炸机，因为对伊朗的攻击加剧 Axios 美国军方对伊朗进行打击，因为双方都威胁民用基础设施 美联社新闻 情报报告称，美国的打击不太可能打动伊朗 华盛顿邮报
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, strikes, updates, carries, and war. The available excerpt says: Iran War Updates: U.S. carries out 12th straight night of strikes as threats to oil trade deepen CBS News Iran War Live Updates: Trump Threatens to Hit Bridges and Power Plants if Iran Strikes in Strait The New York Times U.S. deploys B-1 bomber as attacks on Iran intensify Axios US military carries out strikes on Iran as both sides threaten civilian infrastructure AP News U.S. strikes unlikely to move Iran, intelligence reports say The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、袭击、更新、携带、战争。RSS 中文摘要显示：伊朗战争最新消息：随着对石油贸易的威胁加深，美国连续第 12 晚进行打击 哥伦比亚广播公司新闻 伊朗战争实时更新：如果伊朗袭击海峡，特朗普威胁要袭击桥梁和发电厂 《纽约时报》 美国部署 B-1 轰炸机，因为对伊朗的攻击加剧 Axios 美国军方对伊朗进行打击，因为双方都威胁民用基础设施 美联社新闻 情报报告称，美国的打击不太可能打动伊朗 华盛顿邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 7. [Mexico mayor killed in town hall months after surviving assassination attempt - CBS News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcDdrR2tzSlZxaUhaVFdKMlZqWkJoTG1icy15c19RcWE5bUROcE9GN2RsSFZ4cjF5anh6VUQzNnRVYU1pZnJmaVd5VWZ6dHNHLWM5Q3JtWkdMcEZnWVRJYjY1RDhQeHlaMUEzbGVVQ29VSkhyYkN4N3hZY3ZNaFh0TTgxVnJPV1FC?oc=5)
-
-- Source / 来源: CBS News. Published: `2026-07-22T23:07:30+00:00`.
-- Keywords / 关键词: mayor, surviving, mexico, assassination, town, hall, attempt, killed, months, cbs
-- 中文关键词: 市长、幸存下来、墨西哥、暗杀、镇、大厅、试图、死亡、月、哥伦比亚广播公司
+- Source / 来源: AP News. Published: `2026-07-24T05:26:00+00:00`.
+- Keywords / 关键词: cockroach, protesters, activist, wangchuk, indian, hunger, strike, press, ends, day
+- 中文关键词: 蟑螂、抗议者、活动家、wangchuk 没有关注任何人。 Autodesk_new、印度人、饥饿、袭击、按、结束、天
 - Category / 分类: Public safety and society / 公共安全与社会
-- RSS Excerpt / RSS 摘要: Mexico mayor killed in town hall months after surviving assassination attempt CBS News Mexican Mayor Shot Dead in his Office After Surviving Earlier Hit Bloomberg.com What we know about the killing of Mexico mayor Valentin Lavin WION Mexico Mayor Allied To Ruling Party Shot Dead After Surviving Previous Assassination Bid | World News News18 Mexican mayor shot dead in town hall ABS-CBN
-- RSS 中文摘要: 墨西哥市长在刺杀行动中幸存几个月后在市政厅被杀 CBS 新闻 墨西哥市长生还后在办公室被枪杀世界新闻 News18 墨西哥市长在市政厅被枪杀 ABS-CBN
+- RSS Excerpt / RSS 摘要: Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on AP News See more headlines & perspectives on Google News
+- RSS 中文摘要: 印度活动人士旺楚克结束了 26 天的绝食抗议，“蟑螂”抗议者誓言向美联社新闻施压 查看更多头条新闻和观点 在 Google 新闻上
 - EN Summary: This story centers on harm to people, emergency response, or social disruption.
 - 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
-- EN Detailed Reading: Key signals: mayor, surviving, mexico, assassination, and town. The available excerpt says: Mexico mayor killed in town hall months after surviving assassination attempt CBS News Mexican Mayor Shot Dead in his Office After Surviving Earlier Hit Bloomberg.com What we know about the killing of Mexico mayor Valentin Lavin WION Mexico Mayor Allied To Ruling Party Shot Dead After Surviving Previous Assassination Bid | World News News18 Mexican mayor shot dead in town hall ABS-CBN Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
-- 中文详细解读: 关键词信号：市长、幸存下来、墨西哥、暗杀、镇。RSS 中文摘要显示：墨西哥市长在刺杀行动中幸存几个月后在市政厅被杀 CBS 新闻 墨西哥市长生还后在办公室被枪杀世界新闻 News18 墨西哥市长在市政厅被枪杀 ABS-CBN 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
+- EN Detailed Reading: Key signals: cockroach, protesters, activist, wangchuk, and indian. The available excerpt says: Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on AP News See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
+- 中文详细解读: 关键词信号：蟑螂、抗议者、活动家、wangchuk 没有关注任何人。 Autodesk_new、印度人。RSS 中文摘要显示：印度活动人士旺楚克结束了 26 天的绝食抗议，“蟑螂”抗议者誓言向美联社新闻施压 查看更多头条新闻和观点 在 Google 新闻上 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
 - EN What to watch: official investigation; confirmed casualty numbers; prevention measures
 - 后续关注: 官方调查；确认伤亡数字；预防措施
 
-### 8. [Trump gives emotional tribute to fallen Army Lt Tyler Feehan after flying grieving family on Air Force One - Fox News](https://news.google.com/rss/articles/CBMixAFBVV95cUxNOWtwSmRCSF9oY0JUWW13Nkh0YU9RMUlKWU9WRDlNQ1ZTMlpTaWh1Q1JjYjZxbmZhQklFZ2FkdEZxU3p6cnR5NUh6NWc2Uk5RYlhmMmpYd1g3aXpUTUxMZVVUYlVSMjN4b1JSdVY4Y0U4WmtWSFF1RDVsZ3liX2RBbDlpb0owb2hldHpHTDMwWUE2XzJCcGdiVGdSeHBTa3Z4WGZVLWFPb3B0QmNxNDVvZFlXMEtBMFJPTmxuSHMtZnV1NFht0gHKAUFVX3lxTFB4QXMwYkRUVFBKeVNtWU95ZkdxWEYxQUctdmV0TmltWWpYbmNxdmtXbElIcGtNYWpwZGdIeU5ObXRVNThGVVNSNjdLeHYwNFJvU3haYVhpaWJ6OEtaVk9XZTMwTmthYzVURTZJQlh6MEVqOXNSVUNiRHd2anBIOFdsbVpIYnNOeU9iQzZON3RVU25MNWNPNWZGVVVyV3V0QXE5WXhZUmlaWFlhNjNiZG1kMzR5aEg3MmNNanQzMHVkOWFIQmNfd2ptUEE?oc=5)
+### 6. [Trump’s Demand for Saudis to Recognize Israel Puts Nuclear Deal in Doubt - The New York Times](https://news.google.com/rss/articles/CBMiY0FVX3lxTFB5NHVvazE0X1MtWFVEU0RCY2p0V0wtN1ctamNpMkU2bi1qNWh4U3IwSWRFN3ExN1ZVa2dacFVPeElLam5JZ2xfZ3ZiWTI1c0ZkRVJSaGNLR3ppREVMN2JKdFZfNA?oc=5)
 
-- Source / 来源: Fox News. Published: `2026-07-22T22:36:48+00:00`.
-- Keywords / 关键词: trump, fallen, emotional, grieving, tribute, feehan, flying, family, gives, tyler
-- 中文关键词: 特朗普、堕落、情绪化的、悲伤的、贡、费汉、飞行、家庭、给出、泰勒
+- Source / 来源: The New York Times. Published: `2026-07-24T04:52:00+00:00`.
+- Keywords / 关键词: nuclear, deal, trump, recognize, demand, saudis, israel, doubt, puts, saudi
+- 中文关键词: 核、交易、特朗普、认出、要求、沙特人、以色列、怀疑、看跌期权、沙特
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump gives emotional tribute to fallen Army Lt Tyler Feehan after flying grieving family on Air Force One Fox News July 22, 2026 — Trump attends dignified transfer of soldiers, US and Iran trade threats CNN Trump’s split screen: War and campaigning Politico Trump Attends Dignified Transfer for U.S. Servicemembers Killed in Middle East WSJ Speaking for Fallen Soldiers, Trump Says They Supported the Iran War The New York Times
-- RSS 中文摘要: 特朗普在搭乘空军一号福克斯新闻2026年7月22日乘坐空军一号运送悲痛的家人后，向阵亡陆军中尉泰勒·费汉表示深情哀悼——特朗普出席士兵的尊严移交、美国和伊朗的贸易威胁 CNN 特朗普的分屏：战争和竞选政治特朗普出席中东阵亡美国军人的尊严移交《华尔街日报》为阵亡士兵发言，特朗普称他们支持伊朗战争《纽约时报》
+- RSS Excerpt / RSS 摘要: Trump’s Demand for Saudis to Recognize Israel Puts Nuclear Deal in Doubt The New York Times Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom WSJ For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard The New York Times Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign-off CNN The Art of the Giveaway The Atlantic
+- RSS 中文摘要: 特朗普要求沙特承认以色列使核协议受到质疑 《纽约时报》特朗普批准与沙特阿拉伯达成具有里程碑意义的核协议，为王国带来巨大胜利 《华尔街日报》 对于韩国来说，美国与沙特的核协议暴露了双重标准 《纽约时报》
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, fallen, emotional, grieving, and tribute. The available excerpt says: Trump gives emotional tribute to fallen Army Lt Tyler Feehan after flying grieving family on Air Force One Fox News July 22, 2026 — Trump attends dignified transfer of soldiers, US and Iran trade threats CNN Trump’s split screen: War and campaigning Politico Trump Attends Dignified Transfer for U.S. Servicemembers Killed in Middle East WSJ Speaking for Fallen Soldiers, Trump Says They Supported the Iran War The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、堕落、情绪化的、悲伤的、贡。RSS 中文摘要显示：特朗普在搭乘空军一号福克斯新闻2026年7月22日乘坐空军一号运送悲痛的家人后，向阵亡陆军中尉泰勒·费汉表示深情哀悼——特朗普出席士兵的尊严移交、美国和伊朗的贸易威胁 CNN 特朗普的分屏：战争和竞选政治特朗普出席中东阵亡美国军人的尊严移交《华尔街日报》为阵亡士兵发言，特朗普称他们支持伊朗战争《纽约时报》 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: nuclear, deal, trump, recognize, and demand. The available excerpt says: Trump’s Demand for Saudis to Recognize Israel Puts Nuclear Deal in Doubt The New York Times Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom WSJ For South Korea, U.S.-Saudi Nuclear Deal Exposes a Double Standard The New York Times Nuclear deal that would permit uranium enrichment by Saudi Arabia in limbo awaiting Trump admin sign-off CNN The Art of the Giveaway The Atlantic Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：核、交易、特朗普、认出、要求。RSS 中文摘要显示：特朗普要求沙特承认以色列使核协议受到质疑 《纽约时报》特朗普批准与沙特阿拉伯达成具有里程碑意义的核协议，为王国带来巨大胜利 《华尔街日报》 对于韩国来说，美国与沙特的核协议暴露了双重标准 《纽约时报》 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 9. [Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kaWs2X2Z5U3ptRzJ0MEE5eFhIbnkxcDZNdUFQajJQQ2pZSzYxNHcyeEdEUF9XYXNpa0lsLVZOZ04wZUVuRXpPM09fSW9PY1Z2RmhMVlVzbFlpdw?oc=5)
+### 7. [House votes to limit Trump on Iran; Senate fails to advance similar measure - The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxNTEZMTDVycDdlNmVPUi00dDJJeUt4YS1lYUxNTXFnU2d0Q0VoSHlpc1M1bWJOSVE4OUVpRWhCSk0tTGdidVZOMXVIeGtLUGFaMXotNndFOHIyRFo1Qk1lbmpsRHlWNkcyQVJGUFdpZXEzUEx5dXVQWU8xWHdOYVB4N0pkZHA2S1dmTkh5R3RWS0VqNFM1ZzNRZlI1U1duRHJFaFpn?oc=5)
 
-- Source / 来源: BBC. Published: `2026-07-22T22:17:54+00:00`.
-- Keywords / 关键词: trump, power, attacks, hormuz, threatens, bridges, persist, target, iran's, plants
-- 中文关键词: 特朗普、电力、袭击、霍尔木兹、威胁、桥梁、坚持、目标、伊朗的、植物
+- Source / 来源: The Washington Post. Published: `2026-07-24T01:32:53+00:00`.
+- Keywords / 关键词: iran, trump, measure, senate, house, war, washington, advance, similar, votes
+- 中文关键词: 伊朗、特朗普、措施、参议院、房子、战争、华盛顿、进步、相似的、投票
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist BBC Live updates: Trump vows to hit Iranian bridge or power plant each time Tehran strikes ships in Strait of Hormuz CNN Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats CNBC Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks Axios Panicked Trump Gets Desperate With War Crimes Threat The Daily Beast
-- RSS 中文摘要: 特朗普威胁称，如果霍尔木兹海峡的袭击持续下去，将以伊朗的桥梁和发电厂为目标 BBC 实时更新：特朗普发誓，每次德黑兰袭击霍尔木兹海峡的船只时，特朗普都会袭击伊朗的桥梁或发电厂 CNN 油轮在沙特阿拉伯被击中后，油价攀升，特朗普升级了对伊朗的威胁 CNBC 特朗普发誓，伊朗每袭击一艘船，就会袭击伊朗的桥梁或发电厂 Axios 惊慌失措，特朗普对战争罪威胁感到绝望 The Daily Beast
+- RSS Excerpt / RSS 摘要: House votes to limit Trump on Iran; Senate fails to advance similar measure The Washington Post Congress splits on war powers resolutions to force Trump to abandon Iran war CNBC Senate GOP blocks measure to end Iran war despite concerns about lack of endgame The Hill House rebukes Trump in vote to restrict his Iran war powers CNN US launches latest round of strikes on Iran; Trump defends war USA Today
+- RSS 中文摘要: 众议院投票限制特朗普在伊朗问题上的表现；参议院未能推进类似措施 《华盛顿邮报》 国会在迫使特朗普放弃伊朗战争的战争权力决议上存在分歧 CNBC 参议院共和党阻止了结束伊朗战争的措施，尽管担心缺乏最终结果 国会众议院斥责特朗普投票限制其伊朗战争权力 CNN 美国对伊朗发动最新一轮打击；特朗普为战争辩护 《今日美国》
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, power, attacks, hormuz, and threatens. The available excerpt says: Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist BBC Live updates: Trump vows to hit Iranian bridge or power plant each time Tehran strikes ships in Strait of Hormuz CNN Oil prices climb after tanker struck off Saudi Arabia, Trump escalates Iran threats CNBC Trump vows to hit an Iranian bridge or power plant for every ship Iran attacks Axios Panicked Trump Gets Desperate With War Crimes Threat The Daily Beast Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、电力、袭击、霍尔木兹、威胁。RSS 中文摘要显示：特朗普威胁称，如果霍尔木兹海峡的袭击持续下去，将以伊朗的桥梁和发电厂为目标 BBC 实时更新：特朗普发誓，每次德黑兰袭击霍尔木兹海峡的船只时，特朗普都会袭击伊朗的桥梁或发电厂 CNN 油轮在沙特阿拉伯被击中后，油价攀升，特朗普升级了对伊朗的威胁 CNBC 特朗普发誓，伊朗每袭击一艘船，就会袭击伊朗的桥梁或发电厂 Axios 惊慌失措，特朗普对战争罪威胁感到绝望 The Daily Beast 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, trump, measure, senate, and house. The available excerpt says: House votes to limit Trump on Iran; Senate fails to advance similar measure The Washington Post Congress splits on war powers resolutions to force Trump to abandon Iran war CNBC Senate GOP blocks measure to end Iran war despite concerns about lack of endgame The Hill House rebukes Trump in vote to restrict his Iran war powers CNN US launches latest round of strikes on Iran; Trump defends war USA Today Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、特朗普、措施、参议院、房子。RSS 中文摘要显示：众议院投票限制特朗普在伊朗问题上的表现；参议院未能推进类似措施 《华盛顿邮报》 国会在迫使特朗普放弃伊朗战争的战争权力决议上存在分歧 CNBC 参议院共和党阻止了结束伊朗战争的措施，尽管担心缺乏最终结果 国会众议院斥责特朗普投票限制其伊朗战争权力 CNN 美国对伊朗发动最新一轮打击；特朗普为战争辩护 《今日美国》 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 10. [D4vd's Tesla Was Filled With Air Fresheners When Celeste Rivas Hernandez's Body Was Discovered - Rolling Stone](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVUIyOUhzWTB6SnNyMGVUWXlHWFd1ajRLUWJuWlFDQW9QcEM3Z3pEdGNETGU3ek11QzV1bndfaGkybEZDalV5TjJCQzJ3d2VOYkFNcGNfNm5pendpRzRJM2pselpSNVhiRGc1ZGs4eUhHNkJjR2hma1ZNZXV5d2liN09fZVU1NEhmcGIxZzJPZTFNSHo3OHJkeVRBcDlYNm1wYnRVZ083YVRSdlE?oc=5)
+### 8. [Lavrov tells Rubio 'unacceptable' for US to continue arms sales to Kyiv - Euronews.com](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSDg5ZnJFRExwcW5zaTN0ZF8yVzc0bEktU1RoTG5fYTFBLTg1ZXhjWEZqSkZuY1lEZGZBaTE1NExlNUdBczh3ZERHWmdJMnlneTJVbGlHc1M0MUJ6Y1oyaWZXSzFpeHUwTXRGVjFUSU1ROXNOQTJYamNoU2xXb2RFZXFWNFhSZTZQMmUzT3RCUlJKbmUxZklSSEhvUFZxQndYWTNIVW1mT2xNUk8zV3dBWWs4bXNDUQ?oc=5)
 
-- Source / 来源: Rolling Stone. Published: `2026-07-22T19:53:32+00:00`.
-- Keywords / 关键词: hernandez's, celeste, rivas, fresheners, discovered, rolling, d4vd's, filled, tesla, stone
-- 中文关键词: 埃尔南德斯的、塞莱斯特、里瓦斯、清新剂、发现了、滚动、d4vd 的、充满、特斯拉、石头
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: D4vd's Tesla Was Filled With Air Fresheners When Celeste Rivas Hernandez's Body Was Discovered Rolling Stone Possible bloodstains were detected at D4vd’s home, law enforcement testify The Guardian Gruesome images in D4vd hearing are 'worst nightmare' for Celeste Rivas Hernandez's family BBC Singer d4vd could face trial over the killing of a teenage girl. Here’s a timeline of the case CNN Prosecutors zoom in on blood stains to show singer D4vd should be tried in killing of 14-year-old AP News
-- RSS 中文摘要: 当塞莱斯特·里瓦斯·埃尔南德斯 (Celeste Rivas Hernandez) 的尸体被发现时，D4vd 的特斯拉里充满了空气清新剂 《滚石》 执法部门作证，在 D4vd 的家中可能发现了血迹 《卫报》 听证会上出现的可怕图像对塞莱斯特·里瓦斯·埃尔南德斯 (Celeste Rivas Hernandez) 的家人来说是“最糟糕的噩梦” BBC 歌手 d4vd 可能因杀害一名少女而面临审判。这是该案的时间表 CNN 检察官放大血迹，显示歌手 D4vd 因杀害 14 岁青少年而应受到审判 美联社新闻
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: hernandez's, celeste, rivas, fresheners, and discovered. The available excerpt says: D4vd's Tesla Was Filled With Air Fresheners When Celeste Rivas Hernandez's Body Was Discovered Rolling Stone Possible bloodstains were detected at D4vd’s home, law enforcement testify The Guardian Gruesome images in D4vd hearing are 'worst nightmare' for Celeste Rivas Hernandez's family BBC Singer d4vd could face trial over the killing of a teenage girl. Here’s a timeline of the case CNN Prosecutors zoom in on blood stains to show singer D4vd should be tried in killing of 14-year-old AP News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：埃尔南德斯的、塞莱斯特、里瓦斯、清新剂、发现了。RSS 中文摘要显示：当塞莱斯特·里瓦斯·埃尔南德斯 (Celeste Rivas Hernandez) 的尸体被发现时，D4vd 的特斯拉里充满了空气清新剂 《滚石》 执法部门作证，在 D4vd 的家中可能发现了血迹 《卫报》 听证会上出现的可怕图像对塞莱斯特·里瓦斯·埃尔南德斯 (Celeste Rivas Hernandez) 的家人来说是“最糟糕的噩梦” BBC 歌手 d4vd 可能因杀害一名少女而面临审判。这是该案的时间表 CNN 检察官放大血迹，显示歌手 D4vd 因杀害 14 岁青少年而应受到审判 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+- Source / 来源: Euronews.com. Published: `2026-07-23T10:20:12+00:00`.
+- Keywords / 关键词: rubio, unacceptable, lavrov, continue, euronews, ukraine, tells, sales, arms, kyiv
+- 中文关键词: 卢比奥、不可接受的、拉夫罗夫、继续、欧洲新闻报、乌克兰、告诉、销售量、武器、基辅
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Lavrov tells Rubio 'unacceptable' for US to continue arms sales to Kyiv Euronews.com Ukraine war latest: Putin's losses 'staggering' - as Russia warns US against 'unacceptable' arming of Ukraine Sky News Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead NPR Rubio says US committed to helping end Ukraine war after meeting Lavrov Reuters Ukraine-Russia war latest: Trump aide says Putin is suffering ‘staggering’ losses of 5,000 troops a week The Independent
+- RSS 中文摘要: 拉夫罗夫告诉卢比奥，美国继续向基辅出售武器是“不可接受的” 《独立报》每周损失 5,000 名士兵，“令人震惊”
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: rubio, unacceptable, lavrov, continue, and euronews. The available excerpt says: Lavrov tells Rubio 'unacceptable' for US to continue arms sales to Kyiv Euronews.com Ukraine war latest: Putin's losses 'staggering' - as Russia warns US against 'unacceptable' arming of Ukraine Sky News Rubio says U.S. is ready to help end war in Ukraine but no quick deal ahead NPR Rubio says US committed to helping end Ukraine war after meeting Lavrov Reuters Ukraine-Russia war latest: Trump aide says Putin is suffering ‘staggering’ losses of 5,000 troops a week The Independent Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：卢比奥、不可接受的、拉夫罗夫、继续、欧洲新闻报。RSS 中文摘要显示：拉夫罗夫告诉卢比奥，美国继续向基辅出售武器是“不可接受的” 《独立报》每周损失 5,000 名士兵，“令人震惊” 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 9. [Derek Williams, longtime CBS News cameraman, remembered as "the mate you would want in any war zone" - CBS News](https://news.google.com/rss/articles/CBMidEFVX3lxTE1LcTJTX2tsME5kUWpiV2lCbTJQUnlDd19GUzJHb1pZSjM5aVktWG5kMlFuXzFVNXRjbi13VUFPMWVESkhPTXVKOE5HTTRCQi1PVDRONDNuWFZmM29xVmNRS0tCVTFRZS1TZVZ1LVNlaWxTZnla?oc=5)
+
+- Source / 来源: CBS News. Published: `2026-07-23T23:33:00+00:00`.
+- Keywords / 关键词: cbs, remembered, cameraman, williams, longtime, derek, would, mate, want, zone
+- 中文关键词: 哥伦比亚广播公司、记住了、摄影师、威廉斯、很久、德里克、会、伴侣、想、区
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Derek Williams, longtime CBS News cameraman, remembered as "the mate you would want in any war zone" CBS News
+- RSS 中文摘要: 哥伦比亚广播公司新闻 (CBS News) 的长期摄影师德里克·威廉姆斯 (Derek Williams) 被誉为“在任何战区都想要的伙伴”。
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: cbs, remembered, cameraman, williams, and longtime. The available excerpt says: Derek Williams, longtime CBS News cameraman, remembered as "the mate you would want in any war zone" CBS News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：哥伦比亚广播公司、记住了、摄影师、威廉斯、很久。RSS 中文摘要显示：哥伦比亚广播公司新闻 (CBS News) 的长期摄影师德里克·威廉姆斯 (Derek Williams) 被誉为“在任何战区都想要的伙伴”。 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [NYC stabbing attacks that injured 2 being evaluated as potential hate crime: NYPD - ABC News - Breaking News, Latest News and Videos](https://news.google.com/rss/articles/CBMikAFBVV95cUxOV1NlZmpmYlRHelBxY204Uzk2Z0tJQ1lnMExBNVN3OUpTTmNUZURfbk5nZ0Q4OGRSckliTW9mNkkxdHlHWTlBbllHeHc1Y3R3Vjg4aXNrZHVQX0NGWW1ENS1IcnlkSGxuR1BHWGhnbGJvQXFnMnNncU9WdVlkLVdGdkNHc1o0enBfX2xSem1UcEHSAZYBQVVfeXFMTjlnUEZXYWxJajNza01WaDFFTGpMeW9SXzBfdmt6bEhQRlVGV0s0LUxsNkFMcFhXUkwzTmF3YUtJa2FjNllmVXNKZFRYeGhqc1U1eEZwN0xheUlmRTZHeE12RUpNZkdLVGNMemwxc0tOTXMtQURuckVBMVJGLUxfZk51aVFITENENTU5TkdnTzVnaGhEN0Nn?oc=5)
+
+- Source / 来源: ABC News - Breaking News, Latest News and Videos. Published: `2026-07-23T22:25:43+00:00`.
+- Keywords / 关键词: hate, nypd, attacks, crime, nyc, evaluated, potential, stabbing, breaking, injured
+- 中文关键词: 恨、纽约警察局、袭击、犯罪、纽约、评价的、潜在的、刺、打破、受伤
+- Category / 分类: Public safety and society / 公共安全与社会
+- RSS Excerpt / RSS 摘要: NYC stabbing attacks that injured 2 being evaluated as potential hate crime: NYPD ABC News - Breaking News, Latest News and Videos Stabbings near Central Park: NYPD says suspect in custody after 2 men stabbed on Upper West Side of NYC ABC7 New York 2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say The New York Times Suspect in custody after 2 men wounded in possible 'antisemitic stabbing' attacks: officials Fox News NYPD evaluating possible hate crime after 2 men were stabbed in unprovoked attack, officials say CNN
+- RSS 中文摘要: 纽约市造成两人受伤的刺伤事件被评估为潜在仇恨犯罪：纽约警察局 ABC 新闻 - 突发新闻、最新新闻和视频 中央公园附近的刺伤事件：纽约警察局表示，纽约上西区 2 名男子被刺伤后，嫌疑人已被拘留 ABC7 纽约市 2 名男子在上西区被刺伤，警方称，《纽约时报》 两名男子在可能的“反犹太主义刺伤”袭击中受伤，嫌疑人已被拘留：官员 福克斯新闻CNN 官员称，两名男子在无端袭击中被刺伤后，纽约警察局正在评估可能的仇恨犯罪
+- EN Summary: This story centers on harm to people, emergency response, or social disruption.
+- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
+- EN Detailed Reading: Key signals: hate, nypd, attacks, crime, and nyc. The available excerpt says: NYC stabbing attacks that injured 2 being evaluated as potential hate crime: NYPD ABC News - Breaking News, Latest News and Videos Stabbings near Central Park: NYPD says suspect in custody after 2 men stabbed on Upper West Side of NYC ABC7 New York 2 Men Stabbed on Upper West Side in Possible Hate Crimes, Police Say The New York Times Suspect in custody after 2 men wounded in possible 'antisemitic stabbing' attacks: officials Fox News NYPD evaluating possible hate crime after 2 men were stabbed in unprovoked attack, officials say CNN Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
+- 中文详细解读: 关键词信号：恨、纽约警察局、袭击、犯罪、纽约。RSS 中文摘要显示：纽约市造成两人受伤的刺伤事件被评估为潜在仇恨犯罪：纽约警察局 ABC 新闻 - 突发新闻、最新新闻和视频 中央公园附近的刺伤事件：纽约警察局表示，纽约上西区 2 名男子被刺伤后，嫌疑人已被拘留 ABC7 纽约市 2 名男子在上西区被刺伤，警方称，《纽约时报》 两名男子在可能的“反犹太主义刺伤”袭击中受伤，嫌疑人已被拘留：官员 福克斯新闻CNN 官员称，两名男子在无端袭击中被刺伤后，纽约警察局正在评估可能的仇恨犯罪 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
+- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
+- 后续关注: 官方调查；确认伤亡数字；预防措施
 
 
 
