@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-08-04T06:22:38+00:00` UTC.
+Generated at `2026-08-05T06:23:00+00:00` UTC.
 
-### 1. [Live Updates: Despite Trump's remarks, no new negotiations with Iran are planned, U.S. officials tell CBS News - CBS News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ1dLLUtEN1BOZURoRGtpQ1JYaDRibllHa25fRHBpNXlrSUdLV1N3NzVETUFZN3FXTFZlUTB2dmJWd1hSWUNRdDdVcUNnTmNfTTgtVXd1eTJ3WmNoRWxrY2FhcFdlX1d4bUxQdzVIcWM5RHNHNDBsOEN0TjFVTGN5ZHMtZkJ2SW5JTVJLWC04YzJmRG9CTlM5MGRVdzFTNVNYcVVOcGlzeFlSamc?oc=5)
+### 1. [El-Sayed holds narrow lead in Michigan Senate primary but race too close to call - The Guardian](https://news.google.com/rss/articles/CBMipAFBVV95cUxQNGtQcEE2SDR6WUxabUoybFI5cnRUVHk1cFl0R1daZjlsQkJjZ0VFZnpTY0RKQ2dsVFh5ZHF5dWprdnVOYlJuUXg4WHNnQ0VXUEtxSHhjUU5id3pVYTJFUzNGRzdVRlpRclp4bTEySkRZZ3UwQTZOaTl3ZEhiWFRkd3A5X2Y3SkU1REFVRlZDSGVZZzBfWE9kTkViOVFEREwxTUsycw?oc=5)
 
-- Source / 来源: CBS News. Published: `2026-08-04T01:25:00+00:00`.
-- Keywords / 关键词: iran, live, cbs, updates, negotiations, officials, despite, trump's, remarks, planned
-- 中文关键词: 伊朗、居住、哥伦比亚广播公司、更新、谈判、官员、尽管、特朗普的、评论、计划
+- Source / 来源: The Guardian. Published: `2026-08-05T04:23:00+00:00`.
+- Keywords / 关键词: primary, michigan, senate, el-sayed, narrow, holds, close, lead, race, call
+- 中文关键词: 基本的、密歇根州、参议院、埃尔赛义德、狭窄的、持有、关闭、带领、种族、称呼
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: El-Sayed holds narrow lead in Michigan Senate primary but race too close to call The Guardian Abdul El-Sayed wins Michigan’s Democratic Senate primary, notching a Midwest victory for the left NBC News Takeaways from Tuesday’s primaries in Michigan, Missouri, Kansas, Virginia and Washington CNN Live updates: Michigan's August 2026 primary election CBS News How Michigan's Senate primary could shape the Democratic Party's future WBAL-TV
+- RSS 中文摘要: 埃尔-赛义德在密歇根州参议院初选中以微弱优势领先，但势均力敌 《卫报》阿卜杜勒·赛义德 (Abdul El-Sayed) 赢得密歇根州民主党参议院初选，为左翼赢得中西部胜利 NBC 新闻 周二密歇根州、密苏里州、堪萨斯州、弗吉尼亚州和华盛顿州初选要点 CNN 实时更新：密歇根州 2026 年 8 月初选 CBS 新闻 密歇根州参议院初选将如何塑造民主党的未来 WBAL-TV
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: primary, michigan, senate, el-sayed, and narrow. The available excerpt says: El-Sayed holds narrow lead in Michigan Senate primary but race too close to call The Guardian Abdul El-Sayed wins Michigan’s Democratic Senate primary, notching a Midwest victory for the left NBC News Takeaways from Tuesday’s primaries in Michigan, Missouri, Kansas, Virginia and Washington CNN Live updates: Michigan's August 2026 primary election CBS News How Michigan's Senate primary could shape the Democratic Party's future WBAL-TV Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：基本的、密歇根州、参议院、埃尔赛义德、狭窄的。RSS 中文摘要显示：埃尔-赛义德在密歇根州参议院初选中以微弱优势领先，但势均力敌 《卫报》阿卜杜勒·赛义德 (Abdul El-Sayed) 赢得密歇根州民主党参议院初选，为左翼赢得中西部胜利 NBC 新闻 周二密歇根州、密苏里州、堪萨斯州、弗吉尼亚州和华盛顿州初选要点 CNN 实时更新：密歇根州 2026 年 8 月初选 CBS 新闻 密歇根州参议院初选将如何塑造民主党的未来 WBAL-TV 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 2. [Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE90dnd6Z0NpTWFCbzRGLXBEVXh1bUpXcnREWU8xWjBnc1hDWEFpWlhRU2loem5xYS16eUIyeGViSEc4c0U5STBJdk5qX0VqeS0yX1dVakFxbkZ5dw?oc=5)
+
+- Source / 来源: BBC. Published: `2026-08-05T01:35:29+00:00`.
+- Keywords / 关键词: ballistic, officials, russian, missile, injures, strike, kills, kyiv, say, perspectives
+- 中文关键词: 弹道的、官员、俄罗斯、导弹、伤害、袭击、造成死亡、基辅、说、观点
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Live Updates: Despite Trump's remarks, no new negotiations with Iran are planned, U.S. officials tell CBS News CBS News An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump The New York Times Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’ Al Jazeera Iran live updates: Trump: Iran has 'last chance' to sign deal before 'decapitation' ABC News - Breaking News, Latest News and Videos Status of US-Iran talks uncertain as ship struck in Hormuz Reuters
-- RSS 中文摘要: 实时更新：尽管特朗普发表了上述言论，美国官员告诉哥伦比亚广播公司新闻，没有计划与伊朗进行新的谈判 哥伦比亚广播公司新闻 伊朗和阿曼之间重新开放霍尔木兹海峡的新协议将使特朗普付出代价 纽约时报 伊朗战争直播：特朗普警告“最后机会”，德黑兰猛烈抨击美国封锁 半岛电视台伊朗实时更新：特朗普：伊朗在“斩首”之前有“最后机会”签署协议 美国广播公司新闻 - 突发新闻，最新新闻霍尔木兹船只遇袭，美伊谈判进展不明朗 路透
+- RSS Excerpt / RSS 摘要: Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say BBC See more headlines & perspectives on Google News
+- RSS 中文摘要: 官员称，俄罗斯对基辅的弹道导弹袭击造成 14 人死亡、22 人受伤 在 Google 新闻上查看更多头条新闻和观点
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, live, cbs, updates, and negotiations. The available excerpt says: Live Updates: Despite Trump's remarks, no new negotiations with Iran are planned, U.S. officials tell CBS News CBS News An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump The New York Times Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’ Al Jazeera Iran live updates: Trump: Iran has 'last chance' to sign deal before 'decapitation' ABC News - Breaking News, Latest News and Videos Status of US-Iran talks uncertain as ship struck in Hormuz Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、居住、哥伦比亚广播公司、更新、谈判。RSS 中文摘要显示：实时更新：尽管特朗普发表了上述言论，美国官员告诉哥伦比亚广播公司新闻，没有计划与伊朗进行新的谈判 哥伦比亚广播公司新闻 伊朗和阿曼之间重新开放霍尔木兹海峡的新协议将使特朗普付出代价 纽约时报 伊朗战争直播：特朗普警告“最后机会”，德黑兰猛烈抨击美国封锁 半岛电视台伊朗实时更新：特朗普：伊朗在“斩首”之前有“最后机会”签署协议 美国广播公司新闻 - 突发新闻，最新新闻霍尔木兹船只遇袭，美伊谈判进展不明朗 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: ballistic, officials, russian, missile, and injures. The available excerpt says: Russian ballistic missile strike on Kyiv kills 14 and injures 22, officials say BBC See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：弹道的、官员、俄罗斯、导弹、伤害。RSS 中文摘要显示：官员称，俄罗斯对基辅的弹道导弹袭击造成 14 人死亡、22 人受伤 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 2. [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case - The New York Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxORkMyWk1JQm5HOGg4WEhZWlZvVWRKeW16eE1USjJqeEpJdnc5ejF1R0VnUF8tRkZSRDJxUHg1b2ZRTkZ5aXNiLUtQS0x1VjZCNm8yZExfMXpnV1VqNXNMQ0o1cDFQNzU5WkEyY24xXzUycm1UQlk3M0V1SjlSUHozSFp0eUQ0TXRkaGZyZVR5MnZKdjA?oc=5)
+### 3. [Progressive activist wins Democratic primary in one of the country’s biggest House races - NBC News](https://news.google.com/rss/articles/CBMixwFBVV95cUxPd1VDR3JLM2E2T1lzZ2JGWVh0RmFkMG5uN2EzWFRqb2RXOHFjSVF2ZFJxdUp3MUVydENScGVxQ0U5ZE4yV3ZzM1JEVFI2QWswSjU2ak16ZWlScDhjRHhLaEtPR3FhVTk5WlM1d3gtVlVCaVVjT2pWYy1lUmdPME9Kc2JZU29OZjJHZ2RGRmtCOWp6YU9lSGVXVEphSnhHSmtUOHFwZmF1OEtxQkNUV2I3UVVsakIyOTF5dFRHb1h1UUM5UzZwZzRV?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-08-04T00:23:06+00:00`.
-- Keywords / 关键词: pool, reflecting, choked, pirro, trump, white, house, case, she, meets
-- 中文关键词: 水池、反映、窒息、皮罗、特朗普、白色的、房子、案件、她、遇见
+- Source / 来源: NBC News. Published: `2026-08-05T03:07:00+00:00`.
+- Keywords / 关键词: primary, house, progressive, democratic, races, wins, activist, michigan, country, biggest
+- 中文关键词: 基本的、房子、进步、民主的、比赛、获胜、活动家、密歇根州、国家、最大
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case The New York Times Prosecutors drop charges against all 4 people accused of vandalizing Reflecting Pool WUSA9 Pool fiasco reflects poorly on the morals of an entire administration SMH.com.au Trump doesn’t fire Pirro at White House meeting hours after saying she ‘choked’ over Reflecting Pool case CNN Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request NPR
-- RSS 中文摘要: 皮罗在白宫与特朗普会面，特朗普称她在“反射池”案中“哽咽” 《纽约时报》检察官撤销了对所有被控破坏“反射池”案的 4 人的指控 WUSA9 泳池惨败反映了整个政府的道德败坏 SMH.com.au 特朗普在白宫会议上称皮罗在“反射池”案中“哽咽”数小时后，并未解雇皮罗 CNN 涟漪效应：在赫恩的要求下，三人撤销了对“反射池”的指控全国公共广播电台
+- RSS Excerpt / RSS 摘要: Progressive activist wins Democratic primary in one of the country’s biggest House races NBC News Michigan Seventh Congressional District Primary 2026: Live Election Results The New York Times Live results: Michigan House races test power of the left in Democratic Party The Washington Post Progressive Will Lawrence wins key Michigan House primary in blow to Dem leaders Axios Sunrise Movement co-founder defeats establishment-backed Dems in pivotal Michigan race Fox News
+- RSS 中文摘要: 进步活动人士在全国最大的众议院竞选之一中赢得民主党初选 NBC 新闻 2026 年密歇根第七国会区初选：现场选举结果 《纽约时报》现场结果：密歇根众议院竞选考验民主党左翼力量 《华盛顿邮报》 进步人士威尔·劳伦斯赢得密歇根众议院关键初选，对民主党领袖造成打击 Axios 日出运动联合创始人在关键的密歇根州竞选中击败了建制派支持的民主党 福克斯新闻
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: pool, reflecting, choked, pirro, and trump. The available excerpt says: Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case The New York Times Prosecutors drop charges against all 4 people accused of vandalizing Reflecting Pool WUSA9 Pool fiasco reflects poorly on the morals of an entire administration SMH.com.au Trump doesn’t fire Pirro at White House meeting hours after saying she ‘choked’ over Reflecting Pool case CNN Ripple effects: Three people have Reflecting Pool charges dropped after Hearn request NPR Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：水池、反映、窒息、皮罗、特朗普。RSS 中文摘要显示：皮罗在白宫与特朗普会面，特朗普称她在“反射池”案中“哽咽” 《纽约时报》检察官撤销了对所有被控破坏“反射池”案的 4 人的指控 WUSA9 泳池惨败反映了整个政府的道德败坏 SMH.com.au 特朗普在白宫会议上称皮罗在“反射池”案中“哽咽”数小时后，并未解雇皮罗 CNN 涟漪效应：在赫恩的要求下，三人撤销了对“反射池”的指控全国公共广播电台 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: primary, house, progressive, democratic, and races. The available excerpt says: Progressive activist wins Democratic primary in one of the country’s biggest House races NBC News Michigan Seventh Congressional District Primary 2026: Live Election Results The New York Times Live results: Michigan House races test power of the left in Democratic Party The Washington Post Progressive Will Lawrence wins key Michigan House primary in blow to Dem leaders Axios Sunrise Movement co-founder defeats establishment-backed Dems in pivotal Michigan race Fox News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：基本的、房子、进步、民主的、比赛。RSS 中文摘要显示：进步活动人士在全国最大的众议院竞选之一中赢得民主党初选 NBC 新闻 2026 年密歇根第七国会区初选：现场选举结果 《纽约时报》现场结果：密歇根众议院竞选考验民主党左翼力量 《华盛顿邮报》 进步人士威尔·劳伦斯赢得密歇根众议院关键初选，对民主党领袖造成打击 Axios 日出运动联合创始人在关键的密歇根州竞选中击败了建制派支持的民主党 福克斯新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 3. [Ceuta: EU calls for stronger borders after migrant crossings into Spanish territory - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WSzdRTkdzdDFBQ1VqeDR2SXdZcmhkNnl4d3FXNldyVTkwbTctMW1tdGZ4WWFRRnNjTmVPMG5tMk5YZUdQci1MQ3N3MnIwd09WbmFUZVVGb2FpZw?oc=5)
+### 4. [U.S. nears Hormuz deal, aiming for Wednesday announcement - Axios](https://news.google.com/rss/articles/CBMid0FVX3lxTE84eGZaOTdPem5TejVqS0Iwb2NtdmJNQm5CNW1jWmIzMWl5LTcwdld4LUVLSGJDZkRfYWlFU3NsbmNKOThnV3pqZkJ0ZmVXdzZlS0NVZXBrLXJCazN3bmxkUDlTN01IdW1PZHR5V0paS1ZYSzdmdG5B?oc=5)
 
-- Source / 来源: BBC. Published: `2026-08-03T21:43:10+00:00`.
-- Keywords / 关键词: ceuta, migrant, spanish, crossings, territory, stronger, borders, calls, spain, morocco
-- 中文关键词: 休达、移民、西班牙语、交叉口、领土、更强、边界、来电、西班牙、摩洛哥
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Ceuta: EU calls for stronger borders after migrant crossings into Spanish territory BBC Spain installs sea barrier on Ceuta's border with Morocco after frontier rush that killed 67 PBS Spanish Prime Minister Sanchez fends off blistering criticism within the EU over Ceuta crisis ClickOnDetroit | WDIV Local 4 Hundreds of migrant children are stranded in Spain’s Ceuta after mass crossing AP News Morocco says Spain should have foreseen migration impact of court ruling Reuters
-- RSS 中文摘要: 休达：移民进入西班牙领土后，欧盟呼吁加强边境 BBC 西班牙在边境冲撞造成 67 人死亡后，在休达与摩洛哥边境设置海障 PBS 西班牙首相桑切斯抵御了欧盟内部对休达危机的严厉批评 ClickOnDetroit | WDIV Local 4 大规模穿越后，数百名移民儿童被困在西班牙休达 美联社新闻 摩洛哥表示，西班牙应该预见到法院裁决对移民的影响 路透
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: ceuta, migrant, spanish, crossings, and territory. The available excerpt says: Ceuta: EU calls for stronger borders after migrant crossings into Spanish territory BBC Spain installs sea barrier on Ceuta's border with Morocco after frontier rush that killed 67 PBS Spanish Prime Minister Sanchez fends off blistering criticism within the EU over Ceuta crisis ClickOnDetroit | WDIV Local 4 Hundreds of migrant children are stranded in Spain’s Ceuta after mass crossing AP News Morocco says Spain should have foreseen migration impact of court ruling Reuters Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：休达、移民、西班牙语、交叉口、领土。RSS 中文摘要显示：休达：移民进入西班牙领土后，欧盟呼吁加强边境 BBC 西班牙在边境冲撞造成 67 人死亡后，在休达与摩洛哥边境设置海障 PBS 西班牙首相桑切斯抵御了欧盟内部对休达危机的严厉批评 ClickOnDetroit | WDIV Local 4 大规模穿越后，数百名移民儿童被困在西班牙休达 美联社新闻 摩洛哥表示，西班牙应该预见到法院裁决对移民的影响 路透 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 4. [Romania blasts rock to divert water from drought-hit Danube to nuclear reactor - The Guardian](https://news.google.com/rss/articles/CBMiugFBVV95cUxOczNuRWhUUXBDa293TExfUlRGWnZLMnM2NjlDbEFNQ2p0WTVvNjdXNWw3YlZOc2FzY0RxY3ZBSXFPT1BETERybVgzR2FDWlQ5MElqcnNFc2dMUWhlOWlOQWthYWRuUnljZ09DeWpFMkx5MXV4WXA1VXJqR19mVWJRbFhPbkV5bGpBaDVLX2ZPeDk1clk2V3FzdWJCdkFaeGdkcHpFNDc5Y1MwOTFQeWlkeDlwRjNEWTlCb1E?oc=5)
-
-- Source / 来源: The Guardian. Published: `2026-08-04T01:30:00+00:00`.
-- Keywords / 关键词: nuclear, danube, drought-hit, romania, reactor, blasts, divert, water, rock, hungary
-- 中文关键词: 核、多瑙河、遭遇干旱、罗马尼亚、反应堆、爆炸、转移、水、岩石、匈牙利
-- Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: Romania blasts rock to divert water from drought-hit Danube to nuclear reactor The Guardian Hungary to shut sole nuclear plant for first time on Sunday dw.com Hungary’s only nuclear plant on brink of shutdown as Europe heat wave threatens energy crisis CNN Record low Danube levels push some countries in Eastern Europe to the brink of energy emergency AP News Hungary's nuclear crisis tests new PM Magyar's leadership Euronews.com
-- RSS 中文摘要: 罗马尼亚爆破岩石将水从遭受干旱影响的多瑙河转移至核反应堆 《卫报》周日首次关闭唯一核电站 dw.com 匈牙利唯一核电站因欧洲热浪威胁能源危机而处于关闭边缘 CNN 多瑙河水位创历史新低，将东欧一些国家推向能源紧急状态 美联社新闻 匈牙利核危机考验新总理马扎尔的领导力 Euronews.com
-- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
-- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: nuclear, danube, drought-hit, romania, and reactor. The available excerpt says: Romania blasts rock to divert water from drought-hit Danube to nuclear reactor The Guardian Hungary to shut sole nuclear plant for first time on Sunday dw.com Hungary’s only nuclear plant on brink of shutdown as Europe heat wave threatens energy crisis CNN Record low Danube levels push some countries in Eastern Europe to the brink of energy emergency AP News Hungary's nuclear crisis tests new PM Magyar's leadership Euronews.com Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：核、多瑙河、遭遇干旱、罗马尼亚、反应堆。RSS 中文摘要显示：罗马尼亚爆破岩石将水从遭受干旱影响的多瑙河转移至核反应堆 《卫报》周日首次关闭唯一核电站 dw.com 匈牙利唯一核电站因欧洲热浪威胁能源危机而处于关闭边缘 CNN 多瑙河水位创历史新低，将东欧一些国家推向能源紧急状态 美联社新闻 匈牙利核危机考验新总理马扎尔的领导力 Euronews.com 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
-- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
-- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
-
-### 5. [Blanche poised for confirmation vote after he kills Trump's fund - Axios](https://news.google.com/rss/articles/CBMiekFVX3lxTFBnNzhpUHhPS3NOd3RlZGIxNGI2RTJvY3FkbVNKcnRCOWpLNHZOS0N1UjJ6ZnFpd2FaVEZGa3VqT00zRnpXQ2FhZFYySnNTa296WTVrTTZnYmN2czRGbDJ4QWt0ZEhITHAxOThmQkowcEM2SnYwejlCVDB3?oc=5)
-
-- Source / 来源: Axios. Published: `2026-08-03T20:55:42+00:00`.
-- Keywords / 关键词: blanche, confirmation, fund, trump's, poised, kills, axios, vote, anti-weaponization, rescinding
-- 中文关键词: 布兰奇、确认、基金、特朗普的、蓄势待发、造成死亡、轴、投票、反武器化、撤销
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Blanche poised for confirmation vote after he kills Trump's fund Axios White House directly involved in Blanche order rescinding ‘anti-weaponization’ fund CNN GOP holdouts say they will back Blanche's attorney general nomination after striking deal over fund Yahoo Still some drama left in Todd Blanche’s confirmation fight politico.com As Blanche’s path to confirmation is cleared, Trump’s tax audit immunity remains in place AP News
-- RSS 中文摘要: 布兰奇在杀死特朗普的基金 Axios 后准备进行确认投票 白宫直接参与布兰奇撤销“反武器化”基金的命令 CNN 共和党坚持者表示，在就雅虎基金达成协议后，他们将支持布兰奇的总检察长提名 托德·布兰奇的确认斗争中仍有一些戏剧性 politico.com 随着布兰奇的确认之路被扫清，特朗普的税务审计豁免权仍然存在 美联社新闻
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: blanche, confirmation, fund, trump's, and poised. The available excerpt says: Blanche poised for confirmation vote after he kills Trump's fund Axios White House directly involved in Blanche order rescinding ‘anti-weaponization’ fund CNN GOP holdouts say they will back Blanche's attorney general nomination after striking deal over fund Yahoo Still some drama left in Todd Blanche’s confirmation fight politico.com As Blanche’s path to confirmation is cleared, Trump’s tax audit immunity remains in place AP News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：布兰奇、确认、基金、特朗普的、蓄势待发。RSS 中文摘要显示：布兰奇在杀死特朗普的基金 Axios 后准备进行确认投票 白宫直接参与布兰奇撤销“反武器化”基金的命令 CNN 共和党坚持者表示，在就雅虎基金达成协议后，他们将支持布兰奇的总检察长提名 托德·布兰奇的确认斗争中仍有一些戏剧性 politico.com 随着布兰奇的确认之路被扫清，特朗普的税务审计豁免权仍然存在 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 6. [Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim - KCRA](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2xQcmR3d0h3bmJDMlRnNkhpWExiZ2FETUNmNUREa3RkNzhfU3BYUTlGNEh2b2M3QWJwbEozNUJOa1U5T0JCbnhRR3hEb1Q2TU5aM0VtcENuN28wLW4zd19kUWVhZWg3M19hdVNKV0gxQVd1dWNtdlpFdUZNQm9wZzFCR3R0VHZGbVNvM2JOdENrQWh0V2RKWmMyZkxMX3QzVGw3Y21YbXc?oc=5)
-
-- Source / 来源: KCRA. Published: `2026-08-04T03:56:00+00:00`.
-- Keywords / 关键词: in-n-out, shooting, idaho, mass, stockton-based, identified, manager, garibay, ashley, victim
-- 中文关键词: 输入输出、射击、爱达荷州、大量的、基于斯托克顿的、已确定、经理、加里贝、阿什利、受害者
-- Category / 分类: Economy and markets / 经济与市场
-- RSS Excerpt / RSS 摘要: Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim KCRA Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out ABC News - Breaking News, Latest News and Videos At least 3 dead, 7 injured in Twin Falls In-N-Out shooting Boise State Public Radio Who is Chad Williams? College of Southern Idaho confirms suspected Twin Falls shooter was former student Idaho News 6 Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting The Guardian
-- RSS 中文摘要: 总部位于斯托克顿的 In-N-Out 经理阿什利·加里贝 (Ashley Garibay) 被确认为爱达荷州大规模枪击事件受害者 KCRA 爱达荷州 In-N-Out 枪击事件：与枪手对峙的好心人大声说出 ABC 新闻 - 突发新闻、最新新闻和视频 在双子瀑布 In-N-Out 枪击案中至少 3 人死亡、7 人受伤 博伊西州立公共广播电台 谁是查德·威廉姆斯？南爱达荷学院确认双子瀑布枪击案嫌疑人是前学生 爱达荷州新闻 6 向 In-N-Out 枪手还击的男子在 2021 年大规模枪击事件后接受了枪械训练
-- EN Summary: This story is tied to business conditions, financial expectations, or the cost of goods and capital.
-- 中文概要: 这条新闻与商业环境、金融预期或商品与资金成本相关。
-- EN Detailed Reading: Key signals: in-n-out, shooting, idaho, mass, and stockton-based. The available excerpt says: Stockton-based In-N-Out manager Ashley Garibay identified as Idaho mass shooting victim KCRA Idaho In-N-Out shooting: Good Samaritan who confronted gunman speaks out ABC News - Breaking News, Latest News and Videos At least 3 dead, 7 injured in Twin Falls In-N-Out shooting Boise State Public Radio Who is Chad Williams? College of Southern Idaho confirms suspected Twin Falls shooter was former student Idaho News 6 Man who returned fire at In-N-Out gunman had done firearm training after 2021 mass shooting The Guardian Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
-- 中文详细解读: 关键词信号：输入输出、射击、爱达荷州、大量的、基于斯托克顿的。RSS 中文摘要显示：总部位于斯托克顿的 In-N-Out 经理阿什利·加里贝 (Ashley Garibay) 被确认为爱达荷州大规模枪击事件受害者 KCRA 爱达荷州 In-N-Out 枪击事件：与枪手对峙的好心人大声说出 ABC 新闻 - 突发新闻、最新新闻和视频 在双子瀑布 In-N-Out 枪击案中至少 3 人死亡、7 人受伤 博伊西州立公共广播电台 谁是查德·威廉姆斯？南爱达荷学院确认双子瀑布枪击案嫌疑人是前学生 爱达荷州新闻 6 向 In-N-Out 枪手还击的男子在 2021 年大规模枪击事件后接受了枪械训练 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
-- EN What to watch: price movements; company and government guidance; second-round supply-chain effects
-- 后续关注: 价格变化；企业与政府指引；供应链二次影响
-
-### 7. [Nationwide power failure hits Caribbean island as American citizens warned to prepare - Fox News](https://news.google.com/rss/articles/CBMirwFBVV95cUxPQlJtV3NTekEwMmpaSzdrdDV2eHhlZHpEQTloTG9kVkJ5WUFEakktNEFTVktDdVRMX3BtUGwza0p3Q0FWOVJlZHVSNjl1R0ZkY1lfY0o3dUVQSy1uN2pkb0pTVHg0RDVsUkZZdW9PZk1TRFFVc3JIWm96OFRYZERWTnJENXZFMGhza3pISEdtS0tHR3VBNGpGcXBMZXQ4SU9TQlkzM0x6czRDWHgzeFBR0gG0AUFVX3lxTE9ITUxlaUFfejE4RTU4d1k3NDdLNGtPeWdQeW9jU2JCYmN3SjFVeTJpOVZjcW9oNmx4SktwbFZFdFVxRzJOckt0R0hKNTdSUUVBZXpQS1ZXbndZTFliRW84Z1JiVFJDb3J1UkxpbW9zbWN1OHlOQmVCZHY4OC0yekoycU5FSEJSdVRKSnkwRXlJS3RKQ1lUXzdsSkVZZXJoNFUycTdyOXRnbldDRnhxeURwS01Fag?oc=5)
-
-- Source / 来源: Fox News. Published: `2026-08-03T22:40:14+00:00`.
-- Keywords / 关键词: nationwide, power, caribbean, american, citizens, failure, prepare, island, warned, hits
-- 中文关键词: 全国、电力、加勒比海、美国人、公民、失败、准备、岛、警告、点击数
+- Source / 来源: Axios. Published: `2026-08-05T02:01:18+00:00`.
+- Keywords / 关键词: deal, hormuz, wednesday, announcement, aiming, nears, axios, trump, iran, reopen
+- 中文关键词: 交易、霍尔木兹、周三、公告、瞄准、接近、轴、特朗普、伊朗、重新开放
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Nationwide power failure hits Caribbean island as American citizens warned to prepare Fox News Cubans sleep on seaside boardwalk to seek relief from crippling blackouts and summer heat AP News ‘To play God’: Cuba’s healthcare system collapses under US pressure Al Jazeera Cuba plunges into darkness as electric grid collapses NBC News Storms disrupt Cuba’s power restoration, operator says, less than a day after sixth nationwide blackout CNN
-- RSS 中文摘要: 加勒比岛屿全国停电，美国公民警告做好准备 福克斯新闻 古巴人睡在海边木板路上，寻求缓解严重的停电和夏季炎热 美联社新闻 “扮演上帝”：古巴的医疗保健系统在美国压力下崩溃 半岛电视台 古巴因电网崩溃而陷入黑暗 NBC 新闻 运营商表示，距离第六次全国停电不到一天，风暴扰乱了古巴的电力恢复 CNN
+- RSS Excerpt / RSS 摘要: U.S. nears Hormuz deal, aiming for Wednesday announcement Axios US and Iran having 'very good discussions', Trump says Reuters U.S. Stocks Jump as Bessent Says Iran Deal May Be Days Away WSJ An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump The New York Times Trump says deal to reopen Strait of Hormuz could come as early as Wednesday The Seattle Times
+- RSS 中文摘要: 美国接近霍尔木兹海峡协议，目标是周三宣布 特朗普表示，Axios 美国和伊朗进行了“非常好的讨论” 路透 美国股市上涨，因为贝森特表示伊朗协议可能还需要几天时间 华尔街日报 伊朗和阿曼之间重新开放霍尔木兹海峡的新协议将会让特朗普付出代价 纽约时报 特朗普表示，重新开放霍尔木兹海峡的协议最早可能于周三达成 西雅图时报
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: nationwide, power, caribbean, american, and citizens. The available excerpt says: Nationwide power failure hits Caribbean island as American citizens warned to prepare Fox News Cubans sleep on seaside boardwalk to seek relief from crippling blackouts and summer heat AP News ‘To play God’: Cuba’s healthcare system collapses under US pressure Al Jazeera Cuba plunges into darkness as electric grid collapses NBC News Storms disrupt Cuba’s power restoration, operator says, less than a day after sixth nationwide blackout CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：全国、电力、加勒比海、美国人、公民。RSS 中文摘要显示：加勒比岛屿全国停电，美国公民警告做好准备 福克斯新闻 古巴人睡在海边木板路上，寻求缓解严重的停电和夏季炎热 美联社新闻 “扮演上帝”：古巴的医疗保健系统在美国压力下崩溃 半岛电视台 古巴因电网崩溃而陷入黑暗 NBC 新闻 运营商表示，距离第六次全国停电不到一天，风暴扰乱了古巴的电力恢复 CNN 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: deal, hormuz, wednesday, announcement, and aiming. The available excerpt says: U.S. nears Hormuz deal, aiming for Wednesday announcement Axios US and Iran having 'very good discussions', Trump says Reuters U.S. Stocks Jump as Bessent Says Iran Deal May Be Days Away WSJ An Emerging Deal Between Iran and Oman to Reopen Hormuz Would Come at a Cost for Trump The New York Times Trump says deal to reopen Strait of Hormuz could come as early as Wednesday The Seattle Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：交易、霍尔木兹、周三、公告、瞄准。RSS 中文摘要显示：美国接近霍尔木兹海峡协议，目标是周三宣布 特朗普表示，Axios 美国和伊朗进行了“非常好的讨论” 路透 美国股市上涨，因为贝森特表示伊朗协议可能还需要几天时间 华尔街日报 伊朗和阿曼之间重新开放霍尔木兹海峡的新协议将会让特朗普付出代价 纽约时报 特朗普表示，重新开放霍尔木兹海峡的协议最早可能于周三达成 西雅图时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 8. [Live updates: Arson arrest made in connection to Washington wildfire as officials race to contain flames - CNN](https://news.google.com/rss/articles/CBMifEFVX3lxTE44VzlrYzNmRUZobWN6QndOZGJDY1dhcTlBSjZFUkhuY004TzdQSC1rak10N0xWQVJzZm53Z1Y2X0M1RUV2Tmgxd3RWV3FMR0ppN09zbExpMTlidThlZUNHYXpFcGNZQlV1bEtGQ0hKaHk0ZVNON09LTlVVbGQ?oc=5)
+### 5. [Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed - AP News](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWlgtZDJKWkRiTWNwOFRhUzM2WGhhTlR4clFocEt4TGNEV0VLb0gtbDEzQmlYZkt3OFNyckJpQ1JPUzQyRUdFVDFjbWdyaXQwNGV5dUYzeXFocWF3UnNqTkpUVnhrX3RudkJ0R3lYVXR1MmwxazZ1ZzF5SDdlQWNsWVVlZVZYVzJJNUJxQnFjYS0tQ1VyaWR2QkJZQTRYSDVG?oc=5)
 
-- Source / 来源: CNN. Published: `2026-08-04T05:55:00+00:00`.
-- Keywords / 关键词: arson, connection, washington, wildfire, officials, updates, contain, arrest, flames, live
-- 中文关键词: 纵火、联系、华盛顿、野火、官员、更新、包含、逮捕、火焰、居住
+- Source / 来源: AP News. Published: `2026-08-05T00:58:00+00:00`.
+- Keywords / 关键词: hamas, gaza, withdrawal, netanyahu, israeli, completely, disarmed, until, plan, disarmament
+- 中文关键词: 哈马斯、加沙、提款、内塔尼亚胡、以色列、完全地、解除武装、直到、计划、裁军
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed AP News Trump and Netanyahu May Be at Odds Again Over Gaza Plan The New York Times Israel conveys concerns to the U.S. about Hamas disarmament deal NBC News Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms Al Jazeera U.S. Says Hamas Has Agreed to Broad Plan to Disarm WSJ
+- RSS 中文摘要: 内塔尼亚胡表示，在哈马斯完全解除武装之前，以色列不会从加沙撤军 美联社新闻 特朗普和内塔尼亚胡可能再次就加沙计划发生争执 《纽约时报》 以色列向美国转达了对哈马斯解除武装协议的担忧 NBC新闻 和平委员会表示，在哈马斯解除武装之前，以色列不会从加沙撤军 半岛电视台 美国称哈马斯已同意解除武装的广泛计划 华尔街日报
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: hamas, gaza, withdrawal, netanyahu, and israeli. The available excerpt says: Netanyahu says no Israeli withdrawal from Gaza until Hamas has been completely disarmed AP News Trump and Netanyahu May Be at Odds Again Over Gaza Plan The New York Times Israel conveys concerns to the U.S. about Hamas disarmament deal NBC News Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms Al Jazeera U.S. Says Hamas Has Agreed to Broad Plan to Disarm WSJ Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：哈马斯、加沙、提款、内塔尼亚胡、以色列。RSS 中文摘要显示：内塔尼亚胡表示，在哈马斯完全解除武装之前，以色列不会从加沙撤军 美联社新闻 特朗普和内塔尼亚胡可能再次就加沙计划发生争执 《纽约时报》 以色列向美国转达了对哈马斯解除武装协议的担忧 NBC新闻 和平委员会表示，在哈马斯解除武装之前，以色列不会从加沙撤军 半岛电视台 美国称哈马斯已同意解除武装的广泛计划 华尔街日报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 6. [Nearly 80% of interceptors for a key missile defense system depleted, sources say - CNN](https://news.google.com/rss/articles/CBMiggFBVV95cUxQZTYwajFVVUFzVk5nOTJndUdaU2MxRUJyR3B6enBuWk5sWnBUVEtmbFFBVjhZV2V4YjJsdHBLUkVsOFh1dFI4aGxrUUhHcEpKc05relRWWm42MEcybkZFTnlEOE1EM0d5alN1TzMyQ0hHNWRZYVFSZzBJRDNURWNVSzZB?oc=5)
+
+- Source / 来源: CNN. Published: `2026-08-04T19:50:57+00:00`.
+- Keywords / 关键词: sources, say, missile, nearly, interceptors, depleted, defense, system, key, iran
+- 中文关键词: 来源、说、导弹、几乎、拦截器、耗尽的、防御、系统、钥匙、伊朗
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Nearly 80% of interceptors for a key missile defense system depleted, sources say CNN EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say Reuters U.S. has used nearly all its stockpile of long-range missiles in Iran war, sources say CBS News Alarming missile report draws forceful response from Trump as Iran war tests America’s arsenal Fox News Why Is the U.S. Running So Low on Weapons? The Atlantic
+- RSS 中文摘要: 消息人士称，关键导弹防御系统近 80% 的拦截器已耗尽。CNN 独家报道：消息人士称，美国在伊朗战争期间使用了“几乎所有”远程精确导弹。消息人士称，哥伦比亚广播公司新闻称，美国在伊朗战争中使用了几乎所有库存的远程导弹。随着伊朗战争考验美国的武库，令人震惊的导弹报告引起了特朗普的强烈回应。福克斯新闻 为什么美国的导弹储备如此之少？武器？大西洋报
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: sources, say, missile, nearly, and interceptors. The available excerpt says: Nearly 80% of interceptors for a key missile defense system depleted, sources say CNN EXCLUSIVE: US has used 'virtually all' of its long-range precision missiles during Iran war, sources say Reuters U.S. has used nearly all its stockpile of long-range missiles in Iran war, sources say CBS News Alarming missile report draws forceful response from Trump as Iran war tests America’s arsenal Fox News Why Is the U.S. Running So Low on Weapons? The Atlantic Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：来源、说、导弹、几乎、拦截器。RSS 中文摘要显示：消息人士称，关键导弹防御系统近 80% 的拦截器已耗尽。CNN 独家报道：消息人士称，美国在伊朗战争期间使用了“几乎所有”远程精确导弹。消息人士称，哥伦比亚广播公司新闻称，美国在伊朗战争中使用了几乎所有库存的远程导弹。随着伊朗战争考验美国的武库，令人震惊的导弹报告引起了特朗普的强烈回应。福克斯新闻 为什么美国的导弹储备如此之少？武器？大西洋报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [Runaway online rumors sparked frantic rush by migrants to the Spanish territory of Ceuta - NBC News](https://news.google.com/rss/articles/CBMimgFBVV95cUxNZkdmTzU0TVlyQVI2cWJIMWdIWDZQM3gyM1FMZ3hvZHhMRkZWTjd6aDlkNXVqZzk3QnNydnFBbFlPODdmT0xsQ1pkdUhfUjVKUWZjOTc3RHZHZ042T0pSY2ZnV0R5MUQ2S0I5d2owSGtxcDEwVDZ6bGhtQkxIcDJySEFEQUVrOERqS1ZEY0VRaVdxeG0yMXNjSnhB?oc=5)
+
+- Source / 来源: NBC News. Published: `2026-08-04T16:23:08+00:00`.
+- Keywords / 关键词: ceuta, rush, territory, migrants, runaway, sparked, frantic, spanish, online, rumors
+- 中文关键词: 休达、匆忙、领土、移民、逃跑、激发了、疯狂的、西班牙语、在线的、谣言
 - Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Live updates: Arson arrest made in connection to Washington wildfire as officials race to contain flames CNN Convicted felon arrested for arson in connection with Old Trails Fire KXLY.com Man accused of arson in the biggest of 3 major fires in Spokane, Washington NBC News Man in custody for allegedly starting Old Trails Fire KREM Arson suspect arrested in devastating Spokane wildfire The Seattle Times
-- RSS 中文摘要: 实时更新：与华盛顿山火有关的纵火犯被捕，官员们竞相控制火势 CNN 因与 Old Trails Fire 有关的纵火罪而被捕 KXLY.com 一名男子被指控在华盛顿州斯波坎 3 场重大火灾中最大的一场火灾中纵火 NBC 新闻 男子因涉嫌引发 Old Trails Fire 被拘留 KREM 纵火嫌疑人在毁灭性的斯波坎野火中被捕 西雅图时报
+- RSS Excerpt / RSS 摘要: Runaway online rumors sparked frantic rush by migrants to the Spanish territory of Ceuta NBC News Ceuta border rush: Loved ones in limbo over missing family members CNN Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones The Guardian Migrant Crisis Pits Spain’s Leader Against Critics Across Europe WSJ The viral videos that inspired tens of thousands to swim to Spain’s Ceuta Reuters
+- RSS 中文摘要: 网上离家出走的谣言引发了移民疯狂涌向西班牙休达领土 NBC新闻 休达边境热潮：亲人因失踪家人而陷入困境 CNN 摩洛哥数百人聚集在休达边境附近，焦急地等待失踪亲人 《卫报》移民危机让西班牙领导人与欧洲各地的批评者陷入困境 华尔街日报 这些病毒视频激励数万人游泳前往西班牙休达 路透社
 - EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
 - 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: arson, connection, washington, wildfire, and officials. The available excerpt says: Live updates: Arson arrest made in connection to Washington wildfire as officials race to contain flames CNN Convicted felon arrested for arson in connection with Old Trails Fire KXLY.com Man accused of arson in the biggest of 3 major fires in Spokane, Washington NBC News Man in custody for allegedly starting Old Trails Fire KREM Arson suspect arrested in devastating Spokane wildfire The Seattle Times Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：纵火、联系、华盛顿、野火、官员。RSS 中文摘要显示：实时更新：与华盛顿山火有关的纵火犯被捕，官员们竞相控制火势 CNN 因与 Old Trails Fire 有关的纵火罪而被捕 KXLY.com 一名男子被指控在华盛顿州斯波坎 3 场重大火灾中最大的一场火灾中纵火 NBC 新闻 男子因涉嫌引发 Old Trails Fire 被拘留 KREM 纵火嫌疑人在毁灭性的斯波坎野火中被捕 西雅图时报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN Detailed Reading: Key signals: ceuta, rush, territory, migrants, and runaway. The available excerpt says: Runaway online rumors sparked frantic rush by migrants to the Spanish territory of Ceuta NBC News Ceuta border rush: Loved ones in limbo over missing family members CNN Hundreds in Morocco gather near Ceuta border in anxious wait for missing loved ones The Guardian Migrant Crisis Pits Spain’s Leader Against Critics Across Europe WSJ The viral videos that inspired tens of thousands to swim to Spain’s Ceuta Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：休达、匆忙、领土、移民、逃跑。RSS 中文摘要显示：网上离家出走的谣言引发了移民疯狂涌向西班牙休达领土 NBC新闻 休达边境热潮：亲人因失踪家人而陷入困境 CNN 摩洛哥数百人聚集在休达边境附近，焦急地等待失踪亲人 《卫报》移民危机让西班牙领导人与欧洲各地的批评者陷入困境 华尔街日报 这些病毒视频激励数万人游泳前往西班牙休达 路透社 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
 - EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
 - 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 9. [Board of Peace appears to shift terms for IDF pullback after meeting PM; Gaza airstrike reported - The Times of Israel](https://news.google.com/rss/articles/CBMixAFBVV95cUxOU05WUklmNl90VjJVaW42SVhZOFVNZlBYNjgwOS1URTNDYklwVHFzY19TZFNDekxZcW93ZWFFOW5aMHZHMkNTV0NNTC1PTlBFQzg2MVB0X3ZFZUxSdlBpekp5SG9CZ0VEaHBsUjd1MGNQdHpvZ2ZKUHhFQUstdDJBVEYtbTVDZndTLUoxR25zTEl6czFkYnh4VjlLa0F5RlY4WnRWTDhaLWg1ZUhQcUhBRzFhVFRpVF9EajZmWTc2T3JJZEVl0gHKAUFVX3lxTE9weGQyX1czTzBRaEhMVzFQMndJSi1hZVJtMHc0NnZCWlJFQXU4X0JVTUo0UmpXTWZheFEtcnd3NkQ1aFFlNlhjQlFUaTJmNHFsTzFkc2FmdHNXbXY3WnZPN1pXQ1h0dWNpdGZWMW1UeV9KWUI0VEgyckd5VURLLWpnRC1qdUlrbGtVRTc5OHNiQVg2YkpJOWFicmZveU42ZUhPdlBRYmRVUGkxaFNuN1JKYzYzeDQyQ2VEN1d0THRZU1dRdFM1S2Jwa0E?oc=5)
+### 8. [Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ETGRxSXFTQzB5X1c1SUlQWkR3NEw2bkF6dFJJeFJ6TmU2UlhvU1FBRkRQZjhnRFFla1B6NUZFOW1MRlhEb3hUUWFjeEhpZU1LNURPWFJWTjVkdw?oc=5)
 
-- Source / 来源: The Times of Israel. Published: `2026-08-04T02:19:51+00:00`.
-- Keywords / 关键词: israel, gaza, peace, airstrike, pullback, reported, appears, meeting, board, shift
-- 中文关键词: 以色列、加沙、和平、空袭、拉回、报道、出现、会议、木板、转移
+- Source / 来源: BBC. Published: `2026-08-04T17:26:06+00:00`.
+- Keywords / 关键词: ukrainian, russian, chasing, safari, vendor, attack, video, shows, drone, human
+- 中文关键词: 乌克兰、俄罗斯、追逐、游猎、小贩、袭击、视频、节目、无人机、人类
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Board of Peace appears to shift terms for IDF pullback after meeting PM; Gaza airstrike reported The Times of Israel Israel’s response to Trump’s Gaza peace plan: Silence from Netanyahu and a weekend of deadly strikes CNN After deadly day, Gazans say Trump's touting of plan jars with grim reality Reuters Israel conveys concerns to the U.S. about Hamas disarmament deal NBC News Trump and Netanyahu May Be at Odds Again Over Gaza Plan The New York Times
-- RSS 中文摘要: 与总理会面后，和平委员会似乎改变了以色列国防军撤军的条款；加沙空袭报道 以色列时报 以色列对特朗普加沙和平计划的回应：内塔尼亚胡的沉默和致命袭击的周末 CNN 致命一天之后，加沙人表示特朗普对计划的吹捧与严峻的现实相悖 路透社 以色列向美国转达了对哈马斯裁军协议的担忧 NBC新闻 特朗普和内塔尼亚胡可能再次就加沙计划产生分歧 纽约时报
+- RSS Excerpt / RSS 摘要: Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack BBC See more headlines & perspectives on Google News
+- RSS 中文摘要: 视频显示俄罗斯无人机在“人类狩猎”攻击中追逐乌克兰街头小贩 BBC 在 Google 新闻上查看更多头条新闻和观点
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: israel, gaza, peace, airstrike, and pullback. The available excerpt says: Board of Peace appears to shift terms for IDF pullback after meeting PM; Gaza airstrike reported The Times of Israel Israel’s response to Trump’s Gaza peace plan: Silence from Netanyahu and a weekend of deadly strikes CNN After deadly day, Gazans say Trump's touting of plan jars with grim reality Reuters Israel conveys concerns to the U.S. about Hamas disarmament deal NBC News Trump and Netanyahu May Be at Odds Again Over Gaza Plan The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：以色列、加沙、和平、空袭、拉回。RSS 中文摘要显示：与总理会面后，和平委员会似乎改变了以色列国防军撤军的条款；加沙空袭报道 以色列时报 以色列对特朗普加沙和平计划的回应：内塔尼亚胡的沉默和致命袭击的周末 CNN 致命一天之后，加沙人表示特朗普对计划的吹捧与严峻的现实相悖 路透社 以色列向美国转达了对哈马斯裁军协议的担忧 NBC新闻 特朗普和内塔尼亚胡可能再次就加沙计划产生分歧 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: ukrainian, russian, chasing, safari, and vendor. The available excerpt says: Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack BBC See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：乌克兰、俄罗斯、追逐、游猎、小贩。RSS 中文摘要显示：视频显示俄罗斯无人机在“人类狩猎”攻击中追逐乌克兰街头小贩 BBC 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 10. [Drone Explodes on Russian Beach, Killing 7, Officials Say - The New York Times](https://news.google.com/rss/articles/CBMiigFBVV95cUxQbHIwRUdBWEhhd3Q1bnRWei1SeXVtYkdOUi1oS045TV9QbG1VVjhkOWdJVVV3ZmhKd0xXVFpaMDVsdGEzQWRyYklmTnNrRWJ6YUhTQjNmeWpGMEZ2Nk1YY1M5QWdoYWQwRjZDcUdFUkRmSGp4QnA0UElpTndDQ0JnMEprZTlWc0pqdUE?oc=5)
+### 9. [Did Russian air defenses bring down the Ukrainian drone that killed seven on a Black Sea beach? - Meduza](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUWtPX3doVmFZeXp2OElhYmNNTlk1XzRFVXV0b3ZNMWgxQmE3YjU2QXR4TmhGSDVwZDc1aldzbHZjdkt0c1JQb3hJMEhOYjdURGxMWVlWQUpHWmN2Q2w2WXMzT0tWT2VuWHRkNkZJOUplNGx2SGttaUdseHdta3phMUotMzN4VHFveVZxN0xWQUhZd3g1d0NRakh0OU1yRUlSWVd6Q2o4a0gyMWd3cHdEOURWOVVHUkdNdGRjRkdNQjBpd9IBxwFBVV95cUxPYXdTR2xYem5QOEJDai1WZERBUWE0UktPTWdSTVJvbVpaek00bVpBbG9Md0VpZGxnelFuaG9qUEdENVJDVlItMUtMbzFKTXN1TElpS1otM0JwdWZDSU1EdEs3Tk1XdWZmcWlKdHhNcGtIVVBvZmVkcERHUXFuWUVXQzhmTEJZd25pNVdrNzRvOTNvY1M4cHVCMnBKTFlTcGNPTDlkUUp3ekQ5bTU5dmRYNXF1RjE2UlFoeDBxb0RBbHRsanFoMDFz?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-08-04T01:55:27+00:00`.
-- Keywords / 关键词: drone, beach, russian, officials, explodes, killing, say, russia, killed, seven
-- 中文关键词: 无人机、海滩、俄罗斯、官员、爆炸、造成死亡、说、死亡、七
+- Source / 来源: Meduza. Published: `2026-08-04T09:36:00+00:00`.
+- Keywords / 关键词: russian, drone, beach, killed, ukrainian, seven, defenses, meduza, bring, black
+- 中文关键词: 俄罗斯、无人机、海滩、死亡、乌克兰、七、防御、海蜇、带来、黑色的
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Drone Explodes on Russian Beach, Killing 7, Officials Say The New York Times Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach BBC Ukraine drone attack kills seven at popular Russian Black Sea resort beach The Independent At least 27 killed as Russia and Ukraine trade heavy attacks Al Jazeera Russia says seven killed as Ukrainian drone hits crowded Russian beach CNN
-- RSS 中文摘要: 俄罗斯海滩发生无人机爆炸，造成 7 人死亡，官员称《纽约时报》 俄罗斯称，乌克兰无人机袭击繁忙海滩，造成 7 人死亡、40 人受伤 BBC 乌克兰无人机袭击俄罗斯热门黑海度假胜地海滩，造成 7 人死亡 《独立报》 俄罗斯和乌克兰猛烈袭击，造成至少 27 人死亡 半岛电视台 俄罗斯称，乌克兰无人机袭击拥挤的俄罗斯海滩，造成 7 人死亡 CNN
+- RSS Excerpt / RSS 摘要: Did Russian air defenses bring down the Ukrainian drone that killed seven on a Black Sea beach? Meduza Russia says seven killed as Ukrainian drone hits crowded Russian beach edition.cnn.com Video shows moment drone burst into fireball on Russian beach NBC News Drone Explodes on Russian Beach, Killing 7, Officials Say The New York Times Nine killed in escalating long-range strikes between Russia and Ukraine Al Jazeera
+- RSS 中文摘要: 俄罗斯防空系统是否击落了在黑海海滩造成七人死亡的乌克兰无人机？ Meduza Russia称，乌克兰无人机袭击拥挤的俄罗斯海滩，造成7人死亡 Edition.cnn.com 视频显示无人机在俄罗斯海滩上爆炸成火球的瞬间 NBC新闻 无人机在俄罗斯海滩爆炸，造成7人死亡，官员称《纽约时报》 俄罗斯和乌克兰之间不断升级的远程打击造成9人死亡
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: drone, beach, russian, officials, and explodes. The available excerpt says: Drone Explodes on Russian Beach, Killing 7, Officials Say The New York Times Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach BBC Ukraine drone attack kills seven at popular Russian Black Sea resort beach The Independent At least 27 killed as Russia and Ukraine trade heavy attacks Al Jazeera Russia says seven killed as Ukrainian drone hits crowded Russian beach CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：无人机、海滩、俄罗斯、官员、爆炸。RSS 中文摘要显示：俄罗斯海滩发生无人机爆炸，造成 7 人死亡，官员称《纽约时报》 俄罗斯称，乌克兰无人机袭击繁忙海滩，造成 7 人死亡、40 人受伤 BBC 乌克兰无人机袭击俄罗斯热门黑海度假胜地海滩，造成 7 人死亡 《独立报》 俄罗斯和乌克兰猛烈袭击，造成至少 27 人死亡 半岛电视台 俄罗斯称，乌克兰无人机袭击拥挤的俄罗斯海滩，造成 7 人死亡 CNN 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: russian, drone, beach, killed, and ukrainian. The available excerpt says: Did Russian air defenses bring down the Ukrainian drone that killed seven on a Black Sea beach? Meduza Russia says seven killed as Ukrainian drone hits crowded Russian beach edition.cnn.com Video shows moment drone burst into fireball on Russian beach NBC News Drone Explodes on Russian Beach, Killing 7, Officials Say The New York Times Nine killed in escalating long-range strikes between Russia and Ukraine Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：俄罗斯、无人机、海滩、死亡、乌克兰。RSS 中文摘要显示：俄罗斯防空系统是否击落了在黑海海滩造成七人死亡的乌克兰无人机？ Meduza Russia称，乌克兰无人机袭击拥挤的俄罗斯海滩，造成7人死亡 Edition.cnn.com 视频显示无人机在俄罗斯海滩上爆炸成火球的瞬间 NBC新闻 无人机在俄罗斯海滩爆炸，造成7人死亡，官员称《纽约时报》 俄罗斯和乌克兰之间不断升级的远程打击造成9人死亡 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [Cambridge professor who allegedly plagiarized his Ph.D also accused of falsely claiming he worked at 3 other schools - New York Post](https://news.google.com/rss/articles/CBMivwFBVV95cUxQbHdXNVpiMTd1WW5WNE43Z25XdkJNM2Q2SVZ0QXhXLW4tQ21MRmZVMlRiSnhmMzBBc1Uwako3ZWFTakk2T1pEcUE5U0RKVUVRNzhSUktTTTBKRENaQ1d0a1FOQjhHeF83WDNIVlVOOGM3TFg1UDVyVV8tYUZPSnV4NEIwbW5ibUVRRzExWnNfSUZjdy1wTGFzeUNWemxXTmFhZkZBOTBfZDBLSU5pOTlaQkd3RktWNEJZWVBndTNVWQ?oc=5)
+
+- Source / 来源: New York Post. Published: `2026-08-05T00:12:00+00:00`.
+- Keywords / 关键词: cambridge, professor, accused, plagiarized, allegedly, claiming, falsely, schools, worked, other
+- 中文关键词: 剑桥、教授、被告、抄袭的、据称、声称、错误地、学校、工作过、其他
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Cambridge professor who allegedly plagiarized his Ph.D also accused of falsely claiming he worked at 3 other schools New York Post Cambridge Professor Jason Arday’s Work Challenged Ahead of Book Launch The New York Times Playbooks, plagiarism and a pig’s head: new claims surrounding a star Cambridge professor The Guardian Jason Arday: I am not a liar, says star academic accused of plagiarism The Times Cambridge’s diversity poster boy faces questions over ‘miracle’ 600-mile run The Telegraph
+- RSS 中文摘要: 剑桥大学教授被指控抄袭其博士学位，还被指控谎称自己在另外三所学校工作过 《纽约邮报》 剑桥大学教授杰森·阿戴的工作在新书发行前受到挑战 《纽约时报》剧本、抄袭和猪头：围绕剑桥明星教授的新说法 《卫报》杰森·阿戴：明星学者被指控抄袭，称我不是骗子 《泰晤士报》剑桥多元化海报男孩面临“奇迹”质疑600 英里跑
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: cambridge, professor, accused, plagiarized, and allegedly. The available excerpt says: Cambridge professor who allegedly plagiarized his Ph.D also accused of falsely claiming he worked at 3 other schools New York Post Cambridge Professor Jason Arday’s Work Challenged Ahead of Book Launch The New York Times Playbooks, plagiarism and a pig’s head: new claims surrounding a star Cambridge professor The Guardian Jason Arday: I am not a liar, says star academic accused of plagiarism The Times Cambridge’s diversity poster boy faces questions over ‘miracle’ 600-mile run The Telegraph Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：剑桥、教授、被告、抄袭的、据称。RSS 中文摘要显示：剑桥大学教授被指控抄袭其博士学位，还被指控谎称自己在另外三所学校工作过 《纽约邮报》 剑桥大学教授杰森·阿戴的工作在新书发行前受到挑战 《纽约时报》剧本、抄袭和猪头：围绕剑桥明星教授的新说法 《卫报》杰森·阿戴：明星学者被指控抄袭，称我不是骗子 《泰晤士报》剑桥多元化海报男孩面临“奇迹”质疑600 英里跑 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
 
 
