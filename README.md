@@ -10,155 +10,155 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-08-09T04:58:54+00:00` UTC.
+Generated at `2026-08-10T05:20:51+00:00` UTC.
 
-### 1. [Iran says deal on Strait of Hormuz is close but not enough to open the waterway - Reuters](https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3lCSkcxU1lGMG5WLWZnQ3BPMzVqREVjajhDeUVndVBndkNPSklSaWV2RVM2a3FKcWhBMEwtcVRfbUgwNXZGMDNJUy1PU1NCVWszOG03N1RySFdMZlBrMTJ0SHo3bmc0MUt1V3pMb052UmxRSFg3cDhkY2VGR2hyMlRyMjBIYVBRajFwWkJOa05sMFhkUEZ1M3NuNjFRTURGS2pDSzBjOWNRSVlidXBPNnVWNlJ2U1VRMWxpQ2E1WWhzdw?oc=5)
+### 1. [Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxNSHJIQ1JLMkZjdHl3bWRsWlFvV0JHdWt2S2xvYU40dV90MDNpRHBqUWY1LS1uVGRKRnJsTko4TFhZOEJ3NHNlTzljSzQ4Mm9YN2JaQnA5R2dSak1sUDctRDd4T1dlUjZFMF9UelkyOFh1RllaMENfM2ZOcTg2bnlRZWszZ2JzeVRXLXYxVkxucHBFODlFU3BuSUFZei1LQndaY2RMZGl3ZFc5ZThCQVpvRUlVUk9idw?oc=5)
 
-- Source / 来源: Reuters. Published: `2026-08-08T22:54:58+00:00`.
-- Keywords / 关键词: iran, strait, hormuz, open, waterway, enough, close, deal, reopening, updates
-- 中文关键词: 伊朗、海峡、霍尔木兹、打开、水路、足够的、关闭、交易、重新开放、更新
+- Source / 来源: The Washington Post. Published: `2026-08-10T04:26:48+00:00`.
+- Keywords / 关键词: plan, rejects, gaza, netanyahu, hamas, trump-backed, disarmament, withdrawal, washington, israeli
+- 中文关键词: 计划、拒绝、加沙、内塔尼亚胡、哈马斯、特朗普支持的、裁军、提款、华盛顿、以色列
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Iran says deal on Strait of Hormuz is close but not enough to open the waterway Reuters Live updates: Tehran insists on US concessions before opening Strait of Hormuz CNN Iran issues demands for reopening of Hormuz France 24 Iran War Updates: Iran says strait won't open until the U.S. "corrects" behavior CBS News Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz The New York Times
-- RSS 中文摘要: 伊朗称霍尔木兹海峡协议已接近，但不足以开放水路 路透社实时更新：德黑兰在开放霍尔木兹海峡之前坚持要求美国让步 CNN 伊朗提出重新开放霍尔木兹海峡的要求 法国 24 伊朗战争更新：伊朗表示，除非美国“纠正”行为，否则该海峡不会开放 哥伦比亚广播公司新闻 伊朗提出要求清单，浇灭重新开放霍尔木兹海峡的希望 纽约时报
+- RSS Excerpt / RSS 摘要: Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal The Washington Post Israel Rejects Trump’s 15-Point Plan to Disarm Hamas The New York Times Netanyahu says Trump's new Gaza plan is unacceptable CNBC Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first NPR Blanche confirmed as attorney general and Israel rejects Trump’s Gaza plan: Weekend Rundown NBC News
+- RSS 中文摘要: 内塔尼亚胡拒绝特朗普支持的哈马斯解除武装、以色列撤军的加沙计划 华盛顿邮报 以色列拒绝特朗普解除哈马斯武装的 15 点计划 纽约时报 内塔尼亚胡表示特朗普的新加沙计划是不可接受的 CNBC 内塔尼亚胡拒绝特朗普的加沙和平计划，要求哈马斯解除第一个 NPR 布兰奇确认为总检察长的武装，以色列拒绝特朗普的加沙计划：周末简报 NBC 新闻
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, strait, hormuz, open, and waterway. The available excerpt says: Iran says deal on Strait of Hormuz is close but not enough to open the waterway Reuters Live updates: Tehran insists on US concessions before opening Strait of Hormuz CNN Iran issues demands for reopening of Hormuz France 24 Iran War Updates: Iran says strait won't open until the U.S. "corrects" behavior CBS News Iran Issues List of Demands, Dampening Hopes of Reopening Strait of Hormuz The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、海峡、霍尔木兹、打开、水路。RSS 中文摘要显示：伊朗称霍尔木兹海峡协议已接近，但不足以开放水路 路透社实时更新：德黑兰在开放霍尔木兹海峡之前坚持要求美国让步 CNN 伊朗提出重新开放霍尔木兹海峡的要求 法国 24 伊朗战争更新：伊朗表示，除非美国“纠正”行为，否则该海峡不会开放 哥伦比亚广播公司新闻 伊朗提出要求清单，浇灭重新开放霍尔木兹海峡的希望 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: plan, rejects, gaza, netanyahu, and hamas. The available excerpt says: Netanyahu rejects Trump-backed Gaza plan for Hamas disarmament, Israeli withdrawal The Washington Post Israel Rejects Trump’s 15-Point Plan to Disarm Hamas The New York Times Netanyahu says Trump's new Gaza plan is unacceptable CNBC Netanyahu rejects Trump's Gaza Peace Plan, demands Hamas disarm first NPR Blanche confirmed as attorney general and Israel rejects Trump’s Gaza plan: Weekend Rundown NBC News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：计划、拒绝、加沙、内塔尼亚胡、哈马斯。RSS 中文摘要显示：内塔尼亚胡拒绝特朗普支持的哈马斯解除武装、以色列撤军的加沙计划 华盛顿邮报 以色列拒绝特朗普解除哈马斯武装的 15 点计划 纽约时报 内塔尼亚胡表示特朗普的新加沙计划是不可接受的 CNBC 内塔尼亚胡拒绝特朗普的加沙和平计划，要求哈马斯解除第一个 NPR 布兰奇确认为总检察长的武装，以色列拒绝特朗普的加沙计划：周末简报 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 2. [Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks - AP News](https://news.google.com/rss/articles/CBMisgFBVV95cUxNS05uS1RyLUd6dmFHSkt1bUxJUzA2RnVrZlhwZDFJQmVrQ19wRmd2RFNJRWQ5RGVoZDRGeXlIWi1laXQySGUxaERfQkszMGdOVElVdmFfRDYzNWdrU2ppQU1DS2VULWtsUnNMTTZXMVAzV1VTdnMzaG5VLW1kMUlScndvenRpaVhGQUxVSFdmb1VqR2thZm15LVZoMlBSYTc0THFQV3RRLXJXaXdhb0V0UFhR?oc=5)
+### 2. [Oil Prices Climb and Stocks Dip on Stalemate in Iran War - The New York Times](https://news.google.com/rss/articles/CBMid0FVX3lxTE1kaTlzT0xuU3NDWGYwbjJOY3lfV3d2NXpJTWE1emo5VlpodXJkcTVRbmlKZ1dmVUdvcWJoSElKY2ZpbkxiTmlJcUhPSDJTeU1KT3prT3o3TFlfZklabE94TXBsYXV1dzUxYnRwWU9QYXdqeGxJRFIw?oc=5)
 
-- Source / 来源: AP News. Published: `2026-08-09T02:00:00+00:00`.
-- Keywords / 关键词: production, companies, pentagon, concerns, depleted, defense, weapons, pushes, stocks, boost
-- 中文关键词: 生产、公司、五角大楼、担忧、耗尽的、防御、武器、推动、股票、促进
-- Category / 分类: Economy and markets / 经济与市场
-- RSS Excerpt / RSS 摘要: Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks AP News See more headlines & perspectives on Google News
-- RSS 中文摘要: 在担心库存耗尽后，五角大楼敦促国防公司提高武器产量 美联社新闻 在 Google 新闻上查看更多头条新闻和观点
-- EN Summary: This story is tied to business conditions, financial expectations, or the cost of goods and capital.
-- 中文概要: 这条新闻与商业环境、金融预期或商品与资金成本相关。
-- EN Detailed Reading: Key signals: production, companies, pentagon, concerns, and depleted. The available excerpt says: Pentagon pushes defense companies to boost weapons production after concerns of depleted stocks AP News See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
-- 中文详细解读: 关键词信号：生产、公司、五角大楼、担忧、耗尽的。RSS 中文摘要显示：在担心库存耗尽后，五角大楼敦促国防公司提高武器产量 美联社新闻 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
-- EN What to watch: price movements; company and government guidance; second-round supply-chain effects
-- 后续关注: 价格变化；企业与政府指引；供应链二次影响
-
-### 3. [The Wild History of the Russian Online Retail Giant Being Bombarded by Ukraine - WSJ](https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ1FITkNGYWg1R0FfWlZmUGZiYThTN1BMTGlhMTdsdnpKekE0OGVpelBtWmE4Nm1mSlpTWi1RSmljSEcxWEVtOGRQejJETFl0aGVmNEltblU5QktiQktrcmoxQ0hnT3g3WHB2VWZiUkVUOUdXMzRpbGd2Y3FESVl2NnZJOEhZUlVhQzVqSVJSTDBFX1pqb3dFU2FYR3BZQ2dvWmFXcmpTZm9DZU9aNlFmOVdtVG9qNTRqTm4wUg?oc=5)
-
-- Source / 来源: WSJ. Published: `2026-08-08T23:31:26+00:00`.
-- Keywords / 关键词: ukraine, russian, retail, giant, bombarded, history, online, being, wild, wsj
-- 中文关键词: 乌克兰、俄罗斯、零售、巨大的、轰击、历史、在线的、存在、荒野、华尔街日报
+- Source / 来源: The New York Times. Published: `2026-08-09T22:19:18+00:00`.
+- Keywords / 关键词: iran, prices, climb, oil, stalemate, stocks, hormuz, dip, war, demands
+- 中文关键词: 伊朗、价格、爬、石油、僵局、股票、霍尔木兹、蘸、战争、需求
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: The Wild History of the Russian Online Retail Giant Being Bombarded by Ukraine WSJ As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet The New York Times Ukrainian attacks on Wildberries strike at heart of Russia Inc Reuters Ukraine war briefing: Wildberries warehouse struck by Kyiv’s drones more than 2,000km from Russian border The Guardian A Russian retail giant’s warehouse burns after Ukraine’s latest long-range drone attack AP News
-- RSS 中文摘要: 俄罗斯在线零售巨头遭到乌克兰轰炸的狂野历史 《华尔街日报》乌克兰袭击 Wildberry，俄罗斯最富有的女商人面临迄今为止最大的考验 《纽约时报》 乌克兰对 Wildberry 的袭击袭击了俄罗斯公司的中心 路透社 乌克兰战争简报：距俄罗斯边境 2000 多公里的基辅无人机袭击了 Wildberry 仓库 卫报 乌克兰最新的远程无人机袭击后，俄罗斯零售巨头的仓库被烧毁 美联社新闻
+- RSS Excerpt / RSS 摘要: Oil Prices Climb and Stocks Dip on Stalemate in Iran War The New York Times Iran, Holding Firm to Hormuz, Pushes for Return to June MOU The New York Times Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz Al Jazeera Iran ties Hormuz reopening to US concessions on several demands Reuters Former Trump Defense Secretary Mark Esper calls Iran's demands for fully reopening Strait of Hormuz 'ridiculous' ABC News - Breaking News, Latest News and Videos
+- RSS 中文摘要: 伊朗战争陷入僵局，油价攀升，股市下跌 《纽约时报》 伊朗坚守霍尔木兹海峡，推动恢复 6 月谅解备忘录 《纽约时报》 伊朗要求霍尔木兹海峡前景不明朗 油价攀升和视频
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: ukraine, russian, retail, giant, and bombarded. The available excerpt says: The Wild History of the Russian Online Retail Giant Being Bombarded by Ukraine WSJ As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet The New York Times Ukrainian attacks on Wildberries strike at heart of Russia Inc Reuters Ukraine war briefing: Wildberries warehouse struck by Kyiv’s drones more than 2,000km from Russian border The Guardian A Russian retail giant’s warehouse burns after Ukraine’s latest long-range drone attack AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：乌克兰、俄罗斯、零售、巨大的、轰击。RSS 中文摘要显示：俄罗斯在线零售巨头遭到乌克兰轰炸的狂野历史 《华尔街日报》乌克兰袭击 Wildberry，俄罗斯最富有的女商人面临迄今为止最大的考验 《纽约时报》 乌克兰对 Wildberry 的袭击袭击了俄罗斯公司的中心 路透社 乌克兰战争简报：距俄罗斯边境 2000 多公里的基辅无人机袭击了 Wildberry 仓库 卫报 乌克兰最新的远程无人机袭击后，俄罗斯零售巨头的仓库被烧毁 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, prices, climb, oil, and stalemate. The available excerpt says: Oil Prices Climb and Stocks Dip on Stalemate in Iran War The New York Times Iran, Holding Firm to Hormuz, Pushes for Return to June MOU The New York Times Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz Al Jazeera Iran ties Hormuz reopening to US concessions on several demands Reuters Former Trump Defense Secretary Mark Esper calls Iran's demands for fully reopening Strait of Hormuz 'ridiculous' ABC News - Breaking News, Latest News and Videos Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、价格、爬、石油、僵局。RSS 中文摘要显示：伊朗战争陷入僵局，油价攀升，股市下跌 《纽约时报》 伊朗坚守霍尔木兹海峡，推动恢复 6 月谅解备忘录 《纽约时报》 伊朗要求霍尔木兹海峡前景不明朗 油价攀升和视频 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 4. [Dems blast Blanche as enabler of ‘Trump’s corruption’ after AG confirmation - The Hill](https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3NIUlkzWUlFSl81MHNjQUFKQkFiQk12VmNTRHhJcTE1YUoxa2Y0OU03dG5GcTVlNjM5Y2N6S3NfZF9xUkp0ekxOMVBpTm1GU0dDOFFhdUVKU3RKSHJzSEtmeFFETTR3UmJlbGRCMlBiU2pYRUdJWVJybzJCM05Vaks4Z1MxbHBhNHfSAY8BQVVfeXFMUDlyLVlYTXBFRzN4VFdRT1BYbk8xQ3prWXpVUVI1cU14aTQ1MzZKb2FCdWlweFlFWmp6SWtUNXJPSDFxU29oODFlcnNwOWlnQ2MzNUZWV2NZNXcxbjZ6MVZXdDViZ3ZaY01Ca29MM2JGdHVuSjAxTmd0NnRKNmU4Z3c2T1dOX2FwTXBvZnpzUzA?oc=5)
+### 3. [Alleged cartel boss Daniel Kinahan charged in Ireland amid heavy security - Al Jazeera](https://news.google.com/rss/articles/CBMiswFBVV95cUxOelI2QVM2ZHJGRUtzRW12a1hqcFlXNTJEVVFpRnJTRDc5SlVmeXRZVzd2MVNITGVjZjV2MWJweHcxMjdqQWhvVnBjXzdKb1FpaDNqVFFlR0hxRkhJbmRaUEdaSDZkUi1Ha3RYVTY0WTNEa1o3LUtFNHozV2RwS1dPbWwwWkgtdWxIZ1hiR0ZER2R3dUEtR1NkVTF2dUJNQ0lBUUJLaG1Ib1k0WnZVdk5tTGMtb9IBuAFBVV95cUxNMlhTcTN1UkU0emZIdWo4ZjFWWkJVWk1JRzFob016aXJWUHNUNGdSRTdldGVMd3hCQ1luR1Z1T1pSQ0tkM0V4eWlfQUVIcjRSbEdfNmd6M04ySmtwVFdpNHdLc1hhaTJldnJXZWNGQk1Kajc5MHF3bUVHZ3d6VkdzTXFyX1ItaVV3UlhUVUktbFc0ZTlzaDRmOUZNYV9GOHBJV3p1eWJwNnpsZ3VZN0ZObDh6bGVJR3J6?oc=5)
 
-- Source / 来源: The Hill. Published: `2026-08-08T19:45:00+00:00`.
-- Keywords / 关键词: blanche, trump, confirmation, corruption, enabler, blast, dems, hill, justice, breathtaking
-- 中文关键词: 布兰奇、特朗普、确认、腐败、推动者、爆炸、民主党、爬坡道、正义、惊险
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Dems blast Blanche as enabler of ‘Trump’s corruption’ after AG confirmation The Hill Blanche set to lead a Justice Department shaped to serve Trump CNN In Confirming Blanche, Senators Endorse a Justice Dept. Under Trump’s Sway The New York Times Blanche confirmation allows Trump to continue ‘pervasive, breathtaking corruption’, says Schumer – as it happened The Guardian The Senate’s Shameful Acquiescence to Todd Blanche as Attorney General The New Yorker
-- RSS 中文摘要: 总检察长确认后，民主党抨击布兰奇是“特朗普腐败”的推动者 希尔布兰奇将领导一个为特朗普服务的司法部 CNN 在确认布兰奇时，参议员们认可司法部。在特朗普的影响下 纽约时报 舒默表示，布兰奇的确认允许特朗普继续“普遍、令人震惊的腐败” - 正如它所发生的那样 参议院对托德·布兰奇担任总检察长的可耻默认
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: blanche, trump, confirmation, corruption, and enabler. The available excerpt says: Dems blast Blanche as enabler of ‘Trump’s corruption’ after AG confirmation The Hill Blanche set to lead a Justice Department shaped to serve Trump CNN In Confirming Blanche, Senators Endorse a Justice Dept. Under Trump’s Sway The New York Times Blanche confirmation allows Trump to continue ‘pervasive, breathtaking corruption’, says Schumer – as it happened The Guardian The Senate’s Shameful Acquiescence to Todd Blanche as Attorney General The New Yorker Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：布兰奇、特朗普、确认、腐败、推动者。RSS 中文摘要显示：总检察长确认后，民主党抨击布兰奇是“特朗普腐败”的推动者 希尔布兰奇将领导一个为特朗普服务的司法部 CNN 在确认布兰奇时，参议员们认可司法部。在特朗普的影响下 纽约时报 舒默表示，布兰奇的确认允许特朗普继续“普遍、令人震惊的腐败” - 正如它所发生的那样 参议院对托德·布兰奇担任总检察长的可耻默认 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 5. [Yemen’s government forces attack Houthis amid renewed shelling of Marib - Al Jazeera](https://news.google.com/rss/articles/CBMirwFBVV95cUxQY1AzREREQzR3M0QwQzdkemNKOV9YQ3V5aFhZcllaMGNWaE1TV0VlVnFiUkltT0FMX1BJYmU4VDFMcUxCZ3FBSWFjYy1CeG1QYXZVUHZRaFRZYnR3a01JOFVjejh4U0liN1Y2V2dvUEpCWDNJbkVjaUlmVDFCQkRCdkJrMWJsYndDTENqN0x3cUQ2V1V2ZjJFc1VWYjJBSTBoRG52THVNbEdFYVgwVTZj0gG0AUFVX3lxTE5hS184eDhSSlIzenRlR25Fcy1ZNmQ1b3J6eEY0SHhycFBCVEFIdEdhdlFycFFhSGFPWlU4enZWT1AtdVJRTV8xdnpMU2F3VEhXQThkanhGQXdKQ2dhLUhMYThFRUpkWV9pSzFBb2dHRmNPMUlqWnJ4VDZvT1FtbEZ6WUdDSlZLOG1zZ29BNkNZTGJYVl9RM2JpV2JyWU03WWFscGpoM2FZMWplQjMwaURUUERKSg?oc=5)
-
-- Source / 来源: Al Jazeera. Published: `2026-08-08T18:46:26+00:00`.
-- Keywords / 关键词: yemen, houthis, jazeera, marib, government, shelling, renewed, forces, attack, conflict
-- 中文关键词: 也门、胡塞武装、半岛电视台、马里布、政府、炮击、更新的、力量、袭击、冲突
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Yemen’s government forces attack Houthis amid renewed shelling of Marib Al Jazeera Yemen Teeters on Civil War as Regional Stability Hangs in the Balance The New York Times Houthis strike Marib again as U.N. warns Yemen nearing wider conflict NBC News Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know Al Jazeera As Hormuz Talks Inch Towards Finish Line, Conflict Heats Up in Yemen The Maritime Executive
-- RSS 中文摘要: 也门政府军再次炮击马里布 半岛电视台 地区稳定岌岌可危 也门陷入内战摇摇欲坠 《纽约时报》 胡塞武装再次袭击马里布，联合国警告也门接近更广泛的冲突 NBC新闻 胡塞武装在也门发动袭击，沙特阿拉伯做好了准备：我们所知道的 半岛电视台 随着霍尔木兹海峡谈判逐渐接近终点线，也门冲突加剧
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: yemen, houthis, jazeera, marib, and government. The available excerpt says: Yemen’s government forces attack Houthis amid renewed shelling of Marib Al Jazeera Yemen Teeters on Civil War as Regional Stability Hangs in the Balance The New York Times Houthis strike Marib again as U.N. warns Yemen nearing wider conflict NBC News Houthi strikes in Yemen as Saudi Arabia braces for attacks: What we know Al Jazeera As Hormuz Talks Inch Towards Finish Line, Conflict Heats Up in Yemen The Maritime Executive Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：也门、胡塞武装、半岛电视台、马里布、政府。RSS 中文摘要显示：也门政府军再次炮击马里布 半岛电视台 地区稳定岌岌可危 也门陷入内战摇摇欲坠 《纽约时报》 胡塞武装再次袭击马里布，联合国警告也门接近更广泛的冲突 NBC新闻 胡塞武装在也门发动袭击，沙特阿拉伯做好了准备：我们所知道的 半岛电视台 随着霍尔木兹海峡谈判逐渐接近终点线，也门冲突加剧 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 6. [Hunter Biden Says His Father’s Cancer Is Worsening - The New York Times](https://news.google.com/rss/articles/CBMiowFBVV95cUxPNS1uT1J2NkhyR0hTSElTSy1FSnZnS3JzUUNvaUV5N2M3TjlPUWJCVWFEVG81emlyOHlhc3A3b0hRSmtseDVOM2NSRmhVTWJ1SjZibXJtcnpMTC0yZ2hPOUlOTEhWYjJWaFFlQUxfVEZ2LTVyMHBHNU5iTS1Gd0loNm9aM0tZWVNYbkF4MlRod1FCOEFCNUVCdmZYemlJTUZMUS1v?oc=5)
-
-- Source / 来源: The New York Times. Published: `2026-08-08T22:07:48+00:00`.
-- Keywords / 关键词: cancer, biden, hunter, his, worsening, father, joe, prostate, biden's, spread
-- 中文关键词: 癌症、拜登、猎人、他的、恶化、父亲、乔、前列腺、拜登的、传播
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Hunter Biden Says His Father’s Cancer Is Worsening The New York Times Hunter Biden says pardon was 'not good' for US or his father's legacy BBC Chester County doctor explains prostate cancer spread as Joe Biden's health worsens, son says CBS News Ex-President Joe Biden's cancer has spread, is very painful, son says Reuters Joe Biden’s prostate cancer getting worse, Hunter Biden says CNN
-- RSS 中文摘要: 亨特·拜登说他父亲的癌症正在恶化 《纽约时报》 亨特·拜登说，赦免对美国或他父亲的遗产“都不好” BBC切斯特县医生解释说，随着乔·拜登的健康状况恶化，前列腺癌扩散，儿子说哥伦比亚广播公司新闻 前总统乔·拜登的癌症已经扩散，非常痛苦，儿子说路透社 乔·拜登的前列腺癌越来越严重，亨特·拜登说 CNN
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: cancer, biden, hunter, his, and worsening. The available excerpt says: Hunter Biden Says His Father’s Cancer Is Worsening The New York Times Hunter Biden says pardon was 'not good' for US or his father's legacy BBC Chester County doctor explains prostate cancer spread as Joe Biden's health worsens, son says CBS News Ex-President Joe Biden's cancer has spread, is very painful, son says Reuters Joe Biden’s prostate cancer getting worse, Hunter Biden says CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：癌症、拜登、猎人、他的、恶化。RSS 中文摘要显示：亨特·拜登说他父亲的癌症正在恶化 《纽约时报》 亨特·拜登说，赦免对美国或他父亲的遗产“都不好” BBC切斯特县医生解释说，随着乔·拜登的健康状况恶化，前列腺癌扩散，儿子说哥伦比亚广播公司新闻 前总统乔·拜登的癌症已经扩散，非常痛苦，儿子说路透社 乔·拜登的前列腺癌越来越严重，亨特·拜登说 CNN 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 7. [Costa Rica's recently discovered "coffee frogs" sing in plantations, but pesticides threaten them - CBS News](https://news.google.com/rss/articles/CBMiekFVX3lxTE04YWpDcjNLekFHWkRHTUh2OGJxcEpIcVFWazBmVUlsZ2FoaGhHLXZkRVdHaFRxeWlXNWVDYmYwZDJlSlI4ODFCUndVN3IyakwyazhpY2lXVUtiel95OURYTGZvMjg1TE9CUktldnNneGN6Q3A0bFdWVVV3?oc=5)
-
-- Source / 来源: CBS News. Published: `2026-08-08T19:48:58+00:00`.
-- Keywords / 关键词: plantations, discovered, pesticides, recently, threaten, rica's, coffee, costa, frogs, sing
-- 中文关键词: 种植园、发现、杀虫剂、最近、威胁、里卡的、咖啡、科斯塔、青蛙、唱歌
-- Category / 分类: Global affairs / 全球事务
-- RSS Excerpt / RSS 摘要: Costa Rica's recently discovered "coffee frogs" sing in plantations, but pesticides threaten them CBS News See more headlines & perspectives on Google News
-- RSS 中文摘要: 哥斯达黎加最近发现的“咖啡蛙”在种植园里唱歌，但农药威胁着它们 CBS 新闻 在 Google 新闻上查看更多头条新闻和观点
-- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
-- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
-- EN Detailed Reading: Key signals: plantations, discovered, pesticides, recently, and threaten. The available excerpt says: Costa Rica's recently discovered "coffee frogs" sing in plantations, but pesticides threaten them CBS News See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文详细解读: 关键词信号：种植园、发现、杀虫剂、最近、威胁。RSS 中文摘要显示：哥斯达黎加最近发现的“咖啡蛙”在种植园里唱歌，但农药威胁着它们 CBS 新闻 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
-- EN What to watch: follow-up reporting; official statements; regional or market reaction
-- 后续关注: 后续报道；官方声明；地区或市场反应
-
-### 8. [US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown - The Guardian](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFhQRTZQRThHZlhpTGJwRE5Db3pueVV5U2F1VEs2MU1VQkRKcGljT0JkMndGNk1HN1ZwU3NRaFRCSFRTTHh3LWVHNlk4LU5BRm11ZGhWMTd2Wnd1ei1LZUd2cUdTR0drRmc0NnNET1A4X1VaRTVKNU95VGxWV1QtUEs2amFMZ0NzWFZCRkRoX2tWZnZBVE9QUGR2M1hZUkxxRG01ZUd5cXdrR0FvT1lnM3ZMSEV6QWtNWFY0RjIyV1ppWGN4M011Nlp0Z2R5LWVST0FtWWh0TQ?oc=5)
-
-- Source / 来源: The Guardian. Published: `2026-08-09T03:19:00+00:00`.
-- Keywords / 关键词: colombia, president, security, pledges, rightwing, crackdown, promises, drugs, aid, trump
-- 中文关键词: 哥伦比亚、总统、安全、承诺、右翼、镇压、药物、援助、特朗普
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown The Guardian US offers $1bn to Colombia on new right-wing president's first day of office BBC From ‘The Lion’ to ‘The Tiger': Conservative Trump allies gain ground in Latin America AP News U.S. pledges $1 billion in security assistance to Colombia as new president vows to "defeat narco-terrorism" CBS News Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers The New York Times
-- RSS 中文摘要: 新右翼总统承诺打击毒品，美国承诺向哥伦比亚提供 10 亿美元安全援助 英国卫报 美国在新右翼总统上任第一天向哥伦比亚提供 10 亿美元 BBC 从“狮子”到“老虎”：保守派特朗普盟友在拉丁美洲取得进展 美联社新闻 美国承诺向哥伦比亚提供 10 亿美元安全援助，新总统发誓要“击败毒品恐怖主义” 哥伦比亚广播公司新闻 特朗普政府与哥伦比亚快速建立军事伙伴关系，打击毒贩纽约时报
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: colombia, president, security, pledges, and rightwing. The available excerpt says: US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown The Guardian US offers $1bn to Colombia on new right-wing president's first day of office BBC From ‘The Lion’ to ‘The Tiger': Conservative Trump allies gain ground in Latin America AP News U.S. pledges $1 billion in security assistance to Colombia as new president vows to "defeat narco-terrorism" CBS News Trump Administration Fast-Tracks Military Partnership With Colombia to Target Drug Traffickers The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：哥伦比亚、总统、安全、承诺、右翼。RSS 中文摘要显示：新右翼总统承诺打击毒品，美国承诺向哥伦比亚提供 10 亿美元安全援助 英国卫报 美国在新右翼总统上任第一天向哥伦比亚提供 10 亿美元 BBC 从“狮子”到“老虎”：保守派特朗普盟友在拉丁美洲取得进展 美联社新闻 美国承诺向哥伦比亚提供 10 亿美元安全援助，新总统发誓要“击败毒品恐怖主义” 哥伦比亚广播公司新闻 特朗普政府与哥伦比亚快速建立军事伙伴关系，打击毒贩纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 9. [Scale of devastation shocks US city's fire-seasoned residents - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtNkFFdG1RenhnNGk2SW5ZbTluY18xZWxpeS1xczNzNENtUEgycUlMSU4tUVpzZVBDYXRrNm1pTGs2U1V4Z2FMM21CNnBzWWhlUVBVd2taTHpxdw?oc=5)
-
-- Source / 来源: BBC. Published: `2026-08-08T00:51:16+00:00`.
-- Keywords / 关键词: fire-seasoned, devastation, residents, shocks, city's, scale, spokane, fires, catastrophic, apocalyptic
-- 中文关键词: 经过火调味的、破坏、居民、冲击、城市的、规模、斯波坎、火灾、灾难性的、世界末日的
+- Source / 来源: Al Jazeera. Published: `2026-08-09T21:50:40+00:00`.
+- Keywords / 关键词: kinahan, boss, alleged, daniel, ireland, security, charged, jazeera, cartel, heavy
+- 中文关键词: 基纳汉、老板、据称、丹尼尔、爱尔兰、安全、带电、半岛电视台、卡特尔、重的
 - Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Scale of devastation shocks US city's fire-seasoned residents BBC 'It's apocalyptic.' A look at the aftermath of catastrophic fires in Spokane KUOW Opinion | My Hometown Went Up in Flames. It Won’t Be the Last. The New York Times Wildfires in urban areas are more common. That may have helped Spokane NPR Forest Service explains dangers behind evacuation lines for Spokane Fires khq.com
-- RSS 中文摘要: 破坏规模震惊了美国城市经历过火灾的居民 BBC “这是世界末日。”斯波坎灾难性火灾的后果一览我的家乡陷入战火。这不会是最后一次。纽约时报 城市地区的山火更为常见。这可能有助于斯波坎 NPR 林务局解释斯波坎火灾疏散线后面的危险 khq.com
+- RSS Excerpt / RSS 摘要: Alleged cartel boss Daniel Kinahan charged in Ireland amid heavy security Al Jazeera UAE extradites alleged Irish crime gang boss Daniel Kinahan CNN Suspected crime boss Daniel Kinahan appears in court after extradition BBC Alleged crime boss, ex-boxing promoter Kinahan extradited ESPN Organized Crime Suspect Is Back in Ireland After Extradition From U.A.E. The New York Times
+- RSS 中文摘要: 被指控的贩毒集团老大丹尼尔·基纳汉 (Daniel Kinahan) 在爱尔兰戒备森严的情况下受到指控 半岛电视台阿联酋引渡了被指控的爱尔兰犯罪团伙老大丹尼尔·基纳汉 (Daniel Kinahan) CNN 疑似犯罪团伙老大丹尼尔·基纳汉 (Daniel Kinahan) 引渡后出庭 BBC 被指控的犯罪老大、前拳击推广人基纳汉 (Kinahan) 被引渡 ESPN 有组织犯罪嫌疑人在从阿联酋引渡后返回爱尔兰纽约时报
 - EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
 - 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: fire-seasoned, devastation, residents, shocks, and city's. The available excerpt says: Scale of devastation shocks US city's fire-seasoned residents BBC 'It's apocalyptic.' A look at the aftermath of catastrophic fires in Spokane KUOW Opinion | My Hometown Went Up in Flames. It Won’t Be the Last. The New York Times Wildfires in urban areas are more common. That may have helped Spokane NPR Forest Service explains dangers behind evacuation lines for Spokane Fires khq.com Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：经过火调味的、破坏、居民、冲击、城市的。RSS 中文摘要显示：破坏规模震惊了美国城市经历过火灾的居民 BBC “这是世界末日。”斯波坎灾难性火灾的后果一览我的家乡陷入战火。这不会是最后一次。纽约时报 城市地区的山火更为常见。这可能有助于斯波坎 NPR 林务局解释斯波坎火灾疏散线后面的危险 khq.com 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN Detailed Reading: Key signals: kinahan, boss, alleged, daniel, and ireland. The available excerpt says: Alleged cartel boss Daniel Kinahan charged in Ireland amid heavy security Al Jazeera UAE extradites alleged Irish crime gang boss Daniel Kinahan CNN Suspected crime boss Daniel Kinahan appears in court after extradition BBC Alleged crime boss, ex-boxing promoter Kinahan extradited ESPN Organized Crime Suspect Is Back in Ireland After Extradition From U.A.E. The New York Times Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：基纳汉、老板、据称、丹尼尔、爱尔兰。RSS 中文摘要显示：被指控的贩毒集团老大丹尼尔·基纳汉 (Daniel Kinahan) 在爱尔兰戒备森严的情况下受到指控 半岛电视台阿联酋引渡了被指控的爱尔兰犯罪团伙老大丹尼尔·基纳汉 (Daniel Kinahan) CNN 疑似犯罪团伙老大丹尼尔·基纳汉 (Daniel Kinahan) 引渡后出庭 BBC 被指控的犯罪老大、前拳击推广人基纳汉 (Kinahan) 被引渡 ESPN 有组织犯罪嫌疑人在从阿联酋引渡后返回爱尔兰纽约时报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
 - EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
 - 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 10. [Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help. - WSJ](https://news.google.com/rss/articles/CBMicEFVX3lxTE1EYXVmUnZrUE9mb3VibFV0Y1l2V3B3QzlDV053NzhzYjBUWjNUNjNGUGMxZ093dWlzUXFLUHpSZF9ma1ZHUE5fLWlYdGpYVmdiY1ZHWFE2ZHFTdzRKMXVMc2o2bElFTXNLenVTR3NqX2Q?oc=5)
+### 4. [Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap - Bloomberg.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxPcE9CeWQ3UUhJR3ZMYjlnV1JmT0ZYV3NLWUc2UG82SnNwS0ZtelczaFNDa25xaDB1cG5FTWdfdl8yVEFLOUc0RnBCbjBkTURvcEs3SUloSHRaemE0c0gxbTdtZlNvT2lnY1dQSTctWVY2V1E1RHZZZEhTUDNIRUs4bFFIUWNtWTdkRklJdWZvcWJiS1pN?oc=5)
 
-- Source / 来源: WSJ. Published: `2026-08-09T02:01:22+00:00`.
-- Keywords / 关键词: solar, china, cuba, counting, help, low, oil, wsj, delivers, donation
-- 中文关键词: 太阳的、中国、古巴、计数、帮助、低的、石油、华尔街日报、交付、捐款
+- Source / 来源: Bloomberg.com. Published: `2026-08-10T01:06:00+00:00`.
+- Keywords / 关键词: hormuz, oil, extends, remains, elusive, markets, gains, deal, wrap, com
+- 中文关键词: 霍尔木兹、石油、延伸、遗迹、难以捉摸的、市场、收益、交易、裹、com
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help. WSJ China Delivers Second 5,000‑Solar‑System Donation to Cuba Amid Energy Crisis teleSUR English
-- RSS 中文摘要: 古巴石油资源匮乏。现在，它在中国的帮助下依靠太阳能。华尔街日报 中国在能源危机中向古巴捐赠第二套 5,000 太阳能系统 teleSUR 中文
+- RSS Excerpt / RSS 摘要: Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap Bloomberg.com Iran, Holding Firm to Hormuz, Pushes for Return to June MOU The New York Times Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz Al Jazeera Iran ties Hormuz reopening to US concessions on several demands Reuters Former Trump Defense Secretary Mark Esper calls Iran's demands for fully reopening Strait of Hormuz 'ridiculous' ABC News - Breaking News, Latest News and Videos
+- RSS 中文摘要: 霍尔木兹海峡协议仍难以捉摸，油价上涨：市场收盘 伊朗坚守霍尔木兹海峡，推动恢复 6 月谅解备忘录 《纽约时报》 伊朗要求霍尔木兹海峡前景不明朗 油价攀升新闻、最新新闻和视频
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: solar, china, cuba, counting, and help. The available excerpt says: Cuba Is Low on Oil. Now, It’s Counting on Solar, With China’s Help. WSJ China Delivers Second 5,000‑Solar‑System Donation to Cuba Amid Energy Crisis teleSUR English Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：太阳的、中国、古巴、计数、帮助。RSS 中文摘要显示：古巴石油资源匮乏。现在，它在中国的帮助下依靠太阳能。华尔街日报 中国在能源危机中向古巴捐赠第二套 5,000 太阳能系统 teleSUR 中文 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: hormuz, oil, extends, remains, and elusive. The available excerpt says: Oil Extends Gains as Hormuz Deal Remains Elusive: Markets Wrap Bloomberg.com Iran, Holding Firm to Hormuz, Pushes for Return to June MOU The New York Times Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz Al Jazeera Iran ties Hormuz reopening to US concessions on several demands Reuters Former Trump Defense Secretary Mark Esper calls Iran's demands for fully reopening Strait of Hormuz 'ridiculous' ABC News - Breaking News, Latest News and Videos Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：霍尔木兹、石油、延伸、遗迹、难以捉摸的。RSS 中文摘要显示：霍尔木兹海峡协议仍难以捉摸，油价上涨：市场收盘 伊朗坚守霍尔木兹海峡，推动恢复 6 月谅解备忘录 《纽约时报》 伊朗要求霍尔木兹海峡前景不明朗 油价攀升新闻、最新新闻和视频 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 5. [Hunter Biden Sheds Light on His Dad’s Cancer and the Ex-President’s Life - WSJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWlDZmRCVDlyR1kybzVCLXFGaHhJZmFYS1ZQOFlLWk5QMk8zaGFFcVkzRTl3MVJsc04tRVlmVVlEWGlEUGVjWWpYVWliQU1TbUd4aVZXQ2R0elhtd1lZY3dBZzRHbm9VcnRlLXVmNi14UzlsSU84bllrckRYRUJGT0F6c3ByLXcwWG5LSWxhTkoybm5zV1cySnlBSWwxWDlEcUJRa3BxeEFhWUNGRldCY19R?oc=5)
+
+- Source / 来源: WSJ. Published: `2026-08-09T22:10:00+00:00`.
+- Keywords / 关键词: biden, cancer, hunter, ex-president, his, sheds, light, life, dad, wsj
+- 中文关键词: 拜登、癌症、猎人、前总统、他的、棚子、光、生活、爸爸、华尔街日报
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Hunter Biden Sheds Light on His Dad’s Cancer and the Ex-President’s Life WSJ Ex-President Joe Biden's cancer has spread, is very painful, son says Reuters Hunter Biden Says His Father’s Cancer Is Worsening The New York Times Joe Biden’s cancer has spread, Hunter Biden says The Washington Post Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’ CNBC
+- RSS 中文摘要: 亨特·拜登揭示了他父亲的癌症和前总统的生活 《华尔街日报》 前总统乔·拜登的癌症已经扩散，非常痛苦，儿子说路透社 亨特·拜登说他父亲的癌症正在恶化 《纽约时报》 乔·拜登的癌症已经扩散，亨特·拜登说 《华盛顿邮报》 亨特·拜登说乔·拜登的癌症已经进一步扩散，“非常痛苦” CNBC
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: biden, cancer, hunter, ex-president, and his. The available excerpt says: Hunter Biden Sheds Light on His Dad’s Cancer and the Ex-President’s Life WSJ Ex-President Joe Biden's cancer has spread, is very painful, son says Reuters Hunter Biden Says His Father’s Cancer Is Worsening The New York Times Joe Biden’s cancer has spread, Hunter Biden says The Washington Post Hunter Biden says Joe Biden’s cancer has spread further and is ‘very painful’ CNBC Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：拜登、癌症、猎人、前总统、他的。RSS 中文摘要显示：亨特·拜登揭示了他父亲的癌症和前总统的生活 《华尔街日报》 前总统乔·拜登的癌症已经扩散，非常痛苦，儿子说路透社 亨特·拜登说他父亲的癌症正在恶化 《纽约时报》 乔·拜登的癌症已经扩散，亨特·拜登说 《华盛顿邮报》 亨特·拜登说乔·拜登的癌症已经进一步扩散，“非常痛苦” CNBC 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 6. [Wildfires burning in British Columbia force 20,000 to evacuate - NBC News](https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFRucWlBR2NhSG9Zb1FpNERfQjlESkxCd0NTcldhRmEtYWZNQkFWWTJ4R3EzT20tZGpOVDlTV1NSaHZaZUk2S3B2ZUJ5SWpHQVFmU1E4SGU4ZWNXRDJpX3lhR01WMlFuOEtKLS1RN3d4U1ZXQk9odll3aHRXWUV6N2R2TG5LdjRodHJZajlWall1YWtuTng3eUh6aUE1b1BUdmlfaXU2M25sV3hz?oc=5)
+
+- Source / 来源: NBC News. Published: `2026-08-10T00:51:00+00:00`.
+- Keywords / 关键词: wildfires, columbia, evacuate, british, force, burning, nbc, wildfire, thousands, control
+- 中文关键词: 野火、哥伦比亚、撤离、英国人、力量、燃烧、全国广播公司、数千、控制
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Wildfires burning in British Columbia force 20,000 to evacuate NBC News Residents warned to brace for the worst as Canada wildfire rages out of control BBC Canadian government steps in as ‘out of control’ wildfires force thousands to flee The Guardian Explosive Wildfire in British Columbia Leaves 1 Dead The New York Times Woman dies in fast-moving B.C. wildfire as thousands evacuate upi.com
+- RSS 中文摘要: 不列颠哥伦比亚省野火迫使2万人撤离 NBC新闻 加拿大野火失控，居民警告要做好最坏的打算 BBC 加拿大政府介入，“失控”野火迫使数千人逃离卫报 不列颠哥伦比亚省爆炸性野火造成1人死亡 《纽约时报》 一名妇女在快速移动的不列颠哥伦比亚省死亡数千人撤离时引发野火 upi.com
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: wildfires, columbia, evacuate, british, and force. The available excerpt says: Wildfires burning in British Columbia force 20,000 to evacuate NBC News Residents warned to brace for the worst as Canada wildfire rages out of control BBC Canadian government steps in as ‘out of control’ wildfires force thousands to flee The Guardian Explosive Wildfire in British Columbia Leaves 1 Dead The New York Times Woman dies in fast-moving B.C. wildfire as thousands evacuate upi.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：野火、哥伦比亚、撤离、英国人、力量。RSS 中文摘要显示：不列颠哥伦比亚省野火迫使2万人撤离 NBC新闻 加拿大野火失控，居民警告要做好最坏的打算 BBC 加拿大政府介入，“失控”野火迫使数千人逃离卫报 不列颠哥伦比亚省爆炸性野火造成1人死亡 《纽约时报》 一名妇女在快速移动的不列颠哥伦比亚省死亡数千人撤离时引发野火 upi.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [Trump’s Hold on Republicans Tested in Race to Replace Lindsey Graham - WSJ](https://news.google.com/rss/articles/CBMitgFBVV95cUxPQm5YblRFUUtOQlRLaUgxZGhuQUdVSE9TWVVsREItWVgxTHludmQyS002eTZCRVFnS1BDbXpIdV95NXQ4a1ViN1FXOVZ5YWtOVXZwUnB1OFNFU0RqcGdMNk84eUpwbnBkNGhoSnZYOUNhMTlHTmU5SnlIRjRRdG5lLTZlcWJ2OXBJVjhmS2duSEQ5WTBkcGZVRmJSVWlPc2IxM2xaRF9KMDRQZm85ZGlmalMxc05YQQ?oc=5)
+
+- Source / 来源: WSJ. Published: `2026-08-09T17:00:00+00:00`.
+- Keywords / 关键词: graham, trump, republicans, replace, lindsey, tested, hold, race, wsj, election
+- 中文关键词: 格雷厄姆、特朗普、共和党人、代替、林赛、经测试、抓住、种族、华尔街日报、选举
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Trump’s Hold on Republicans Tested in Race to Replace Lindsey Graham WSJ Darline Graham has Donald Trump in her corner. Will it be enough to win her brother’s Senate seat? NBC News Tuesday's Special Primary Election in South Carolina: Here's what you need to know WYFF Graham replacement hopefuls make final pitches before special election: Iran war, DSA, Flock cams and more Fox News Will Darline Graham face the same fate Pamela Evette did in South Carolina? politico.com
+- RSS 中文摘要: 特朗普对共和党人的控制在取代林赛·格雷厄姆的竞争中受到考验 《华尔街日报》达琳·格雷厄姆支持唐纳德·特朗普。这足以赢得她哥哥的参议院席位吗？ NBC 新闻周二在南卡罗来纳州举行的特别初选：以下是您需要了解的 WYFF 格雷厄姆替代者候选人在特别选举前进行最后宣传的信息：伊朗战争、DSA、Flock 摄像头以及更多福克斯新闻 达林·格雷厄姆 (Darline Graham) 会面临与南卡罗来纳州帕梅拉·埃维特 (Pamela Evette) 相同的命运吗？政治网站
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: graham, trump, republicans, replace, and lindsey. The available excerpt says: Trump’s Hold on Republicans Tested in Race to Replace Lindsey Graham WSJ Darline Graham has Donald Trump in her corner. Will it be enough to win her brother’s Senate seat? NBC News Tuesday's Special Primary Election in South Carolina: Here's what you need to know WYFF Graham replacement hopefuls make final pitches before special election: Iran war, DSA, Flock cams and more Fox News Will Darline Graham face the same fate Pamela Evette did in South Carolina? politico.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：格雷厄姆、特朗普、共和党人、代替、林赛。RSS 中文摘要显示：特朗普对共和党人的控制在取代林赛·格雷厄姆的竞争中受到考验 《华尔街日报》达琳·格雷厄姆支持唐纳德·特朗普。这足以赢得她哥哥的参议院席位吗？ NBC 新闻周二在南卡罗来纳州举行的特别初选：以下是您需要了解的 WYFF 格雷厄姆替代者候选人在特别选举前进行最后宣传的信息：伊朗战争、DSA、Flock 摄像头以及更多福克斯新闻 达林·格雷厄姆 (Darline Graham) 会面临与南卡罗来纳州帕梅拉·埃维特 (Pamela Evette) 相同的命运吗？政治网站 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 8. [Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news - NPR](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQeWE3WEtHa3ZRVnlIWlJaRWlXWFg2N0xrSXIwTFh4ZGNVeUpMWlZIekRUMTlyT0RtZFRIaWt5SWxNblZpTXpxWVkwMlRsVnBmRDVxUnotOF82NURtcEV2bl9TT2FuUVVxLVRpa1VJUmtNZV9OMjd4c2JwOF92YXczY2hoRmlWX2xIQndjY3V1T3cxTm1rb0NQaE5TczVyVlRCdDNpbFNSbnRXcG9JRGlVVFVkQXdmQ1dCUFlWZV9nYS1YcEtjYWhweUtMSnZkbDdyMGxsag?oc=5)
+
+- Source / 来源: NPR. Published: `2026-08-09T09:44:02+00:00`.
+- Keywords / 关键词: houthis, saudi, attack, yemen's, aramco, arabia, claim, oil, facility, middle
+- 中文关键词: 胡塞武装、沙特、袭击、也门的、阿美石油公司、阿拉伯、宣称、石油、设施、中间
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news NPR Yemen's Houthis attack Saudi refinery after kingdom signs defence pact Reuters World in Brief: Houthis escalate attacks on Saudis; Israel rejects America’s Gaza plan The Economist Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia The Guardian Iran-backed Houthi rebels attack crucial Red Sea port and Saudi Aramco refinery as fighting escalates Fortune
+- RSS 中文摘要: 也门胡塞武装声称袭击了沙特阿美石油设施，以及其他中东新闻 NPR 也门胡塞武装在沙特签署国防协议后袭击了沙特炼油厂 路透社世界简报：胡塞武装升级了对沙特的袭击；以色列拒绝美国的加沙计划 《经济学人》 与伊朗结盟的胡塞武装声称他们袭击了沙特阿拉伯的炼油厂 《卫报》 随着战斗升级，伊朗支持的胡塞武装袭击了重要的红海港口和沙特阿美炼油厂 - 财富
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: houthis, saudi, attack, yemen's, and aramco. The available excerpt says: Yemen's Houthis claim attack on Aramco oil facility in Saudi Arabia, and other Middle East news NPR Yemen's Houthis attack Saudi refinery after kingdom signs defence pact Reuters World in Brief: Houthis escalate attacks on Saudis; Israel rejects America’s Gaza plan The Economist Iran-aligned Houthis claim they attacked oil refinery in Saudi Arabia The Guardian Iran-backed Houthi rebels attack crucial Red Sea port and Saudi Aramco refinery as fighting escalates Fortune Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：胡塞武装、沙特、袭击、也门的、阿美石油公司。RSS 中文摘要显示：也门胡塞武装声称袭击了沙特阿美石油设施，以及其他中东新闻 NPR 也门胡塞武装在沙特签署国防协议后袭击了沙特炼油厂 路透社世界简报：胡塞武装升级了对沙特的袭击；以色列拒绝美国的加沙计划 《经济学人》 与伊朗结盟的胡塞武装声称他们袭击了沙特阿拉伯的炼油厂 《卫报》 随着战斗升级，伊朗支持的胡塞武装袭击了重要的红海港口和沙特阿美炼油厂 - 财富 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 9. [Typhoon Dolphin: China evacuates more than 1 million people as massive storm arrives - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uMTdDWXFkRzZtdGhxTkZHOS1FY3dTRWxLSEl2WEhITHdqWGdILV9qYndGbG84TEY3QXk1dlZ5bkZ3cExtQkRxbkVycnM3TWk1MVZOUEJuY2k4UQ?oc=5)
+
+- Source / 来源: BBC. Published: `2026-08-10T03:15:21+00:00`.
+- Keywords / 关键词: typhoon, dolphin, china, storm, evacuates, million, massive, arrives, people, landfall
+- 中文关键词: 台风、海豚、中国、风暴、疏散、百万、大量的、到达、人们、登陆
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Typhoon Dolphin: China evacuates more than 1 million people as massive storm arrives BBC Heavy rains drench Beijing as China braces for Typhoon Dolphin Reuters Airport closes in Okinawa as Typhoon Dolphin hits parts of southern Japan AP News Typhoon Dolphin makes landfall in China as its strongest storm this year The Guardian Typhoon Dolphin hits Japan’s Okinawa, China shuts ports ahead of landfall NBC News
+- RSS 中文摘要: 台风海豚：大风暴袭来，中国疏散超过一百万人 BBC 中国为台风海豚做好准备，暴雨淹没北京 路透社 台风海豚袭击日本南部部分地区，冲绳机场关闭 美联社新闻 台风海豚登陆中国，为今年最强风暴 卫报 台风海豚袭击日本冲绳，中国在登陆前关闭港口 NBC新闻
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: typhoon, dolphin, china, storm, and evacuates. The available excerpt says: Typhoon Dolphin: China evacuates more than 1 million people as massive storm arrives BBC Heavy rains drench Beijing as China braces for Typhoon Dolphin Reuters Airport closes in Okinawa as Typhoon Dolphin hits parts of southern Japan AP News Typhoon Dolphin makes landfall in China as its strongest storm this year The Guardian Typhoon Dolphin hits Japan’s Okinawa, China shuts ports ahead of landfall NBC News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：台风、海豚、中国、风暴、疏散。RSS 中文摘要显示：台风海豚：大风暴袭来，中国疏散超过一百万人 BBC 中国为台风海豚做好准备，暴雨淹没北京 路透社 台风海豚袭击日本南部部分地区，冲绳机场关闭 美联社新闻 台风海豚登陆中国，为今年最强风暴 卫报 台风海豚袭击日本冲绳，中国在登陆前关闭港口 NBC新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [Pentagon seeks plans to accelerate weapons production - USA Today](https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjFxb0UtcktTSEtKSHQzb01jQ3EtSWtLWnIwaV92MzBEclRiSk1CbGFQMnZvVVQ0SkgyVGg5SzJIRGpVdUJoVUZCVUVaekpJNHZ2eV9wTXlTTXdyMFdZR056dTZQR29mZkVpcDFNYkl5R0JZOTgxZFFKaU00V2RwR29kTEcxVExGMW9Ka2MyamtUbEJmOG9SRWpOWXZ2eldkR0RzQ3luYURYLWNDSWREakZ0Zzd1Yms?oc=5)
+
+- Source / 来源: USA Today. Published: `2026-08-09T20:49:00+00:00`.
+- Keywords / 关键词: production, pentagon, weapons, accelerate, seeks, plans, today, usa, defense, key
+- 中文关键词: 生产、五角大楼、武器、加速、寻求、计划、今天、美国、防御、钥匙
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Pentagon seeks plans to accelerate weapons production USA Today The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note. The New York Times Nearly 80% of interceptors for a key missile defense system depleted, sources say CNN Pentagon urges faster US weapons production amid stockpile concerns Al Jazeera Pentagon Asks Defense Firms to Boost Production of Key Systems Bloomberg.com
+- RSS 中文摘要: 五角大楼寻求加速武器生产的计划 《今日美国》 美国正在伊朗烧毁武器。俄罗斯和中国正在注意到这一点。纽约时报 消息人士称，关键导弹防御系统的拦截器近 80% 已耗尽 CNN 五角大楼敦促美国加快武器生产，以应对库存担忧 半岛电视台 五角大楼要求国防公司提高关键系统的生产 Bloomberg.com
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: production, pentagon, weapons, accelerate, and seeks. The available excerpt says: Pentagon seeks plans to accelerate weapons production USA Today The U.S. Is Burning Through Weapons in Iran. Russia and China Are Taking Note. The New York Times Nearly 80% of interceptors for a key missile defense system depleted, sources say CNN Pentagon urges faster US weapons production amid stockpile concerns Al Jazeera Pentagon Asks Defense Firms to Boost Production of Key Systems Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：生产、五角大楼、武器、加速、寻求。RSS 中文摘要显示：五角大楼寻求加速武器生产的计划 《今日美国》 美国正在伊朗烧毁武器。俄罗斯和中国正在注意到这一点。纽约时报 消息人士称，关键导弹防御系统的拦截器近 80% 已耗尽 CNN 五角大楼敦促美国加快武器生产，以应对库存担忧 半岛电视台 五角大楼要求国防公司提高关键系统的生产 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
