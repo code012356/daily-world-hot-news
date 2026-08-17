@@ -10,155 +10,155 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-08-16T04:29:35+00:00` UTC.
+Generated at `2026-08-17T04:35:01+00:00` UTC.
 
-### 1. [Hurricane Lala lashing Hawaii with torrential rains, damaging winds - USA Today](https://news.google.com/rss/articles/CBMisgFBVV95cUxQazBZQS1KWjIyZU1TNU9ReVRnY3lCNTJBdnhDQmNBVVprZnhwYU9rZnE5MEN2NndYUnhDcmdfOTNKaF9DMWx3eW42Qk9lQVF0c0Nva3d5Tlo2NVcwR2YtMk1rbno1V0JrekRfN2c0dXhocU1EOUxZQnAxMUJUUmVXS294V0tyeG1CTTFYMUNfUG5rWF9RSnFKR3VDS2RiQXJ2ck0yRHFCVFlCQ2llbnlkTjB3?oc=5)
+### 1. [Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan - aljazeera.com](https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmpRRVBLRXhGNDJhZkRHSlhWbWcyemJTNXp4akxyVUpSV0xwTEx5UG9ZdUY3V3U5TkdHd3VuSXhHd0NZVzV2eVM3d3g0ajNZR0tyZzRoZ1cwVjlrTVFVZGNJM2JuWjdOYlBLbVBLWnQwV0dpRFZaT2VNVjFTR3NrTE96M3V4ZGlfbEJtcHZabjlpMHY0TnJFNGVn0gGfAUFVX3lxTE9Cek5VQUEwRmxxbGdtX1RLYlNiZUZqRFlqbkdSQ2RSelVoTi1kdDdwYXV5bl9tTEY5MWdnT2tLMXlHWXJXNTF0SFZRUnVUZEFVMm9wYVEwT3UteWUtdUp6SkVVa1hraXJpVXVmdXVDWlp5SXdrTXg2OTU3bnZ2emhxYUIzcHEwQmh3OWdybFZ5ZUhiNnVlVDY4bGxmV2VxQQ?oc=5)
 
-- Source / 来源: USA Today. Published: `2026-08-15T23:47:00+00:00`.
-- Keywords / 关键词: hurricane, hawaii, lala, winds, torrential, damaging, lashing, rains, today, usa
-- 中文关键词: 飓风、夏威夷、拉拉、风、滂沱、破坏性的、鞭打、下雨、今天、美国
+- Source / 来源: aljazeera.com. Published: `2026-08-17T01:30:01+00:00`.
+- Keywords / 关键词: kushner, meets, hamas, gaza, trump, plan, leaders, push, aljazeera, egypt
+- 中文关键词: 库什纳、遇见、哈马斯、加沙、特朗普、计划、领导者、推、阿尔及利亚、埃及
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan aljazeera.com Kushner Meets With Hamas to Advance Trump’s Gaza Plan The New York Times Kushner has a rare meeting with Hamas’ leader on the Gaza road map. A meeting with Netanyahu is next The Intelligencer Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East CNN Trump envoy Kushner meets Hamas leader to push Gaza peace plan BBC
+- RSS 中文摘要: 库什纳在埃及会见哈马斯领导人，推动特朗普的加沙计划 aljazeera.com 库什纳会见哈马斯，推进特朗普的加沙计划 《纽约时报》库什纳与哈马斯领导人就加沙路线图进行了罕见的会面。接下来将与内塔尼亚胡会面 情报实时更新：贾里德·库什纳会见地区领导人，中东多重冲突扰乱 CNN 特朗普特使库什纳会见哈马斯领导人，推动加沙和平计划 BBC
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: kushner, meets, hamas, gaza, and trump. The available excerpt says: Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan aljazeera.com Kushner Meets With Hamas to Advance Trump’s Gaza Plan The New York Times Kushner has a rare meeting with Hamas’ leader on the Gaza road map. A meeting with Netanyahu is next The Intelligencer Live updates: Jared Kushner meets with regional leaders as multiple conflicts roil the Middle East CNN Trump envoy Kushner meets Hamas leader to push Gaza peace plan BBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：库什纳、遇见、哈马斯、加沙、特朗普。RSS 中文摘要显示：库什纳在埃及会见哈马斯领导人，推动特朗普的加沙计划 aljazeera.com 库什纳会见哈马斯，推进特朗普的加沙计划 《纽约时报》库什纳与哈马斯领导人就加沙路线图进行了罕见的会面。接下来将与内塔尼亚胡会面 情报实时更新：贾里德·库什纳会见地区领导人，中东多重冲突扰乱 CNN 特朗普特使库什纳会见哈马斯领导人，推动加沙和平计划 BBC 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 2. [Hayden Panettiere dies at 36 - abcnews.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9zSjV5eGxNbk1wWUlEX0trWENkcE90aUtQQ3c2YVVXT05lbHJFYjB3bjd6NVFXM2Y5YnloR2JhaFRUUjl1Ym13MEozamxLeWhuNnlkUzFPaS1DdEgySlZHNUEyc1ZrMWZSMUdpRDJOUzRpMEVrOWfSAXtBVV95cUxOa0lEdXdRSVBuaS1vazlmNXhzeTVuSGhnVXpxdDNGTFJEYTc4cEpGeEJEREw0by00M185SzEyeXZERlU5RnJIbnREZ1RsV0tmNnRpTmtPM3NLblBiS1ZtYndUbGNybDZGdjVrR0dRMlRhbXZ3cFhxT2c0Qms?oc=5)
+
+- Source / 来源: abcnews.com. Published: `2026-08-17T01:23:15+00:00`.
+- Keywords / 关键词: panettiere, hayden, dies, com, abcnews, heroes, nashville, actress, hollywoodreporter, television
+- 中文关键词: 贝克、海登、死了、com、美国广播公司新闻、英雄、纳什维尔、演员、好莱坞报道者、电视
+- Category / 分类: Global affairs / 全球事务
+- RSS Excerpt / RSS 摘要: Hayden Panettiere dies at 36 abcnews.com Hayden Panettiere, actress in television shows 'Nashville,' 'Heroes,' dies at 36 The Jerusalem Post Hayden Panettiere, Actress in ‘Heroes’ and ‘Nashville,’ Dies at 36 hollywoodreporter.com Actor Hayden Panettiere, known for roles in ‘Heroes,’ ‘Nashville,’ dies at 36 NBC News Hayden Panettiere, ‘Heroes’ and ‘Scream’ Star, Dies at 36 Variety
+- RSS 中文摘要: 海顿·潘妮蒂尔 (Hayden Panettiere) 去世，享年 36 岁 abcnews.com 海顿·潘妮蒂尔 (Hayden Panettiere) 去世，享年 36 岁36 NBC 新闻 《英雄》和《惊声尖叫》明星海顿·潘妮蒂尔去世，享年 36 岁
+- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
+- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
+- EN Detailed Reading: Key signals: panettiere, hayden, dies, com, and abcnews. The available excerpt says: Hayden Panettiere dies at 36 abcnews.com Hayden Panettiere, actress in television shows 'Nashville,' 'Heroes,' dies at 36 The Jerusalem Post Hayden Panettiere, Actress in ‘Heroes’ and ‘Nashville,’ Dies at 36 hollywoodreporter.com Actor Hayden Panettiere, known for roles in ‘Heroes,’ ‘Nashville,’ dies at 36 NBC News Hayden Panettiere, ‘Heroes’ and ‘Scream’ Star, Dies at 36 Variety Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
+- 中文详细解读: 关键词信号：贝克、海登、死了、com、美国广播公司新闻。RSS 中文摘要显示：海顿·潘妮蒂尔 (Hayden Panettiere) 去世，享年 36 岁 abcnews.com 海顿·潘妮蒂尔 (Hayden Panettiere) 去世，享年 36 岁36 NBC 新闻 《英雄》和《惊声尖叫》明星海顿·潘妮蒂尔去世，享年 36 岁 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
+- EN What to watch: follow-up reporting; official statements; regional or market reaction
+- 后续关注: 后续报道；官方声明；地区或市场反应
+
+### 3. [Trump says US scaling back joint military operations with South Korea - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mZjhLYWc5Uld6bFdvNHRRU3dsVTB6N3FBUVo0SFIwZ0xpTjlfQ0s0QmJhWEpsdUVsTXlrOWlZRnlXZzJqUVBOa3FjS1RZNGxJTjRXRUN2SWhLUQ?oc=5)
+
+- Source / 来源: BBC. Published: `2026-08-17T02:51:27+00:00`.
+- Keywords / 关键词: trump, south, korea, back, military, joint, operations, scaling, exercises, orders
+- 中文关键词: 特朗普、南、韩国、后退、军事、联合的、运营、缩放、练习、订单
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Trump says US scaling back joint military operations with South Korea BBC Trump Administration Live Updates: President Orders Reduction of Military Exercises With South Korea, a Key Ally The New York Times Trump tells Hegseth to cut back U.S.-South Korea drills Axios Trump orders Pentagon to scale back joint exercises with South Korea AP News Trump Will Make South Korea Pay For His Iran Humiliation The Atlantic
+- RSS 中文摘要: 特朗普称美国缩减与韩国的联合军事行动 BBC 特朗普政府实时更新：总统下令减少与重要盟友韩国的军事演习 《纽约时报》 特朗普告诉赫格斯减少美韩演习 Axios 特朗普命令五角大楼缩减与韩国的联合演习 美联社新闻 特朗普将使韩国为他在伊朗的羞辱付出代价
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: trump, south, korea, back, and military. The available excerpt says: Trump says US scaling back joint military operations with South Korea BBC Trump Administration Live Updates: President Orders Reduction of Military Exercises With South Korea, a Key Ally The New York Times Trump tells Hegseth to cut back U.S.-South Korea drills Axios Trump orders Pentagon to scale back joint exercises with South Korea AP News Trump Will Make South Korea Pay For His Iran Humiliation The Atlantic Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：特朗普、南、韩国、后退、军事。RSS 中文摘要显示：特朗普称美国缩减与韩国的联合军事行动 BBC 特朗普政府实时更新：总统下令减少与重要盟友韩国的军事演习 《纽约时报》 特朗普告诉赫格斯减少美韩演习 Axios 特朗普命令五角大楼缩减与韩国的联合演习 美联社新闻 特朗普将使韩国为他在伊朗的羞辱付出代价 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 4. [Hurricane Lala cuts power to thousands in Hawaii — rural outages could last months - sfchronicle.com](https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2toQ3FCZUlPcXc4NUlxMk9ZYnFGSVUxVmdRWUZBOWhIUUFXT19WeU9mN3FTX1RyLUdDTmdmVEtfZm5JQTB2MUIwRlUwX05uUlFndUpEU0VBZVlIbjFQaVl1WEprUURYdDlkNjZuZkQwV1lnd3dxc2k2SlA2NGJwRFc1Z3dtSDlhZVl6N1BCWGhkS0QtVDBUTQ?oc=5)
+
+- Source / 来源: sfchronicle.com. Published: `2026-08-17T00:57:32+00:00`.
+- Keywords / 关键词: hawaii, lala, thousands, power, sfchronicle, hurricane, outages, months, rural, cuts
+- 中文关键词: 夏威夷、拉拉、数千、电力、编年史、飓风、停电、月、乡村的、削减
 - Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Hurricane Lala lashing Hawaii with torrential rains, damaging winds USA Today Hurricane Lala lashes Hawaii’s Big Island with strong winds and heavy rain CNN Hurricane Lala Threatens Hawaii Farms Still Recovering From March Floods The New York Times Storm Lala: Hawaii braces for potential first direct hit by a hurricane in 34 years BBC Maui County gives update on Hurricane Lala impacts Hawaii News Now
-- RSS 中文摘要: 飓风拉拉以暴雨和破坏性大风袭击夏威夷 今日美国 飓风拉拉以强风和大雨袭击夏威夷大岛 CNN 飓风拉拉威胁夏威夷农场仍在从三月洪水中恢复 纽约时报 风暴拉拉：夏威夷准备迎接 34 年来首次直接遭受飓风的袭击 BBC 毛伊县提供有关飓风拉拉影响的最新消息 夏威夷新闻
+- RSS Excerpt / RSS 摘要: Hurricane Lala cuts power to thousands in Hawaii — rural outages could last months sfchronicle.com Thousands without power and at least 100 homes damaged after Tropical Storm Lala starts to move away from Hawaii CNN ‘Utter Devastation’: Lala Turns Hawaiʻi Upside Down, Spares Some Honolulu Civil Beat Hawaii Island flooding: Town isolated, swept-away resident rescued after Lala Hawaii News Now Lala is again a tropical storm, sending drenching rain and winds across Hawaii NPR
+- RSS 中文摘要: 飓风“拉拉”切断了夏威夷数千人的电力——农村地区停电可能持续数月 sfchronicle.com 热带风暴“拉拉”开始撤离夏威夷后，数千人断电，至少 100 所房屋受损 CNN“彻底破坏”：拉拉使夏威夷颠倒，幸免于难风吹过夏威夷 NPR
 - EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
 - 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: hurricane, hawaii, lala, winds, and torrential. The available excerpt says: Hurricane Lala lashing Hawaii with torrential rains, damaging winds USA Today Hurricane Lala lashes Hawaii’s Big Island with strong winds and heavy rain CNN Hurricane Lala Threatens Hawaii Farms Still Recovering From March Floods The New York Times Storm Lala: Hawaii braces for potential first direct hit by a hurricane in 34 years BBC Maui County gives update on Hurricane Lala impacts Hawaii News Now Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：飓风、夏威夷、拉拉、风、滂沱。RSS 中文摘要显示：飓风拉拉以暴雨和破坏性大风袭击夏威夷 今日美国 飓风拉拉以强风和大雨袭击夏威夷大岛 CNN 飓风拉拉威胁夏威夷农场仍在从三月洪水中恢复 纽约时报 风暴拉拉：夏威夷准备迎接 34 年来首次直接遭受飓风的袭击 BBC 毛伊县提供有关飓风拉拉影响的最新消息 夏威夷新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN Detailed Reading: Key signals: hawaii, lala, thousands, power, and sfchronicle. The available excerpt says: Hurricane Lala cuts power to thousands in Hawaii — rural outages could last months sfchronicle.com Thousands without power and at least 100 homes damaged after Tropical Storm Lala starts to move away from Hawaii CNN ‘Utter Devastation’: Lala Turns Hawaiʻi Upside Down, Spares Some Honolulu Civil Beat Hawaii Island flooding: Town isolated, swept-away resident rescued after Lala Hawaii News Now Lala is again a tropical storm, sending drenching rain and winds across Hawaii NPR Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：夏威夷、拉拉、数千、电力、编年史。RSS 中文摘要显示：飓风“拉拉”切断了夏威夷数千人的电力——农村地区停电可能持续数月 sfchronicle.com 热带风暴“拉拉”开始撤离夏威夷后，数千人断电，至少 100 所房屋受损 CNN“彻底破坏”：拉拉使夏威夷颠倒，幸免于难风吹过夏威夷 NPR 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
 - EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
 - 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 2. [Jason Arday, Cambridge professor accused of plagiarism, is found dead - NPR](https://news.google.com/rss/articles/CBMibkFVX3lxTE93Y29FcjZDb2s5U0xqUnJyem40TUhqYWI5UnpTbTBfdjJYZWpBZVdUV2xtblJJUVo3bHI3TzJrbWJaZXJRZWNmUG9XR3pjazlCRWlHZklGeU9RMjFHcG9ZclQxMWpuNFJIS0d5Yi1n?oc=5)
+### 5. [Kyiv launches large attack on Russian military and energy facilities - Euronews.com](https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ2hhaUsxR3BDcm92cTJiclVLLVNIQ1kxZktzajNHSkRNN0t5LTdKVGVDS05XaTZZTldZOUdZWDR1dHFiWGZrYjV6di1qMmZydW5tbGd5eEFQLTA5THRuV1k4MGN4cUxjY3BXTTkxOVFyaUNBNUNqQnFHZzBYOWdqQlRBZTA0UWh1NTNXcW5XaXliSXM0UlFMX3E1dkp1aGFkajdrb09DY2FJSHoydm1ESjRDdEJMSVh1YVBiM3FrTEc1LXhram56WmpkcmJxVlk?oc=5)
 
-- Source / 来源: NPR. Published: `2026-08-15T17:04:43+00:00`.
-- Keywords / 关键词: jason, arday, cambridge, professor, plagiarism, accused, found, dead, death, fundraiser
-- 中文关键词: 杰森、一个学生、剑桥、教授、抄袭、被告、成立、死亡、筹款活动
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Jason Arday, Cambridge professor accused of plagiarism, is found dead NPR Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring The New York Times Jason Arday: Fundraiser launched to cover academic's funeral costs Sky News Jason Arday death 'tragedy on so many levels' says PM BBC The Truths That Failed Jason Arday The Atlantic
-- RSS 中文摘要: 被指控抄袭的剑桥大学教授杰森·阿尔戴 (Jason Arday) 被发现死亡 NPR 教授的去世给剑桥大学的种族和招聘留下了难题 《纽约时报》 杰森·阿尔戴 (Jason Arday)：发起筹款活动以支付学者的葬礼费用 天空新闻 英国广播公司 (BBC) 总理称杰森·阿尔戴 (Jason Arday) 之死是“多层面的悲剧” 失败的真相 杰森·阿尔戴 (Jason Arday) 大西洋月刊
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: jason, arday, cambridge, professor, and plagiarism. The available excerpt says: Jason Arday, Cambridge professor accused of plagiarism, is found dead NPR Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring The New York Times Jason Arday: Fundraiser launched to cover academic's funeral costs Sky News Jason Arday death 'tragedy on so many levels' says PM BBC The Truths That Failed Jason Arday The Atlantic Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：杰森、一个学生、剑桥、教授、抄袭。RSS 中文摘要显示：被指控抄袭的剑桥大学教授杰森·阿尔戴 (Jason Arday) 被发现死亡 NPR 教授的去世给剑桥大学的种族和招聘留下了难题 《纽约时报》 杰森·阿尔戴 (Jason Arday)：发起筹款活动以支付学者的葬礼费用 天空新闻 英国广播公司 (BBC) 总理称杰森·阿尔戴 (Jason Arday) 之死是“多层面的悲剧” 失败的真相 杰森·阿尔戴 (Jason Arday) 大西洋月刊 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 3. [Iran responds after Trump teases Strait of Hormuz becoming US territory - Fox News](https://news.google.com/rss/articles/CBMif0FVX3lxTE54c0ZsdG9YaHJmMkxlQl9pdW5fR0RnM3BWc0ExaVFBNkxxU2daSGZjRk12QXhaV3ctRDRYRlF3SjMtOE5LelVzMUZ0cFYyNXJKWncySnhBdGpLd0tNY2tTUHYyVEMxdGw2d2RqOFJEeTFMdUVDQjhkZEtjQjdoTlk?oc=5)
-
-- Source / 来源: Fox News. Published: `2026-08-16T01:14:34+00:00`.
-- Keywords / 关键词: trump, iran, territory, strait, hormuz, responds, becoming, teases, fox, declare
-- 中文关键词: 特朗普、伊朗、领土、海峡、霍尔木兹、回应、成为、戏弄、狐狸、宣布
+- Source / 来源: Euronews.com. Published: `2026-08-16T14:29:51+00:00`.
+- Keywords / 关键词: launches, attack, kyiv, com, facilities, military, euronews, russian, energy, large
+- 中文关键词: 发射、袭击、基辅、com、设施、军事、欧洲新闻报、俄罗斯、能源、大的
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Iran responds after Trump teases Strait of Hormuz becoming US territory Fox News Iran live updates: Trump says he'll declare Strait of Hormuz a US territory ABC News - Breaking News, Latest News and Videos Iran defiant on strait as Trump tells Americans to accept high gasoline prices Reuters Iran rejects ‘delusions’ after Trump says he wants the Strait of Hormuz to be a U.S. territory NBC News Iran war: Trump to declare Hormuz US territory 'soon' DW.com
-- RSS 中文摘要: 特朗普取笑霍尔木兹海峡成为美国领土后，伊朗做出回应 福克斯新闻 伊朗实时更新：特朗普表示他将宣布霍尔木兹海峡为美国领土 美国广播公司新闻 - 突发新闻、最新新闻和视频 特朗普告诉美国人接受高汽油价格，伊朗在海峡上挑衅 路透社 特朗普表示希望霍尔木兹海峡成为美国领土后，伊朗拒绝“妄想” NBC新闻 伊朗战争：特朗普“很快”宣布霍尔木兹海峡为美国领土德国之声
+- RSS Excerpt / RSS 摘要: Kyiv launches large attack on Russian military and energy facilities Euronews.com Ukraine attacks Russia with hundreds of drones - one of Kyiv’s largest assaults of the conflict CNN Ukraine launches one of its largest aerial attacks yet on Russia, killing at least 6 The Times of Israel Ukrainian drone attack on Russia kills at least six, says Moscow The Guardian Ukraine launches 600 drones toward Moscow in major barrage, mayor says abcnews.com
+- RSS 中文摘要: 基辅对俄罗斯军事和能源设施发动大规模袭击 Euronews.com 乌克兰用数百架无人机袭击俄罗斯 - 这是基辅冲突中最大规模的袭击之一 CNN 乌克兰对俄罗斯发动迄今为止最大规模的空中袭击之一，造成至少 6 人死亡 莫斯科称，乌克兰对俄罗斯的无人机袭击造成至少 6 人死亡 《卫报》乌克兰市长称，乌克兰向莫斯科发射了 600 架无人机，大规模攻击
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, iran, territory, strait, and hormuz. The available excerpt says: Iran responds after Trump teases Strait of Hormuz becoming US territory Fox News Iran live updates: Trump says he'll declare Strait of Hormuz a US territory ABC News - Breaking News, Latest News and Videos Iran defiant on strait as Trump tells Americans to accept high gasoline prices Reuters Iran rejects ‘delusions’ after Trump says he wants the Strait of Hormuz to be a U.S. territory NBC News Iran war: Trump to declare Hormuz US territory 'soon' DW.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、伊朗、领土、海峡、霍尔木兹。RSS 中文摘要显示：特朗普取笑霍尔木兹海峡成为美国领土后，伊朗做出回应 福克斯新闻 伊朗实时更新：特朗普表示他将宣布霍尔木兹海峡为美国领土 美国广播公司新闻 - 突发新闻、最新新闻和视频 特朗普告诉美国人接受高汽油价格，伊朗在海峡上挑衅 路透社 特朗普表示希望霍尔木兹海峡成为美国领土后，伊朗拒绝“妄想” NBC新闻 伊朗战争：特朗普“很快”宣布霍尔木兹海峡为美国领土德国之声 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: launches, attack, kyiv, com, and facilities. The available excerpt says: Kyiv launches large attack on Russian military and energy facilities Euronews.com Ukraine attacks Russia with hundreds of drones - one of Kyiv’s largest assaults of the conflict CNN Ukraine launches one of its largest aerial attacks yet on Russia, killing at least 6 The Times of Israel Ukrainian drone attack on Russia kills at least six, says Moscow The Guardian Ukraine launches 600 drones toward Moscow in major barrage, mayor says abcnews.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：发射、袭击、基辅、com、设施。RSS 中文摘要显示：基辅对俄罗斯军事和能源设施发动大规模袭击 Euronews.com 乌克兰用数百架无人机袭击俄罗斯 - 这是基辅冲突中最大规模的袭击之一 CNN 乌克兰对俄罗斯发动迄今为止最大规模的空中袭击之一，造成至少 6 人死亡 莫斯科称，乌克兰对俄罗斯的无人机袭击造成至少 6 人死亡 《卫报》乌克兰市长称，乌克兰向莫斯科发射了 600 架无人机，大规模攻击 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 4. [Rescuers search for survivors of powerful Indonesia earthquake - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yd09DeUZVMlpkZlF6bFQ5N3NNVDNaUWVFTURSN1RKZFlyM1U4cTRGalhYWGplN1d4b21mZkNoeHVwYUp3cGRTdXdvSnhqNUVUakZIcGdKYmVQdw?oc=5)
+### 6. [Iran betting it can outlast Trump if Dems take Congress, Gingrich says - New York Post](https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkNjSG1MTGI4WGl4dTZIMUMwU0pDMGpwNDFoVHBsam5FY3Nvb09zMkVESWNoU0tfbDNCejdYWkJyR3JLN3ltcXQtd001dG5TMmhvRUJZaFZKa0xvWFlqanc1Rldza3N0alRTaDVwcWZOcTJXSUV1SXdTbWJad0I5VzI3ODQ0N2VKQWVMb3RvSzE1WXVRX2diZno0R2lZZk5Ta3Z2THFhQllDaGpG?oc=5)
 
-- Source / 来源: BBC. Published: `2026-08-15T21:49:12+00:00`.
-- Keywords / 关键词: indonesia, earthquake, powerful, survivors, search, rescuers, killing, earthquakes, indonesia's, thousands
-- 中文关键词: 印度尼西亚、地震、强大的、幸存者、搜索、救援人员、造成死亡、印度尼西亚的、数千
-- Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: Rescuers search for survivors of powerful Indonesia earthquake BBC Thousands evacuate after Indonesia quake kills 51, cuts roads Reuters 2 powerful earthquakes hit Indonesia in one day, killing at least 47 CBS News Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 NPR Rescue teams search for survivors in Indonesia after powerful earthquake The Guardian
-- RSS 中文摘要: 救援人员搜寻印度尼西亚强烈地震的幸存者 BBC 印度尼西亚地震造成 51 人死亡、道路中断，数千人撤离 路透社 印度尼西亚一天内发生两次强烈地震，造成至少 47 人死亡 CBS 新闻 印度尼西亚海岸发生 7.7 级地震，造成至少 47 人死亡 NPR 救援队在印度尼西亚发生强烈地震后搜寻幸存者 《卫报》
-- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
-- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: indonesia, earthquake, powerful, survivors, and search. The available excerpt says: Rescuers search for survivors of powerful Indonesia earthquake BBC Thousands evacuate after Indonesia quake kills 51, cuts roads Reuters 2 powerful earthquakes hit Indonesia in one day, killing at least 47 CBS News Magnitude 7.7 earthquake strikes off Indonesia's coast, killing at least 47 NPR Rescue teams search for survivors in Indonesia after powerful earthquake The Guardian Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：印度尼西亚、地震、强大的、幸存者、搜索。RSS 中文摘要显示：救援人员搜寻印度尼西亚强烈地震的幸存者 BBC 印度尼西亚地震造成 51 人死亡、道路中断，数千人撤离 路透社 印度尼西亚一天内发生两次强烈地震，造成至少 47 人死亡 CBS 新闻 印度尼西亚海岸发生 7.7 级地震，造成至少 47 人死亡 NPR 救援队在印度尼西亚发生强烈地震后搜寻幸存者 《卫报》 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
-- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
-- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
-
-### 5. [Fired Ukrainian defense minister says Ukraine is in a "technological war" with Russia - Yahoo](https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXp2RTBLei1vdXdKOHI1aGVPUHZlNDZrWm9PVkNSdWpBSF9hdVhlRTZCTktMVFdlYm1DNGFtNHFURkZleEZ1UE85eVJDekhScUlaTE1tcU1TTzVVbWk2WDlUN0pUa01TTnBjTFY3NUtYRmxhM0owZHpfdEJFVVdPMDdlV2hxazh6OTJfdTU0VVJELWczRE5JX0VB?oc=5)
-
-- Source / 来源: Yahoo. Published: `2026-08-16T02:18:00+00:00`.
-- Keywords / 关键词: technological, ukrainian, minister, defense, ukraine, russia, fired, yahoo, war, perspectives
-- 中文关键词: 技术性的、乌克兰、部长、防御、俄罗斯、被解雇、雅虎、战争、观点
+- Source / 来源: New York Post. Published: `2026-08-16T20:26:00+00:00`.
+- Keywords / 关键词: iran, trump, outlast, congress, gingrich, betting, dems, take, war, presidency
+- 中文关键词: 伊朗、特朗普、坚持下去、国会、金里奇、投注、民主党、拿、战争、总统职位
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Fired Ukrainian defense minister says Ukraine is in a "technological war" with Russia Yahoo See more headlines & perspectives on Google News
-- RSS 中文摘要: 被解雇的乌克兰国防部长称乌克兰正与俄罗斯进行“技术战争” 雅虎 在 Google 新闻上查看更多头条新闻和观点
+- RSS Excerpt / RSS 摘要: Iran betting it can outlast Trump if Dems take Congress, Gingrich says New York Post Iran’s Secret Plan to Escalate the War WSJ What Total Iranian Victory Over Trump Looks Like: Five War Goals Explained Newsweek Iran’s strategy to simply outlast Trump’s presidency Salon.com Iran Is Doubling Down on the IRGC and Hardliners Hudson Institute
+- RSS 中文摘要: 金里奇称，如果民主党入主国会，伊朗押注伊朗将比特朗普更长久
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: technological, ukrainian, minister, defense, and ukraine. The available excerpt says: Fired Ukrainian defense minister says Ukraine is in a "technological war" with Russia Yahoo See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：技术性的、乌克兰、部长、防御、俄罗斯。RSS 中文摘要显示：被解雇的乌克兰国防部长称乌克兰正与俄罗斯进行“技术战争” 雅虎 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: iran, trump, outlast, congress, and gingrich. The available excerpt says: Iran betting it can outlast Trump if Dems take Congress, Gingrich says New York Post Iran’s Secret Plan to Escalate the War WSJ What Total Iranian Victory Over Trump Looks Like: Five War Goals Explained Newsweek Iran’s strategy to simply outlast Trump’s presidency Salon.com Iran Is Doubling Down on the IRGC and Hardliners Hudson Institute Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、特朗普、坚持下去、国会、金里奇。RSS 中文摘要显示：金里奇称，如果民主党入主国会，伊朗押注伊朗将比特朗普更长久 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 6. [Iran War Commander Visits the USS Abraham Lincoln - WSJ](https://news.google.com/rss/articles/CBMinAFBVV95cUxNejlQWFJQWEM2WlFEVFJvbGQ2N1ppUUVGTXM5ZmFMaGNITzluTTNuQ1QwcUlVQkZvRHRjLUJNbkJxcE4tZTNEVGllUHVhTnVyaDE1d2U3bm5hSnZmVFBFOXIwRk9pSEdwQVpxU2pzdWluOFpnVElvaVEyV3BlTDJ6STl5cnNETmtWcFpnZlVrMmU1QmZ1Z1pTUkRaLVU?oc=5)
+### 7. [Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say - CBS News](https://news.google.com/rss/articles/CBMidEFVX3lxTE83T1pObWFEcjlUbml5M01PQTU1SGRNOWlBc2tvcmtrQVFqTXdMcFEwZE00THltVGdrZVRJNHcwdFJ3MHFWdHVucGNXdjFHTEh6RTY1Vi1KMVBsaUxMRjQ2Qk5YVks4NFNmMkZJOFhtS1Z1Vmhl?oc=5)
 
-- Source / 来源: WSJ. Published: `2026-08-15T23:02:00+00:00`.
-- Keywords / 关键词: lincoln, uss, abraham, iran, war, commander, visits, wsj, trump, contradicts
-- 中文关键词: 林肯、号航空母舰、亚伯拉罕、伊朗、战争、指挥官、访问、华尔街日报、特朗普、矛盾
+- Source / 来源: CBS News. Published: `2026-08-16T23:54:11+00:00`.
+- Keywords / 关键词: indonesia, earthquake, aftershocks, officials, followed, nearly, killed, say, cbs, kills
+- 中文关键词: 印度尼西亚、地震、余震、官员、已关注、几乎、死亡、说、哥伦比亚广播公司、造成死亡
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Iran War Commander Visits the USS Abraham Lincoln WSJ Maryland Governor Wes Moore reacts to USS Abraham Lincoln deployment, contradicts Trump CBS News Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War The New York Times Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board NPR US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere KRON4
-- RSS 中文摘要: 伊朗战争指挥官访问亚伯拉罕·林肯号航空母舰 《华尔街日报》 马里兰州州长韦斯·摩尔对亚伯拉罕·林肯号的部署作出反应，与特朗普的观点相矛盾 哥伦比亚广播公司新闻 海军和林肯号航空母舰的问题与战争初期对美国基地的袭击有关 《纽约时报》 林肯号航空母舰船员家属表示，特朗普应该对船上的条件感到“羞愧” NPR 美国撤回亚洲最后一艘航空母舰，因为特朗普专注于伊朗和西半球
+- RSS Excerpt / RSS 摘要: Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say CBS News Thousands in Indonesia await aid after quake kills 54, overshadowing Independence Day The Hill Search for survivors continues after powerful earthquake kills dozens in Indonesia KSL.com World in Brief: Eastern Indonesia hit by earthquake; South Korea proposes Korean War talks The Economist M 7.7 - 68 km NNW of Ende, Indonesia USGS (.gov)
+- RSS 中文摘要: 官员称，印度尼西亚地震造成至少 53 人死亡，随后发生近 1,000 次余震，官员称，哥伦比亚广播公司新闻 印度尼西亚地震造成 54 人死亡，为独立日蒙上阴影，数千人等待援助 印度尼西亚强烈地震导致数十人死亡，山上继续搜寻幸存者 KSL.com 世界简报：印度尼西亚东部遭受地震袭击；韩国提议朝鲜战争谈判 经济学人 M 印度尼西亚恩德西北 7.7 - 68 公里 USGS (.gov)
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: lincoln, uss, abraham, iran, and war. The available excerpt says: Iran War Commander Visits the USS Abraham Lincoln WSJ Maryland Governor Wes Moore reacts to USS Abraham Lincoln deployment, contradicts Trump CBS News Navy and USS Lincoln’s Problems Are Tied to Attacks on U.S. Base Early in War The New York Times Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board NPR US pulls last aircraft carrier in Asia as Trump focuses on Iran and the Western Hemisphere KRON4 Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：林肯、号航空母舰、亚伯拉罕、伊朗、战争。RSS 中文摘要显示：伊朗战争指挥官访问亚伯拉罕·林肯号航空母舰 《华尔街日报》 马里兰州州长韦斯·摩尔对亚伯拉罕·林肯号的部署作出反应，与特朗普的观点相矛盾 哥伦比亚广播公司新闻 海军和林肯号航空母舰的问题与战争初期对美国基地的袭击有关 《纽约时报》 林肯号航空母舰船员家属表示，特朗普应该对船上的条件感到“羞愧” NPR 美国撤回亚洲最后一艘航空母舰，因为特朗普专注于伊朗和西半球 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: indonesia, earthquake, aftershocks, officials, and followed. The available excerpt says: Nearly 1,000 aftershocks followed Indonesia earthquake that killed at least 53, officials say CBS News Thousands in Indonesia await aid after quake kills 54, overshadowing Independence Day The Hill Search for survivors continues after powerful earthquake kills dozens in Indonesia KSL.com World in Brief: Eastern Indonesia hit by earthquake; South Korea proposes Korean War talks The Economist M 7.7 - 68 km NNW of Ende, Indonesia USGS (.gov) Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：印度尼西亚、地震、余震、官员、已关注。RSS 中文摘要显示：官员称，印度尼西亚地震造成至少 53 人死亡，随后发生近 1,000 次余震，官员称，哥伦比亚广播公司新闻 印度尼西亚地震造成 54 人死亡，为独立日蒙上阴影，数千人等待援助 印度尼西亚强烈地震导致数十人死亡，山上继续搜寻幸存者 KSL.com 世界简报：印度尼西亚东部遭受地震袭击；韩国提议朝鲜战争谈判 经济学人 M 印度尼西亚恩德西北 7.7 - 68 公里 USGS (.gov) 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 7. [Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender - Politico](https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0NlZGtyellYYXpBR2txcXVLOVNoWGtfbmd1RVRtbXYzU1ZqdUVrNDM2b1JBd01ZWmtnYW9XRFQyNnZyQUpLeDBkUGtIbFRVTXdaZEhtbDNoNzNKY194THdtaEctTDZaZ2dja0F1dWlIQ2VpTHhjSG1TMDVadU0yVXlXNTBrT0oxR0pJY2RNNEE?oc=5)
+### 8. [Trump's views can factor into prosecutions, Attorney General Todd Blanche says - Axios](https://news.google.com/rss/articles/CBMid0FVX3lxTE10SzdSZUZuNEVRWmtycDdjWFRsRUhoZ0dlXzdZa2Y4X0dCdWFNYUVacXVtWEJCeUNiQkJhdG4tdEROQldYSTdEQ0Y2OXRmTkZJdEcycGd6N2pld3RiS3ZZTW9lM1JrWEJfTWk4V0xHTklBNjJhcmlV?oc=5)
 
-- Source / 来源: Politico. Published: `2026-08-16T00:02:00+00:00`.
-- Keywords / 关键词: shrine, war, controversial, takaichi, anniversary, surrender, politico, japan's, skips, japan
-- 中文关键词: 神社、战争、有争议的、高地、周年纪念日、投降、政治报、日本的、跳过、日本
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender Politico Chinese embassy condemns Japanese politicians' Yasukuni Shrine moves news.cgtn.com Japan defence minister visits contentious Yasukuni Shrine to war dead Reuters A look at the history and beliefs behind Japan’s controversial shrine to the war dead AP News Takaichi drops ‘remorse’ in her first war memorial address The Japan Times
-- RSS 中文摘要: 日本二战投降81周年之际，高市跳过有争议的靖国神社 中国大使馆谴责日本政客参拜靖国神社的举动 news.cgtn.com 日本防卫大臣参拜备受争议的靖国神社供奉战死者 路透社 看看日本有争议的靖国神社背后的历史和信仰 美联社新闻 高市在她的第一次战争纪念演讲中放弃了“悔恨”
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: shrine, war, controversial, takaichi, and anniversary. The available excerpt says: Takaichi skips controversial shrine on 81st anniversary of Japan's World War II surrender Politico Chinese embassy condemns Japanese politicians' Yasukuni Shrine moves news.cgtn.com Japan defence minister visits contentious Yasukuni Shrine to war dead Reuters A look at the history and beliefs behind Japan’s controversial shrine to the war dead AP News Takaichi drops ‘remorse’ in her first war memorial address The Japan Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：神社、战争、有争议的、高地、周年纪念日。RSS 中文摘要显示：日本二战投降81周年之际，高市跳过有争议的靖国神社 中国大使馆谴责日本政客参拜靖国神社的举动 news.cgtn.com 日本防卫大臣参拜备受争议的靖国神社供奉战死者 路透社 看看日本有争议的靖国神社背后的历史和信仰 美联社新闻 高市在她的第一次战争纪念演讲中放弃了“悔恨” 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 8. [Trump blasts ‘total disaster’ Letitia James, endorses rival in NY AG race - New York Post](https://news.google.com/rss/articles/CBMingFBVV95cUxQZ1FvcXdudHI5WHRhc1dRczhnbmRrWEt3R2xLN2tKNENWTGpyaUcxNnhKLXkyR1RKU0NVWGMwMVhZQ0VDUzNlenM1UWJJN3RyVVRnaWxhME5LRkZXRlZ5RUo0OUJpY08zZzdYXzVyZ2NTbThjUFFCcERlOVhYSWxIYzVTOFplbVNnRUpESjJyZFhKME5mVUQ1SHpjaEV5UQ?oc=5)
-
-- Source / 来源: New York Post. Published: `2026-08-15T23:27:00+00:00`.
-- Keywords / 关键词: letitia, trump, james, rival, disaster, endorses, blasts, total, race, challenger
-- 中文关键词: 莱蒂西亚、特朗普、詹姆斯、竞争对手、灾难、赞同、爆炸、全部的、种族、挑战者
+- Source / 来源: Axios. Published: `2026-08-16T21:53:31+00:00`.
+- Keywords / 关键词: blanche, attorney, trump's, general, prosecutions, factor, views, axios, todd, independent
+- 中文关键词: 布兰奇、律师、特朗普的、一般的、起诉、因素、意见、轴、托德、独立的
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Trump blasts ‘total disaster’ Letitia James, endorses rival in NY AG race New York Post Trump backs Republican challenger to oust Letitia James amid ongoing mortgage fraud feud Fox News Trump, 80, Forgets Name of Candidate He Just Endorsed The Daily Beast AG Letitia James steers $54M in taxpayer funds to criminal-friendly groups, GOP rival claims: ‘Blatant misuse of funds’ New York Post Attorney General responds to police unions' endorsement of challenger Buffalo Toronto Public Media
-- RSS 中文摘要: 特朗普抨击利蒂希娅·詹姆斯在纽约州AG竞选中支持竞争对手《纽约邮报》 特朗普支持共和党挑战者罢免利蒂希娅·詹姆斯，福克斯新闻 80岁的特朗普忘记了他刚刚支持的候选人名字工会支持挑战者布法罗多伦多公共媒体
+- RSS Excerpt / RSS 摘要: Trump's views can factor into prosecutions, Attorney General Todd Blanche says Axios Blanche declines to pledge independence from the White House CNN Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General The New York Times Blanche on whether DOJ will be independent: ‘I’m not going to pledge that’ The Washington Post Blanche says he's not Trump's personal servant Politico
+- RSS 中文摘要: 司法部长托德·布兰奇表示，特朗普的观点可能会影响起诉，阿克西奥斯·布兰奇拒绝承诺独立于白宫 CNN 布兰奇拒绝表示，作为司法部长他将永远独立于特朗普 《纽约时报》 布兰奇谈司法部是否独立：“我不会保证” 《华盛顿邮报》布兰奇表示，他不是特朗普的私人仆人 Politico
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: letitia, trump, james, rival, and disaster. The available excerpt says: Trump blasts ‘total disaster’ Letitia James, endorses rival in NY AG race New York Post Trump backs Republican challenger to oust Letitia James amid ongoing mortgage fraud feud Fox News Trump, 80, Forgets Name of Candidate He Just Endorsed The Daily Beast AG Letitia James steers $54M in taxpayer funds to criminal-friendly groups, GOP rival claims: ‘Blatant misuse of funds’ New York Post Attorney General responds to police unions' endorsement of challenger Buffalo Toronto Public Media Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：莱蒂西亚、特朗普、詹姆斯、竞争对手、灾难。RSS 中文摘要显示：特朗普抨击利蒂希娅·詹姆斯在纽约州AG竞选中支持竞争对手《纽约邮报》 特朗普支持共和党挑战者罢免利蒂希娅·詹姆斯，福克斯新闻 80岁的特朗普忘记了他刚刚支持的候选人名字工会支持挑战者布法罗多伦多公共媒体 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: blanche, attorney, trump's, general, and prosecutions. The available excerpt says: Trump's views can factor into prosecutions, Attorney General Todd Blanche says Axios Blanche declines to pledge independence from the White House CNN Blanche Refuses to Say He’ll Always Be Independent of Trump as Attorney General The New York Times Blanche on whether DOJ will be independent: ‘I’m not going to pledge that’ The Washington Post Blanche says he's not Trump's personal servant Politico Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：布兰奇、律师、特朗普的、一般的、起诉。RSS 中文摘要显示：司法部长托德·布兰奇表示，特朗普的观点可能会影响起诉，阿克西奥斯·布兰奇拒绝承诺独立于白宫 CNN 布兰奇拒绝表示，作为司法部长他将永远独立于特朗普 《纽约时报》 布兰奇谈司法部是否独立：“我不会保证” 《华盛顿邮报》布兰奇表示，他不是特朗普的私人仆人 Politico 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 9. [Navy looking into warship redesigns as part of Trump requests - The Hill](https://news.google.com/rss/articles/CBMieEFVX3lxTFBsWEk4R2hYUUpPd05rMlFRQWh4R3pMR3B3dnlIa0tDLV9DR2NaVDRJNHlielBZOWJzSlV3dTZmdWtUTXctc3hUaENHSG8zcjVuYUFfdkJid19PMmFNcjlDQldyZGlJdHhDNkxYeF9yTVk1X2puTkVsMtIBfkFVX3lxTE5maU9ENlpWZ0M1UHBnRDFidDJWZjdDVzNVbk52eFV5ajZaTXZ6TVczSDA2VE9TT3UyS002LUliOFZkbk9ZdkF2OEJPYzJfeU1KR0tfQTNHb2YtZFE5LVoyT1gwZnFvQUt5d0UtWWVCX3hrZTRESnJWaGxDTDZqUQ?oc=5)
+### 9. [Multiple people dead as flooding continues in Indiana - NPR](https://news.google.com/rss/articles/CBMid0FVX3lxTE96N2J2UmxQRXhGb1ZqaU5MY3J1LVpnY3VsNk1HdndVcjltWVJIUHhaTVVEb0U5Z1ltNkdxRDVIenQ3ekRQajFERnRyOUhRUTduZnE2WWFKcHJNU25NLWc1S0NhdFdCOFhkaENjOFFWU20wcFRpcTBR?oc=5)
 
-- Source / 来源: The Hill. Published: `2026-08-15T23:57:00+00:00`.
-- Keywords / 关键词: trump, navy, warship, redesigns, requests, looking, part, hill, aircraft, shipbuilding
-- 中文关键词: 特朗普、海军、军舰、重新设计、要求、寻找、部分、爬坡道、飞机、造船
+- Source / 来源: NPR. Published: `2026-08-16T20:38:40+00:00`.
+- Keywords / 关键词: indiana, flooding, continues, multiple, people, dead, chicago, deaths, storm-related, evacuations
+- 中文关键词: 印第安纳州、洪水、继续、多种的、人们、死亡、芝加哥、与风暴有关的、疏散
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Multiple people dead as flooding continues in Indiana NPR 'Mother Nature always wins' | Flood waters cut through Hazel Dell Parkway bridge, crews asking for space as they work to assess damage WTHR Indiana storms linked to 7 deaths as floods trigger rescues and evacuations CBS News Chicago weather, storm recovery: At least 7 storm-related deaths across Indiana; power outages continue; Lansing asks for FEMA aid ABC7 Chicago Marion County sets up website for flooding help Fox 59
+- RSS 中文摘要: 印第安纳州洪水持续造成多人死亡 NPR “大自然总是胜利” |洪水冲过 Hazel Dell Parkway 大桥，工作人员在评估损失时请求空间 WTHR 印第安纳州风暴导致 7 人死亡，洪水引发救援和疏散 CBS 新闻 芝加哥天气，风暴恢复：印第安纳州至少有 7 人因风暴死亡；停电仍在继续；兰辛请求 FEMA 援助 ABC7 芝加哥马里恩县设立洪水援助网站 Fox 59
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: indiana, flooding, continues, multiple, and people. The available excerpt says: Multiple people dead as flooding continues in Indiana NPR 'Mother Nature always wins' | Flood waters cut through Hazel Dell Parkway bridge, crews asking for space as they work to assess damage WTHR Indiana storms linked to 7 deaths as floods trigger rescues and evacuations CBS News Chicago weather, storm recovery: At least 7 storm-related deaths across Indiana; power outages continue; Lansing asks for FEMA aid ABC7 Chicago Marion County sets up website for flooding help Fox 59 Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：印第安纳州、洪水、继续、多种的、人们。RSS 中文摘要显示：印第安纳州洪水持续造成多人死亡 NPR “大自然总是胜利” |洪水冲过 Hazel Dell Parkway 大桥，工作人员在评估损失时请求空间 WTHR 印第安纳州风暴导致 7 人死亡，洪水引发救援和疏散 CBS 新闻 芝加哥天气，风暴恢复：印第安纳州至少有 7 人因风暴死亡；停电仍在继续；兰辛请求 FEMA 援助 ABC7 芝加哥马里恩县设立洪水援助网站 Fox 59 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 10. [Ukraine attacks Wildberries, Russia's biggest online market - DW](https://news.google.com/rss/articles/CBMilAFBVV95cUxQaWx5VUFJbnV2NUdqdkctVFdrSU5lWEdlalVLTDZGTXk2MnhmNlEtamdVM0x1R1dMRG9DRlpLYnZEeFFvc1VLV3FBdTJlc1ZzMHRLSFRXdjJZYldoM1Q5ai1DNU0yemdzVENSbnl1S0hnX05wVUlhb0F4WWFUUldHTUk3NThPcEFqd1BhVlNCbUtVbnc40gGUAUFVX3lxTFBYUTNuLW4yZVRybjJTYXhjTjQyQnROVkx0VE1BeXZOeW56TjdRVmI0dTltUUZza0ZtUjhBRzQxdk5udzdYeDBOOUkyN1RXN3pJVDhPc2xCcUZCVUZNaUV1ZGRxbmtXYWpzODY4RjlxUENHekxrQW5MZ0FEX3FNZlBNVmRzTlQ0ak5tenJuU18zZXllVjg?oc=5)
+
+- Source / 来源: DW. Published: `2026-08-16T19:46:28+00:00`.
+- Keywords / 关键词: ukraine, wildberries, online, russia's, attacks, biggest, market, russian, drone, understandingwar
+- 中文关键词: 乌克兰、野莓、在线的、俄罗斯的、袭击、最大、市场、俄罗斯、无人机、理解战争
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Navy looking into warship redesigns as part of Trump requests The Hill Exclusive | Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing Billions WSJ ‘Very outdated’: Trump’s directive to revert to steam catapults on new aircraft carrier baffles naval experts CNN Navy weighs major warship redesign to match Trump’s preferences The Washington Post Hanwha, Fincantieri shares rise after Trump opens Navy shipbuilding to foreign yards Reuters
-- RSS 中文摘要: 作为特朗普要求的一部分，海军正在研究军舰重新设计特朗普命令海军恢复航空母舰上的旧技术，耗资数十亿美元 华尔街日报“非常过时”：特朗普在新航母上恢复蒸汽弹射器的指示令海军专家感到困惑 CNN 海军考虑重新设计大型军舰以符合特朗普的喜好 华盛顿邮报 特朗普向外国造船厂开放海军造船后，韩华和芬坎蒂尼股价上涨 路透
+- RSS Excerpt / RSS 摘要: Ukraine attacks Wildberries, Russia's biggest online market DW Russian Offensive Campaign Assessment, August 16, 2026 understandingwar.org Ukraine takes aim at Russia’s economy and morale by attacking online retailer The Seattle Times Wildberries Depot Ablaze Near Moscow as Drone Downed in Romania bloomberg.com Ukraine war live: Kyiv blows up ‘Russian Amazon’ hub in largest drone attack of 2026 The Independent
+- RSS 中文摘要: 乌克兰袭击俄罗斯最大的在线市场 Wildberry 德国之声俄罗斯进攻战役评估，2026 年 8 月 16 日 Understandingwar.org 乌克兰通过攻击在线零售商来打击俄罗斯的经济和士气 《西雅图时报》 无人机在罗马尼亚被击落，莫斯科附近的 Wildberry 仓库起火 Bloomberg.com 乌克兰战争直播：基辅在 2026 年最大规模的无人机袭击中炸毁了“俄罗斯亚马逊”枢纽
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, navy, warship, redesigns, and requests. The available excerpt says: Navy looking into warship redesigns as part of Trump requests The Hill Exclusive | Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing Billions WSJ ‘Very outdated’: Trump’s directive to revert to steam catapults on new aircraft carrier baffles naval experts CNN Navy weighs major warship redesign to match Trump’s preferences The Washington Post Hanwha, Fincantieri shares rise after Trump opens Navy shipbuilding to foreign yards Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、海军、军舰、重新设计、要求。RSS 中文摘要显示：作为特朗普要求的一部分，海军正在研究军舰重新设计特朗普命令海军恢复航空母舰上的旧技术，耗资数十亿美元 华尔街日报“非常过时”：特朗普在新航母上恢复蒸汽弹射器的指示令海军专家感到困惑 CNN 海军考虑重新设计大型军舰以符合特朗普的喜好 华盛顿邮报 特朗普向外国造船厂开放海军造船后，韩华和芬坎蒂尼股价上涨 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 10. [Putin says Russia, North Korea coordinating on regional security, KCNA reports - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxPMkdUaGxFcENQN3pOY19IVmViSzdhdWYweE5RM1pDNVRmb2ZFSXZzMXg3X21wYjEwTkVnRGdvVzI2S21XN2FnOVVNWDEtSVVNa0JFbmY3M084Y0FlUFdtNVNIQ3VYQy1zYTZPWE9jM2NXaE9kdnlGYU1RdVpvWkVoNHF4NWViWU00OUFla3BBN3RuTENPc3RoRHRWQ3BQSGZ2b01WVFQtbWIyV3JDWE9nSkNnQUM0ckJjeG5hcG5YU3R6ZHJ5QkFJ?oc=5)
-
-- Source / 来源: Reuters. Published: `2026-08-14T23:28:27+00:00`.
-- Keywords / 关键词: putin, north, coordinating, regional, security, russia, korea, kcna, kim, ties
-- 中文关键词: 普京、北、协调、区域性的、安全、俄罗斯、韩国、朝中社、金、领带
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Putin says Russia, North Korea coordinating on regional security, KCNA reports Reuters North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day Reuters Kim Jong Un Says He's "Proud" Of North Korea-Russia Ties In Letter To Putin NDTV Putin says Russia, North Korea coordinating efforts to ensure regional security, stability Anadolu Ajansı KCNA: Kim pays tribute to anti-Japanese revolutionary martyrs chinadailyasia.com
-- RSS 中文摘要: 普京表示，俄罗斯和朝鲜就地区安全进行协调，朝中社报道 路透社 朝鲜金正恩和俄罗斯普京在朝鲜光复日重申了关系 路透社 金正恩在给普京的信中表示，他对朝俄关系感到“自豪” NDTV 普京表示，俄罗斯和朝鲜正在协调努力，以确保地区安全和稳定中国日报亚洲网
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: putin, north, coordinating, regional, and security. The available excerpt says: Putin says Russia, North Korea coordinating on regional security, KCNA reports Reuters North Korea's Kim, Russia's Putin reaffirm ties on Korean Liberation Day Reuters Kim Jong Un Says He's "Proud" Of North Korea-Russia Ties In Letter To Putin NDTV Putin says Russia, North Korea coordinating efforts to ensure regional security, stability Anadolu Ajansı KCNA: Kim pays tribute to anti-Japanese revolutionary martyrs chinadailyasia.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：普京、北、协调、区域性的、安全。RSS 中文摘要显示：普京表示，俄罗斯和朝鲜就地区安全进行协调，朝中社报道 路透社 朝鲜金正恩和俄罗斯普京在朝鲜光复日重申了关系 路透社 金正恩在给普京的信中表示，他对朝俄关系感到“自豪” NDTV 普京表示，俄罗斯和朝鲜正在协调努力，以确保地区安全和稳定中国日报亚洲网 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: ukraine, wildberries, online, russia's, and attacks. The available excerpt says: Ukraine attacks Wildberries, Russia's biggest online market DW Russian Offensive Campaign Assessment, August 16, 2026 understandingwar.org Ukraine takes aim at Russia’s economy and morale by attacking online retailer The Seattle Times Wildberries Depot Ablaze Near Moscow as Drone Downed in Romania bloomberg.com Ukraine war live: Kyiv blows up ‘Russian Amazon’ hub in largest drone attack of 2026 The Independent Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：乌克兰、野莓、在线的、俄罗斯的、袭击。RSS 中文摘要显示：乌克兰袭击俄罗斯最大的在线市场 Wildberry 德国之声俄罗斯进攻战役评估，2026 年 8 月 16 日 Understandingwar.org 乌克兰通过攻击在线零售商来打击俄罗斯的经济和士气 《西雅图时报》 无人机在罗马尼亚被击落，莫斯科附近的 Wildberry 仓库起火 Bloomberg.com 乌克兰战争直播：基辅在 2026 年最大规模的无人机袭击中炸毁了“俄罗斯亚马逊”枢纽 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
