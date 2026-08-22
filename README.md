@@ -10,155 +10,155 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-08-21T04:31:48+00:00` UTC.
+Generated at `2026-08-22T04:26:35+00:00` UTC.
 
-### 1. [Trump’s Economic Threat Puts Focus on Iran’s Trading Partners - The New York Times](https://news.google.com/rss/articles/CBMijwFBVV95cUxOLWYteDRBcHMwRkVvaExPRVoyTVdQVkpsaFZwNnJVaTQ5MVVrX1hrVG11Z1E5Vkh6VHpvQUpTMEkyZVE3TFlyTTE1ZHdWRjBYLXlhMEFqM2kzYVhLbFcyVWxFQzhQNzhfaENpNFNWbk1aTVF6TE1PUFVuYW9kQXR6dDZPU0dpNTlkb0libzF6QQ?oc=5)
+### 1. [Supreme Court says Trump can continue ballroom work as it weighs case - The Washington Post](https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmdNUTJ1X3NSdncwZDh2S2NlUm1OcTQ5SHdxVzNVTjM0T2NucEZrc2FKMjBZUWZueGFmcmdUN1VkNnBSc2pXOENMaHp1cmJPdWhMVV9zSVJCSzl5bW84UVFnV2lEWnhicXl3d09UNTkxYmlpMnJVbDN4YWNwaUtxVUNxd19HeS1jMm1hZF9DZTAzeF82UDlCbV95dTFBLVREVXpDSDJEVHhUd2NNckpjN3lsSnNPTExTQnc?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-08-21T02:53:16+00:00`.
-- Keywords / 关键词: iran, economic, trump, threat, partners, trading, focus, puts, sanctions, urges
-- 中文关键词: 伊朗、经济的、特朗普、威胁、合作伙伴、贸易、重点、看跌期权、制裁、敦促
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump’s Economic Threat Puts Focus on Iran’s Trading Partners The New York Times The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran The New York Times Live updates: Iran condemns Trump’s threat of heightened economic pressure CNN Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate Reuters Iran war live: US vows toughest Iran sanctions, urges China support Al Jazeera
-- RSS 中文摘要: 特朗普的经济威胁将焦点放在伊朗的贸易伙伴身上 纽约时报 特朗普对伊朗“经济战”威胁背后的信息 纽约时报实时更新：伊朗谴责特朗普威胁加大经济压力 CNN Bessent称美国将对伊朗实施“最严厉”制裁，敦促中国合作 路透伊朗战争直播：美国誓言对伊朗实施最严厉制裁，敦促中国支持半岛电视台
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, economic, trump, threat, and partners. The available excerpt says: Trump’s Economic Threat Puts Focus on Iran’s Trading Partners The New York Times The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran The New York Times Live updates: Iran condemns Trump’s threat of heightened economic pressure CNN Bessent says US to impose 'toughest' ever sanctions on Iran, urges China to cooperate Reuters Iran war live: US vows toughest Iran sanctions, urges China support Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、经济的、特朗普、威胁、合作伙伴。RSS 中文摘要显示：特朗普的经济威胁将焦点放在伊朗的贸易伙伴身上 纽约时报 特朗普对伊朗“经济战”威胁背后的信息 纽约时报实时更新：伊朗谴责特朗普威胁加大经济压力 CNN Bessent称美国将对伊朗实施“最严厉”制裁，敦促中国合作 路透伊朗战争直播：美国誓言对伊朗实施最严厉制裁，敦促中国支持半岛电视台 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 2. [A magnitude 6.7 earthquake shakes Peru’s southern Andes, injuring at least 2 and damaging homes - AP News](https://news.google.com/rss/articles/CBMilgFBVV95cUxPU0s3OExOX3RaT0QwSGZwQWhEdUZ4am95Y19SVzZDN1lUQ2cwU1dHVGdBNlM2dWt2a1pZcnBEeTVqaGduNWRDc3IxVGJZZ0hxVERYcVZMV2R1aGc2Wk1xVUI3dTFDS1pla210OERtaTFQSTU1Z3BJWGJ2MXJlLU5BOF9UNG1sWi1SUVpqT2k5ZWRaRzhHb3c?oc=5)
-
-- Source / 来源: AP News. Published: `2026-08-20T21:03:00+00:00`.
-- Keywords / 关键词: earthquake, magnitude, peru, southern, shakes, andes, injuring, damaging, homes, latest
-- 中文关键词: 地震、震级、秘鲁、南部、摇晃、安第斯山脉、伤害、破坏性的、家园、最新的
-- Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: A magnitude 6.7 earthquake shakes Peru’s southern Andes, injuring at least 2 and damaging homes AP News A magnitude 6.7 earthquake has shaken Peru’s southern Andes, USGS says ABC News - Breaking News, Latest News and Videos Map: 6.7-Magnitude Earthquake Shakes Peru The New York Times Magnitude 6.7 earthquake strikes central Peru, USGS says USA Today Strong magnitude 6.7 earthquake rattles Peru in latest seismic activity along Pacific Ring of Fire Yahoo
-- RSS 中文摘要: 秘鲁安第斯山脉南部发生 6.7 级地震，造成至少 2 人受伤，房屋受损 美联社新闻 美国地质调查局称，秘鲁安第斯山脉南部发生 6.7 级地震 ABC 新闻 - 突发新闻、最新新闻和视频 地图：秘鲁发生 6.7 级地震 美国地质调查局称，《纽约时报》 秘鲁中部发生 6.7 级地震 美国地质调查局称，《今日美国》 秘鲁中部发生 6.7 级地震，太平洋环线沿线最新地震活动频繁火雅虎
-- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
-- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: earthquake, magnitude, peru, southern, and shakes. The available excerpt says: A magnitude 6.7 earthquake shakes Peru’s southern Andes, injuring at least 2 and damaging homes AP News A magnitude 6.7 earthquake has shaken Peru’s southern Andes, USGS says ABC News - Breaking News, Latest News and Videos Map: 6.7-Magnitude Earthquake Shakes Peru The New York Times Magnitude 6.7 earthquake strikes central Peru, USGS says USA Today Strong magnitude 6.7 earthquake rattles Peru in latest seismic activity along Pacific Ring of Fire Yahoo Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：地震、震级、秘鲁、南部、摇晃。RSS 中文摘要显示：秘鲁安第斯山脉南部发生 6.7 级地震，造成至少 2 人受伤，房屋受损 美联社新闻 美国地质调查局称，秘鲁安第斯山脉南部发生 6.7 级地震 ABC 新闻 - 突发新闻、最新新闻和视频 地图：秘鲁发生 6.7 级地震 美国地质调查局称，《纽约时报》 秘鲁中部发生 6.7 级地震 美国地质调查局称，《今日美国》 秘鲁中部发生 6.7 级地震，太平洋环线沿线最新地震活动频繁火雅虎 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
-- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
-- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
-
-### 3. [Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’ - The Guardian](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMEpIZHpkWkdHTHU4M3JObWxFYzgxVC1iLWhsclNVYUZUZWN5NkhkeW5XQlVFMlpxWU44bk9PM1hYNXp1NjBaLWJoT2k2OHZTSERsUTFxazRtVHlENTh6NkI4d1RYeHFiYjdLSVY1SzY1MElrVTZ1NmpUMWJCbExpaXFVaHhLRWZHS3dBaU81SGJkNXJlZGI3QTN0NXVpZmJQY0xvU3o3WkVoQ1k3MEdMQUlSRzlPMlpGMlZLYmtsOWJ3Y0RWcFVZVTNOcnNXWVdLb0ktQmJ2QTE?oc=5)
-
-- Source / 来源: The Guardian. Published: `2026-08-21T02:45:00+00:00`.
-- Keywords / 关键词: tiananmen, hong, kong, guilty, subversion, inciting, square, vigil, found, organisers
-- 中文关键词: 天安门、红、孔、有罪的、颠覆、煽动、正方形、守夜、成立、组织者
-- Category / 分类: Global affairs / 全球事务
-- RSS Excerpt / RSS 摘要: Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’ The Guardian Tiananmen vigil organizers found guilty of inciting subversion in Hong Kong CNN Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils WSJ Hong Kong's Tiananmen Square activists guilty in national security trial BBC 2 organizers of Hong Kong’s Tiananmen vigils convicted in national security case AP News
-- RSS 中文摘要: 天安门广场守夜活动组织者在香港被判“煽动颠覆”罪 英国卫报 天安门守夜活动组织者在香港被判煽动颠覆罪 CNN 香港法院将组织天安门守夜活动的活动人士定罪 华尔街日报 香港天安门广场活动人士在国家安全审判中被判有罪 BBC 2 香港天安门守夜活动组织者在国家安全案件中被定罪 美联社新闻
-- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
-- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
-- EN Detailed Reading: Key signals: tiananmen, hong, kong, guilty, and subversion. The available excerpt says: Tiananmen Square vigil organisers found guilty in Hong Kong of ‘inciting subversion’ The Guardian Tiananmen vigil organizers found guilty of inciting subversion in Hong Kong CNN Hong Kong Court Convicts Activists Who Organized Tiananmen Vigils WSJ Hong Kong's Tiananmen Square activists guilty in national security trial BBC 2 organizers of Hong Kong’s Tiananmen vigils convicted in national security case AP News Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文详细解读: 关键词信号：天安门、红、孔、有罪的、颠覆。RSS 中文摘要显示：天安门广场守夜活动组织者在香港被判“煽动颠覆”罪 英国卫报 天安门守夜活动组织者在香港被判煽动颠覆罪 CNN 香港法院将组织天安门守夜活动的活动人士定罪 华尔街日报 香港天安门广场活动人士在国家安全审判中被判有罪 BBC 2 香港天安门守夜活动组织者在国家安全案件中被定罪 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
-- EN What to watch: follow-up reporting; official statements; regional or market reaction
-- 后续关注: 后续报道；官方声明；地区或市场反应
-
-### 4. [California lawmaker Aisha Wahab wins special election to succeed Eric Swalwell in Congress - AP News](https://news.google.com/rss/articles/CBMisgFBVV95cUxOcVc1YUxqYzlMRG9jTktiQXQtaGE5bDUyd3RhLUNoNENuOWc0TmN5SE1JTjgxUkpRbjlXcmNXb1FqNTItSEk2YjBTVnpCMDY4VmFDUERQMWg2bzRUYjlwTEg0ZjNzVDVlS3NHYjZQRTlxcDhmV2tPWHJlWGY3czBfMVNPZ1J0QWN2OG9CaTBDN2ItTGpCYWZHZHpnOUpGT20yS1BSYy1nRWZiWTlBY0FLWlB3?oc=5)
-
-- Source / 来源: AP News. Published: `2026-08-21T00:48:00+00:00`.
-- Keywords / 关键词: swalwell, aisha, wahab, california, election, special, wins, eric, congress, succeed
-- 中文关键词: 斯沃尔韦尔、艾莎、瓦哈卜、加利福尼亚州、选举、特别的、获胜、埃里克、国会、成功
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: California lawmaker Aisha Wahab wins special election to succeed Eric Swalwell in Congress AP News Aisha Wahab Wins California Special Election to Replace Eric Swalwell The New York Times Progressive opposed by AIPAC wins California special election to succeed Eric Swalwell The Times of Israel Aisha Wahab makes history as the first Afghan American elected to Congress Yahoo Democrat Aisha Wahab will win Swalwell’s House seat, CNN projects, overcoming millions in AIPAC spending CNN
-- RSS 中文摘要: 加州议员艾莎·瓦哈卜 (Aisha Wahab) 赢得加州特别选举，接替埃里克·斯瓦尔韦尔 (Eric Swalwell) 进入国会 美联社新闻 艾莎·瓦哈卜 (Aisha Wahab) 赢得加州特别选举，接替埃里克·斯瓦尔威尔 (Eric Swalwell) 《纽约时报》 进步党赢得 AIPAC 反对的加州特别选举，接替埃里克·斯瓦尔威尔 (Eric Swalwell) 以色列时报 艾莎·瓦哈卜 (Aisha Wahab) 创造历史，成为第一位当选国会议员的阿富汗美国人 雅虎民主党人艾莎·瓦哈卜 (Aisha Wahab) 将赢得斯瓦尔威尔的众议院席位，CNN 项目，克服 AIPAC 的数百万美元支出 CNN
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: swalwell, aisha, wahab, california, and election. The available excerpt says: California lawmaker Aisha Wahab wins special election to succeed Eric Swalwell in Congress AP News Aisha Wahab Wins California Special Election to Replace Eric Swalwell The New York Times Progressive opposed by AIPAC wins California special election to succeed Eric Swalwell The Times of Israel Aisha Wahab makes history as the first Afghan American elected to Congress Yahoo Democrat Aisha Wahab will win Swalwell’s House seat, CNN projects, overcoming millions in AIPAC spending CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：斯沃尔韦尔、艾莎、瓦哈卜、加利福尼亚州、选举。RSS 中文摘要显示：加州议员艾莎·瓦哈卜 (Aisha Wahab) 赢得加州特别选举，接替埃里克·斯瓦尔韦尔 (Eric Swalwell) 进入国会 美联社新闻 艾莎·瓦哈卜 (Aisha Wahab) 赢得加州特别选举，接替埃里克·斯瓦尔威尔 (Eric Swalwell) 《纽约时报》 进步党赢得 AIPAC 反对的加州特别选举，接替埃里克·斯瓦尔威尔 (Eric Swalwell) 以色列时报 艾莎·瓦哈卜 (Aisha Wahab) 创造历史，成为第一位当选国会议员的阿富汗美国人 雅虎民主党人艾莎·瓦哈卜 (Aisha Wahab) 将赢得斯瓦尔威尔的众议院席位，CNN 项目，克服 AIPAC 的数百万美元支出 CNN 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 5. [Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor - NBC News](https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEVNdXFESDZxTUhMRGdDUEg0R0RYU2Z2RjNwdWtQcUNwVnJLd3hsZlZCOFpNQjUwVWJSTy04anZ2RjJaQUwycGVFN0trSnlyb3RNdUY0Vm11QThhQkxwNjVJRENzTW1zWWtyUVZ1YjNEX0lmYlhidTRlNF9ualg3QVExZTFoSHB6akpLQ0RqZzRWVUp3dE5naTUxVm43S2JFb21WMWRqT3JWWkpCVi1PSFB2cEF6b21NaUtaR3BhWDJMRWlJcTRSVGNtVEpWcEE?oc=5)
-
-- Source / 来源: NBC News. Published: `2026-08-21T02:41:00+00:00`.
-- Keywords / 关键词: trump, carrier, navy, aircraft, black, renaming, discusses, instead, heroic, sailor
-- 中文关键词: 特朗普、载体、海军、飞机、黑色的、重命名、讨论、反而、英勇、水手
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor NBC News Exclusive: Navy weighs renaming carrier slated to honor Black war hero, potentially switching it to Trump CNN Navy may name new aircraft carrier after Trump and not WWII hero USA Today Trump Plots Seizing Black Navy Hero’s Honor for Himself The Daily Beast Report: Future USS Doris Miller aircraft carrier could be renamed for President Trump KWTX
-- RSS 中文摘要: 海军讨论以特朗普的名字而不是英雄的黑人水手的名字重新命名航空母舰 NBC新闻独家报道：海军考虑重新命名航母，以纪念黑人战争英雄，可能会改名为特朗普 CNN 海军可能会以特朗普的名字命名新航母，而不是二战英雄 今日美国 特朗普密谋夺取黑人海军英雄的荣誉 每日野兽报道：未来的多丽丝·米勒号航空母舰可能会以特朗普总统的名字重新命名 KWTX
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, carrier, navy, aircraft, and black. The available excerpt says: Navy discusses renaming aircraft carrier after Trump instead of heroic Black sailor NBC News Exclusive: Navy weighs renaming carrier slated to honor Black war hero, potentially switching it to Trump CNN Navy may name new aircraft carrier after Trump and not WWII hero USA Today Trump Plots Seizing Black Navy Hero’s Honor for Himself The Daily Beast Report: Future USS Doris Miller aircraft carrier could be renamed for President Trump KWTX Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、载体、海军、飞机、黑色的。RSS 中文摘要显示：海军讨论以特朗普的名字而不是英雄的黑人水手的名字重新命名航空母舰 NBC新闻独家报道：海军考虑重新命名航母，以纪念黑人战争英雄，可能会改名为特朗普 CNN 海军可能会以特朗普的名字命名新航母，而不是二战英雄 今日美国 特朗普密谋夺取黑人海军英雄的荣誉 每日野兽报道：未来的多丽丝·米勒号航空母舰可能会以特朗普总统的名字重新命名 KWTX 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 6. [Are ships passing Hormuz more willing to defy Iran or US? What data shows - Al Jazeera](https://news.google.com/rss/articles/CBMirgFBVV95cUxOancwTUdheHB0dzJWSHhyNm91UkVsYzBlc1AwSzYyR2xvNVktOE9zZU95aHV0SExDOU9leFJhdzFGVm9QZHpYeGd5alV2eE9PS3cxZUdFbDNpLVhLV1pDeGxKNUdaa01sbVpacFJnMXp1aWoxQVQ1S3NoTDZiLTBsTE1HTXdZZjUtaC1veXB3Vk04ZUpfZnQ2b1VacF9IX25rVHNqazhUX2ExVUxZcnfSAbMBQVVfeXFMT0N1Y2lxb3E3OGdWQzJuZFJNWVNoQXRZOU9JNi1rMzJ1TWhRU0ZlM2NSV3pGMHhNcVdySTNxUmI1b1JmbjN1YV9ReW1xanJiMHMzOFA3NUZTZm91bktrYWoxZXgtcWVoQ0FrZlFONEo4aVk2T0pnc1JSUnNEVGdkRHdNV3FnaHZfZ2plbmR3SjBuWm14QnkzT1ZyQzhab2NJVy0wWXB2bmE0U2lkR2lCZkhjZ0E?oc=5)
-
-- Source / 来源: Al Jazeera. Published: `2026-08-20T08:52:55+00:00`.
-- Keywords / 关键词: hormuz, iran, passing, willing, jazeera, ships, shows, defy, data, oil
-- 中文关键词: 霍尔木兹、伊朗、通过、愿意的、半岛电视台、船舶、节目、违抗、数据、石油
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Are ships passing Hormuz more willing to defy Iran or US? What data shows Al Jazeera Trump is squeezing Iran’s economy and oil sales. It may still have the upper hand in Hormuz CNN Middle East live: Hormuz shipping traffic falls as Iran-US talks stall France 24 How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz The New York Times U.S. conducting stealth operation to transport oil through Hormuz Axios
-- RSS 中文摘要: 经过霍尔木兹海峡的船只更愿意反抗伊朗还是美国？半岛电视台的哪些数据显示特朗普正在挤压伊朗的经济和石油销售。它可能在霍尔木兹海峡仍占上风 CNN 中东直播：伊朗与美国谈判陷入僵局，霍尔木兹航运量下降 法国 24 美国海军如何帮助通过霍尔木兹海峡获取石油 纽约时报 美国进行秘密行动，通过霍尔木兹 Axios 运输石油
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: hormuz, iran, passing, willing, and jazeera. The available excerpt says: Are ships passing Hormuz more willing to defy Iran or US? What data shows Al Jazeera Trump is squeezing Iran’s economy and oil sales. It may still have the upper hand in Hormuz CNN Middle East live: Hormuz shipping traffic falls as Iran-US talks stall France 24 How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz The New York Times U.S. conducting stealth operation to transport oil through Hormuz Axios Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：霍尔木兹、伊朗、通过、愿意的、半岛电视台。RSS 中文摘要显示：经过霍尔木兹海峡的船只更愿意反抗伊朗还是美国？半岛电视台的哪些数据显示特朗普正在挤压伊朗的经济和石油销售。它可能在霍尔木兹海峡仍占上风 CNN 中东直播：伊朗与美国谈判陷入僵局，霍尔木兹航运量下降 法国 24 美国海军如何帮助通过霍尔木兹海峡获取石油 纽约时报 美国进行秘密行动，通过霍尔木兹 Axios 运输石油 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 7. [Sycophancy in stereo as former Trump hater Michael Cohen loses his nerve - The Guardian](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNlNVMlBRb0hPS0dDSGNZWTZ6TFV0SW5OZlNjTG52NF9NaEZOWGhwLUY4a0ZpcEtWYzcyNXdTbVMtS3ZQVHBxcnRSZ0dNZVk5aExNd3pmeE5nYzVseG5JSzdUd1dYNmNqaGR2VzFjcExjRFlzQnYxbkxIcnI4MElsdHRFcG8tSmJoZmhB?oc=5)
-
-- Source / 来源: The Guardian. Published: `2026-08-21T01:42:00+00:00`.
-- Keywords / 关键词: cohen, michael, trump, former, sycophancy, stereo, hater, loses, nerve, his
-- 中文关键词: 科恩、迈克尔、特朗普、以前的、阿谀奉承、立体声、仇恨者、失去、神经、他的
+- Source / 来源: The Washington Post. Published: `2026-08-22T01:55:56+00:00`.
+- Keywords / 关键词: ballroom, supreme, continue, court, trump, weighs, work, case, washington, white
+- 中文关键词: 舞厅、最高、继续、法庭、特朗普、称重、工作、案件、华盛顿、白色的
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Sycophancy in stereo as former Trump hater Michael Cohen loses his nerve The Guardian Trump appears on former fixer-turned-enemy Michael Cohen’s radio show after detente AP News Donald Trump once called Michael Cohen a ‘rat.’ Now Cohen says their relationship is ‘being resuscitated’ CNN Why Can’t We Be Friends? Trump Has a Reunion (of Sorts) With Michael Cohen. The New York Times Donald Trump and Michael Cohen bury the hatchet NBC News
-- RSS 中文摘要: 前特朗普仇恨者迈克尔·科恩失去勇气，立体声阿谀奉承 《卫报》在缓和后，特朗普出现在前调解人变成敌人的迈克尔·科恩的广播节目中 美联社新闻 唐纳德·特朗普曾称迈克尔·科恩为“老鼠”。现在科恩表示，他们的关系正在“复苏” CNN 为什么我们不能成为朋友？特朗普与迈克尔·科恩（某种意义上）重聚。 《纽约时报》唐纳德·特朗普和迈克尔·科恩言归于好 NBC 新闻
+- RSS Excerpt / RSS 摘要: Supreme Court says Trump can continue ballroom work as it weighs case The Washington Post Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now AP News Supreme Court allows White House ballroom construction to continue for now SCOTUSblog Trump Can Keep Building Ballroom While Supreme Court Weighs Appeal WSJ The Case of the Disappearing, Reappearing White House Ballroom Stairs The New York Times
+- RSS 中文摘要: 最高法院称特朗普在权衡此案时可以继续修建宴会厅 华盛顿邮报 最高法院首席法官允许特朗普耗资 4 亿美元的白宫宴会厅暂时继续施工 美联社新闻 最高法院允许白宫宴会厅建设暂时继续 SCOTUSblog 在最高法院考虑上诉期间特朗普可以继续修建宴会厅 华尔街日报 白宫宴会厅楼梯消失又重新出现的案例 纽约时报
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: cohen, michael, trump, former, and sycophancy. The available excerpt says: Sycophancy in stereo as former Trump hater Michael Cohen loses his nerve The Guardian Trump appears on former fixer-turned-enemy Michael Cohen’s radio show after detente AP News Donald Trump once called Michael Cohen a ‘rat.’ Now Cohen says their relationship is ‘being resuscitated’ CNN Why Can’t We Be Friends? Trump Has a Reunion (of Sorts) With Michael Cohen. The New York Times Donald Trump and Michael Cohen bury the hatchet NBC News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：科恩、迈克尔、特朗普、以前的、阿谀奉承。RSS 中文摘要显示：前特朗普仇恨者迈克尔·科恩失去勇气，立体声阿谀奉承 《卫报》在缓和后，特朗普出现在前调解人变成敌人的迈克尔·科恩的广播节目中 美联社新闻 唐纳德·特朗普曾称迈克尔·科恩为“老鼠”。现在科恩表示，他们的关系正在“复苏” CNN 为什么我们不能成为朋友？特朗普与迈克尔·科恩（某种意义上）重聚。 《纽约时报》唐纳德·特朗普和迈克尔·科恩言归于好 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: ballroom, supreme, continue, court, and trump. The available excerpt says: Supreme Court says Trump can continue ballroom work as it weighs case The Washington Post Supreme Court's chief justice allows work on Trump’s $400M White House ballroom to continue for now AP News Supreme Court allows White House ballroom construction to continue for now SCOTUSblog Trump Can Keep Building Ballroom While Supreme Court Weighs Appeal WSJ The Case of the Disappearing, Reappearing White House Ballroom Stairs The New York Times Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：舞厅、最高、继续、法庭、特朗普。RSS 中文摘要显示：最高法院称特朗普在权衡此案时可以继续修建宴会厅 华盛顿邮报 最高法院首席法官允许特朗普耗资 4 亿美元的白宫宴会厅暂时继续施工 美联社新闻 最高法院允许白宫宴会厅建设暂时继续 SCOTUSblog 在最高法院考虑上诉期间特朗普可以继续修建宴会厅 华尔街日报 白宫宴会厅楼梯消失又重新出现的案例 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 8. [Academic who raised plagiarism allegations against Jason Arday suspended by his university - Reuters](https://news.google.com/rss/articles/CBMivgFBVV95cUxORW9YRm9DdzFFWG5fVWMtUWZsXzlfUkNPanUxRWtReHRWaWF1NmpGWjVhWkdxYlhZMW1IYjlkcXhqRzdOekdFaVRNQnpxM21lR2VMc0pPcnhWUDVwSUZfOFZySnNtNGE1a1dpWFhFNUFWTElJOVZYd2RlUG53Ui1MbGpEbDlSZC0yVEpxXzZSRjRpOVZzUWlSNDFtSzZLN1paQ2p6UzdxdHNlbnJsakVBXy1PanpsN01yQV95Ukd3?oc=5)
+### 2. [One killed in sword attack at Swedish school - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QMG1ILU85bTVlS1FGMWZ2NHg5cXg5eEMyQ0JmYVN0bFgyZ19lS3BlRmpUY0w4ckwxcVpHSktaT2pqUzI3bUZ3SXhocmhES0FTTG5ZYjhSOGVlZw?oc=5)
 
-- Source / 来源: Reuters. Published: `2026-08-20T20:05:16+00:00`.
-- Keywords / 关键词: jason, arday, allegations, plagiarism, suspended, academic, university, raised, his, institutional
-- 中文关键词: 杰森、一个学生、指控、抄袭、暂停、学术的、大学、凸起、他的、制度性的
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Academic who raised plagiarism allegations against Jason Arday suspended by his university Reuters Academic Who Publicized Plagiarism Allegations Against Jason Arday Is Suspended The New York Times Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday BBC Jason Arday’s death is institutional murder Al Jazeera Jason Arday was treated as a symbol, not a man The Economist
-- RSS 中文摘要: 提出抄袭指控杰森·阿迪的学者被大学停职 路透社 公开指控杰森·阿迪抄袭的学者被停职 《纽约时报》 剑桥大学校长批评围绕杰森·阿迪的“种族主义喂养狂潮” BBC 杰森·阿迪之死是机构谋杀 半岛电视台杰森·阿迪被视为一个象征，而不是一个人 经济学人
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: jason, arday, allegations, plagiarism, and suspended. The available excerpt says: Academic who raised plagiarism allegations against Jason Arday suspended by his university Reuters Academic Who Publicized Plagiarism Allegations Against Jason Arday Is Suspended The New York Times Cambridge chancellor criticises 'racist feeding frenzy' around Jason Arday BBC Jason Arday’s death is institutional murder Al Jazeera Jason Arday was treated as a symbol, not a man The Economist Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：杰森、一个学生、指控、抄袭、暂停。RSS 中文摘要显示：提出抄袭指控杰森·阿迪的学者被大学停职 路透社 公开指控杰森·阿迪抄袭的学者被停职 《纽约时报》 剑桥大学校长批评围绕杰森·阿迪的“种族主义喂养狂潮” BBC 杰森·阿迪之死是机构谋杀 半岛电视台杰森·阿迪被视为一个象征，而不是一个人 经济学人 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+- Source / 来源: BBC. Published: `2026-08-21T21:03:24+00:00`.
+- Keywords / 关键词: school, sword, swedish, attack, killed, one, injured, dead, year-old, attacks
+- 中文关键词: 学校、剑、瑞典、袭击、死亡、一、受伤、岁
+- Category / 分类: Public safety and society / 公共安全与社会
+- RSS Excerpt / RSS 摘要: One killed in sword attack at Swedish school BBC One killed, several injured in sword attack at Swedish school CNN An 18-year-old with a sword attacks a school in Sweden, leaving 1 dead NBC News An 18-year-old with a sword attacks a school in Sweden, leaving 1 dead and 2 injured AP News Swedish police say 1 dead, 2 injured after school sword attack CBS News
+- RSS 中文摘要: 瑞典学校发生持剑袭击，造成一人死亡 BBC 瑞典学校发生持剑袭击，造成一人死亡、数人受伤 CNN 一名 18 岁青少年持剑袭击瑞典一所学校，造成 1 人死亡 NBC 新闻 一名 18 岁青少年持剑袭击瑞典一所学校，造成 1 人死亡、2 人受伤 美联社新闻 瑞典警方称，学校持剑袭击事件造成 1 人死亡、2 人受伤 CBS 新闻
+- EN Summary: This story centers on harm to people, emergency response, or social disruption.
+- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
+- EN Detailed Reading: Key signals: school, sword, swedish, attack, and killed. The available excerpt says: One killed in sword attack at Swedish school BBC One killed, several injured in sword attack at Swedish school CNN An 18-year-old with a sword attacks a school in Sweden, leaving 1 dead NBC News An 18-year-old with a sword attacks a school in Sweden, leaving 1 dead and 2 injured AP News Swedish police say 1 dead, 2 injured after school sword attack CBS News Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
+- 中文详细解读: 关键词信号：学校、剑、瑞典、袭击、死亡。RSS 中文摘要显示：瑞典学校发生持剑袭击，造成一人死亡 BBC 瑞典学校发生持剑袭击，造成一人死亡、数人受伤 CNN 一名 18 岁青少年持剑袭击瑞典一所学校，造成 1 人死亡 NBC 新闻 一名 18 岁青少年持剑袭击瑞典一所学校，造成 1 人死亡、2 人受伤 美联社新闻 瑞典警方称，学校持剑袭击事件造成 1 人死亡、2 人受伤 CBS 新闻 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
+- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
+- 后续关注: 官方调查；确认伤亡数字；预防措施
 
-### 9. [Aircraft carrier arrives in Middle East to relieve USS Abraham Lincoln after lengthy deployment - The Hill](https://news.google.com/rss/articles/CBMigwFBVV95cUxOSVl0UGZkS1ZNQVQ5Qm9NSVBTRkVIMlNIYkVhM0NNQXdSRDdGUUFnd25JQmVYbjJpNEtPRlRKWDZGSTNEQUZEYTctXzJKWGhDVEo5NVAteWlKTG5UVEVJWUljTGRfeDFOd0VtRjR2SFprZzB5d3FYc25ybnVjZ0RGVzhuWdIBiAFBVV95cUxPR2NDaTRiamtSLXdsYjZJZ2QzTE10dm8teGM5dDBZYmh5VlpJZjdGM1J6R1JYTmVlenlXdG9ad0wzemtZeEVOQjJzNEttUDk4dG9ya0VsVEZYV1k5UFJfZHB0LXNHT2RhNUhjM1ZkUVVwV29hXzNBTU44ZnVjWUpGNFpNc0tOMXUy?oc=5)
+### 3. [Men from Cuba and other countries describe being deported by the U.S. to a dangerous African nation: "We cannot leave" - CBS News](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOekdDMV9GR2o4OVliVWNMSnpSOUNFamRxeWxzbnZraElYVmpYdUhNMzdLUHdmbi1FcGplUmQxOG95dkczVEJiNWtYX3R4cnl6SGJONVJoODVacGFVczRra3g4aUlXN0l0R1dTUldsWEhRRWRmcUdrNEpvSkQ5dXhYZHZMSmw0aGlp?oc=5)
 
-- Source / 来源: The Hill. Published: `2026-08-20T19:27:00+00:00`.
-- Keywords / 关键词: lincoln, deployment, abraham, middle, east, uss, aircraft, carrier, arrives, relieve
-- 中文关键词: 林肯、部署、亚伯拉罕、中间、东方、号航空母舰、飞机、载体、到达、缓解
+- Source / 来源: CBS News. Published: `2026-08-22T03:37:01+00:00`.
+- Keywords / 关键词: african, dangerous, describe, deported, nation, cannot, being, leave, men, countries
+- 中文关键词: 非洲的、危险的、描述、被驱逐出境、国家、不能、存在、离开、男人
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Aircraft carrier arrives in Middle East to relieve USS Abraham Lincoln after lengthy deployment The Hill U.S.S. Abraham Lincoln Leaves Middle East After Months at Sea in Operation Against Iran The New York Times Palos Heights, Illinois family awaits USS Abraham Lincoln sailor Terry Stonitsch's return from extended deployment ABC7 Chicago Trump threatens Iran with ‘economic warfare,’ while cutting off talks CNN USS Lincoln heads home after extended deployment to the Middle East NBC News
-- RSS 中文摘要: 航空母舰抵达中东，接替长期部署后的亚伯拉罕·林肯号航空母舰 The Hill U.S.S.亚伯拉罕·林肯在针对伊朗的海上行动数月后离开中东 《纽约时报》 伊利诺伊州帕洛斯高地的家人等待亚伯拉罕·林肯号航空母舰水手特里·斯托尼奇从延长部署中返回 ABC7 芝加哥 特朗普以“经济战”威胁伊朗，同时中断谈判 CNN 林肯号航空母舰在中东延长部署后回国 NBC 新闻
+- RSS Excerpt / RSS 摘要: Men from Cuba and other countries describe being deported by the U.S. to a dangerous African nation: "We cannot leave" CBS News ICE seeks to deport Iranian woman in Georgia to Central African Republic AJC.com Trump administration deports immigrants to dangerous Central African Republic Yahoo Men describe being deported by U.S. to dangerous African nation: "We cannot leave" AOL.com
+- RSS 中文摘要: 来自古巴和其他国家的男子描述被美国驱逐到危险的非洲国家：“我们不能离开” CBS 新闻 ICE 寻求将格鲁吉亚的伊朗妇女驱逐到中非共和国 AJC.com 特朗普政府将移民驱逐到危险的中非共和国 雅虎男子描述被美国驱逐到危险的非洲国家：“我们不能离开” AOL.com
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: lincoln, deployment, abraham, middle, and east. The available excerpt says: Aircraft carrier arrives in Middle East to relieve USS Abraham Lincoln after lengthy deployment The Hill U.S.S. Abraham Lincoln Leaves Middle East After Months at Sea in Operation Against Iran The New York Times Palos Heights, Illinois family awaits USS Abraham Lincoln sailor Terry Stonitsch's return from extended deployment ABC7 Chicago Trump threatens Iran with ‘economic warfare,’ while cutting off talks CNN USS Lincoln heads home after extended deployment to the Middle East NBC News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：林肯、部署、亚伯拉罕、中间、东方。RSS 中文摘要显示：航空母舰抵达中东，接替长期部署后的亚伯拉罕·林肯号航空母舰 The Hill U.S.S.亚伯拉罕·林肯在针对伊朗的海上行动数月后离开中东 《纽约时报》 伊利诺伊州帕洛斯高地的家人等待亚伯拉罕·林肯号航空母舰水手特里·斯托尼奇从延长部署中返回 ABC7 芝加哥 特朗普以“经济战”威胁伊朗，同时中断谈判 CNN 林肯号航空母舰在中东延长部署后回国 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: african, dangerous, describe, deported, and nation. The available excerpt says: Men from Cuba and other countries describe being deported by the U.S. to a dangerous African nation: "We cannot leave" CBS News ICE seeks to deport Iranian woman in Georgia to Central African Republic AJC.com Trump administration deports immigrants to dangerous Central African Republic Yahoo Men describe being deported by U.S. to dangerous African nation: "We cannot leave" AOL.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：非洲的、危险的、描述、被驱逐出境、国家。RSS 中文摘要显示：来自古巴和其他国家的男子描述被美国驱逐到危险的非洲国家：“我们不能离开” CBS 新闻 ICE 寻求将格鲁吉亚的伊朗妇女驱逐到中非共和国 AJC.com 特朗普政府将移民驱逐到危险的中非共和国 雅虎男子描述被美国驱逐到危险的非洲国家：“我们不能离开” AOL.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 10. [Russia launches deadly missile and drone attacks on Kyiv - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxOLWpiMncxeUozd3Z5SS03eW10ZEVUODlFSlF6eGZ3UHp2bW93ekRaaGQtMl91UkdsaS1DT2FURW1JZVhMTnJxNWtlWDhWNUZKcHgzMHNxUU56MzJ1cklDeU5rRHZmT28zWnZBQmprWHVYOEdzV1d5dFhRY2oteDVMLU1OZHk?oc=5)
+### 4. [‘I’m on the ballot’: Trump lends a hand to struggling Darline Graham - Politico](https://news.google.com/rss/articles/CBMigwFBVV95cUxPXzBTNVVDS3VsU1VHR3J4Zmk3VU5MaGU2YlIxdFJlc0k0Uld4WGMtQ2YzMWllaGVvZVUxLTRjclduUXp1N2tiRHZrRUhwYmFrOW43a3lMazJLbFlGNE1pTURWbXBhTEV6X2pCSmNlV2NnQ25IaExxZl9ETUs5aTZHTVdFOA?oc=5)
 
-- Source / 来源: Financial Times. Published: `2026-08-20T06:57:27+00:00`.
-- Keywords / 关键词: kyiv, russia, missile, attacks, financial, launches, deadly, drone, strikes, infrastructure
-- 中文关键词: 基辅、俄罗斯、导弹、袭击、金融的、发射、致命、无人机、基础设施
+- Source / 来源: Politico. Published: `2026-08-22T00:36:00+00:00`.
+- Keywords / 关键词: trump, graham, darline, ballot, struggling, politico, lends, hand, myrtle, rally
+- 中文关键词: 特朗普、格雷厄姆、亲爱的、选票、挣扎、政治报、借出、手、香桃木、集会
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: ‘I’m on the ballot’: Trump lends a hand to struggling Darline Graham Politico Trump tries new midterm message to supporters: ‘Pretend, please, that I’m on the ballot’ NBC News With his political capital on the line, Trump rallies for Darline Graham in South Carolina CNN Real-time updates from Trump's rally in Myrtle Beach WPDE Trump fires back after protester interrupts Myrtle Beach rally for Graham: 'Mom is voting for us' Fox News
+- RSS 中文摘要: “我在选票上”：特朗普向苦苦挣扎的达林·格雷厄姆伸出援助之手 Politico 特朗普试图向支持者传达新的中期信息：“请假装我在选票上” NBC新闻 NBC新闻 特朗普在南卡罗来纳州为达林·格雷厄姆集会 CNN 特朗普在默特尔比奇集会的实时更新我们的福克斯新闻
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: trump, graham, darline, ballot, and struggling. The available excerpt says: ‘I’m on the ballot’: Trump lends a hand to struggling Darline Graham Politico Trump tries new midterm message to supporters: ‘Pretend, please, that I’m on the ballot’ NBC News With his political capital on the line, Trump rallies for Darline Graham in South Carolina CNN Real-time updates from Trump's rally in Myrtle Beach WPDE Trump fires back after protester interrupts Myrtle Beach rally for Graham: 'Mom is voting for us' Fox News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：特朗普、格雷厄姆、亲爱的、选票、挣扎。RSS 中文摘要显示：“我在选票上”：特朗普向苦苦挣扎的达林·格雷厄姆伸出援助之手 Politico 特朗普试图向支持者传达新的中期信息：“请假装我在选票上” NBC新闻 NBC新闻 特朗普在南卡罗来纳州为达林·格雷厄姆集会 CNN 特朗普在默特尔比奇集会的实时更新我们的福克斯新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 5. [Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs - The New York Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxNMXJicWNvNlVhUFZsYjd3QXBXbnQ1MzRGYXNCM2tkUnhLWFVaNnVxYjR4dThzMEpyUVQ3SjJOcUNKYm8xR0NGMG80d3gzdW95OUxSb3dZXzI2NWpoZEpYamxIQ2dQajFvMi1udTNjYmpVQVIxWkhGazRrYy1tTTQ1c3hmVDBoVHNmbXd3QmZ0TXpIeEZ6dUpjZm1n?oc=5)
+
+- Source / 来源: The New York Times. Published: `2026-08-22T03:58:47+00:00`.
+- Keywords / 关键词: trade, tariffs, talks, washington, canada-u, collapse, imposes, canadian, deadline, canada
+- 中文关键词: 贸易、关税、会谈、华盛顿、加拿大-u、坍塌、强加、加拿大人、最后期限、加拿大
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs The New York Times Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion NBC News US is set to impose 50% tariffs on $20 billion worth of Canadian products AP News 'We have more work to do', says Canada negotiator as US trade deadline looms BBC Trump’s Canada trade deadline is hours away. Here’s what to know CNN
+- RSS 中文摘要: 加拿大与美国贸易谈判破裂；华盛顿征收新关税 《纽约时报》 加拿大总理暂停与美国的贸易谈判，启动新的 50% 关税 NBC 新闻 美国将对价值 200 亿美元的加拿大产品征收 50% 关税 美联社新闻 加拿大谈判代表表示，随着美国贸易截止日期临近，“我们还有更多工作要做” BBC 特朗普的加拿大贸易截止日期还有几个小时。这是你需要知道的 CNN
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: trade, tariffs, talks, washington, and canada-u. The available excerpt says: Canada-U.S. Trade Talks Collapse; Washington Imposes New Tariffs The New York Times Canadian prime minister suspends trade talks with U.S., setting new 50% tariffs in motion NBC News US is set to impose 50% tariffs on $20 billion worth of Canadian products AP News 'We have more work to do', says Canada negotiator as US trade deadline looms BBC Trump’s Canada trade deadline is hours away. Here’s what to know CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：贸易、关税、会谈、华盛顿、加拿大-u。RSS 中文摘要显示：加拿大与美国贸易谈判破裂；华盛顿征收新关税 《纽约时报》 加拿大总理暂停与美国的贸易谈判，启动新的 50% 关税 NBC 新闻 美国将对价值 200 亿美元的加拿大产品征收 50% 关税 美联社新闻 加拿大谈判代表表示，随着美国贸易截止日期临近，“我们还有更多工作要做” BBC 特朗普的加拿大贸易截止日期还有几个小时。这是你需要知道的 CNN 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 6. [Russian 'double-tap' strike on shopping centre in Ukraine kills 16 and wounds 130 - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5)
+
+- Source / 来源: Reuters. Published: `2026-08-21T23:57:21+00:00`.
+- Keywords / 关键词: shopping, russian, ukraine, strike, centre, double-tap, wounds, kills, attack, ukrainian
+- 中文关键词: 购物、俄罗斯、乌克兰、袭击、中心、双击、伤口、造成死亡
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Russia launches deadly missile and drone attacks on Kyiv Financial Times Huge Russian strikes on Kyiv leave 17 dead as attacks spill over to Romanian and Moldovan territory CNN Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself The New York Times Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says BBC The Night Watchers of Kyiv The Dispatch
-- RSS 中文摘要: 俄罗斯对基辅发动致命导弹和无人机袭击 英国《金融时报》 俄罗斯对基辅的大规模袭击造成 17 人死亡，袭击蔓延至罗马尼亚和摩尔多瓦领土 CNN 导弹拦截表明俄罗斯怀疑乌克兰能否自卫 纽约时报 基辅市长表示，俄罗斯在最近的袭击中“有目的地”袭击了关键基础设施 基辅守夜人
+- RSS Excerpt / RSS 摘要: Russian 'double-tap' strike on shopping centre in Ukraine kills 16 and wounds 130 Reuters Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall BBC Ukraine war briefing: Zelenskyy vows response to Russia’s deadly shopping centre attack The Guardian At least 15 killed and over 100 wounded in Russian ‘double-tap’ strike on a Ukrainian shopping center CNN Russian Drone Attack Hits Ukrainian Shopping Mall, Killing Or Injuring More Than 100 Radio Free Europe/Radio Liberty
+- RSS 中文摘要: 俄罗斯对乌克兰购物中心的“双击”袭击造成 16 人死亡、130 人受伤 路透社 官员称，在购物中心发生致命袭击的第二天，俄罗斯对乌克兰的袭击造成两人死亡 BBC 乌克兰战争简报：泽连斯基誓言对俄罗斯致命的购物中心袭击作出反应 英国《卫报》 俄罗斯对乌克兰购物中心的“双击”袭击造成至少 15 人死亡、100 多人受伤 CNN 俄罗斯无人机袭击乌克兰购物中心，造成人员死亡或伤害超过 100 名自由欧洲电台/自由电台
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: kyiv, russia, missile, attacks, and financial. The available excerpt says: Russia launches deadly missile and drone attacks on Kyiv Financial Times Huge Russian strikes on Kyiv leave 17 dead as attacks spill over to Romanian and Moldovan territory CNN Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself The New York Times Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says BBC The Night Watchers of Kyiv The Dispatch Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：基辅、俄罗斯、导弹、袭击、金融的。RSS 中文摘要显示：俄罗斯对基辅发动致命导弹和无人机袭击 英国《金融时报》 俄罗斯对基辅的大规模袭击造成 17 人死亡，袭击蔓延至罗马尼亚和摩尔多瓦领土 CNN 导弹拦截表明俄罗斯怀疑乌克兰能否自卫 纽约时报 基辅市长表示，俄罗斯在最近的袭击中“有目的地”袭击了关键基础设施 基辅守夜人 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: shopping, russian, ukraine, strike, and centre. The available excerpt says: Russian 'double-tap' strike on shopping centre in Ukraine kills 16 and wounds 130 Reuters Russian strikes on Ukraine kill two, officials say, a day after deadly attack on mall BBC Ukraine war briefing: Zelenskyy vows response to Russia’s deadly shopping centre attack The Guardian At least 15 killed and over 100 wounded in Russian ‘double-tap’ strike on a Ukrainian shopping center CNN Russian Drone Attack Hits Ukrainian Shopping Mall, Killing Or Injuring More Than 100 Radio Free Europe/Radio Liberty Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：购物、俄罗斯、乌克兰、袭击、中心。RSS 中文摘要显示：俄罗斯对乌克兰购物中心的“双击”袭击造成 16 人死亡、130 人受伤 路透社 官员称，在购物中心发生致命袭击的第二天，俄罗斯对乌克兰的袭击造成两人死亡 BBC 乌克兰战争简报：泽连斯基誓言对俄罗斯致命的购物中心袭击作出反应 英国《卫报》 俄罗斯对乌克兰购物中心的“双击”袭击造成至少 15 人死亡、100 多人受伤 CNN 俄罗斯无人机袭击乌克兰购物中心，造成人员死亡或伤害超过 100 名自由欧洲电台/自由电台 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [Live updates: Key Iranian trading partner China rejects Trump’s ‘economic D-Day’ threat - CNN](https://news.google.com/rss/articles/CBMibkFVX3lxTE5NQkZSTmhtZGZDNVQ0bTh4WHI2WUdEOTVSTVh3N2tkcl9YSHRtdW5wN0JlSzV2SnpJMWJ5eGlDTDZpVzQ5ZG9OTEN6VmEwUW9QRjAtNGc3b1ozMW4wd3l1OXhrZkZrOEJMMGU0UUJR?oc=5)
+
+- Source / 来源: CNN. Published: `2026-08-21T20:51:00+00:00`.
+- Keywords / 关键词: economic, updates, iranian, trading, partner, rejects, threat, china, trump, d-day
+- 中文关键词: 经济的、更新、伊朗的、贸易、伙伴、拒绝、威胁、中国、特朗普、诺曼底登陆日
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Live updates: Key Iranian trading partner China rejects Trump’s ‘economic D-Day’ threat CNN See more headlines & perspectives on Google News
+- RSS 中文摘要: 实时更新：伊朗主要贸易伙伴中国拒绝特朗普的“经济诺曼底登陆”威胁 CNN 在 Google 新闻上查看更多头条新闻和观点
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: economic, updates, iranian, trading, and partner. The available excerpt says: Live updates: Key Iranian trading partner China rejects Trump’s ‘economic D-Day’ threat CNN See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：经济的、更新、伊朗的、贸易、伙伴。RSS 中文摘要显示：实时更新：伊朗主要贸易伙伴中国拒绝特朗普的“经济诺曼底登陆”威胁 CNN 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 8. [Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million - The New York Times](https://news.google.com/rss/articles/CBMilAFBVV95cUxPc2VrRTFFLUhOMEljdVRlN3ZvRlpzTkpKRjJ2WllJMWFtRG9Dd1h1WHB0Y052YWUyclc3OUk3cnpjbF8wS1FBam8yYlRTcE1pdlBtT3czaWUwM3l4bzJwMVJFcmxZWGtlLTJfS3hGcDJvLXBSUkN2Sl9lb2NkeG04a0RkNXpfb1N0S2p0UXczZUZqSzBS?oc=5)
+
+- Source / 来源: The New York Times. Published: `2026-08-21T18:22:00+00:00`.
+- Keywords / 关键词: prince, harry, others, pay, publisher, million, elton, daily, john, mail
+- 中文关键词: 王子、哈利、其他的、支付、出版商、百万、埃尔顿、日常的、约翰、邮件
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million The New York Times Prince Harry and six others face privacy case legal bill of up to £34.5m BBC Prince Harry and others ordered to pay millions over failed lawsuit Reuters Prince Harry, Elton John and other celebrities hit with initial $13 million bill after losing case against UK tabloid CNN Prince Harry and others ordered to pay interim £9.5m to Daily Mail publisher The Guardian
+- RSS 中文摘要: 哈里王子、埃尔顿·约翰等人被告知向《每日邮报》出版商支付 1300 万美元 《纽约时报》 哈里王子和其他六人面临高达 3450 万英镑的隐私案件法律费用 BBC 哈里王子和其他人因诉讼失败而被勒令支付数百万英镑 路透社 哈里王子、埃尔顿·约翰和其他名人在对英国小报 CNN 败诉后，最初收到 1300 万美元的账单 哈里王子和其他人被勒令向《每日邮报》出版商《卫报》临时支付 950 万英镑
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: prince, harry, others, pay, and publisher. The available excerpt says: Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million The New York Times Prince Harry and six others face privacy case legal bill of up to £34.5m BBC Prince Harry and others ordered to pay millions over failed lawsuit Reuters Prince Harry, Elton John and other celebrities hit with initial $13 million bill after losing case against UK tabloid CNN Prince Harry and others ordered to pay interim £9.5m to Daily Mail publisher The Guardian Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：王子、哈利、其他的、支付、出版商。RSS 中文摘要显示：哈里王子、埃尔顿·约翰等人被告知向《每日邮报》出版商支付 1300 万美元 《纽约时报》 哈里王子和其他六人面临高达 3450 万英镑的隐私案件法律费用 BBC 哈里王子和其他人因诉讼失败而被勒令支付数百万英镑 路透社 哈里王子、埃尔顿·约翰和其他名人在对英国小报 CNN 败诉后，最初收到 1300 万美元的账单 哈里王子和其他人被勒令向《每日邮报》出版商《卫报》临时支付 950 万英镑 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 9. [Pentagon fires Stars and Stripes editor in chief, publisher, reporter - The Hill](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZlRCakJORmplUi1BNy0zS1BlQnZMYk9veE5zUkR5bGJJWFN0WTdEV3RHUm5aZENVVzZBdTJ4dmNIREc3bXQwd0lsZENzeXZGTG5ic3JpRlkzRVhkb1VyeFFPdjRVWEsxQThnNmR4MEpkOGcyT0FZWE91dVhPWHhZNWtJZjdqNkHSAYwBQVVfeXFMTi1CakZoOTBpRkhUczdBQlVoOF9GQ1F1ZXlhVk9jekVxdDhIZTFZaHZNTFVldzBiSjYyT2NXRXc2Nnh6RFpOaXRMcmh3VGxSYjZVVk1JbE9xQmp0WW9pRU5FekhRcF9xc0swM1hIendXbGdZTThnR1YwZ20zUzlaUkptTTNFY0FhRV8wSDE?oc=5)
+
+- Source / 来源: The Hill. Published: `2026-08-21T22:11:00+00:00`.
+- Keywords / 关键词: stripes, publisher, pentagon, stars, reporter, editor, fires, chief, hill, leadership
+- 中文关键词: 条纹、出版商、五角大楼、星星、记者、编辑、火灾、首席、爬坡道、领导
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Pentagon fires Stars and Stripes editor in chief, publisher, reporter The Hill Pentagon dismisses Stars and Stripes leadership after editor, reporter oppose military interference NBC News Trump Live Updates: Canada Tariff Deadline, White House Ballroom Construction News and More The New York Times Longtime publisher of Stars and Stripes to retire, citing differences with Pentagon leadership AP News Open Letter to Our Stakeholders from the Military Deputy to the Publisher stripes.com
+- RSS 中文摘要: 五角大楼解雇了《星条旗报》主编、出版商、记者 《山报》在编辑、记者反对军事干预后解雇了《星条旗报》的领导层 NBC 新闻 特朗普实时更新：加拿大关税截止日期、白宫舞厅建筑新闻等 《纽约时报》 星条旗报的长期出版商将退休，理由是与五角大楼领导层存在分歧 美联社新闻 军事副手致出版商 stripes.com 致利益相关者的公开信
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: stripes, publisher, pentagon, stars, and reporter. The available excerpt says: Pentagon fires Stars and Stripes editor in chief, publisher, reporter The Hill Pentagon dismisses Stars and Stripes leadership after editor, reporter oppose military interference NBC News Trump Live Updates: Canada Tariff Deadline, White House Ballroom Construction News and More The New York Times Longtime publisher of Stars and Stripes to retire, citing differences with Pentagon leadership AP News Open Letter to Our Stakeholders from the Military Deputy to the Publisher stripes.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：条纹、出版商、五角大楼、星星、记者。RSS 中文摘要显示：五角大楼解雇了《星条旗报》主编、出版商、记者 《山报》在编辑、记者反对军事干预后解雇了《星条旗报》的领导层 NBC 新闻 特朗普实时更新：加拿大关税截止日期、白宫舞厅建筑新闻等 《纽约时报》 星条旗报的长期出版商将退休，理由是与五角大楼领导层存在分歧 美联社新闻 军事副手致出版商 stripes.com 致利益相关者的公开信 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [How Israel is expanding settlements in drive to reshape West Bank - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUMXk0Mk9OR1RHcGdDZVQ5XzJYME1BZ1cwWU5WNG5QMFlIbWdNMko5WnR1ZVcwMDdDOExQb0lJVVdic2ljTGt4T2xnSzFrbUpTaVp1S0gwcVVjZw?oc=5)
+
+- Source / 来源: BBC. Published: `2026-08-21T19:31:47+00:00`.
+- Keywords / 关键词: israel, west, bank, settlements, expanding, reshape, drive, plan, settlement, france
+- 中文关键词: 以色列、西方、银行、定居点、扩大、重塑、驾驶、计划、沉降、法国
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: How Israel is expanding settlements in drive to reshape West Bank BBC Israel moves forward with internationally condemned settlement plan that could ‘bury’ two-state solution CNN US stresses opposition to Israeli West Bank annexation but avoids condemning E1 plan The Times of Israel France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project France 24 European Powers Rebuke Israel Over West Bank E1 Settlement Plan Bloomberg.com
+- RSS 中文摘要: 以色列如何扩大定居点以重塑西岸 BBC 以色列推进受到国际谴责的定居点计划，该计划可能“埋葬”两国解决方案 CNN 美国强调反对以色列吞并约旦河西岸，但避免谴责 E1 计划 以色列时报 法国、德国、英国和意大利猛烈抨击以色列的“E1”西岸定居点项目 法国 24 个欧洲列强谴责以色列西岸 E1 定居点计划 Bloomberg.com
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: israel, west, bank, settlements, and expanding. The available excerpt says: How Israel is expanding settlements in drive to reshape West Bank BBC Israel moves forward with internationally condemned settlement plan that could ‘bury’ two-state solution CNN US stresses opposition to Israeli West Bank annexation but avoids condemning E1 plan The Times of Israel France, Germany, UK and Italy slam Israel's 'E1' West Bank settler project France 24 European Powers Rebuke Israel Over West Bank E1 Settlement Plan Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：以色列、西方、银行、定居点、扩大。RSS 中文摘要显示：以色列如何扩大定居点以重塑西岸 BBC 以色列推进受到国际谴责的定居点计划，该计划可能“埋葬”两国解决方案 CNN 美国强调反对以色列吞并约旦河西岸，但避免谴责 E1 计划 以色列时报 法国、德国、英国和意大利猛烈抨击以色列的“E1”西岸定居点项目 法国 24 个欧洲列强谴责以色列西岸 E1 定居点计划 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
