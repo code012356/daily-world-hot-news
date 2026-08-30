@@ -10,155 +10,155 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-08-29T10:40:36+00:00` UTC.
+Generated at `2026-08-30T09:40:24+00:00` UTC.
 
-### 1. [Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing - AP News](https://news.google.com/rss/articles/CBMijAFBVV95cUxPaGxpdW44Q2I3WGtJczYyMF9nS1Q2RHpQeWxySF9ZYW5yU3pDSHB3dC1DeTJUSU1fWDdlUjBqTXlXQVE1d0VPVlhCOXZ1RHVSb2hBRDg3SVJpVXZRZVp3S1ItcmpaNEFzRHp2X1dvVGd3TW90VjF5VXE5WmJlYmhtSzIyX1d6YkRfVzlKUQ?oc=5)
+### 1. [Nepal floods latest: Death toll exceeds 700 as terrain and rains make aid delivery 'extremely difficult' - BBC](https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSFZyT0RfZFFQN0FVQmxaS0lNR2ZfdFhZX21LSVRaUVpRNDJBWlN5ZHRmS3l5LWFXcVExYkR4SC13ZVdOZlQwckluYW53VUI1Mzc0dTNn?oc=5)
 
-- Source / 来源: AP News. Published: `2026-08-29T09:48:00+00:00`.
-- Keywords / 关键词: missing, flood, nepal-china, survivors, families, nearly, reach, areas, await, safe
-- 中文关键词: 丢失的、洪水、尼泊尔-中国、幸存者、家庭、几乎、抵达、地区、等待、安全的
+- Source / 来源: BBC. Published: `2026-08-30T06:12:37+00:00`.
+- Keywords / 关键词: floods, nepal, difficult, extremely, delivery, exceeds, terrain, latest, death, rains
+- 中文关键词: 洪水、尼泊尔、难的、极其、送货、超过、地形、最新的、死亡、下雨
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing AP News Nepal floods latest: Foreign minister warns of new flood risk as hard-hit border region turns to 'swampland' BBC ‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods The New York Times The Himalayas are unpredictable. But countries are building there like never before CNN Kate Middleton and Prince William Issue Statement amid Summer Break Out of the Public Eye People.com
-- RSS 中文摘要: 尼泊尔和中国洪水幸存者抵达安全地区，家人等待近 3,000 名失踪人员的消息 美联社新闻 尼泊尔最新洪水：外交部长警告称，受灾严重的边境地区变成了“沼泽地”，BBC 称，尼泊尔继续寻找 2,400 名在洪水中失踪的人，造成了“巨大”的破坏 纽约时报 喜马拉雅山难以预测。但各国正在以前所未有的方式在那里建设 CNN 凯特·米德尔顿和威廉王子在暑假期间发表声明淡出公众视野 People.com
+- RSS Excerpt / RSS 摘要: Nepal floods latest: Death toll exceeds 700 as terrain and rains make aid delivery 'extremely difficult' BBC Rescuers pump air into hydropower tunnel in search for missing workers after Nepal-China flooding CNN Pilgrims to Flood-Stricken Nepal Sought the Divine at Sacred Mountain The New York Times China censors videos showing deadly flash floods on the Nepal-Tibet border BBC Rescuers race to find thousands missing after Nepal-China glacier collapse Reuters
+- RSS 中文摘要: 尼泊尔最新洪水：由于地形和降雨使援助运送“极其困难”，死亡人数超过700人 BBC救援人员在尼中洪水后向水力发电隧道中注入空气寻找失踪工人 CNN 朝圣者前往遭受洪水袭击的尼泊尔在圣山寻求神灵 《纽约时报》中国审查显示尼泊尔和西藏边境发生致命山洪的视频 BBC救援人员在尼泊尔和中国冰川崩塌后竞相寻找数千名失踪人员路透社
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: missing, flood, nepal-china, survivors, and families. The available excerpt says: Nepal-China flood survivors reach safe areas as families await news of nearly 3,000 missing AP News Nepal floods latest: Foreign minister warns of new flood risk as hard-hit border region turns to 'swampland' BBC ‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods The New York Times The Himalayas are unpredictable. But countries are building there like never before CNN Kate Middleton and Prince William Issue Statement amid Summer Break Out of the Public Eye People.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：丢失的、洪水、尼泊尔-中国、幸存者、家庭。RSS 中文摘要显示：尼泊尔和中国洪水幸存者抵达安全地区，家人等待近 3,000 名失踪人员的消息 美联社新闻 尼泊尔最新洪水：外交部长警告称，受灾严重的边境地区变成了“沼泽地”，BBC 称，尼泊尔继续寻找 2,400 名在洪水中失踪的人，造成了“巨大”的破坏 纽约时报 喜马拉雅山难以预测。但各国正在以前所未有的方式在那里建设 CNN 凯特·米德尔顿和威廉王子在暑假期间发表声明淡出公众视野 People.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: floods, nepal, difficult, extremely, and delivery. The available excerpt says: Nepal floods latest: Death toll exceeds 700 as terrain and rains make aid delivery 'extremely difficult' BBC Rescuers pump air into hydropower tunnel in search for missing workers after Nepal-China flooding CNN Pilgrims to Flood-Stricken Nepal Sought the Divine at Sacred Mountain The New York Times China censors videos showing deadly flash floods on the Nepal-Tibet border BBC Rescuers race to find thousands missing after Nepal-China glacier collapse Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：洪水、尼泊尔、难的、极其、送货。RSS 中文摘要显示：尼泊尔最新洪水：由于地形和降雨使援助运送“极其困难”，死亡人数超过700人 BBC救援人员在尼中洪水后向水力发电隧道中注入空气寻找失踪工人 CNN 朝圣者前往遭受洪水袭击的尼泊尔在圣山寻求神灵 《纽约时报》中国审查显示尼泊尔和西藏边境发生致命山洪的视频 BBC救援人员在尼泊尔和中国冰川崩塌后竞相寻找数千名失踪人员路透社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 2. [‘No sign of survivors’ at Chinese border crossing as Nepal flooding death toll passes 600 - CNN](https://news.google.com/rss/articles/CBMickFVX3lxTE5pR2ktbUNXSndQQlFUb01IWmhPdlU4VXIzZ0owTl9sd2pXZ0hYVEZDcTNPU0ZxWmh1NU5TOHo4ckZIamZDcFhjZlNUSUZPU2RhZzZpcDhPZFBCV2doZ2VnWE41VHY2M2dTdGpRQ0U5N185QQ?oc=5)
+### 2. [Vote count under way in Iceland’s knife-edge EU referendum - Al Jazeera](https://news.google.com/rss/articles/CBMilgFBVV95cUxObWstZjlILWNhVU5NRDdxcmRwRjZmWTNSd1RaZXlnZ2tneTZyNktRNldxZ09VM3pQQ0FMdUF1cWo2YWxvcVA5Q3JjSkFOLXRIVmd4MVNHZkhGbjB1eWxHSmI1a2QybklJUkQ1bXVDYm81REVVbWFXTW1VU3ZXbm04QTRTWU16ekNfRnFOQnRsbV9hOERLa0HSAZsBQVVfeXFMTWpaUGVtZEEzNTZ4RDQwZjJOWk9FOTZxeWE3QVBIbEJpLVdnaU5OUlBkTFJVQkI0TGRiRFdleVpEQ1lBcW9qVUF5ZE9zR0l1VS1UeDh1VlZyYWJlYlV1LXlYcjcyeW9wTy12VXhUM25ySXlINlh6RW56TTZJY1FsWjMxdkpyLVE4R3FmTVE1ZmFiOEN5d1NOOXBCRXc?oc=5)
 
-- Source / 来源: CNN. Published: `2026-08-29T09:34:00+00:00`.
-- Keywords / 关键词: nepal, border, survivors, crossing, flooding, chinese, passes, death, sign, toll
-- 中文关键词: 尼泊尔、边界、幸存者、穿越、洪水、中国、通过、死亡、符号、收费
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: ‘No sign of survivors’ at Chinese border crossing as Nepal flooding death toll passes 600 CNN Nepal floods latest: Foreign minister warns of new flood risk as hard-hit border region turns to 'swampland' BBC ‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods The New York Times The Himalayas are unpredictable. But countries are building there like never before CNN Kate Middleton and Prince William Issue Statement amid Summer Break Out of the Public Eye People.com
-- RSS 中文摘要: 尼泊尔洪灾死亡人数突破 600 人，中国过境点“无生还者迹象” CNN 尼泊尔洪灾最新消息：外交部长警告称，受灾严重的边境地区变成“沼泽地”，外交部长警告将出现新的洪水风险 BBC 尼泊尔继续寻找洪水中失踪的 2,400 人，造成“巨大”破坏 《纽约时报》 喜马拉雅山难以预测。但各国正在以前所未有的方式在那里建设 CNN 凯特·米德尔顿和威廉王子在暑假期间发表声明淡出公众视野 People.com
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: nepal, border, survivors, crossing, and flooding. The available excerpt says: ‘No sign of survivors’ at Chinese border crossing as Nepal flooding death toll passes 600 CNN Nepal floods latest: Foreign minister warns of new flood risk as hard-hit border region turns to 'swampland' BBC ‘Immense’ Devastation as Nepal Continues Search for 2,400 Missing in Floods The New York Times The Himalayas are unpredictable. But countries are building there like never before CNN Kate Middleton and Prince William Issue Statement amid Summer Break Out of the Public Eye People.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：尼泊尔、边界、幸存者、穿越、洪水。RSS 中文摘要显示：尼泊尔洪灾死亡人数突破 600 人，中国过境点“无生还者迹象” CNN 尼泊尔洪灾最新消息：外交部长警告称，受灾严重的边境地区变成“沼泽地”，外交部长警告将出现新的洪水风险 BBC 尼泊尔继续寻找洪水中失踪的 2,400 人，造成“巨大”破坏 《纽约时报》 喜马拉雅山难以预测。但各国正在以前所未有的方式在那里建设 CNN 凯特·米德尔顿和威廉王子在暑假期间发表声明淡出公众视野 People.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 3. [At least 27 killed after Russian drone attack triggers warehouse blast near Kyiv - CNN](https://news.google.com/rss/articles/CBMifkFVX3lxTE80N2dZNFhnSEdKMlB0WlJ5Zl90THhaNUVoUHZnX3dHOGs4cFdrMVE3Qy00bFNBZWRuZUNVLWNiX1ZhSWItQzl3cEJsLTNid0E1Um16V1Jydnl1QUdUZUIzanUwV3BQTkU5djNRTTdFclpIVHJqNVJQdU1feXFfZw?oc=5)
-
-- Source / 来源: CNN. Published: `2026-08-29T09:03:47+00:00`.
-- Keywords / 关键词: russian, warehouse, near, kyiv, triggers, attack, killed, drone, blast, strike
-- 中文关键词: 俄罗斯、仓库、靠近、基辅、触发器、袭击、死亡、无人机、爆炸
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: At least 27 killed after Russian drone attack triggers warehouse blast near Kyiv CNN Russian strike on warehouse near Kyiv kills dozens dw.com Ukraine launches investigation after Russian strike on depot near homes triggers explosions, kills 27 CBS News Russian strike on Kyiv-area warehouse causes detonation, killing 27 Reuters A Russian attack hits Ukraine's Kyiv region, killing at least 27 WPLG Local 10
-- RSS 中文摘要: 俄罗斯无人机袭击基辅附近仓库爆炸，造成至少 27 人死亡 CNN 俄罗斯袭击基辅附近仓库，造成数十人死亡 dw.com 乌克兰启动调查，俄罗斯对民宅附近仓库的袭击引发爆炸，造成 27 人死亡 CBS 新闻 俄罗斯袭击基辅地区仓库引发爆炸，造成 27 人死亡 路透社 俄罗斯袭击乌克兰基辅地区，造成至少 27 人死亡 WPLG Local 10
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: russian, warehouse, near, kyiv, and triggers. The available excerpt says: At least 27 killed after Russian drone attack triggers warehouse blast near Kyiv CNN Russian strike on warehouse near Kyiv kills dozens dw.com Ukraine launches investigation after Russian strike on depot near homes triggers explosions, kills 27 CBS News Russian strike on Kyiv-area warehouse causes detonation, killing 27 Reuters A Russian attack hits Ukraine's Kyiv region, killing at least 27 WPLG Local 10 Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：俄罗斯、仓库、靠近、基辅、触发器。RSS 中文摘要显示：俄罗斯无人机袭击基辅附近仓库爆炸，造成至少 27 人死亡 CNN 俄罗斯袭击基辅附近仓库，造成数十人死亡 dw.com 乌克兰启动调查，俄罗斯对民宅附近仓库的袭击引发爆炸，造成 27 人死亡 CBS 新闻 俄罗斯袭击基辅地区仓库引发爆炸，造成 27 人死亡 路透社 俄罗斯袭击乌克兰基辅地区，造成至少 27 人死亡 WPLG Local 10 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 4. [Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil - The New York Times](https://news.google.com/rss/articles/CBMifkFVX3lxTE9JdUUyNTNSOHRoS21NSWNDNGpIOVA4Mlp1TEh4WjhLamo4YUFyLWdsc1dpTS1HS0psZW9FT2FfUjcwWHBfV2Z3Z2Y4Ry1OMk5zY2c4Wl9fTVZQWE1DTXVheVoyb09LS0JWOEVQOUdiTzgwN29UYzVUTU9NS3NIQQ?oc=5)
-
-- Source / 来源: The New York Times. Published: `2026-08-29T02:23:47+00:00`.
-- Keywords / 关键词: oil, venezuela, trump, deal, control, large, share, announces, high, gas
-- 中文关键词: 石油、委内瑞拉、特朗普、交易、控制、大的、分享、宣布、高的、气体
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil The New York Times Trump says US reaches deal with Venezuela to control 65 billion barrels of country’s oil reserves CNN Trump announces Venezuela oil deal, as gas prices still high 6 months into Iran war The Times of Israel Venezuelan opposition up in arms over reports US wants big stake in oil and gas The Guardian World in Brief: Trump announces a Venezuela oil deal; Warsh says inflation is too high The Economist
-- RSS 中文摘要: 特朗普称美国已达成控制委内瑞拉大部分石油的协议 《纽约时报》 特朗普称美国与委内瑞拉达成协议，控制该国 650 亿桶石油储备 CNN 特朗普宣布委内瑞拉石油协议，因为伊朗战争 6 个月后天然气价格仍居高不下 以色列时报 委内瑞拉反对派因有报道称美国希望在石油和天然气中持有大量股份而勃然大怒 《卫报世界简报》：特朗普宣布委内瑞拉石油协议；沃什称通胀过高 经济学人
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: oil, venezuela, trump, deal, and control. The available excerpt says: Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil The New York Times Trump says US reaches deal with Venezuela to control 65 billion barrels of country’s oil reserves CNN Trump announces Venezuela oil deal, as gas prices still high 6 months into Iran war The Times of Israel Venezuelan opposition up in arms over reports US wants big stake in oil and gas The Guardian World in Brief: Trump announces a Venezuela oil deal; Warsh says inflation is too high The Economist Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：石油、委内瑞拉、特朗普、交易、控制。RSS 中文摘要显示：特朗普称美国已达成控制委内瑞拉大部分石油的协议 《纽约时报》 特朗普称美国与委内瑞拉达成协议，控制该国 650 亿桶石油储备 CNN 特朗普宣布委内瑞拉石油协议，因为伊朗战争 6 个月后天然气价格仍居高不下 以色列时报 委内瑞拉反对派因有报道称美国希望在石油和天然气中持有大量股份而勃然大怒 《卫报世界简报》：特朗普宣布委内瑞拉石油协议；沃什称通胀过高 经济学人 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 5. [Trump's evolving endgame for the Iran war, in 6 quotes - Axios](https://news.google.com/rss/articles/CBMic0FVX3lxTE1VQ3JEWXk2R3lFb1BTSmhWLWIxYzIyWE44U0RvYzVvcWlfVWNmSF9vU1pjQzROMHZVdW5WRHpLdlBzSHBndHNYQXpOTHktVkxWYTViM0I1cTNzYlpFZmxaSzlXejFSUFR2Sl9kWHFOTmptRXc?oc=5)
-
-- Source / 来源: Axios. Published: `2026-08-28T18:43:16+00:00`.
-- Keywords / 关键词: war, iran, evolving, trump's, endgame, quotes, axios, months, americans, iranian
-- 中文关键词: 战争、伊朗、不断发展的、特朗普的、残局、引号、轴、月、美国人、伊朗的
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump's evolving endgame for the Iran war, in 6 quotes Axios Six months into the Iran war, Iranian Americans remain divided over what comes next CNN US military families ride 'roller coaster of emotions' over six months of Iran war Reuters For Trump, the Iran War Is Stuck Between Combat and Genuine Peace The New York Times 'Is there a plan': 6 months into war, Iranian Americans worry about future USA Today
-- RSS 中文摘要: 特朗普对伊朗战争的最终结局，引述 6 条 Axios 伊朗战争爆发六个月后，伊朗裔美国人对下一步的发展仍存在分歧 CNN 美国军人家属在伊朗战争的六个月里经历了“情绪过山车” 路透社 对特朗普来说，伊朗战争陷入了战斗与真正和平之间 纽约时报“有计划吗”：战争爆发六个月后，伊朗裔美国人对未来感到担忧 《今日美国》
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: war, iran, evolving, trump's, and endgame. The available excerpt says: Trump's evolving endgame for the Iran war, in 6 quotes Axios Six months into the Iran war, Iranian Americans remain divided over what comes next CNN US military families ride 'roller coaster of emotions' over six months of Iran war Reuters For Trump, the Iran War Is Stuck Between Combat and Genuine Peace The New York Times 'Is there a plan': 6 months into war, Iranian Americans worry about future USA Today Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：战争、伊朗、不断发展的、特朗普的、残局。RSS 中文摘要显示：特朗普对伊朗战争的最终结局，引述 6 条 Axios 伊朗战争爆发六个月后，伊朗裔美国人对下一步的发展仍存在分歧 CNN 美国军人家属在伊朗战争的六个月里经历了“情绪过山车” 路透社 对特朗普来说，伊朗战争陷入了战斗与真正和平之间 纽约时报“有计划吗”：战争爆发六个月后，伊朗裔美国人对未来感到担忧 《今日美国》 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 6. [Iceland votes on whether to start EU membership talks - Reuters](https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGtFSVlzUEFyMVhTNThSd2V4a29sUUtlZVdHeC1pc2ZnaWVwVjFGNW5OQjg4MHZNaTNHc29QRXcyT2ZJN29xNDdmQVBQaDRtX0N4N1lJeTc3Q1c0NU5VWldFSkJLSG1yMzBhLVI4cHRrQlVRZlNWVHA4d0NXRVBPLURxd09aNVJWSkpNV3JaUlpXU3Q0VHp0UDgza0M?oc=5)
-
-- Source / 来源: Reuters. Published: `2026-08-29T01:02:00+00:00`.
-- Keywords / 关键词: iceland, membership, whether, votes, talks, start, icelandic, european, narrowly, opposing
-- 中文关键词: 冰岛、会员资格、无论、投票数、会谈、开始、冰岛语的、欧洲的、狭隘地、反对
+- Source / 来源: Al Jazeera. Published: `2026-08-30T05:43:46+00:00`.
+- Keywords / 关键词: iceland, referendum, vote, knife-edge, jazeera, count, under, way, membership, talks
+- 中文关键词: 冰岛、公投、投票、刀锋、半岛电视台、数数、在下面、方式、会员资格、会谈
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Iceland votes on whether to start EU membership talks Reuters Iceland votes on whether to restart talks on joining European Union NBC News A tiny nordic nation weighs moving closer to Europe under the shadow of Trump CNN Poll finds Icelandic voters swing to narrowly opposing EU membership Reuters Why Iceland and Others Might Want In, Not Out, of the E.U. Club The New York Times
-- RSS 中文摘要: 冰岛就是否启动加入欧盟谈判进行投票 路透 冰岛就是否重启加入欧盟谈判进行投票 NBC新闻 一个北欧小国考虑在特朗普的阴影下向欧洲靠拢 CNN 民意调查发现，冰岛选民以微弱优势反对加入欧盟 路透 冰岛和其他国家可能希望加入而不是退出欧盟纽约时报俱乐部
+- RSS Excerpt / RSS 摘要: Vote count under way in Iceland’s knife-edge EU referendum Al Jazeera Iceland rejects EU membership plan in referendum, public broadcaster reports CNN Iceland's vote on restarting talks on European Union membership is too close to call Politico Iceland votes on resuming EU membership talks as Trump's push for neighboring Greenland looms over debate Fox News Iceland appears to have rejected EU accession talks in referendum, reports say The Guardian
+- RSS 中文摘要: 冰岛脱欧公投正在进行中 半岛电视台冰岛在公投中拒绝加入欧盟计划，公共广播公司报道 CNN 冰岛对重启欧盟成员资格谈判的投票结果过于接近，无法召集 Politico 冰岛对恢复欧盟成员资格谈判进行投票，因为特朗普推动邻国格陵兰岛的辩论迫在眉睫
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: iceland, membership, whether, votes, and talks. The available excerpt says: Iceland votes on whether to start EU membership talks Reuters Iceland votes on whether to restart talks on joining European Union NBC News A tiny nordic nation weighs moving closer to Europe under the shadow of Trump CNN Poll finds Icelandic voters swing to narrowly opposing EU membership Reuters Why Iceland and Others Might Want In, Not Out, of the E.U. Club The New York Times Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：冰岛、会员资格、无论、投票数、会谈。RSS 中文摘要显示：冰岛就是否启动加入欧盟谈判进行投票 路透 冰岛就是否重启加入欧盟谈判进行投票 NBC新闻 一个北欧小国考虑在特朗普的阴影下向欧洲靠拢 CNN 民意调查发现，冰岛选民以微弱优势反对加入欧盟 路透 冰岛和其他国家可能希望加入而不是退出欧盟纽约时报俱乐部 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: iceland, referendum, vote, knife-edge, and jazeera. The available excerpt says: Vote count under way in Iceland’s knife-edge EU referendum Al Jazeera Iceland rejects EU membership plan in referendum, public broadcaster reports CNN Iceland's vote on restarting talks on European Union membership is too close to call Politico Iceland votes on resuming EU membership talks as Trump's push for neighboring Greenland looms over debate Fox News Iceland appears to have rejected EU accession talks in referendum, reports say The Guardian Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：冰岛、公投、投票、刀锋、半岛电视台。RSS 中文摘要显示：冰岛脱欧公投正在进行中 半岛电视台冰岛在公投中拒绝加入欧盟计划，公共广播公司报道 CNN 冰岛对重启欧盟成员资格谈判的投票结果过于接近，无法召集 Politico 冰岛对恢复欧盟成员资格谈判进行投票，因为特朗普推动邻国格陵兰岛的辩论迫在眉睫 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 7. [Trump administration appeals latest ruling blocking his mail voting order from taking effect - AP News](https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWxfNV9lZGM0QTFucVBRVmx5eVlGRnhLQlF4NmQtbVZUemxYNEVTaVNzNGNRb3lvTU5KMXY1d0VLanFGYmd2U2ZRQnhmeXE5VVNtakpiNmV6MWJYNzFqNVNXNHVyaE1CUUdKUGYzYVFxZTNDdUt2Yy1JNlhlMDI2aFBmLXQ5SzBhS1E1WmJlU3FKMUhHYkFadDNDYjF6UDk0Mmk2Nl8wN1FEREx5WlhJ?oc=5)
+### 3. [Ukraine-Russia war latest: Putin resumes strikes on Kyiv amid outrage over 34 deaths at care home - The Independent](https://news.google.com/rss/articles/CBMitAFBVV95cUxQVTVYQUwtY2RyV3NBVlJfRVRFVWtOV1h4dW5jYmZ2QS1ZWUJkUHFEaXYxa3hGVktFaUlNVUE3aklOOUdfLVhxZ2tUeGh1NDZyTkg5b1ZlRk40MXo2X0NPVEEyQXBJQjZlUjVDNTdMVGhJakFacDVmQjZuNDBmUGtLOEthRXBQLXQ3WDdkRS0yd2FVeW9Nd2JmSVA3QXJEUWtVUmNDQUNkbnB3aWtlYVhxMS03RkY?oc=5)
 
-- Source / 来源: AP News. Published: `2026-08-28T22:42:00+00:00`.
-- Keywords / 关键词: voting, trump, administration, blocking, appeals, latest, ruling, taking, effect, order
-- 中文关键词: 表决、特朗普、行政、阻塞、上诉、最新的、裁决、采取、影响、命令
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Trump administration appeals latest ruling blocking his mail voting order from taking effect AP News Mail-voting crackdown moves ahead as Trump court win opens door to federal action Fox News Judge blocks Trump’s mail-in voting plan, again Politico Election officials say mail-in ballot rules could compromise midterms USA Today Opinion | The Battle Over Mail-In Voting The New York Times
-- RSS 中文摘要: 特朗普政府对阻止其邮寄投票令生效的最新裁决提出上诉 美联社新闻 随着特朗普法院的胜利为联邦行动打开大门，邮寄投票镇压行动继续推进 福克斯新闻法官再次阻止特朗普的邮寄投票计划 政治选举官员再次表示邮寄投票规则可能会损害中期选举 《今日美国》邮寄投票之争 《纽约时报》
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: voting, trump, administration, blocking, and appeals. The available excerpt says: Trump administration appeals latest ruling blocking his mail voting order from taking effect AP News Mail-voting crackdown moves ahead as Trump court win opens door to federal action Fox News Judge blocks Trump’s mail-in voting plan, again Politico Election officials say mail-in ballot rules could compromise midterms USA Today Opinion | The Battle Over Mail-In Voting The New York Times Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：表决、特朗普、行政、阻塞、上诉。RSS 中文摘要显示：特朗普政府对阻止其邮寄投票令生效的最新裁决提出上诉 美联社新闻 随着特朗普法院的胜利为联邦行动打开大门，邮寄投票镇压行动继续推进 福克斯新闻法官再次阻止特朗普的邮寄投票计划 政治选举官员再次表示邮寄投票规则可能会损害中期选举 《今日美国》邮寄投票之争 《纽约时报》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 8. [Gov. Abbott blocks state agencies from spending money on Flock cameras - The Texas Tribune](https://news.google.com/rss/articles/CBMilAFBVV95cUxOYmhqb1JYeDlzUnNFU09MMk1GVnkzZS1hT0p3c1IzbVlaSDZFUW5MNTUxTDhwT25fUkx0cEJHM21jQXhRdEwxT0h3dm9taG9hRXBUWUFNQTFIMTVTQWJWeGpHbUdhSjNYWnBsUklpMGJBZnI0VnUtajNuTEpmb01uaUgwS0tQenh2U055NHNfME4wR3VT?oc=5)
-
-- Source / 来源: The Texas Tribune. Published: `2026-08-28T21:43:28+00:00`.
-- Keywords / 关键词: flock, texas, cameras, state, tribune, abbott, money, gov, agencies, spending
-- 中文关键词: 群、德克萨斯州、相机、状态、论坛、雅培、钱、政府、机构、开支
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Gov. Abbott blocks state agencies from spending money on Flock cameras The Texas Tribune Texas Gov. Greg Abbott moves to cut state funding for AI-powered Flock cameras amid privacy concerns Fox News Lawmakers added $1 to Texans’ car insurance policies. That money paid for thousands of Flock cameras. The Texas Tribune Could the Flock camera debate influence the race for Texas governor? KEYE Texas to cut off state funding for Flock cameras, Abbott's office says Dallas News
-- RSS 中文摘要: 州长阿博特 (Abbott) 阻止州机构在 Flock 摄像头上花钱 德克萨斯州论坛报 德克萨斯州州长格雷格·阿博特 (Greg Abbott) 因隐私问题而采取行动，削减州政府对人工智能驱动的 Flock 摄像头的资助。这笔钱用于购买数千台 Flock 相机。德克萨斯论坛报 Flock 摄像头辩论会影响德克萨斯州州长的竞选吗？雅培办公室表示，德克萨斯州 KEYE 将切断对 Flock 相机的国家资助 达拉斯新闻
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: flock, texas, cameras, state, and tribune. The available excerpt says: Gov. Abbott blocks state agencies from spending money on Flock cameras The Texas Tribune Texas Gov. Greg Abbott moves to cut state funding for AI-powered Flock cameras amid privacy concerns Fox News Lawmakers added $1 to Texans’ car insurance policies. That money paid for thousands of Flock cameras. The Texas Tribune Could the Flock camera debate influence the race for Texas governor? KEYE Texas to cut off state funding for Flock cameras, Abbott's office says Dallas News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：群、德克萨斯州、相机、状态、论坛。RSS 中文摘要显示：州长阿博特 (Abbott) 阻止州机构在 Flock 摄像头上花钱 德克萨斯州论坛报 德克萨斯州州长格雷格·阿博特 (Greg Abbott) 因隐私问题而采取行动，削减州政府对人工智能驱动的 Flock 摄像头的资助。这笔钱用于购买数千台 Flock 相机。德克萨斯论坛报 Flock 摄像头辩论会影响德克萨斯州州长的竞选吗？雅培办公室表示，德克萨斯州 KEYE 将切断对 Flock 相机的国家资助 达拉斯新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 9. [Norway mourns King Harald as Haakon VIII ascends throne - BBC](https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1NTRrRnBEWlZud19zaXhjMU04WVN0VHNVbHVESDFLUlFvcUk1VGVWWlRRWXRkLVplWEkyQjFpbzctMnk3eWFsXzFIMW5QVGh2VV9pZHlnaVEzUQ?oc=5)
-
-- Source / 来源: BBC. Published: `2026-08-28T19:40:45+00:00`.
-- Keywords / 关键词: king, norway, harald, throne, mourns, haakon, viii, ascends, death, scandal-prone
-- 中文关键词: 国王、挪威、哈拉尔德、王座、哀悼、哈康、八、上升、死亡、丑闻多发
+- Source / 来源: The Independent. Published: `2026-08-30T08:23:25+00:00`.
+- Keywords / 关键词: kyiv, war, ukraine-russia, independent, resumes, strikes, outrage, latest, deaths, putin
+- 中文关键词: 基辅、战争、乌克兰-俄罗斯、独立的、简历、袭击、暴行、最新的、死亡、普京
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Norway mourns King Harald as Haakon VIII ascends throne BBC After King Harald V’s death, what comes next for Norway’s scandal-prone royals? CNN King Haakon VIII takes throne as Norway mourns death of King Harald South China Morning Post Norwegian Line of Succession to the Throne, Explained Town & Country Magazine Ingrid Alexandra of Norway becomes Crown Princess as King Harald's death reshapes a wounded monarchy HOLA
-- RSS 中文摘要: 哈康八世登基之际，挪威哀悼哈拉尔国王 BBC 哈拉尔五世国王去世后，丑闻缠身的挪威王室接下来会发生什么？ CNN 哈康八世国王登基，挪威哀悼哈拉尔国王去世 南华早报 挪威王位继承顺序，城镇与乡村杂志解释 挪威国王英格丽德·亚历山德拉成为王储妃，哈拉尔国王去世重塑了受伤的君主制 HOLA
+- RSS Excerpt / RSS 摘要: Ukraine-Russia war latest: Putin resumes strikes on Kyiv amid outrage over 34 deaths at care home The Independent Russian Offensive Campaign Assessment, August 29, 2026 Institute for the Study of War Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year The Hill At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot BBC Russian attack on Ukrainian ammunition warehouse triggers waves of blasts, killing 37 CNN
+- RSS 中文摘要: 乌克兰-俄罗斯战争最新消息：普京在疗养院造成 34 人死亡的愤怒中恢复对基辅的袭击 俄罗斯独立进攻战役评估，2026 年 8 月 29 日 战争研究所 战争研究所 俄罗斯今年对乌克兰最致命的袭击造成死亡人数上升至 38 人 基辅武器库袭击后至少 37 人死亡，数百人撤离 BBC 俄罗斯对乌克兰弹药库的袭击引发一波又一波爆炸，造成人员伤亡37 美国有线电视新闻网
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: king, norway, harald, throne, and mourns. The available excerpt says: Norway mourns King Harald as Haakon VIII ascends throne BBC After King Harald V’s death, what comes next for Norway’s scandal-prone royals? CNN King Haakon VIII takes throne as Norway mourns death of King Harald South China Morning Post Norwegian Line of Succession to the Throne, Explained Town & Country Magazine Ingrid Alexandra of Norway becomes Crown Princess as King Harald's death reshapes a wounded monarchy HOLA Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：国王、挪威、哈拉尔德、王座、哀悼。RSS 中文摘要显示：哈康八世登基之际，挪威哀悼哈拉尔国王 BBC 哈拉尔五世国王去世后，丑闻缠身的挪威王室接下来会发生什么？ CNN 哈康八世国王登基，挪威哀悼哈拉尔国王去世 南华早报 挪威王位继承顺序，城镇与乡村杂志解释 挪威国王英格丽德·亚历山德拉成为王储妃，哈拉尔国王去世重塑了受伤的君主制 HOLA 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: kyiv, war, ukraine-russia, independent, and resumes. The available excerpt says: Ukraine-Russia war latest: Putin resumes strikes on Kyiv amid outrage over 34 deaths at care home The Independent Russian Offensive Campaign Assessment, August 29, 2026 Institute for the Study of War Death toll rises to 38 from Russia’s deadliest attack on Ukraine this year The Hill At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot BBC Russian attack on Ukrainian ammunition warehouse triggers waves of blasts, killing 37 CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：基辅、战争、乌克兰-俄罗斯、独立的、简历。RSS 中文摘要显示：乌克兰-俄罗斯战争最新消息：普京在疗养院造成 34 人死亡的愤怒中恢复对基辅的袭击 俄罗斯独立进攻战役评估，2026 年 8 月 29 日 战争研究所 战争研究所 俄罗斯今年对乌克兰最致命的袭击造成死亡人数上升至 38 人 基辅武器库袭击后至少 37 人死亡，数百人撤离 BBC 俄罗斯对乌克兰弹药库的袭击引发一波又一波爆炸，造成人员伤亡37 美国有线电视新闻网 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 10. [White House teleprompter operator ordered to pay $172K for placing prediction market bets on Trump’s speeches - NBC News](https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNU5UOVRJTEJxRjQzUnMxbUgtdTNsYXNEaXpyRTVwVmpTUDRORlpjWXA2ZTFmMUNGUW5tdno4c2pQdXI2SGt0UXE3MnhyQ241UHd0SXRXQjNUZkR1QklXU1QtTWhibDF0WjlWaE1lNmtYaUFiNHJnUmQzQ2F2dTJaNll3MGpiSXhPa0xBTzRXVkVtNERuVVFCY1dDRE93UmxieEE5U1NaYU1sdW9tU2hlUHlBME1FcDQzZzFYYUdpUDk?oc=5)
+### 4. [Pentagon to take 35% stake in Venezuela oil venture, WSJ reports - Yahoo Finance](https://news.google.com/rss/articles/CBMikgFBVV95cUxPbnZhMlJDTkxoLXdTbEM0b3JDQXRqRnUyeExUeFl6ZlNOeDR1R0NIS25KeUtnX0FMdm85bTI5VEJtZlpPTUktUDJIbUR2MWRyb1JOYUFZeXlEU3M4aXFudWk2TGdJMTNKc0dQSGNaNEFGc25sZjU0X2JxWkpVRklSYUNRcmJ1YXBpc2tZT2ZDd0lIUQ?oc=5)
 
-- Source / 来源: NBC News. Published: `2026-08-29T01:59:00+00:00`.
-- Keywords / 关键词: teleprompter, operator, house, trump, pay, ordered, white, bets, speeches, prediction
-- 中文关键词: 提词器、操作员、房子、特朗普、支付、已订购、白色的、赌注、演讲、预言
+- Source / 来源: Yahoo Finance. Published: `2026-08-30T03:50:00+00:00`.
+- Keywords / 关键词: oil, venezuela, pentagon, venture, finance, stake, yahoo, take, wsj, deal
+- 中文关键词: 石油、委内瑞拉、五角大楼、创业、金融、赌注、雅虎、拿、华尔街日报、交易
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: White House teleprompter operator ordered to pay $172K for placing prediction market bets on Trump’s speeches NBC News Ex-White House teleprompter operator to pay $172,000 for Trump speech bets BBC CFTC fines former White House aide $172,000 for trading on Trump speech information CNBC Trump teleprompter operator ordered to pay nearly $173K over Kalshi bets on speeches Fox Business Former White House teleprompter operator ordered to turn over profits, pay fine over insider trading AP News
-- RSS 中文摘要: 白宫提词器操作员因对特朗普演讲进行预测市场押注而被勒令支付 17.2 万美元 NBC 新闻 前白宫提词器操作员为特朗普演讲押注支付 172,000 美元 BBC CFTC 因利用特朗普演讲信息进行交易而对前白宫助手罚款 172,000 美元 CNBC 特朗普提词器操作员被勒令为 Kalshi 的演讲赌注支付近 17.3 万美元 福克斯商业频道 前白宫提词器操作员经营者因内幕交易被责令上缴利润并缴纳罚款 美联社新闻
+- RSS Excerpt / RSS 摘要: Pentagon to take 35% stake in Venezuela oil venture, WSJ reports Yahoo Finance ‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover The New York Times Venezuela's interim president says U.S. energy deal will last 25 years CNBC Venezuela says it retains ‘sovereignty’ following US oil deal Al Jazeera Trump’s Oil Deal Riles Both Sides of Venezuelan Political Divide Bloomberg.com
+- RSS 中文摘要: 《华尔街日报》报道称，五角大楼将持有委内瑞拉石油企业 35% 的股份 雅虎财经 “美国殖民主义的新形式”：委内瑞拉人对美国石油收购感到愤怒 《纽约时报》 委内瑞拉临时总统表示，美国能源协议将持续 25 年 CNBC 委内瑞拉表示，在美国石油协议后保留“主权” 半岛电视台 特朗普的石油协议激怒了委内瑞拉政治分歧双方 Bloomberg.com
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: teleprompter, operator, house, trump, and pay. The available excerpt says: White House teleprompter operator ordered to pay $172K for placing prediction market bets on Trump’s speeches NBC News Ex-White House teleprompter operator to pay $172,000 for Trump speech bets BBC CFTC fines former White House aide $172,000 for trading on Trump speech information CNBC Trump teleprompter operator ordered to pay nearly $173K over Kalshi bets on speeches Fox Business Former White House teleprompter operator ordered to turn over profits, pay fine over insider trading AP News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：提词器、操作员、房子、特朗普、支付。RSS 中文摘要显示：白宫提词器操作员因对特朗普演讲进行预测市场押注而被勒令支付 17.2 万美元 NBC 新闻 前白宫提词器操作员为特朗普演讲押注支付 172,000 美元 BBC CFTC 因利用特朗普演讲信息进行交易而对前白宫助手罚款 172,000 美元 CNBC 特朗普提词器操作员被勒令为 Kalshi 的演讲赌注支付近 17.3 万美元 福克斯商业频道 前白宫提词器操作员经营者因内幕交易被责令上缴利润并缴纳罚款 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: oil, venezuela, pentagon, venture, and finance. The available excerpt says: Pentagon to take 35% stake in Venezuela oil venture, WSJ reports Yahoo Finance ‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover The New York Times Venezuela's interim president says U.S. energy deal will last 25 years CNBC Venezuela says it retains ‘sovereignty’ following US oil deal Al Jazeera Trump’s Oil Deal Riles Both Sides of Venezuelan Political Divide Bloomberg.com Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：石油、委内瑞拉、五角大楼、创业、金融。RSS 中文摘要显示：《华尔街日报》报道称，五角大楼将持有委内瑞拉石油企业 35% 的股份 雅虎财经 “美国殖民主义的新形式”：委内瑞拉人对美国石油收购感到愤怒 《纽约时报》 委内瑞拉临时总统表示，美国能源协议将持续 25 年 CNBC 委内瑞拉表示，在美国石油协议后保留“主权” 半岛电视台 特朗普的石油协议激怒了委内瑞拉政治分歧双方 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 5. [Manhunt underway after deadly shooting at ‘rave’ in Switzerland - CNN](https://news.google.com/rss/articles/CBMihgFBVV95cUxQbW5TSTNsZW0zOWFYVXR1by1MSThEb01WSm9yN1NLc3ZsRWU3NjY2VGpFOEFKMXRfbHlvODI5Y0pHdkdqMl9uQUt1dVNsejU5cFo5U0JDenJhU2FCQldJWllhcXpXS2t3NlZERlREdVU0Q2tvektQeGI2MVYzSHNPRW45T0xidw?oc=5)
+
+- Source / 来源: CNN. Published: `2026-08-30T06:57:44+00:00`.
+- Keywords / 关键词: shooting, switzerland, rave, underway, manhunt, deadly, injured, police, say, breaking
+- 中文关键词: 射击、瑞士、狂欢、进行、追捕、致命、受伤、警察、说、打破
+- Category / 分类: Public safety and society / 公共安全与社会
+- RSS Excerpt / RSS 摘要: Manhunt underway after deadly shooting at ‘rave’ in Switzerland CNN Shooting at rave in Switzerland kills 1 and injures 5 CBC One dead and five injured after shooting in Switzerland, police say BBC 1 killed, 5 injured in Swiss shooting, police say ABC News - Breaking News, Latest News and Videos Shooting breaks out at rave in Switzerland AP News
+- RSS 中文摘要: 瑞士“锐舞”发生致命枪击事件后正在进行搜捕 CNN 瑞士锐舞中发生枪击事件，造成 1 人死亡、5 人受伤 CBC 瑞士发生枪击事件，造成 1 人死亡、5 人受伤，警方称 BBC 瑞士枪击事件造成 1 人死亡、5 人受伤
+- EN Summary: This story centers on harm to people, emergency response, or social disruption.
+- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
+- EN Detailed Reading: Key signals: shooting, switzerland, rave, underway, and manhunt. The available excerpt says: Manhunt underway after deadly shooting at ‘rave’ in Switzerland CNN Shooting at rave in Switzerland kills 1 and injures 5 CBC One dead and five injured after shooting in Switzerland, police say BBC 1 killed, 5 injured in Swiss shooting, police say ABC News - Breaking News, Latest News and Videos Shooting breaks out at rave in Switzerland AP News Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
+- 中文详细解读: 关键词信号：射击、瑞士、狂欢、进行、追捕。RSS 中文摘要显示：瑞士“锐舞”发生致命枪击事件后正在进行搜捕 CNN 瑞士锐舞中发生枪击事件，造成 1 人死亡、5 人受伤 CBC 瑞士发生枪击事件，造成 1 人死亡、5 人受伤，警方称 BBC 瑞士枪击事件造成 1 人死亡、5 人受伤 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
+- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
+- 后续关注: 官方调查；确认伤亡数字；预防措施
+
+### 6. [Strait of Hormuz traffic remains below normal as US sanctions pressure Iran - Fox News](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZDZDNUhNUXl2M3BMMUYxV1huTmFxTHcxbXZtRmpRZDRhaFZHTXhzUXVmVEFnN0h6cTJBTkh5OHpxY3pvYlBOOC1TOHJ4ZjZ2X1pNcHV4dy11U2R2ODhsVUhodDZlZW5taDc3dzF0bzNmSDdxQ1V4WWU0YTZvZ3pzQ1F6bUJtaElOenpQR0hMVXJSbV9oeEtyX2dxS3c3UGdTSDhBYg?oc=5)
+
+- Source / 来源: Fox News. Published: `2026-08-30T01:47:04+00:00`.
+- Keywords / 关键词: sanctions, iran, fox, pressure, traffic, remains, strait, hormuz, normal, below
+- 中文关键词: 制裁、伊朗、狐狸、压力、交通、遗迹、海峡、霍尔木兹、普通的、以下
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Strait of Hormuz traffic remains below normal as US sanctions pressure Iran Fox News War weighs on Iran's economy as US intensifies sanctions Reuters U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare CNBC Embattled Iranian president admits crippling US sanctions suffocating Tehran: ‘We are in a war situation’ New York Post Millions of barrels of Iranian oil sit beyond Trump blockade as he vows ‘zero leakage’ Fox News
+- RSS 中文摘要: 美国制裁压力下，霍尔木兹海峡交通仍低于正常水平 伊朗 福克斯新闻 随着美国加强制裁，战争给伊朗经济带来压力 路透 特朗普政府转向经济战，美国海军封锁大幅削减伊朗石油出口 CNBC 陷入困境的伊朗总统承认美国制裁令德黑兰窒息：“我们正处于战争局势” 纽约邮报 数百万桶伊朗石油位于特朗普封锁范围之外，他发誓“零泄漏” 福克斯新闻
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: sanctions, iran, fox, pressure, and traffic. The available excerpt says: Strait of Hormuz traffic remains below normal as US sanctions pressure Iran Fox News War weighs on Iran's economy as US intensifies sanctions Reuters U.S. Navy blockade slashes Iran oil exports as Trump administration shifts to economic warfare CNBC Embattled Iranian president admits crippling US sanctions suffocating Tehran: ‘We are in a war situation’ New York Post Millions of barrels of Iranian oil sit beyond Trump blockade as he vows ‘zero leakage’ Fox News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：制裁、伊朗、狐狸、压力、交通。RSS 中文摘要显示：美国制裁压力下，霍尔木兹海峡交通仍低于正常水平 伊朗 福克斯新闻 随着美国加强制裁，战争给伊朗经济带来压力 路透 特朗普政府转向经济战，美国海军封锁大幅削减伊朗石油出口 CNBC 陷入困境的伊朗总统承认美国制裁令德黑兰窒息：“我们正处于战争局势” 纽约邮报 数百万桶伊朗石油位于特朗普封锁范围之外，他发誓“零泄漏” 福克斯新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [Breaking silence, Netanyahu decries ‘criminal violence’ after settlers again raid besieged village - The Times of Israel](https://news.google.com/rss/articles/CBMixAFBVV95cUxPa1ROcXRPbmdvUWRnT3RaWWlZajZmT2tfMGxIeGpBM1NaUXZTTHM1TXdWc1BrYUxoSk0takZETkxfb2xjS0lqWS1hYjhza0M3cmhxWWJsREN4WkZDZ19fSm5wRll2NDM0OFJlanA0dmtaejhHZWJNbU1ud3RDalBoRWs0cUVVcHJ5NElDUTU3NzFsc3Mzc3ZxaWlDbjctLVotZ0xxNm5mVk8xTkNCaUlMbFd4WHRZOXRWbl9XN1JXM0JzTUJW0gHKAUFVX3lxTE1rUWdoSVl6QnN2T1paYlM0Mjl2dFc0eEwyN1pVQjkyT3F0S084U3NCYWJNSkl0S3hXT000aVU2a0F4ZUVkb0RMM0Y0YzZHOGxPcHBDWTdwY2N6MkFJcXJENnEwS2JfeEJReTdvZGtEZXNTZGRjVkpfUWxVSjRRejdvWG0xM0o4OVJJaGJVamZaY1VSREdrSjJ0czdEb0Z4bDZuNzZPT0pqVWlWYW9GU1cxZ2F5OGIyWnM0dGo0Zmd4Vzl4bERWOUhwWVE?oc=5)
+
+- Source / 来源: The Times of Israel. Published: `2026-08-30T08:56:41+00:00`.
+- Keywords / 关键词: settlers, netanyahu, violence, breaking, criminal, besieged, silence, decries, village, israel
+- 中文关键词: 定居者、内塔尼亚胡、暴力、打破、刑事、被围困、沉默、谴责、村庄、以色列
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Breaking silence, Netanyahu decries ‘criminal violence’ after settlers again raid besieged village The Times of Israel Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes The New York Times Netanyahu condemns rioters after weeks of West Bank settler violence, and other Middle East news Dallas News Israeli settlers attack Palestinian homes in West Bank DW.com Israeli settlers stage new attack on home in West Bank's Qusra, witnesses say Reuters
+- RSS 中文摘要: 定居者再次袭击被围困的村庄后，内塔尼亚胡打破沉默，谴责“犯罪暴力” 《以色列时报》 以色列定居者攻击巴勒斯坦人，遭到严厉谴责 《纽约时报》 内塔尼亚胡在约旦河西岸定居者暴力事件持续数周后谴责骚乱者以及其他中东新闻 达拉斯新闻 以色列定居者袭击约旦河西岸的巴勒斯坦房屋 DW.com 目击者称，以色列定居者对约旦河西岸 Qusra 的房屋发动新的袭击 路透
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: settlers, netanyahu, violence, breaking, and criminal. The available excerpt says: Breaking silence, Netanyahu decries ‘criminal violence’ after settlers again raid besieged village The Times of Israel Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes The New York Times Netanyahu condemns rioters after weeks of West Bank settler violence, and other Middle East news Dallas News Israeli settlers attack Palestinian homes in West Bank DW.com Israeli settlers stage new attack on home in West Bank's Qusra, witnesses say Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：定居者、内塔尼亚胡、暴力、打破、刑事。RSS 中文摘要显示：定居者再次袭击被围困的村庄后，内塔尼亚胡打破沉默，谴责“犯罪暴力” 《以色列时报》 以色列定居者攻击巴勒斯坦人，遭到严厉谴责 《纽约时报》 内塔尼亚胡在约旦河西岸定居者暴力事件持续数周后谴责骚乱者以及其他中东新闻 达拉斯新闻 以色列定居者袭击约旦河西岸的巴勒斯坦房屋 DW.com 目击者称，以色列定居者对约旦河西岸 Qusra 的房屋发动新的袭击 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 8. [Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S. - NPR](https://news.google.com/rss/articles/CBMilgFBVV95cUxNS2NlNzBzR01zelUwTjVOZzJVZmZ5OXpyck9YSjBoQUtWQW9uUU54V1F4cFVtR1hySW9pNWlFTDcwSEt3ZnpFVi0zSHkzRWtleEFJLVJBV2hfUUJXTGNvdzR0c1R2RVdwUHJoNTNPZUVMTXZmdVdLZS05QmI4OUFjcExPQ240elcyN1BWN1JOV2dSZnp3ZlE?oc=5)
+
+- Source / 来源: NPR. Published: `2026-08-29T21:09:14+00:00`.
+- Keywords / 关键词: yiannopoulos, milo, deported, far-right, immigration, critic, ice, provocateur, arrest, washington
+- 中文关键词: 扬诺普洛斯、米洛、被驱逐出境、极右派、移民、评论家、冰、挑衅者、逮捕、华盛顿
+- Category / 分类: Global affairs / 全球事务
+- RSS Excerpt / RSS 摘要: Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S. NPR British far-right provocateur Milo Yiannopoulos deported by ICE The Washington Post Milo Yiannopoulos deported to the U.K. one day after ICE arrest NBC News Milo Yiannopoulos deported after ICE arrest and detention at major Louisiana removal hub Fox News US arrests far-right provocateur Milo Yiannopoulos DW.com
+- RSS 中文摘要: 美国移民的极右翼批评者米洛·扬诺普洛斯 (Milo Yiannopoulos) 被美国 NPR 驱逐出境 英国极右翼煽动者米洛·扬诺普洛斯 (Milo Yiannopoulos) 被 ICE 驱逐出境 《华盛顿邮报》 米洛·扬诺普洛斯 (Milo Yiannopoulos) 在 ICE 逮捕一天后被驱逐到英国 NBC 新闻 米洛·扬诺普洛斯 (Milo Yiannopoulos) 在 ICE 逮捕并在路易斯安那州主要遣返中心拘留后被驱逐出境 福克斯新闻 美国逮捕极右翼挑衅者 Milo Yiannopoulos DW.com
+- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
+- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
+- EN Detailed Reading: Key signals: yiannopoulos, milo, deported, far-right, and immigration. The available excerpt says: Milo Yiannopoulos, far-right critic of U.S. immigration, is deported from U.S. NPR British far-right provocateur Milo Yiannopoulos deported by ICE The Washington Post Milo Yiannopoulos deported to the U.K. one day after ICE arrest NBC News Milo Yiannopoulos deported after ICE arrest and detention at major Louisiana removal hub Fox News US arrests far-right provocateur Milo Yiannopoulos DW.com Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
+- 中文详细解读: 关键词信号：扬诺普洛斯、米洛、被驱逐出境、极右派、移民。RSS 中文摘要显示：美国移民的极右翼批评者米洛·扬诺普洛斯 (Milo Yiannopoulos) 被美国 NPR 驱逐出境 英国极右翼煽动者米洛·扬诺普洛斯 (Milo Yiannopoulos) 被 ICE 驱逐出境 《华盛顿邮报》 米洛·扬诺普洛斯 (Milo Yiannopoulos) 在 ICE 逮捕一天后被驱逐到英国 NBC 新闻 米洛·扬诺普洛斯 (Milo Yiannopoulos) 在 ICE 逮捕并在路易斯安那州主要遣返中心拘留后被驱逐出境 福克斯新闻 美国逮捕极右翼挑衅者 Milo Yiannopoulos DW.com 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
+- EN What to watch: follow-up reporting; official statements; regional or market reaction
+- 后续关注: 后续报道；官方声明；地区或市场反应
+
+### 9. [Soldiers in Niger Attack Presidential Palace and Airport, Shaking Junta - The New York Times](https://news.google.com/rss/articles/CBMihwFBVV95cUxPdmNtb2lsNlI4N0hENTBVdzBQUDk4dHNOZVp1aWpLSW93QW5oRklSb2k1NFVZZjBoY19qM2g4T0lTV1VCNTlrWFhfcEhoeWhRbUVUZjVJZzVuUU5acTZYcW82X0VqMC1ZYmNTR1ZPTVFWQ0prZ1JXZjFEOHJmTFlDMFVORWFRRWc?oc=5)
+
+- Source / 来源: The New York Times. Published: `2026-08-29T22:14:16+00:00`.
+- Keywords / 关键词: soldiers, niger, airport, attack, presidential, shaking, palace, junta, mutiny, presidency
+- 中文关键词: 士兵、尼日尔、飞机场、袭击、总统、摇晃、宫殿、军政府、兵变、总统职位
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Soldiers in Niger Attack Presidential Palace and Airport, Shaking Junta The New York Times Niger says it regains control of airbase after soldiers mutiny Reuters Dozens of soldiers killed or arrested after an apparent mutiny in Niger’s capital, state TV reports Dallas News An African country rich in gold and uranium shaken by fresh coup threat 3 years after military takeover as soldiers attack the presidency Business Insider Africa Situation in Niger 'not stabilised yet' as security forces deploy around airport France 24
+- RSS 中文摘要: 尼日尔士兵袭击总统府和机场，震撼军政府 《纽约时报》 尼日尔表示，士兵叛变后重新控制了空军基地 路透社 国家电视台报道，尼日尔首都发生明显叛变后，数十名士兵被杀或被捕 达拉斯新闻 军事接管三年后，一个富含黄金和铀的非洲国家因新的政变威胁而动摇，士兵袭击总统职位 非洲商业内幕 尼日尔局势“尚未稳定”，安全部队在周边部署法国机场 24
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: soldiers, niger, airport, attack, and presidential. The available excerpt says: Soldiers in Niger Attack Presidential Palace and Airport, Shaking Junta The New York Times Niger says it regains control of airbase after soldiers mutiny Reuters Dozens of soldiers killed or arrested after an apparent mutiny in Niger’s capital, state TV reports Dallas News An African country rich in gold and uranium shaken by fresh coup threat 3 years after military takeover as soldiers attack the presidency Business Insider Africa Situation in Niger 'not stabilised yet' as security forces deploy around airport France 24 Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：士兵、尼日尔、飞机场、袭击、总统。RSS 中文摘要显示：尼日尔士兵袭击总统府和机场，震撼军政府 《纽约时报》 尼日尔表示，士兵叛变后重新控制了空军基地 路透社 国家电视台报道，尼日尔首都发生明显叛变后，数十名士兵被杀或被捕 达拉斯新闻 军事接管三年后，一个富含黄金和铀的非洲国家因新的政变威胁而动摇，士兵袭击总统职位 非洲商业内幕 尼日尔局势“尚未稳定”，安全部队在周边部署法国机场 24 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [Ontario premier slams Trump's executive order to rename Lake Ontario as Seneca Nation calls for reversal - CBS News](https://news.google.com/rss/articles/CBMidkFVX3lxTE5pbUJoZVNna3hpcl9LLXRlZnF3blpLdV9pVDhzbk5Qc0daejZ4eTJaVE9rVE1XR2Z6TTA2aVBDZVE5azFqZGNYV2dOcldsNE1pZ3FlZW1wR3oxSmVDUC1Mc2RCQjh6QXF2SkhNWEtwRW5vak9uWWc?oc=5)
+
+- Source / 来源: CBS News. Published: `2026-08-29T20:26:00+00:00`.
+- Keywords / 关键词: ontario, lake, premier, trump's, executive, reversal, rename, seneca, nation, slams
+- 中文关键词: 安大略省、湖、总理、特朗普的、管理人员、逆转、重命名、塞内卡、国家、大满贯
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Ontario premier slams Trump's executive order to rename Lake Ontario as Seneca Nation calls for reversal CBS News ‘Lake America’? These Upstate New Yorkers Aren’t Letting Go of ‘Ontario.’ The New York Times Ontario premier answers Trump’s ‘Lake America’ with giant ‘Lake Ontario’ sign Dallas News Donald Trump supporters reportedly threaten to ‘boycott’ NFL Yahoo Sports Trump's naming game expands to buildings, ships, money and more USA Today
+- RSS 中文摘要: 安大略省总理猛烈抨击特朗普将安大略湖重新命名为“美国湖”的行政命令，塞内卡国家组织呼吁撤销哥伦比亚广播公司新闻“美国湖”？这些纽约州北部的人不会放弃“安大略”。《纽约时报》安大略省省长用巨大的“安大略湖”标志回应特朗普的“美国湖”达拉斯新闻据报道唐纳德·特朗普的支持者威胁要“抵制”NFL雅虎体育特朗普的命名游戏扩展到建筑物、船舶、金钱等等《今日美国》
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: ontario, lake, premier, trump's, and executive. The available excerpt says: Ontario premier slams Trump's executive order to rename Lake Ontario as Seneca Nation calls for reversal CBS News ‘Lake America’? These Upstate New Yorkers Aren’t Letting Go of ‘Ontario.’ The New York Times Ontario premier answers Trump’s ‘Lake America’ with giant ‘Lake Ontario’ sign Dallas News Donald Trump supporters reportedly threaten to ‘boycott’ NFL Yahoo Sports Trump's naming game expands to buildings, ships, money and more USA Today Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：安大略省、湖、总理、特朗普的、管理人员。RSS 中文摘要显示：安大略省总理猛烈抨击特朗普将安大略湖重新命名为“美国湖”的行政命令，塞内卡国家组织呼吁撤销哥伦比亚广播公司新闻“美国湖”？这些纽约州北部的人不会放弃“安大略”。《纽约时报》安大略省省长用巨大的“安大略湖”标志回应特朗普的“美国湖”达拉斯新闻据报道唐纳德·特朗普的支持者威胁要“抵制”NFL雅虎体育特朗普的命名游戏扩展到建筑物、船舶、金钱等等《今日美国》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
