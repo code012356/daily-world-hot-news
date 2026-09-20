@@ -1,39 +1,38 @@
 {
-  "generated_at": "2026-09-19T08:27:46+00:00",
+  "generated_at": "2026-09-20T08:59:11+00:00",
   "timezone": "UTC",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm5OcEJPRTNTNExGNHF4djlyWlNHNUhpWXEzNnIyUTl5M2NXeWZXYUl4YXRfaEtIWDRGYUdXMHNIYldhYUlhZzJjZjRHbWZ3em5VeGNyWkxVc2xGUnJwQlpJOFktVUtiXzY3Q0F4UTNwaEFja1RfSnc1ZENweWM2VExlNlNlQ2xYWEF2T2hDRFdYSVRQR00zVTRxMDVmcUIyZEE4ay10VW5URzNjUkE?oc=5",
-      "published_at": "2026-09-19T07:21:23+00:00",
-      "description": "Russia holds parliamentary vote in areas it seized from Ukraine in the war AP News See more headlines & perspectives on Google News",
-      "description_zh": "俄罗斯在战争中从乌克兰夺取的地区举行议会投票 美联社新闻 在 Google 新闻上查看更多头条新闻和观点",
+      "title": "In Significant Escalation, Houthis Attack Saudi Capital - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRWRVamhDNXpOdVREbjhlTFFEaTB1X3ZfWUtPMWRKZmZvYnFpdGdCMXkwLVBVMmZNLW81MjlBdGVsWFpMZXZHRld5M1BhOUNiREtMN0p3Y0VTUEJVRDZuR3hnVHA0SHM0b0RyNjR6R2xpeDg0UlNPZUVQeTh6Tzd5RmJHTk96MVFvb2pEdg?oc=5",
+      "published_at": "2026-09-20T06:38:00+00:00",
+      "description": "In Significant Escalation, Houthis Attack Saudi Capital The New York Times Houthis say they targeted Saudi capital with ballistic missiles BBC Saudi-led coalition says defences intercept Houthi missile fired at Riyadh Al Jazeera Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with a ballistic missile apnews.com Yemen’s Houthis Claim Attack on Saudi Capital After Fuel Depot Burns at Airport WSJ",
+      "description_zh": "胡塞武装袭击沙特首都的事件大幅升级 《纽约时报》 胡塞武装表示，他们用弹道导弹瞄准沙特首都 BBC 沙特领导的联军表示，防御系统拦截了胡塞武装向利雅得发射的导弹 半岛电视台 沙特阿拉伯证实，也门胡塞武装试图用弹道导弹袭击其首都 apnews.com 也门胡塞武装声称在机场燃料库被烧毁后袭击了沙特首都 华尔街日报",
       "keywords": [
-        "parliamentary",
-        "ukraine",
-        "russia",
-        "seized",
-        "holds",
-        "areas",
-        "vote",
-        "war",
-        "perspectives",
-        "headlines"
+        "capital",
+        "saudi",
+        "houthis",
+        "attack",
+        "significant",
+        "escalation",
+        "ballistic",
+        "missile",
+        "houthi",
+        "yemen"
       ],
       "keywords_zh": [
-        "议会",
-        "乌克兰",
-        "俄罗斯",
-        "查获的",
-        "持有",
-        "地区",
-        "投票",
-        "战争",
-        "观点",
-        "头条新闻"
+        "首都",
+        "沙特",
+        "胡塞武装",
+        "袭击",
+        "重要的",
+        "升级",
+        "弹道的",
+        "导弹",
+        "也门"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -42,8 +41,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: parliamentary, ukraine, russia, seized, and holds. The available excerpt says: Russia holds parliamentary vote in areas it seized from Ukraine in the war AP News See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：议会、乌克兰、俄罗斯、查获的、持有。RSS 中文摘要显示：俄罗斯在战争中从乌克兰夺取的地区举行议会投票 美联社新闻 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: capital, saudi, houthis, attack, and significant. The available excerpt says: In Significant Escalation, Houthis Attack Saudi Capital The New York Times Houthis say they targeted Saudi capital with ballistic missiles BBC Saudi-led coalition says defences intercept Houthi missile fired at Riyadh Al Jazeera Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with a ballistic missile apnews.com Yemen’s Houthis Claim Attack on Saudi Capital After Fuel Depot Burns at Airport WSJ Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：首都、沙特、胡塞武装、袭击、重要的。RSS 中文摘要显示：胡塞武装袭击沙特首都的事件大幅升级 《纽约时报》 胡塞武装表示，他们用弹道导弹瞄准沙特首都 BBC 沙特领导的联军表示，防御系统拦截了胡塞武装向利雅得发射的导弹 半岛电视台 沙特阿拉伯证实，也门胡塞武装试图用弹道导弹袭击其首都 apnews.com 也门胡塞武装声称在机场燃料库被烧毁后袭击了沙特首都 华尔街日报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -58,194 +57,34 @@
     },
     {
       "rank": 2,
-      "title": "Trump bans CNN, MS NOW and Politico from White House - Axios",
-      "source": "Axios",
+      "title": "Trump bans CNN, MS NOW and Politico from White House - axios.com",
+      "source": "axios.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtVWpKOWNSbVY1Znl3Ym1HeF9uZGZ4ZjNIaWplekxZMnhLaDdoNTNIaXJHenZQZTUtb083SlFuWVBRS1RZVmlFZFUzV3FEbjN2MFlfSE1RUHM3aVlCQ3ozR1MzY2FzdFRYSl8xZ1o4UHVMb3dseTAwQUtHZ3gwWEk?oc=5",
-      "published_at": "2026-09-19T05:38:17+00:00",
-      "description": "Trump bans CNN, MS NOW and Politico from White House Axios Trump accuses CNN, Politico, MS NOW of ‘fake news,’ bans them from White House The Times of Israel Speak at Your Own Risk The Atlantic Trump says he’s banning media outlets, including POLITICO, from White House Politico Hegseth backs Trump on banning media outlets The Hill",
-      "description_zh": "特朗普禁止 CNN、MS NOW 和 Politico 进入白宫 Axios 特朗普指责 CNN、Politico、MS NOW 为“假新闻”，并禁止他们进入白宫 以色列时报 言论自担风险 大西洋月刊 特朗普表示，他将禁止包括 POLITICO 在内的媒体进入白宫 Politico 赫格斯支持特朗普禁止媒体的做法 The Hill",
+      "published_at": "2026-09-19T22:47:31+00:00",
+      "description": "Trump bans CNN, MS NOW and Politico from White House axios.com News Outlets Express Solidarity After Trump Bars Some Reporters The New York Times CNN, MS NOW, POLITICO journalists denied access to the White House after Trump said he'd bar them Euronews.com Inside the White House media ban Politico White House faces mounting legal backlash after barring journalists from CNN, MS NOW and Politico NBC News",
+      "description_zh": "特朗普禁止 CNN、MS NOW 和 Politico 进入白宫 axios.com 新闻媒体在特朗普禁止部分记者后表达声援 《纽约时报》 CNN、MS NOW、POLITICO 记者在特朗普表示将禁止他们进入白宫后被拒绝",
       "keywords": [
         "politico",
-        "trump",
         "white",
         "house",
-        "bans",
+        "trump",
+        "com",
         "axios",
-        "banning",
-        "outlets",
-        "media",
-        "including"
+        "bans",
+        "journalists",
+        "solidarity",
+        "reporters"
       ],
       "keywords_zh": [
         "政治报",
-        "特朗普",
         "白色的",
         "房子",
-        "禁令",
+        "特朗普",
+        "com",
         "轴",
-        "禁止",
-        "网点",
-        "媒体",
-        "包括"
-      ],
-      "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
-      },
-      "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: politico, trump, white, house, and bans. The available excerpt says: Trump bans CNN, MS NOW and Politico from White House Axios Trump accuses CNN, Politico, MS NOW of ‘fake news,’ bans them from White House The Times of Israel Speak at Your Own Risk The Atlantic Trump says he’s banning media outlets, including POLITICO, from White House Politico Hegseth backs Trump on banning media outlets The Hill Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：政治报、特朗普、白色的、房子、禁令。RSS 中文摘要显示：特朗普禁止 CNN、MS NOW 和 Politico 进入白宫 Axios 特朗普指责 CNN、Politico、MS NOW 为“假新闻”，并禁止他们进入白宫 以色列时报 言论自担风险 大西洋月刊 特朗普表示，他将禁止包括 POLITICO 在内的媒体进入白宫 Politico 赫格斯支持特朗普禁止媒体的做法 The Hill 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
-        "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
-        ],
-        "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "title": "Trump says deal with Denmark gives US ‘permanent control’ over Greenland - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDVxdU8tLW5CMWJsU09LZjI2ajNiV3BoeEJzUkMxUHVIUzlMM0owem1TSm9jR2duTDRlMVNVaTR6T3lhQURzbC1hMXF3SUxxamN2TU9qdEVXYXNZa3ZJVDBncWdSU2pqNzdxN014b2hVanlYbE9hLTVHOTV2TkRMWUpXQURUbFo1a1Q4R1NaQjJsdjl3bnZ6Qjc1YnVhY3ZlZklhYlhtOVFqbkR5TGFHUGNSMNIBuAFBVV95cUxNM2hkbUFHWEdiQ1ktblBkWFNyek1ZeUdaZjNpb25aZ2JBa2NYMldMei1tanhYV2hsNUh4VkMxNTRFVHhQVkl2akJscUxraDVNNHh5ckVEcFZvamdVVU1sb253cU5PZXVfV1poeWVQd2J5ZVBwVjVwTDZaeXlsQ3gwNlhaWjJGZDhyYWs4NFFWSzlsYjVFRUVJRnJySW5TQkdxRk02SEdtMVhuS2pOWEtGbm9GNlNqejRU?oc=5",
-      "published_at": "2026-09-19T06:38:31+00:00",
-      "description": "Trump says deal with Denmark gives US ‘permanent control’ over Greenland Al Jazeera U.S. and Denmark Reach Security Deal on Greenland, Trump Says The New York Times U.S. Reaches Greenland Security Agreement WSJ Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark cnbc.com The Greenland Fiasco Stumbles to an End The Atlantic",
-      "description_zh": "特朗普称与丹麦的协议赋予美国对格陵兰岛的“永久控制权”",
-      "keywords": [
-        "greenland",
-        "denmark",
-        "trump",
-        "deal",
-        "permanent",
-        "control",
-        "jazeera",
-        "gives",
-        "security",
-        "agreement"
-      ],
-      "keywords_zh": [
-        "格陵兰",
-        "丹麦",
-        "特朗普",
-        "交易",
-        "永恒的",
-        "控制",
-        "半岛电视台",
-        "给出",
-        "安全",
-        "协议"
-      ],
-      "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
-      },
-      "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: greenland, denmark, trump, deal, and permanent. The available excerpt says: Trump says deal with Denmark gives US ‘permanent control’ over Greenland Al Jazeera U.S. and Denmark Reach Security Deal on Greenland, Trump Says The New York Times U.S. Reaches Greenland Security Agreement WSJ Trump says U.S. to build a 'large Military presence' in Greenland as part of a security deal with it and Denmark cnbc.com The Greenland Fiasco Stumbles to an End The Atlantic Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：格陵兰、丹麦、特朗普、交易、永恒的。RSS 中文摘要显示：特朗普称与丹麦的协议赋予美国对格陵兰岛的“永久控制权” 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
-        "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
-        ],
-        "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "title": "Trump says son has paid back Russian for wedding party - washingtonpost.com",
-      "source": "washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZlJxQ0gxb0hBYWRQV3ZwZjVTalRuYTR1MmdiY1E2TG9EdEdOdkZWdDFnU0V4VEluUWZVV0tBUHdSNVpMM1FJRG83SzhJMm1Ec0x1M1JmSEZrNl9KSHNNbmVKOUZWU1cwQTB2ZDZfRGIxQ3dYemdCU1hiaHBBOHljcjVWMXFVMUl4VTBDNWc0THlXQVVBdmYxeU1qYllnOENidTJqLQ?oc=5",
-      "published_at": "2026-09-19T04:21:05+00:00",
-      "description": "Trump says son has paid back Russian for wedding party washingtonpost.com Trump says his son paid back Russian billionaire who funded parts of wedding celebration CNN Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin ProPublica Trump says his son told him he will repay Russian oligarch for wedding parties Reuters Trump Says Son Will Repay Russian Oligarch for Wedding Party Bloomberg.com",
-      "description_zh": "特朗普表示，儿子已向俄罗斯人偿还了婚礼派对的费用 WashingtonPost.com 特朗普表示，他的儿子向俄罗斯亿万富翁偿还了为婚礼提供部分资助的费用 CNN 小唐纳德·特朗普的巴哈马婚礼是由与普京关系密切的俄罗斯寡头秘密资助的",
-      "keywords": [
-        "russian",
-        "wedding",
-        "trump",
-        "son",
-        "party",
-        "paid",
-        "back",
-        "com",
-        "washingtonpost",
-        "oligarch"
-      ],
-      "keywords_zh": [
-        "俄罗斯",
-        "婚礼",
-        "特朗普",
-        "儿子",
-        "派对",
-        "有薪酬的",
-        "后退",
-        "com",
-        "华盛顿邮报",
-        "寡头"
-      ],
-      "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
-      },
-      "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: russian, wedding, trump, son, and party. The available excerpt says: Trump says son has paid back Russian for wedding party washingtonpost.com Trump says his son paid back Russian billionaire who funded parts of wedding celebration CNN Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin ProPublica Trump says his son told him he will repay Russian oligarch for wedding parties Reuters Trump Says Son Will Repay Russian Oligarch for Wedding Party Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：俄罗斯、婚礼、特朗普、儿子、派对。RSS 中文摘要显示：特朗普表示，儿子已向俄罗斯人偿还了婚礼派对的费用 WashingtonPost.com 特朗普表示，他的儿子向俄罗斯亿万富翁偿还了为婚礼提供部分资助的费用 CNN 小唐纳德·特朗普的巴哈马婚礼是由与普京关系密切的俄罗斯寡头秘密资助的 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
-        "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
-        ],
-        "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "title": "Trump claims 'no one else' can save Kennedy Center as protesters rally outside the venue - WJLA",
-      "source": "WJLA",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVWkwWjh3Mk9CbE81WkFFMC1VODZBSHRCWGNYSkNVR1dSWlhtMmRhV09fdTkxYjY4d2lFSjFyWGtVQk5xTlVjUENrTjNzdjZwZ0NfTks2UEZpZWpWbTl6VG51Vll6ZUY1YkdGMW1yRlhTLW15dHZwSDh0SENCMW1LRkhBN3Q0aFlWLS1UMXFIYWYyZF9Kel91d1B2MGpzSHdpb0RKUnR4VC1IYkJla3gxYmVVbmh5b0FvTEN2UkM0WjlxSkxKdGpMZ0FKbXBnX2tQTldzSmlPMmw1cTdOVU80RlF4R0JlZmdUQWR0Uw?oc=5",
-      "published_at": "2026-09-19T03:50:07+00:00",
-      "description": "Trump claims 'no one else' can save Kennedy Center as protesters rally outside the venue WJLA Hundreds form human chain around Kennedy Center to protest the demolition threat WUSA9 Thousands protest closure of the Kennedy Center amid fears Trump is set to demolish the institution The Guardian Protesters form human chain at Kennedy Center amid Trump's threats to demolish it Yahoo What the Kennedy Center’s Tax Return Reveals The Atlantic",
-      "description_zh": "特朗普声称“没有人”可以拯救肯尼迪中心，因为抗议者在会场外集会 WJLA 数百人在肯尼迪中心周围形成人链，抗议拆除威胁 WUSA9 数千人抗议因担心特朗普将拆除肯尼迪中心而关闭肯尼迪中心 《卫报》 抗议者在特朗普威胁拆除肯尼迪中心时在肯尼迪中心形成人链 雅虎 肯尼迪中心的纳税申报表揭示了大西洋月刊",
-      "keywords": [
-        "kennedy",
-        "center",
-        "protesters",
-        "trump",
-        "outside",
-        "claims",
-        "else",
-        "rally",
-        "venue",
-        "save"
-      ],
-      "keywords_zh": [
-        "肯尼迪",
-        "中心",
-        "抗议者",
-        "特朗普",
-        "外部",
-        "索赔",
-        "别的",
-        "集会",
-        "场地",
-        "节省"
+        "禁令",
+        "记者",
+        "团结"
       ],
       "category": {
         "en": "Politics and governance",
@@ -254,8 +93,8 @@
       "interpretation": {
         "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
         "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: kennedy, center, protesters, trump, and outside. The available excerpt says: Trump claims 'no one else' can save Kennedy Center as protesters rally outside the venue WJLA Hundreds form human chain around Kennedy Center to protest the demolition threat WUSA9 Thousands protest closure of the Kennedy Center amid fears Trump is set to demolish the institution The Guardian Protesters form human chain at Kennedy Center amid Trump's threats to demolish it Yahoo What the Kennedy Center’s Tax Return Reveals The Atlantic Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：肯尼迪、中心、抗议者、特朗普、外部。RSS 中文摘要显示：特朗普声称“没有人”可以拯救肯尼迪中心，因为抗议者在会场外集会 WJLA 数百人在肯尼迪中心周围形成人链，抗议拆除威胁 WUSA9 数千人抗议因担心特朗普将拆除肯尼迪中心而关闭肯尼迪中心 《卫报》 抗议者在特朗普威胁拆除肯尼迪中心时在肯尼迪中心形成人链 雅虎 肯尼迪中心的纳税申报表揭示了大西洋月刊 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "detailed_en": "Key signals: politico, white, house, trump, and com. The available excerpt says: Trump bans CNN, MS NOW and Politico from White House axios.com News Outlets Express Solidarity After Trump Bars Some Reporters The New York Times CNN, MS NOW, POLITICO journalists denied access to the White House after Trump said he'd bar them Euronews.com Inside the White House media ban Politico White House faces mounting legal backlash after barring journalists from CNN, MS NOW and Politico NBC News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：政治报、白色的、房子、特朗普、com。RSS 中文摘要显示：特朗普禁止 CNN、MS NOW 和 Politico 进入白宫 axios.com 新闻媒体在特朗普禁止部分记者后表达声援 《纽约时报》 CNN、MS NOW、POLITICO 记者在特朗普表示将禁止他们进入白宫后被拒绝 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
           "polling or vote margins",
           "party reactions",
@@ -269,89 +108,248 @@
       }
     },
     {
-      "rank": 6,
-      "title": "Earl Spencer's Diana book opens old wounds royals would rather forget - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KQld2TnBfaWFPYUdlRV9IZ0E4dVlzZVRfMXFhV2doMXd0WkJIWDdac0cyeWxrNDV1RzRWRW03TEl2ZFU1SVlONVpkR0FpWWF2NVo3aFBtVVF6ZXc?oc=5",
-      "published_at": "2026-09-18T23:05:58+00:00",
-      "description": "Earl Spencer's Diana book opens old wounds royals would rather forget BBC 5 explosive claims in new book by Princess Diana’s brother CNN Princess Diana’s Brother Charles Spencer Says the Royal Family Denied Her Funeral Request People.com Palace rejects claims King Charles was ‘elated’ after Princess Diana’s death washingtonpost.com Princess Diana's brother claims Charles sounded \"like a lottery winner\" after she died CBS News",
-      "description_zh": "斯宾塞伯爵的戴安娜之书揭开旧伤 王室成员宁愿忘记戴安娜王妃弟弟的新书中的 BBC 5 爆炸性言论 CNN 戴安娜王妃的弟弟查尔斯·斯宾塞称王室拒绝了她的葬礼要求 People.com Palace 拒绝了查尔斯国王在戴安娜王妃去世后感到“高兴”的说法 Washingtonpost.com 戴安娜王妃的弟弟声称查尔斯在她去世后听起来“像中了彩票中奖者” CBS News",
+      "rank": 3,
+      "title": "Merz under pressure as two more German states go to the polls - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZzV1OGZScHpSaFBvZVZuV2RwNFJzdV9GOVNuT0s1b1N0dlU5RXVQdGh5ZHpneWloTWNOU01GMVgxZjlVTVFtTG5Ock0xZWcwQ21iaWVObjNKeTdBY3MzcDU0RGNNanRHNG1LbWlkeUh1RUY0QW5TM2JfbkJ5bFFwcmMzdDZkQTd0STVXRGJkMjA5bkZWVGN6Q3kteHJMZTQ1dnc?oc=5",
+      "published_at": "2026-09-20T04:14:00+00:00",
+      "description": "Merz under pressure as two more German states go to the polls Reuters Future of German chancellor hangs in the balance as two states go to polls The Guardian German states go to the polls in high-stakes test for Friedrich Merz Financial Times Germans Are Voting Again, Amid a Far-Right Surge. Here’s What to Watch. The New York Times Germany: Polls open in two key state elections DW.com",
+      "description_zh": "德国又有两个州进行民意调查，梅尔茨面临压力 路透 两个州进行民意调查，德国总理的未来悬而未决 《卫报》 德国各州进行民意调查，对弗里德里希·梅尔茨进行高风险测试 英国《金融时报》 在极右翼浪潮中，德国人再次投票。这是看点。 《纽约时报》 德国：两个关键州选举开始投票 DW.com",
       "keywords": [
-        "diana",
-        "book",
-        "spencer's",
-        "princess",
-        "wounds",
-        "royals",
-        "rather",
-        "forget",
-        "opens",
-        "would"
+        "polls",
+        "german",
+        "states",
+        "two",
+        "merz",
+        "pressure",
+        "under",
+        "high-stakes",
+        "chancellor",
+        "friedrich"
       ],
       "keywords_zh": [
-        "戴安娜",
-        "书",
-        "斯宾塞的",
-        "公主",
-        "伤口",
-        "皇室成员",
-        "相当",
-        "忘记",
-        "打开",
-        "会"
+        "民意调查",
+        "德语",
+        "州",
+        "二",
+        "梅尔茨",
+        "压力",
+        "在下面",
+        "高风险",
+        "校长",
+        "弗里德里希"
       ],
       "category": {
-        "en": "Technology",
-        "zh": "科技"
+        "en": "Politics and governance",
+        "zh": "政治与治理"
       },
       "interpretation": {
-        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
-        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: diana, book, spencer's, princess, and wounds. The available excerpt says: Earl Spencer's Diana book opens old wounds royals would rather forget BBC 5 explosive claims in new book by Princess Diana’s brother CNN Princess Diana’s Brother Charles Spencer Says the Royal Family Denied Her Funeral Request People.com Palace rejects claims King Charles was ‘elated’ after Princess Diana’s death washingtonpost.com Princess Diana's brother claims Charles sounded \"like a lottery winner\" after she died CBS News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：戴安娜、书、斯宾塞的、公主、伤口。RSS 中文摘要显示：斯宾塞伯爵的戴安娜之书揭开旧伤 王室成员宁愿忘记戴安娜王妃弟弟的新书中的 BBC 5 爆炸性言论 CNN 戴安娜王妃的弟弟查尔斯·斯宾塞称王室拒绝了她的葬礼要求 People.com Palace 拒绝了查尔斯国王在戴安娜王妃去世后感到“高兴”的说法 Washingtonpost.com 戴安娜王妃的弟弟声称查尔斯在她去世后听起来“像中了彩票中奖者” CBS News 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: polls, german, states, two, and merz. The available excerpt says: Merz under pressure as two more German states go to the polls Reuters Future of German chancellor hangs in the balance as two states go to polls The Guardian German states go to the polls in high-stakes test for Friedrich Merz Financial Times Germans Are Voting Again, Amid a Far-Right Surge. Here’s What to Watch. The New York Times Germany: Polls open in two key state elections DW.com Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：民意调查、德语、州、二、梅尔茨。RSS 中文摘要显示：德国又有两个州进行民意调查，梅尔茨面临压力 路透 两个州进行民意调查，德国总理的未来悬而未决 《卫报》 德国各州进行民意调查，对弗里德里希·梅尔茨进行高风险测试 英国《金融时报》 在极右翼浪潮中，德国人再次投票。这是看点。 《纽约时报》 德国：两个关键州选举开始投票 DW.com 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
-          "regulatory reaction",
-          "enterprise adoption",
-          "security or privacy consequences"
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
         ],
         "what_to_watch_zh": [
-          "监管反应",
-          "企业采用情况",
-          "安全或隐私后果"
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Trump to form ‘AI Force,’ name AI czar but rejects calls for constraints - washingtonpost.com",
+      "source": "washingtonpost.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWdwLUY4cGVyaDVQcXdGb1Rfa2J4X1VkQ2UyakVBQk5sbzMtTG1PZk1rMk9ZbHRXclA1ZlpveTlrLUQ5R0V5VUphbENyM29Bc0w4YlUxVVRyQk9DT1g0ZlY1S0d4a1hPVXVXWGVXRzFoWEt0Qi1iNGVCQ3JKWTRJV1UxU3dMTjZUZ2tabkVaRU9iR0xodjZaLU5iU2xlb1JsenpnQ2lqcl9CbzNXZURV?oc=5",
+      "published_at": "2026-09-20T02:13:51+00:00",
+      "description": "Trump to form ‘AI Force,’ name AI czar but rejects calls for constraints washingtonpost.com Trump says he will appoint a new AI adviser, without providing details Reuters A.I. Gone Rogue? Trump Proposes Not New Rules but an ‘A.I. Force.’ The New York Times Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development CNN Trump to Name AI Czar While Rejecting Safety Risks as a Hoax Bloomberg.com",
+      "description_zh": "特朗普将组建“人工智能部队”，任命人工智能沙皇，但拒绝限制华盛顿邮报.com 特朗普表示，他将任命一名新的人工智能顾问，但未提供细节流氓了？特朗普提出的不是新规则，而是“人工智能”纽约时报 特朗普誓言要创建“人工智能力量”并任命沙皇，呼吁监管技术发展 CNN 特朗普任命人工智能沙皇，同时否认安全风险是骗局 Bloomberg.com",
+      "keywords": [
+        "trump",
+        "force",
+        "czar",
+        "calls",
+        "name",
+        "com",
+        "washingtonpost",
+        "constraints",
+        "rejects",
+        "form"
+      ],
+      "keywords_zh": [
+        "特朗普",
+        "力量",
+        "沙皇",
+        "来电",
+        "姓名",
+        "com",
+        "华盛顿邮报",
+        "限制条件",
+        "拒绝",
+        "形式"
+      ],
+      "category": {
+        "en": "Politics and governance",
+        "zh": "政治与治理"
+      },
+      "interpretation": {
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: trump, force, czar, calls, and name. The available excerpt says: Trump to form ‘AI Force,’ name AI czar but rejects calls for constraints washingtonpost.com Trump says he will appoint a new AI adviser, without providing details Reuters A.I. Gone Rogue? Trump Proposes Not New Rules but an ‘A.I. Force.’ The New York Times Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development CNN Trump to Name AI Czar While Rejecting Safety Risks as a Hoax Bloomberg.com Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：特朗普、力量、沙皇、来电、姓名。RSS 中文摘要显示：特朗普将组建“人工智能部队”，任命人工智能沙皇，但拒绝限制华盛顿邮报.com 特朗普表示，他将任命一名新的人工智能顾问，但未提供细节流氓了？特朗普提出的不是新规则，而是“人工智能”纽约时报 特朗普誓言要创建“人工智能力量”并任命沙皇，呼吁监管技术发展 CNN 特朗普任命人工智能沙皇，同时否认安全风险是骗局 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "what_to_watch_en": [
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
+        ],
+        "what_to_watch_zh": [
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "title": "An SUV slammed into a city bus, then the news helicopters took flight. How one tragedy led to another - CNN",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DZ2JtSFg2UXlrbm85aVVaeC1vX0syMFVfSURlMlZhQ1FJbkU5eXdMWE9yZ1hHUkZkaGZxQi05akVtV3pRMHllV0x2YkNSV084NzZzVkRVZklkVjZEYm5mRWFLVXZyOTdkajktQU5lUGdWUQ?oc=5",
+      "published_at": "2026-09-20T02:07:00+00:00",
+      "description": "An SUV slammed into a city bus, then the news helicopters took flight. How one tragedy led to another CNN Los Angeles helicopter crash: Eliana Moreno, George Marciniw among 3 killed in KNBC chopper crash ABC7 Los Angeles ‘Helicopter George.' Pilot George Marciniw remembered at one of his favorite Burbank spots NBC Los Angeles A deadly crash and the perilous history of LA’s news helicopters: ‘The eye in the sky’ The Guardian Woman accused of crashing SUV into L.A. Metro bus wheeled into court on gurney KTLA",
+      "description_zh": "一辆SUV撞上了一辆城市公交车，然后新闻直升机起飞了。一场悲剧如何导致另一起 CNN 洛杉矶直升机坠毁事件：KNBC 直升机坠毁事件 ABC7 洛杉矶“乔治直升机”中 3 人丧生，其中包括 Eliana Moreno 和 George Marciniw。飞行员乔治·马尔西尼 (George Marciniw) 在他最喜欢的伯班克景点之一回忆起 NBC 洛杉矶 一场致命事故和洛杉矶新闻直升机的危险历史：“天空之眼” 被指控将 SUV 撞向洛杉矶地铁的女卫报 公交车在轮床上推上法庭 KTLA",
+      "keywords": [
+        "helicopters",
+        "suv",
+        "bus",
+        "one",
+        "slammed",
+        "tragedy",
+        "another",
+        "flight",
+        "city",
+        "then"
+      ],
+      "keywords_zh": [
+        "直升机",
+        "越野车",
+        "公共汽车",
+        "一",
+        "猛击",
+        "悲剧",
+        "其他",
+        "航班",
+        "城市",
+        "然后"
+      ],
+      "category": {
+        "en": "Economy and markets",
+        "zh": "经济与市场"
+      },
+      "interpretation": {
+        "summary_en": "This story is tied to business conditions, financial expectations, or the cost of goods and capital.",
+        "summary_zh": "这条新闻与商业环境、金融预期或商品与资金成本相关。",
+        "detailed_en": "Key signals: helicopters, suv, bus, one, and slammed. The available excerpt says: An SUV slammed into a city bus, then the news helicopters took flight. How one tragedy led to another CNN Los Angeles helicopter crash: Eliana Moreno, George Marciniw among 3 killed in KNBC chopper crash ABC7 Los Angeles ‘Helicopter George.' Pilot George Marciniw remembered at one of his favorite Burbank spots NBC Los Angeles A deadly crash and the perilous history of LA’s news helicopters: ‘The eye in the sky’ The Guardian Woman accused of crashing SUV into L.A. Metro bus wheeled into court on gurney KTLA Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.",
+        "detailed_zh": "关键词信号：直升机、越野车、公共汽车、一、猛击。RSS 中文摘要显示：一辆SUV撞上了一辆城市公交车，然后新闻直升机起飞了。一场悲剧如何导致另一起 CNN 洛杉矶直升机坠毁事件：KNBC 直升机坠毁事件 ABC7 洛杉矶“乔治直升机”中 3 人丧生，其中包括 Eliana Moreno 和 George Marciniw。飞行员乔治·马尔西尼 (George Marciniw) 在他最喜欢的伯班克景点之一回忆起 NBC 洛杉矶 一场致命事故和洛杉矶新闻直升机的危险历史：“天空之眼” 被指控将 SUV 撞向洛杉矶地铁的女卫报 公交车在轮床上推上法庭 KTLA 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。",
+        "what_to_watch_en": [
+          "price movements",
+          "company and government guidance",
+          "second-round supply-chain effects"
+        ],
+        "what_to_watch_zh": [
+          "价格变化",
+          "企业与政府指引",
+          "供应链二次影响"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "title": "'Devoted' father and grandfather-to-be swimming at popular beach killed in suspected fatal shark attack - Fox News",
+      "source": "Fox News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXRoSktwdXRxb3RqRlZMZllZdzhKM2lVOVE2WEJ4NVNPYURYMldnVTRuOHpfOEl4YnFCRVE2cjdBdHdwaXlNMVYtS1Z6V0tqQ19GRlYwdmNTU2dEU3JhRDlVV01PY2tleWF0SEROT0cyNDJKdW5Qb0tNMWRjUzd6VS0tZEcxeVA4Wi1FNlVYZDgtcjRjRXNYQjFnb3pRVXVJRU5GMTY1SW1lZFVDYk85bkdDV0ZCQ3V2TU9pM2Jn0gHDAUFVX3lxTFBkMktvUTEtM1piajNFQjFONkRqNlk1YVZEd0FuUGNwOEV4RXdDRDVYcjl0S2MzaFlkRl9IQnZNUmh6Ym5jNlJ0b2g2ZS14dDNkbk9ySC1BSlZFUUtERUxBb09VNVh2VklRQ3dVU29WNmtfU3Y4NFloMjJIUnV1VHJUNFdkUFpVSm1wY0F6SnBIXy10ZkZDRHNuNElzbGhqWUVVQTVMSW9sUVN6Q3g5TWV5WnRxYVpGa0xNelkyTmsxbXdsOA?oc=5",
+      "published_at": "2026-09-20T01:32:17+00:00",
+      "description": "'Devoted' father and grandfather-to-be swimming at popular beach killed in suspected fatal shark attack Fox News Perth shark attack: Rare kill order issued as victim identified as Greg O'Neill BBC Swimmer killed in shark attack in front of horrified beachgoers in Australia: \"I could see a pool of blood\" CBS News 'Like a scene off Jaws.' Shark kills swimmer at busy beach Yahoo Dad mauled to death by shark in front of horrified friend as rare kill order issued for monster great white New York Post",
+      "description_zh": "“忠诚的”父亲和准祖父在热门海滩游泳，疑似致命鲨鱼袭击身亡 福克斯新闻珀斯鲨鱼袭击事件：罕见的杀戮令，被确认为格雷格·奥尼尔（Greg O'Neill）的BBC游泳者在澳大利亚的鲨鱼袭击中丧生，在惊恐的海滩游客面前：“我可以看到一滩血”哥伦比亚广播公司新闻“就像《大白鲨》中的场景”。鲨鱼在繁忙的海滩杀死游泳者 雅虎爸爸在惊恐的朋友面前被鲨鱼咬死，这是对大白鲨的罕见杀戮令《纽约邮报》",
+      "keywords": [
+        "shark",
+        "attack",
+        "killed",
+        "beach",
+        "grandfather-to-be",
+        "suspected",
+        "devoted",
+        "swimming",
+        "popular",
+        "father"
+      ],
+      "keywords_zh": [
+        "鲨鱼",
+        "袭击",
+        "死亡",
+        "海滩",
+        "准祖父",
+        "怀疑",
+        "奉献的",
+        "游泳",
+        "受欢迎的",
+        "父亲"
+      ],
+      "category": {
+        "en": "Politics and governance",
+        "zh": "政治与治理"
+      },
+      "interpretation": {
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: shark, attack, killed, beach, and grandfather-to-be. The available excerpt says: 'Devoted' father and grandfather-to-be swimming at popular beach killed in suspected fatal shark attack Fox News Perth shark attack: Rare kill order issued as victim identified as Greg O'Neill BBC Swimmer killed in shark attack in front of horrified beachgoers in Australia: \"I could see a pool of blood\" CBS News 'Like a scene off Jaws.' Shark kills swimmer at busy beach Yahoo Dad mauled to death by shark in front of horrified friend as rare kill order issued for monster great white New York Post Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：鲨鱼、袭击、死亡、海滩、准祖父。RSS 中文摘要显示：“忠诚的”父亲和准祖父在热门海滩游泳，疑似致命鲨鱼袭击身亡 福克斯新闻珀斯鲨鱼袭击事件：罕见的杀戮令，被确认为格雷格·奥尼尔（Greg O'Neill）的BBC游泳者在澳大利亚的鲨鱼袭击中丧生，在惊恐的海滩游客面前：“我可以看到一滩血”哥伦比亚广播公司新闻“就像《大白鲨》中的场景”。鲨鱼在繁忙的海滩杀死游泳者 雅虎爸爸在惊恐的朋友面前被鲨鱼咬死，这是对大白鲨的罕见杀戮令《纽约邮报》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "what_to_watch_en": [
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
+        ],
+        "what_to_watch_zh": [
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
         ]
       }
     },
     {
       "rank": 7,
-      "title": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly - washingtonpost.com",
-      "source": "washingtonpost.com",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYk51QUpzSHBoWFR4UjJDZjhsbUNqck1YU2RndG93S2tzZjBMS2RqTWFKRURWenlzYzFpTGJYV2k4STFQZjNCbjhHaE5kUnZfeUlMNmhtblBBYzRzV1B0SHREbGk3R2JqbDVKSTJRMWduU2dTZzZ6Qkh0XzV3OUEyWWVldnJrTW00bDk0ZU5VbzBzVS1GSTJIVnpXLU00eVhuLUJ4V2llajVJdlJoN2EwXzhtTkwycklCS3dnNkRMd056Qm5Bd0N2MndkU0FBaTlRZEE?oc=5",
-      "published_at": "2026-09-19T01:23:56+00:00",
-      "description": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly washingtonpost.com US troop deaths during Iran war exceed Pentagon count by at least four, Washington Post reports Reuters More US troops killed in Iran war than Pentagon has acknowledged — report The Times of Israel Pentagon’s count leaves out some deaths in Middle East during Iran war The Hill Hegseth denies report on uncounted U.S. troop deaths Honolulu Star-Advertiser",
-      "description_zh": "伊朗战争中死亡的美军人数比五角大楼公开披露的还要多 WashingtonPost.com 据《华盛顿邮报》报道，伊朗战争中美军阵亡人数比五角大楼统计的人数至少多了四人 路透 以色列时报报道，五角大楼在伊朗战争中阵亡的人数比五角大楼承认的人数还要多。",
+      "title": "World leaders return to UN amid wars in Middle East and Ukraine - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3lDRHRlTWN1YnNJaGtha3IwWGxCV0w1QlVNNWpGQ2habE9mTUJpN2tqT2RvRkJqai15TGVhTTRnbmNCX1o5a2NGaXRVWXpnYXF6SlFodGJLYmZDUjNrVmR3ZXgxQ1hua1c3ZnFfeGE3S1ZGb0REWV9DWWRQNFFEazBWSjVPb1VzMExOYWVKOTJ3SlZaRlRyZWkwVHNOQVpxY3J3?oc=5",
+      "published_at": "2026-09-20T05:05:00+00:00",
+      "description": "World leaders return to UN amid wars in Middle East and Ukraine Reuters Why the UN General Assembly still matters UN News “Inequality Emergency”: Ahead of U.N. General Assembly, Oxfam Urges Action on Climate, AI & Gaza Democracy Now! UNGA lingo: A guide to UN General Assembly meeting acronyms, buzzwords and more apnews.com As Leaders Gather at the U.N. General Assembly, Competition May Outdo Cooperation Just Security",
+      "description_zh": "世界领导人在中东和乌克兰战争中重返联合国 路透社 为什么联合国大会仍然重要 联合国新闻“不平等紧急情况”：在联合国大会之前，乐施会敦促立即就气候、人工智能和加沙民主采取行动！联合国大会行话：联合国大会会议缩略语、流行语等指南 apnews.com 领导人齐聚联合国大会，竞争可能胜过合作",
       "keywords": [
-        "pentagon",
-        "iran",
-        "war",
-        "troops",
-        "washingtonpost",
-        "disclosed",
-        "publicly",
-        "died",
-        "com",
-        "deaths"
+        "leaders",
+        "assembly",
+        "ukraine",
+        "general",
+        "return",
+        "middle",
+        "wars",
+        "east",
+        "competition",
+        "cooperation"
       ],
       "keywords_zh": [
-        "五角大楼",
-        "伊朗",
+        "领导者",
+        "集会",
+        "乌克兰",
+        "一般的",
+        "返回",
+        "中间",
         "战争",
-        "军队",
-        "华盛顿邮报",
-        "披露的",
-        "公开",
-        "死了",
-        "com",
-        "死亡"
+        "东方",
+        "竞赛",
+        "合作"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -360,8 +358,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: pentagon, iran, war, troops, and washingtonpost. The available excerpt says: More U.S. troops have died amid Iran war than Pentagon has disclosed publicly washingtonpost.com US troop deaths during Iran war exceed Pentagon count by at least four, Washington Post reports Reuters More US troops killed in Iran war than Pentagon has acknowledged — report The Times of Israel Pentagon’s count leaves out some deaths in Middle East during Iran war The Hill Hegseth denies report on uncounted U.S. troop deaths Honolulu Star-Advertiser Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：五角大楼、伊朗、战争、军队、华盛顿邮报。RSS 中文摘要显示：伊朗战争中死亡的美军人数比五角大楼公开披露的还要多 WashingtonPost.com 据《华盛顿邮报》报道，伊朗战争中美军阵亡人数比五角大楼统计的人数至少多了四人 路透 以色列时报报道，五角大楼在伊朗战争中阵亡的人数比五角大楼承认的人数还要多。 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: leaders, assembly, ukraine, general, and return. The available excerpt says: World leaders return to UN amid wars in Middle East and Ukraine Reuters Why the UN General Assembly still matters UN News “Inequality Emergency”: Ahead of U.N. General Assembly, Oxfam Urges Action on Climate, AI & Gaza Democracy Now! UNGA lingo: A guide to UN General Assembly meeting acronyms, buzzwords and more apnews.com As Leaders Gather at the U.N. General Assembly, Competition May Outdo Cooperation Just Security Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：领导者、集会、乌克兰、一般的、返回。RSS 中文摘要显示：世界领导人在中东和乌克兰战争中重返联合国 路透社 为什么联合国大会仍然重要 联合国新闻“不平等紧急情况”：在联合国大会之前，乐施会敦促立即就气候、人工智能和加沙民主采取行动！联合国大会行话：联合国大会会议缩略语、流行语等指南 apnews.com 领导人齐聚联合国大会，竞争可能胜过合作 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -376,88 +374,34 @@
     },
     {
       "rank": 8,
-      "title": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1VuZXIxa24tNjVyVU1nRzJDbjRhOXJwM3lIOUYzOHZRbHhjVFI3V19zcWItZlZwMFowNnRydF9MbEp1MDBseUVLel9yOWg0REc5QWN1aDNtRmgzRW5SZ3ZXZE96YmYxdXg4amptTVI3d0E0a01oTHNveVVBZHk1TWxWTElrQzQ?oc=5",
-      "published_at": "2026-09-18T14:51:06+00:00",
-      "description": "German Art Institutions Prepare for a Fight as Far Right Looks to Take Power The New York Times AfD surge in eastern Germany makes some immigrants question whether they still belong Reuters Here’s how Germany can defend its democracy. Banning the AfD isn’t the answer | Timothy Garton Ash The Guardian The Rise of Germany’s Far Right Reflects a Systemic Crisis Jacobin Merz Faces Party Revolt With Far Right Advancing in Germany Bloomberg.com",
-      "description_zh": "德国艺术机构为极右翼势力的斗争做好准备 《纽约时报》德国东部的德国选择党激增让一些移民质疑他们是否仍然属于德国 路透社 以下是德国如何捍卫其民主。禁止选择党并不是答案 |蒂莫西·加顿·阿什 (Timothy Garton Ash) 《卫报》 德国极右翼的崛起反映了系统性危机 雅各宾·梅尔茨 (Jacobin Merz) 面临政党反抗，极右翼在德国前进 Bloomberg.com",
+      "title": "Saudi Arabia says Houthis tried to attack its capital - NPR",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdy1oY2xxNXBPVE0yN3NaRWxKX1lTZzlZRHhRMzZFOGxmSWo2ZkU3SzhNUmc3WFdDVGdwYVdjc1dfc2RqV3ItbjViMnF0NUlTT2RiMDMxaHVRVzFXNW9TRUtOeW5UcWJkbDlDcVVmT0V5cFVqYml5R0t4aFNwZHlCRW10SUN5ZVliNERfb09OTmg3SFV2?oc=5",
+      "published_at": "2026-09-20T03:57:23+00:00",
+      "description": "Saudi Arabia says Houthis tried to attack its capital NPR In Significant Escalation, Houthis Attack Saudi Capital The New York Times Houthis say they targeted Saudi capital with ballistic missiles BBC Saudi-led coalition says defences intercept Houthi missile fired at Riyadh Al Jazeera Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with a ballistic missile apnews.com",
+      "description_zh": "沙特阿拉伯称胡塞武装试图袭击其首都 NPR 胡塞武装袭击沙特首都",
       "keywords": [
-        "right",
-        "far",
-        "institutions",
-        "prepare",
-        "germany",
-        "german",
-        "fight",
-        "looks",
-        "power",
-        "take"
+        "capital",
+        "saudi",
+        "houthis",
+        "attack",
+        "arabia",
+        "tried",
+        "ballistic",
+        "missile",
+        "houthi",
+        "significant"
       ],
       "keywords_zh": [
-        "正确的",
-        "远的",
-        "机构",
-        "准备",
-        "德国",
-        "德语",
-        "斗争",
-        "看起来",
-        "电力",
-        "拿"
-      ],
-      "category": {
-        "en": "Global affairs",
-        "zh": "全球事务"
-      },
-      "interpretation": {
-        "summary_en": "This story is drawing attention because it may signal a broader public concern or changing global trend.",
-        "summary_zh": "这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。",
-        "detailed_en": "Key signals: right, far, institutions, prepare, and germany. The available excerpt says: German Art Institutions Prepare for a Fight as Far Right Looks to Take Power The New York Times AfD surge in eastern Germany makes some immigrants question whether they still belong Reuters Here’s how Germany can defend its democracy. Banning the AfD isn’t the answer | Timothy Garton Ash The Guardian The Rise of Germany’s Far Right Reflects a Systemic Crisis Jacobin Merz Faces Party Revolt With Far Right Advancing in Germany Bloomberg.com Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.",
-        "detailed_zh": "关键词信号：正确的、远的、机构、准备、德国。RSS 中文摘要显示：德国艺术机构为极右翼势力的斗争做好准备 《纽约时报》德国东部的德国选择党激增让一些移民质疑他们是否仍然属于德国 路透社 以下是德国如何捍卫其民主。禁止选择党并不是答案 |蒂莫西·加顿·阿什 (Timothy Garton Ash) 《卫报》 德国极右翼的崛起反映了系统性危机 雅各宾·梅尔茨 (Jacobin Merz) 面临政党反抗，极右翼在德国前进 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。",
-        "what_to_watch_en": [
-          "follow-up reporting",
-          "official statements",
-          "regional or market reaction"
-        ],
-        "what_to_watch_zh": [
-          "后续报道",
-          "官方声明",
-          "地区或市场反应"
-        ]
-      }
-    },
-    {
-      "rank": 9,
-      "title": "Trump says son has paid back Putin ally for partly funding wedding festivities - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBScWJBZVhwMWh3dnZVTERsMWdyc1ZwVkVPeXZXWTFpR3hRUHNpdXpEbks4djRkd1ZxbjBVQXAwcEZ1Y1RNNUlBS3pWb19zRmtOVnZITFJGX0lsZDg?oc=5",
-      "published_at": "2026-09-18T22:34:00+00:00",
-      "description": "Trump says son has paid back Putin ally for partly funding wedding festivities BBC Trump says his son paid back Russian billionaire who funded parts of wedding celebration CNN Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin ProPublica Trump says his son told him he will repay Russian oligarch for wedding parties Reuters Trump Says Son Will Repay Russian Oligarch for Wedding Party Bloomberg.com",
-      "description_zh": "特朗普称儿子已偿还普京盟友部分资助婚礼庆祝活动的钱 BBC 特朗普表示，他的儿子偿还了为婚礼活动提供部分资助的俄罗斯亿万富翁 CNN 小唐纳德·特朗普的巴哈马婚礼由与普京关系密切的俄罗斯寡头秘密资助 ProPublica 特朗普称，他的儿子告诉他，他将偿还俄罗斯寡头的婚礼费用 路透社 特朗普称儿子将偿还俄罗斯寡头的婚礼费用",
-      "keywords": [
-        "wedding",
-        "trump",
-        "son",
-        "putin",
-        "paid",
-        "back",
-        "festivities",
-        "funding",
-        "russian",
-        "partly"
-      ],
-      "keywords_zh": [
-        "婚礼",
-        "特朗普",
-        "儿子",
-        "普京",
-        "有薪酬的",
-        "后退",
-        "庆祝活动",
-        "资金",
-        "俄罗斯",
-        "部分地"
+        "首都",
+        "沙特",
+        "胡塞武装",
+        "袭击",
+        "阿拉伯",
+        "尝试过",
+        "弹道的",
+        "导弹",
+        "重要的"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -466,8 +410,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: wedding, trump, son, putin, and paid. The available excerpt says: Trump says son has paid back Putin ally for partly funding wedding festivities BBC Trump says his son paid back Russian billionaire who funded parts of wedding celebration CNN Donald Trump Jr.’s Bahamas Wedding Was Secretly Bankrolled by Russian Oligarch Close to Putin ProPublica Trump says his son told him he will repay Russian oligarch for wedding parties Reuters Trump Says Son Will Repay Russian Oligarch for Wedding Party Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：婚礼、特朗普、儿子、普京、有薪酬的。RSS 中文摘要显示：特朗普称儿子已偿还普京盟友部分资助婚礼庆祝活动的钱 BBC 特朗普表示，他的儿子偿还了为婚礼活动提供部分资助的俄罗斯亿万富翁 CNN 小唐纳德·特朗普的巴哈马婚礼由与普京关系密切的俄罗斯寡头秘密资助 ProPublica 特朗普称，他的儿子告诉他，他将偿还俄罗斯寡头的婚礼费用 路透社 特朗普称儿子将偿还俄罗斯寡头的婚礼费用 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: capital, saudi, houthis, attack, and arabia. The available excerpt says: Saudi Arabia says Houthis tried to attack its capital NPR In Significant Escalation, Houthis Attack Saudi Capital The New York Times Houthis say they targeted Saudi capital with ballistic missiles BBC Saudi-led coalition says defences intercept Houthi missile fired at Riyadh Al Jazeera Saudi Arabia confirms Yemen’s Houthi rebels tried to attack its capital with a ballistic missile apnews.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：首都、沙特、胡塞武装、袭击、阿拉伯。RSS 中文摘要显示：沙特阿拉伯称胡塞武装试图袭击其首都 NPR 胡塞武装袭击沙特首都 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -481,55 +425,108 @@
       }
     },
     {
-      "rank": 10,
-      "title": "Police capture suspected serial killer disguised as woman, carrying baby in Brazil - CBS News",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmNUYnNuakhid0RxVE1BbTBpbmtabkpwcHpzazdrR3J6clBSVVpGRkxITDI3SVdxNmhYcy1KSGlYV295MlUwSlpCUTBWc05zOWFHUEUxZm5XUkdheW5neTJQQ3owSVhjbktPQlZHbHN6NTA3VkJyODExTlphS0FCRmNWTGlpMGlzTXI3Z3JiSkxaeGdE?oc=5",
-      "published_at": "2026-09-18T18:57:48+00:00",
-      "description": "Police capture suspected serial killer disguised as woman, carrying baby in Brazil CBS News Brazilian police arrest a suspect in dozens of killings AP News Suspected serial killer arrested trying to flee dressed as a woman before confessing to 80 murders New York Post Suspected serial killer found with toddler & disguised as a woman: reports WBMA Suspected serial killer captured while disguised as a woman and carrying a random toddler Yahoo",
-      "description_zh": "巴西警方抓获一名伪装成女性、怀抱婴儿的连环杀手嫌疑人 CBS 新闻 巴西警方逮捕了一名涉嫌数十起杀人案的嫌疑人 美联社新闻 嫌疑连环杀手在承认 80 起谋杀案之前试图装扮成女性逃跑而被捕 纽约邮报 疑似连环杀手被发现与幼儿并伪装成女性：报道 WBMA 疑似连环杀手在乔装成女性并随机怀着幼儿时被捕 雅虎",
+      "rank": 9,
+      "title": "Donald Trump Humiliated by Giant Crowd at Kennedy Center - The Daily Beast",
+      "source": "The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEZCVkR3Sm5MbEh2aXFqblAyZU0xeGgzUHN2RG1zTklUMUxFZG9Xdks2TERwWm90RV9kc3RGeFdudmttelJQTUZuSmF5b2wwbmtoajY3WXFiM3BDMkN2alVSSWxTUF9hTDJldk1CdkRZUkpPdjVOTlQtUkJNcUFuWV9fQlhpUG5qZGFSd1lzSmE?oc=5",
+      "published_at": "2026-09-20T02:15:00+00:00",
+      "description": "Donald Trump Humiliated by Giant Crowd at Kennedy Center The Daily Beast Hundreds form human chain around Kennedy Center to protest the demolition threat WUSA9 Kennedy Center cannot hold as things fall apart for Trump The Irish Times Thousands protest Kennedy Center closure amid fears Trump set to demolish institution The Guardian The Memo: Trump doubles down on demand for ‘recognition’ in Kennedy Center fight thehill.com",
+      "description_zh": "唐纳德·特朗普在肯尼迪中心被巨大人群羞辱 《每日野兽报》 数百人在肯尼迪中心周围形成人链，抗议拆除威胁 WUSA9 肯尼迪中心无法举行，因为特朗普的事情分崩离析 爱尔兰时报 数千人抗议肯尼迪中心因担心特朗普将拆除机构而关闭 卫报 备忘录：特朗普加倍要求在肯尼迪中心获得“认可”",
       "keywords": [
-        "suspected",
-        "serial",
-        "killer",
-        "woman",
-        "disguised",
-        "carrying",
-        "police",
-        "capture",
-        "brazil",
-        "baby"
+        "kennedy",
+        "center",
+        "trump",
+        "humiliated",
+        "donald",
+        "giant",
+        "crowd",
+        "daily",
+        "beast",
+        "protest"
       ],
       "keywords_zh": [
-        "怀疑",
-        "连续剧",
-        "杀手",
-        "女士",
-        "伪装的",
-        "携带",
-        "警察",
-        "捕获",
-        "巴西",
-        "婴儿"
+        "肯尼迪",
+        "中心",
+        "特朗普",
+        "被羞辱的",
+        "唐纳德",
+        "巨大的",
+        "人群",
+        "日常的",
+        "兽",
+        "反对"
       ],
       "category": {
-        "en": "Global affairs",
-        "zh": "全球事务"
+        "en": "Politics and governance",
+        "zh": "政治与治理"
       },
       "interpretation": {
-        "summary_en": "This story is drawing attention because it may signal a broader public concern or changing global trend.",
-        "summary_zh": "这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。",
-        "detailed_en": "Key signals: suspected, serial, killer, woman, and disguised. The available excerpt says: Police capture suspected serial killer disguised as woman, carrying baby in Brazil CBS News Brazilian police arrest a suspect in dozens of killings AP News Suspected serial killer arrested trying to flee dressed as a woman before confessing to 80 murders New York Post Suspected serial killer found with toddler & disguised as a woman: reports WBMA Suspected serial killer captured while disguised as a woman and carrying a random toddler Yahoo Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.",
-        "detailed_zh": "关键词信号：怀疑、连续剧、杀手、女士、伪装的。RSS 中文摘要显示：巴西警方抓获一名伪装成女性、怀抱婴儿的连环杀手嫌疑人 CBS 新闻 巴西警方逮捕了一名涉嫌数十起杀人案的嫌疑人 美联社新闻 嫌疑连环杀手在承认 80 起谋杀案之前试图装扮成女性逃跑而被捕 纽约邮报 疑似连环杀手被发现与幼儿并伪装成女性：报道 WBMA 疑似连环杀手在乔装成女性并随机怀着幼儿时被捕 雅虎 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。",
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: kennedy, center, trump, humiliated, and donald. The available excerpt says: Donald Trump Humiliated by Giant Crowd at Kennedy Center The Daily Beast Hundreds form human chain around Kennedy Center to protest the demolition threat WUSA9 Kennedy Center cannot hold as things fall apart for Trump The Irish Times Thousands protest Kennedy Center closure amid fears Trump set to demolish institution The Guardian The Memo: Trump doubles down on demand for ‘recognition’ in Kennedy Center fight thehill.com Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：肯尼迪、中心、特朗普、被羞辱的、唐纳德。RSS 中文摘要显示：唐纳德·特朗普在肯尼迪中心被巨大人群羞辱 《每日野兽报》 数百人在肯尼迪中心周围形成人链，抗议拆除威胁 WUSA9 肯尼迪中心无法举行，因为特朗普的事情分崩离析 爱尔兰时报 数千人抗议肯尼迪中心因担心特朗普将拆除机构而关闭 卫报 备忘录：特朗普加倍要求在肯尼迪中心获得“认可” 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
-          "follow-up reporting",
-          "official statements",
-          "regional or market reaction"
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
         ],
         "what_to_watch_zh": [
-          "后续报道",
-          "官方声明",
-          "地区或市场反应"
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
+        ]
+      }
+    },
+    {
+      "rank": 10,
+      "title": "Russia holds parliamentary vote in areas it seized from Ukraine in the war - apnews.com",
+      "source": "apnews.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMm5OcEJPRTNTNExGNHF4djlyWlNHNUhpWXEzNnIyUTl5M2NXeWZXYUl4YXRfaEtIWDRGYUdXMHNIYldhYUlhZzJjZjRHbWZ3em5VeGNyWkxVc2xGUnJwQlpJOFktVUtiXzY3Q0F4UTNwaEFja1RfSnc1ZENweWM2VExlNlNlQ2xYWEF2T2hDRFdYSVRQR00zVTRxMDVmcUIyZEE4ay10VW5URzNjUkE?oc=5",
+      "published_at": "2026-09-19T20:43:00+00:00",
+      "description": "Russia holds parliamentary vote in areas it seized from Ukraine in the war apnews.com The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire? The New York Times Live: Russian election enters final day in shadow of war in Ukraine France 24 Ukraine war briefing: Kyiv denounces Russia’s inclusion of annexed regions in parliamentary elections The Guardian Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote Al Jazeera",
+      "description_zh": "俄罗斯在战争中从乌克兰夺取的地区举行议会投票 apnews.com 克里姆林宫已将大量退伍军人列入投票名单。它会适得其反吗？ 《纽约时报直播》：俄罗斯大选在乌克兰战争阴影下进入最后一天 法国 24 日乌克兰战争简报：基辅谴责俄罗斯将吞并地区纳入议会选举 《俄罗斯卫报》报道议会投票第二天遭遇“强大”网络攻击",
+      "keywords": [
+        "parliamentary",
+        "ukraine",
+        "russia",
+        "war",
+        "vote",
+        "seized",
+        "apnews",
+        "holds",
+        "areas",
+        "com"
+      ],
+      "keywords_zh": [
+        "议会",
+        "乌克兰",
+        "俄罗斯",
+        "战争",
+        "投票",
+        "查获的",
+        "阿普新闻",
+        "持有",
+        "地区",
+        "com"
+      ],
+      "category": {
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
+      },
+      "interpretation": {
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: parliamentary, ukraine, russia, war, and vote. The available excerpt says: Russia holds parliamentary vote in areas it seized from Ukraine in the war apnews.com The Kremlin Has Put Lots of Veterans on the Ballot. Could It Backfire? The New York Times Live: Russian election enters final day in shadow of war in Ukraine France 24 Ukraine war briefing: Kyiv denounces Russia’s inclusion of annexed regions in parliamentary elections The Guardian Russia reports ‘powerful’ cyberattacks on second day of parliamentary vote Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：议会、乌克兰、俄罗斯、战争、投票。RSS 中文摘要显示：俄罗斯在战争中从乌克兰夺取的地区举行议会投票 apnews.com 克里姆林宫已将大量退伍军人列入投票名单。它会适得其反吗？ 《纽约时报直播》：俄罗斯大选在乌克兰战争阴影下进入最后一天 法国 24 日乌克兰战争简报：基辅谴责俄罗斯将吞并地区纳入议会选举 《俄罗斯卫报》报道议会投票第二天遭遇“强大”网络攻击 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "what_to_watch_en": [
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
+        ],
+        "what_to_watch_zh": [
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
         ]
       }
     }
