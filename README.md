@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-09-24T08:56:29+00:00` UTC.
+Generated at `2026-09-25T09:17:38+00:00` UTC.
 
-### 1. [Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico - The New York Times](https://news.google.com/rss/articles/CBMipgFBVV95cUxQcElWR2Rna3RQaFBMREQyV2p5WWl3YnQzSnp0SW10Wk9mX2gtY0VpWXhQVkpmeXZFN2d4VE5yZG9DUHZ2MzJuVDM5LXJ6RXhZOExiRWlXN2pQQ2JYVVpBUUpPYkc5RWtBWWhnWW5MSjBSeVB4dGJxVnFyMFI2S1U2Nlp2YzMySXBtclVpa3JvbmVhY29TZmY4dUc2cDNLd2liQk5xY3B3?oc=5)
+### 1. [Pomp prevails over substance as Donald Trump hosts Xi Jinping - Financial Times](https://news.google.com/rss/articles/CBMihAFBVV95cUxPemRoVjVjb2xLM2E1UnBWSDlXQ2pFWHhPQXpMejdxekdZMURoT3lTTWtVYkI1UExucS1NTVZ5RHhYOGQzRDh1aWRLRU12T3JKTUxXZlBBd01TMkhCSVBwdnBjQkF3eXQ4aDN4NEFKZWtLN3VzSEVLaHU1bzQwb2UxQXQxaUI?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-09-24T06:45:00+00:00`.
-- Keywords / 关键词: trump, ban, politico, white, house, blocks, court, judge, media, press
-- 中文关键词: 特朗普、禁止、政治报、白色的、房子、块、法庭、法官、媒体、按
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico The New York Times Judge Holds Off on Immediate Ruling on White House’s Media Ban The New York Times Judge orders Trump to restore CNN, MS Now, Politico press access Yahoo Fox News, NYT, AP and other media outlets jointly condemn Trump’s media ban Politico Judge grills DOJ attorney about Trump’s national security defense of press ban CNN
-- RSS 中文摘要: 法院阻止特朗普白宫对 CNN、MS NOW 和 Politico 的禁令 《纽约时报》法官推迟对白宫媒体禁令立即做出裁决 《纽约时报》法官命令特朗普恢复 CNN、MS Now、Politico 的新闻访问权 雅虎福克斯新闻、纽约时报、美联社和其他媒体联合谴责特朗普的媒体禁令 Politico 法官就特朗普为新闻禁令辩护的国家安全问题盘问司法部律师
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: trump, ban, politico, white, and house. The available excerpt says: Court Blocks Trump’s White House Ban on CNN, MS NOW and Politico The New York Times Judge Holds Off on Immediate Ruling on White House’s Media Ban The New York Times Judge orders Trump to restore CNN, MS Now, Politico press access Yahoo Fox News, NYT, AP and other media outlets jointly condemn Trump’s media ban Politico Judge grills DOJ attorney about Trump’s national security defense of press ban CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：特朗普、禁止、政治报、白色的、房子。RSS 中文摘要显示：法院阻止特朗普白宫对 CNN、MS NOW 和 Politico 的禁令 《纽约时报》法官推迟对白宫媒体禁令立即做出裁决 《纽约时报》法官命令特朗普恢复 CNN、MS Now、Politico 的新闻访问权 雅虎福克斯新闻、纽约时报、美联社和其他媒体联合谴责特朗普的媒体禁令 Politico 法官就特朗普为新闻禁令辩护的国家安全问题盘问司法部律师 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 2. [Turkey's Erdogan tells Ukraine's Zelenskiy that Black Sea attacks are inexplicable - Reuters](https://news.google.com/rss/articles/CBMizwFBVV95cUxNeEVzc2ZoVlNjY0pjRXFjRVZBOFVfdk1SRU5zUkpPUEplOVE2bWFaRHBCLVEwMHRtQXEyVXJ4d2toVWdZdzE0RTNGSzN5SFhta25VajFvc256U0F4SHNJbWIzcHhwV0lWSXc4ZEEwSHhyZWpZekk3eFlZdkhxVVpRUFhDQzN3LURmR1JyYjFfYzNrckU4bHpVekdrekVPdlNzOUQzellmWEZLWGx4bnpNWkNVV1VCdUJ6OE9FME53dFc0ajNkYmtVXzViYkVKWTA?oc=5)
-
-- Source / 来源: Reuters. Published: `2026-09-24T04:45:00+00:00`.
-- Keywords / 关键词: black, sea, attacks, erdogan, inexplicable, ukraine's, zelenskiy, turkey's, tells, russia
-- 中文关键词: 黑色的、海、袭击、埃尔多安、莫名其妙的、乌克兰的、泽伦斯基、土耳其的、告诉、俄罗斯
+- Source / 来源: Financial Times. Published: `2026-09-25T03:07:59+00:00`.
+- Keywords / 关键词: substance, trump, hosts, financial, prevails, jinping, donald, pomp, com, deferential
+- 中文关键词: 物质、特朗普、主机、金融的、占上风、金平、唐纳德、盛况、com、恭敬的
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Turkey's Erdogan tells Ukraine's Zelenskiy that Black Sea attacks are inexplicable Reuters Russia 'works' with Türkiye for Black Sea shipping safety Daily Sabah Turkey submits proposals to Ukraine and Russia to halt attacks in Black Sea — Fidan ukrinform.net Attacks on Black Sea commercial ships ‘unacceptable’: Erdoğan Turkish Minute President Erdogan says Türkiye ready to support efforts for lasting peace between Russia, Ukraine TRT World
-- RSS 中文摘要: 土耳其总统埃尔多安告诉乌克兰泽连斯基，黑海袭击令人费解 路透社 俄罗斯与土耳其“合作”确保黑海航运安全 沙巴日报 土耳其向乌克兰和俄罗斯提出停止黑海袭击的建议 — Fidan ukrinform.net 对黑海商船的袭击“不可接受”：埃尔多安 土耳其分钟总统埃尔多安表示，土耳其准备支持俄罗斯和乌克兰之间持久和平的努力 TRT World
+- RSS Excerpt / RSS 摘要: Pomp prevails over substance as Donald Trump hosts Xi Jinping Financial Times As Trump Hosts State Dinner Honoring Xi, See the Menu The New York Times Trump-Xi Summit Delivers Most on Pageantry, Not Substance Bloomberg.com The Deferential President theatlantic.com Hundreds gather to protest China's occupation of Tibet, during Xi Jinping's visit WUSA9
+- RSS 中文摘要: 唐纳德·特朗普接待习近平 盛况重于实质 《金融时报》 特朗普主持向习近平致敬的国宴，请参阅菜单 《纽约时报》 特朗普与习近平的峰会最注重场面而非实质内容 Bloomberg.com 恭敬的总统 theatlantic.com 在习近平访问期间，数百人聚集在一起抗议中国占领西藏 WUSA9
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: black, sea, attacks, erdogan, and inexplicable. The available excerpt says: Turkey's Erdogan tells Ukraine's Zelenskiy that Black Sea attacks are inexplicable Reuters Russia 'works' with Türkiye for Black Sea shipping safety Daily Sabah Turkey submits proposals to Ukraine and Russia to halt attacks in Black Sea — Fidan ukrinform.net Attacks on Black Sea commercial ships ‘unacceptable’: Erdoğan Turkish Minute President Erdogan says Türkiye ready to support efforts for lasting peace between Russia, Ukraine TRT World Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：黑色的、海、袭击、埃尔多安、莫名其妙的。RSS 中文摘要显示：土耳其总统埃尔多安告诉乌克兰泽连斯基，黑海袭击令人费解 路透社 俄罗斯与土耳其“合作”确保黑海航运安全 沙巴日报 土耳其向乌克兰和俄罗斯提出停止黑海袭击的建议 — Fidan ukrinform.net 对黑海商船的袭击“不可接受”：埃尔多安 土耳其分钟总统埃尔多安表示，土耳其准备支持俄罗斯和乌克兰之间持久和平的努力 TRT World 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: substance, trump, hosts, financial, and prevails. The available excerpt says: Pomp prevails over substance as Donald Trump hosts Xi Jinping Financial Times As Trump Hosts State Dinner Honoring Xi, See the Menu The New York Times Trump-Xi Summit Delivers Most on Pageantry, Not Substance Bloomberg.com The Deferential President theatlantic.com Hundreds gather to protest China's occupation of Tibet, during Xi Jinping's visit WUSA9 Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：物质、特朗普、主机、金融的、占上风。RSS 中文摘要显示：唐纳德·特朗普接待习近平 盛况重于实质 《金融时报》 特朗普主持向习近平致敬的国宴，请参阅菜单 《纽约时报》 特朗普与习近平的峰会最注重场面而非实质内容 Bloomberg.com 恭敬的总统 theatlantic.com 在习近平访问期间，数百人聚集在一起抗议中国占领西藏 WUSA9 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 3. [Trump gives Xi Jinping rare airport welcome as summit visit begins - The Washington Post](https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHhaaUFNQmIxNFF4eFUxelRnUVFBNE5BWUlLcEx3OENoWWRaaXdfTzhHcDhqWUwyNVNNazQtMGZVVmpIYnB2UXZWVGJSNTBfVVVSeXN6TG15SUFNSU5UYlpjRV95Y1g3TkkxNjdrZ205ZXYxS0NWa1RsN2d6M2lXQ2MxeW9BalFUd1NBM0ZtLTEyYXNKNUl6TVhIdnBKR1cxemlhYlp1b1Y0eTJLT0pR?oc=5)
+### 2. [Nepal seeks grants, not loans, for flood recovery after deadly glacier disaster - Reuters](https://news.google.com/rss/articles/CBMiygFBVV95cUxNMHE1NGJaNTRyMGRVX2FzbU53SVBlU0pmaUc5ZWFLQmI5d0hWa1NwNm4wOVNOaWxDVDZfbW56Vi1wb2xHbnRtaE9GRXJ1Nm9SeUs1QmFGSUxqTk1jSGs3Y3g1MUYxemtzdWRFT1dNSjJiNnRqVk85U3YtWGFoYmFVTmxYQVBCVjFndk5LUEFYWGpFeHRuUGIwWFFjNTFSSFVBS0NWNkVQWllWNmdhdTdzYVhsZTBpWlozVDBObmlSb0Y5Ql8xTXBySEtn?oc=5)
 
-- Source / 来源: The Washington Post. Published: `2026-09-24T06:10:21+00:00`.
-- Keywords / 关键词: summit, jinping, trump, washington, airport, welcome, begins, gives, visit, rare
-- 中文关键词: 首脑、金平、特朗普、华盛顿、飞机场、欢迎、开始、给出、访问、稀有的
+- Source / 来源: Reuters. Published: `2026-09-25T02:06:00+00:00`.
+- Keywords / 关键词: nepal, flood, deadly, recovery, disaster, glacier, grants, seeks, loans, leader
+- 中文关键词: 尼泊尔、洪水、致命、恢复、灾难、冰川、赠款、寻求、贷款、领导者
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump gives Xi Jinping rare airport welcome as summit visit begins The Washington Post Why the Trump and Xi summit will struggle to live up to its grand pageantry CNN Trump-Xi Summit Narrows China Credit’s Geopolitical Discount: BI Bloomberg.com DC street closures and parking restrictions as Chinese President Xi Jinping visits White House WUSA9 U.S. and China Agree to Extend Trade Truce by 2 Months, Bessent Says The New York Times
-- RSS 中文摘要: 峰会访问开始之际，特朗普在机场罕见地欢迎习近平 华盛顿邮报 为什么特朗普和习近平峰会将难以达到其盛大场面 CNN 特朗普与习近平峰会缩小了中国信用的地缘政治折扣：BI Bloomberg.com 中国国家主席习近平访问白宫时，华盛顿特区实施街道封闭和停车限制 WUSA9 贝森特称，《纽约时报》称，美国和中国同意将贸易休战延长两个月
+- RSS Excerpt / RSS 摘要: Nepal seeks grants, not loans, for flood recovery after deadly glacier disaster Reuters Why Did Nepal’s Leader Wear Sunglasses at the U.N. General Assembly? The New York Times Is Nepal's flood a harbinger of what's to come in the Himalayas? NPR Nepal’s leader labels devastating flood a ‘warning to the world’ Al Jazeera Nepal PM Urges Climate Pact With India, China After Deadly Flood Bloomberg.com
+- RSS 中文摘要: 尼泊尔寻求赠款而非贷款用于致命冰川灾难后的洪水恢复 路透社 为什么尼泊尔领导人在联合国大会上戴墨镜？纽约时报 尼泊尔的洪水是喜马拉雅山即将发生的事情的预兆吗？ NPR 尼泊尔领导人将毁灭性洪水称为“对世界的警告” 半岛电视台尼泊尔总理在致命洪水后敦促与印度和中国签署气候协议 Bloomberg.com
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: summit, jinping, trump, washington, and airport. The available excerpt says: Trump gives Xi Jinping rare airport welcome as summit visit begins The Washington Post Why the Trump and Xi summit will struggle to live up to its grand pageantry CNN Trump-Xi Summit Narrows China Credit’s Geopolitical Discount: BI Bloomberg.com DC street closures and parking restrictions as Chinese President Xi Jinping visits White House WUSA9 U.S. and China Agree to Extend Trade Truce by 2 Months, Bessent Says The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：首脑、金平、特朗普、华盛顿、飞机场。RSS 中文摘要显示：峰会访问开始之际，特朗普在机场罕见地欢迎习近平 华盛顿邮报 为什么特朗普和习近平峰会将难以达到其盛大场面 CNN 特朗普与习近平峰会缩小了中国信用的地缘政治折扣：BI Bloomberg.com 中国国家主席习近平访问白宫时，华盛顿特区实施街道封闭和停车限制 WUSA9 贝森特称，《纽约时报》称，美国和中国同意将贸易休战延长两个月 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: nepal, flood, deadly, recovery, and disaster. The available excerpt says: Nepal seeks grants, not loans, for flood recovery after deadly glacier disaster Reuters Why Did Nepal’s Leader Wear Sunglasses at the U.N. General Assembly? The New York Times Is Nepal's flood a harbinger of what's to come in the Himalayas? NPR Nepal’s leader labels devastating flood a ‘warning to the world’ Al Jazeera Nepal PM Urges Climate Pact With India, China After Deadly Flood Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：尼泊尔、洪水、致命、恢复、灾难。RSS 中文摘要显示：尼泊尔寻求赠款而非贷款用于致命冰川灾难后的洪水恢复 路透社 为什么尼泊尔领导人在联合国大会上戴墨镜？纽约时报 尼泊尔的洪水是喜马拉雅山即将发生的事情的预兆吗？ NPR 尼泊尔领导人将毁灭性洪水称为“对世界的警告” 半岛电视台尼泊尔总理在致命洪水后敦促与印度和中国签署气候协议 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 4. [Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE1QLXZkeGhNazRPbXVpaEFSQnh6NXVHSmdCTUxqcVhmQ0tIUjg5SWJsY3pDQXM5elNwQWNtOUpPMVR1VEpwcEVOWDJBaUM2RDZkYTNpTFJHNEhHTEhZbjdiWjB6TWhJeEphRkc3bnpwSXlkMDYzVEVURXRZbUtCSnc?oc=5)
+### 3. [Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech - Al Jazeera](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUUVVeUQ3RzMwUmgtUmpPMEY3NXF1VVMtWE5RS241eDZScnBacDU5Uzl3MGhXV1EtbmtqUGVOTThSY2kwOFEzMnQ5MUdScVdMcFJQalFTTFExWVRMVEx3cTNuaGhzWmRWemRoNEo3YVlaU0FQY3IwajdlVk94V3hBYzNlR05USDlkMFNsUURhRVQ5LWN4Z3pmOFRkNEtsMjFFSEtsUUlHSE5aVmvSAbABQVVfeXFMUGtiM3RpTjlwV2FRb3cxRk9Ia0pEcHMzV3YtbE5tQlRSZ3o3LXRDc1dlWFdFVEJ0Q0pLRFhWZGtVR1BSLWl1bVZWaUVQLUtwNzdHQUtOZXhhcm16eTZCdWZZODZVeGVKZ2hhdHpIRHBVUW1kUy1rU1B6VFBuX19wYW1zWDZVaW92N1ZZenpmc0R4azV5VGl3cWQ0b2paQVZacFhKXzh2QWpha0ZuZHF1aDM?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-09-24T00:18:04+00:00`.
-- Keywords / 关键词: trump, diplomacy, crisis, widens, aides, start, seek, jump, iran, annihilation
-- 中文关键词: 特朗普、外交、危机、扩大、助手、开始、寻找、跳、伊朗、歼灭
+- Source / 来源: Al Jazeera. Published: `2026-09-25T04:19:44+00:00`.
+- Keywords / 关键词: netanyahu, speech, jazeera, israel, benjamin, attacks, enemies, allies, protest, anti-netanyahu
+- 中文关键词: 内塔尼亚胡、演讲、半岛电视台、以色列、本杰明、袭击、敌人、盟国、反对、反内塔尼亚胡
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens The New York Times Fact check: Trump’s false claims to the United Nations CNN Trump meets with Iranian officials shortly after threatening annihilation Fox News Trump Puts Legacy Ahead of Midterm Politics in Speech at U.N. WSJ Can flurry of New York diplomacy lead to US-Iran diplomatic breakthrough? Al Jazeera
-- RSS 中文摘要: 危机扩大，特朗普助手寻求启动与伊朗的外交 纽约时报 事实核查：特朗普向联合国发出虚假声明 CNN 特朗普在威胁消灭伊朗后不久会见伊朗官员 福克斯新闻 特朗普在联合国演讲中将遗留问题置于中期政治之上 华尔街日报 一系列纽约外交能否带来美伊外交突破？半岛电视台
+- RSS Excerpt / RSS 摘要: Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech Al Jazeera Susan Sarandon, Hannah Einbinder among more than 100 detained during anti-Netanyahu protest outside UN CNN Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA NPR More than 100 arrested as New Yorkers protest Netanyahu’s UN visit Al Jazeera WATCH: Mass walkout before Netanyahu speech prompts fiery response from Israeli prime minister Fox News
+- RSS 中文摘要: 本杰明·内塔尼亚胡在联合国演讲中攻击以色列的敌人和盟友 半岛电视台 苏珊·萨兰登、汉娜·艾因宾德等 100 多人在联合国外的反内塔尼亚胡抗议活动中被拘留 前美国驻以色列大使谈内塔尼亚胡在联合国大会的演讲 NPR 纽约人抗议内塔尼亚胡访问联合国，100 多人被捕 半岛电视台观察：内塔尼亚胡演讲前的大规模罢工引发激烈争论以色列总理福克斯新闻的回应
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, diplomacy, crisis, widens, and aides. The available excerpt says: Trump Aides Seek to Jump Start Diplomacy With Iran as Crisis Widens The New York Times Fact check: Trump’s false claims to the United Nations CNN Trump meets with Iranian officials shortly after threatening annihilation Fox News Trump Puts Legacy Ahead of Midterm Politics in Speech at U.N. WSJ Can flurry of New York diplomacy lead to US-Iran diplomatic breakthrough? Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、外交、危机、扩大、助手。RSS 中文摘要显示：危机扩大，特朗普助手寻求启动与伊朗的外交 纽约时报 事实核查：特朗普向联合国发出虚假声明 CNN 特朗普在威胁消灭伊朗后不久会见伊朗官员 福克斯新闻 特朗普在联合国演讲中将遗留问题置于中期政治之上 华尔街日报 一系列纽约外交能否带来美伊外交突破？半岛电视台 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: netanyahu, speech, jazeera, israel, and benjamin. The available excerpt says: Benjamin Netanyahu attacks Israel’s enemies and allies in UN speech Al Jazeera Susan Sarandon, Hannah Einbinder among more than 100 detained during anti-Netanyahu protest outside UN CNN Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA NPR More than 100 arrested as New Yorkers protest Netanyahu’s UN visit Al Jazeera WATCH: Mass walkout before Netanyahu speech prompts fiery response from Israeli prime minister Fox News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：内塔尼亚胡、演讲、半岛电视台、以色列、本杰明。RSS 中文摘要显示：本杰明·内塔尼亚胡在联合国演讲中攻击以色列的敌人和盟友 半岛电视台 苏珊·萨兰登、汉娜·艾因宾德等 100 多人在联合国外的反内塔尼亚胡抗议活动中被拘留 前美国驻以色列大使谈内塔尼亚胡在联合国大会的演讲 NPR 纽约人抗议内塔尼亚胡访问联合国，100 多人被捕 半岛电视台观察：内塔尼亚胡演讲前的大规模罢工引发激烈争论以色列总理福克斯新闻的回应 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 5. [Zelenskyy says Ukraine sent 2 North Korean prisoners of war to South Korea - AP News](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNlZWT3piTkJfRzRTNlY4NlkyU3hGLW1aeEF2R2NKZW9FakN1T2p0Q2I4Ylk0SFdaU1B2TmJaRTEyYTNtU0FnOGZjX3RnNWtETG9pQmdXbUZBWDNKWjRfd2FWSEN0LUFxNnlHY3V1R1lNQWdmZThHT19zeWdub3hjZ3dlazlmQWhyWS01NXk0VERzTGtZMkpuM0hsRHY4MnJQaWdlRnFmakhOZw?oc=5)
+### 4. [Leo XIV, Trying to Be Everyone’s Pope, Heads to Secular France - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTFBoU0ZER3ZOSVBfWG4zc0hKZENNLW01MVN3b3N3bDZySWsyeW1CTzgwT1lxRGxJR3BYUE1FWkh5dWpiZ19uY1h6OTJfMHQ3OXRxTXZTdnBNRzZXUWJubGE3SXRUNzR4S2tQaGdPSUhvY3RYcjRpSU5qazZtOUZCXzA?oc=5)
 
-- Source / 来源: AP News. Published: `2026-09-24T02:30:00+00:00`.
-- Keywords / 关键词: korean, south, ukraine, north, korea, sent, zelenskyy, prisoners, war, two
-- 中文关键词: 韩国人、南、乌克兰、北、韩国、发送、泽连斯基、囚犯、战争、二
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Zelenskyy says Ukraine sent 2 North Korean prisoners of war to South Korea AP News Ukraine sent two captured North Korean soldiers to South Korea, Zelenskiy says Reuters Zelenskyy says Ukraine sent two North Korean POWs to South Korea Al Jazeera ​Ukraine Sent Two North Korean P.O.W.s to South Korea, Zelensky Says The New York Times Zelenskyy Announces Repatriation of South Korean Nationals 조선일보
-- RSS 中文摘要: 泽伦斯基称乌克兰向韩国派遣了两名朝鲜战俘 美联社新闻 泽伦斯基称路透社向乌克兰派遣了两名被俘的朝鲜士兵 泽伦斯基称乌克兰向韩国派遣了两名朝鲜战俘 泽伦斯基称《纽约时报》称乌克兰向韩国派遣了两名朝鲜战俘 泽伦斯基宣布遣返韩国国民 조선일보
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: korean, south, ukraine, north, and korea. The available excerpt says: Zelenskyy says Ukraine sent 2 North Korean prisoners of war to South Korea AP News Ukraine sent two captured North Korean soldiers to South Korea, Zelenskiy says Reuters Zelenskyy says Ukraine sent two North Korean POWs to South Korea Al Jazeera ​Ukraine Sent Two North Korean P.O.W.s to South Korea, Zelensky Says The New York Times Zelenskyy Announces Repatriation of South Korean Nationals 조선일보 Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：韩国人、南、乌克兰、北、韩国。RSS 中文摘要显示：泽伦斯基称乌克兰向韩国派遣了两名朝鲜战俘 美联社新闻 泽伦斯基称路透社向乌克兰派遣了两名被俘的朝鲜士兵 泽伦斯基称乌克兰向韩国派遣了两名朝鲜战俘 泽伦斯基称《纽约时报》称乌克兰向韩国派遣了两名朝鲜战俘 泽伦斯基宣布遣返韩国国民 조선일보 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 6. [The world wants to secure AI. It may have to try without the US. - Politico](https://news.google.com/rss/articles/CBMihwFBVV95cUxOWVR1czV4WHF1YUJhQWpuWG9KZmdoNXpuZ21PeUtIZVZKUkhNLWdHVU5BOXg1bjltZmp1T2xrREdfTVBqM1d1NHN2S2VXdE45ZG80cnJsSXZEOVJrMXB6T0cxYlA3cEpzOHRXbmhNLWJ3bWQ0bnFPVzZpVFNybVdHOUxoY1B3MTA?oc=5)
-
-- Source / 来源: Politico. Published: `2026-09-23T23:51:00+00:00`.
-- Keywords / 关键词: politico, without, secure, wants, try, security, leaders, international, intelligence, cooperation
-- 中文关键词: 政治报、没有、安全的、想要、尝试、安全、领导者、国际的、智力、合作
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: The world wants to secure AI. It may have to try without the US. Politico AI leaders warn UN of security risks as systems grow more powerful Reuters OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' ABC News - Breaking News, Latest News and Videos Sam Altman, Dario Amodei urge UN Security Council to adopt international AI standards CNN Is it ‘killer robots’ or ‘super intelligence’? At the UN, leaders see both AP News
-- RSS 中文摘要: 世界希望确保人工智能的安全。它可能必须在没有美国的情况下进行尝试。 Politico AI 领导人警告联合国，随着系统变得更加强大，面临安全风险 路透 OpenAI、联合国 Anthropic 首席执行官呼吁人工智能全球合作：“我们正处于十字路口” ABC 新闻 - 突发新闻、最新新闻和视频 Sam Altman、Dario Amodei 敦促联合国安理会采用国际人工智能标准 CNN 这是“杀手机器人”还是“超级智能”？在联合国，领导人看到了美联社新闻
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: politico, without, secure, wants, and try. The available excerpt says: The world wants to secure AI. It may have to try without the US. Politico AI leaders warn UN of security risks as systems grow more powerful Reuters OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' ABC News - Breaking News, Latest News and Videos Sam Altman, Dario Amodei urge UN Security Council to adopt international AI standards CNN Is it ‘killer robots’ or ‘super intelligence’? At the UN, leaders see both AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：政治报、没有、安全的、想要、尝试。RSS 中文摘要显示：世界希望确保人工智能的安全。它可能必须在没有美国的情况下进行尝试。 Politico AI 领导人警告联合国，随着系统变得更加强大，面临安全风险 路透 OpenAI、联合国 Anthropic 首席执行官呼吁人工智能全球合作：“我们正处于十字路口” ABC 新闻 - 突发新闻、最新新闻和视频 Sam Altman、Dario Amodei 敦促联合国安理会采用国际人工智能标准 CNN 这是“杀手机器人”还是“超级智能”？在联合国，领导人看到了美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 7. [From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations - The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxNYk9Zc1RGbmR0anhxRV83MUtxM1A1U2dmUHh1MHJYUEl4VlVBbWVEQV9xSDRpOXRWZ3dXWDVQZ2ZOa2hGTF9ta1Nzc3gzdlMza0NoM2FjN2habjNvV0pFc0lEQXVlVUJvdUx5OTNCMW0xWktRM2dwdFJRdUJZUXNOVXN1M2gtNzE4UDRaOUw2N18?oc=5)
-
-- Source / 来源: The New York Times. Published: `2026-09-24T04:01:05+00:00`.
-- Keywords / 关键词: nepal, reparations, climate, leader, young, makes, pain, case, nepal's, deadly
-- 中文关键词: 尼泊尔、赔偿、气候、领导者、年轻的、使、疼痛、案件、尼泊尔的、致命
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations The New York Times Is Nepal's flood a harbinger of what's to come in the Himalayas? npr.org Thousands missing, aid needs mount one month after Nepal's deadly floods Yahoo After deadly floods, Nepal needs funding and not 'sympathy,' environment minister tells DW DW.com Shrinking, Fast And Slow: The Nepal Flood Reveals Growing Risks To Hydropower From Glacial Retreat Forbes
-- RSS 中文摘要: 来自痛苦中的尼泊尔，一位年轻领导人提出气候赔偿的理由 《纽约时报》 尼泊尔的洪水是喜马拉雅山即将发生的事情的预兆吗？ npr.org 尼泊尔发生致命洪水一个月后，数千人失踪，援助需求增加 雅虎 环境部长告诉德国之声，致命洪水发生后，尼泊尔需要的是资金，而不是“同情”
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: nepal, reparations, climate, leader, and young. The available excerpt says: From a Nepal in Pain, a Young Leader Makes a Case for Climate Reparations The New York Times Is Nepal's flood a harbinger of what's to come in the Himalayas? npr.org Thousands missing, aid needs mount one month after Nepal's deadly floods Yahoo After deadly floods, Nepal needs funding and not 'sympathy,' environment minister tells DW DW.com Shrinking, Fast And Slow: The Nepal Flood Reveals Growing Risks To Hydropower From Glacial Retreat Forbes Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：尼泊尔、赔偿、气候、领导者、年轻的。RSS 中文摘要显示：来自痛苦中的尼泊尔，一位年轻领导人提出气候赔偿的理由 《纽约时报》 尼泊尔的洪水是喜马拉雅山即将发生的事情的预兆吗？ npr.org 尼泊尔发生致命洪水一个月后，数千人失踪，援助需求增加 雅虎 环境部长告诉德国之声，致命洪水发生后，尼泊尔需要的是资金，而不是“同情” 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 8. [Eight USS Lincoln personnel have attempted suicide, US navy confirms - The Guardian](https://news.google.com/rss/articles/CBMiggFBVV95cUxQeVRxcUdUS0cxUTAzcE1VU2pad2NQOEVlUDlHMkViXzRBWkNBbjloUXhGVkYxWUF2ekMtZFlGaS00ZldBVUtXeUU2U014cGkxYU1nR0NSYU45bE9GSjk0Wk0xZ05GTHA3RUxnTmZaOUJxLTNrbGhJdzFJcjVSUTRZUXdB?oc=5)
-
-- Source / 来源: The Guardian. Published: `2026-09-24T00:55:00+00:00`.
-- Keywords / 关键词: suicide, navy, attempted, eight, lincoln, uss, personnel, confirms, group, sailors
-- 中文关键词: 自杀、海军、尝试过、八、林肯、号航空母舰、人员、证实、团体、水手
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Eight USS Lincoln personnel have attempted suicide, US navy confirms The Guardian Eight US sailors in USS Abraham Lincoln strike group attempted suicide, Navy says BBC Navy reports 8 suicide attempts on carrier group that faced monthslong deployment amid Iran war CBS News Acting Navy Secretary says eight sailors on USS Abraham Lincoln carrier strike group attempted suicide The Hill Eight sailors assigned to US carrier group that fought in Iran war attempted suicide, Navy secretary tells Congress CNN
-- RSS 中文摘要: 美国海军证实，《卫报》称，亚伯拉罕·林肯号航空母舰打击群中的八名美国水手试图自杀，海军称英国广播公司海军报告称，在伊朗战争中面临长达数月部署的航母战斗群有八名水手自杀未遂。代理海军部长称，亚伯拉罕·林肯号航空母舰打击群中的八名水手试图自杀。
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: suicide, navy, attempted, eight, and lincoln. The available excerpt says: Eight USS Lincoln personnel have attempted suicide, US navy confirms The Guardian Eight US sailors in USS Abraham Lincoln strike group attempted suicide, Navy says BBC Navy reports 8 suicide attempts on carrier group that faced monthslong deployment amid Iran war CBS News Acting Navy Secretary says eight sailors on USS Abraham Lincoln carrier strike group attempted suicide The Hill Eight sailors assigned to US carrier group that fought in Iran war attempted suicide, Navy secretary tells Congress CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：自杀、海军、尝试过、八、林肯。RSS 中文摘要显示：美国海军证实，《卫报》称，亚伯拉罕·林肯号航空母舰打击群中的八名美国水手试图自杀，海军称英国广播公司海军报告称，在伊朗战争中面临长达数月部署的航母战斗群有八名水手自杀未遂。代理海军部长称，亚伯拉罕·林肯号航空母舰打击群中的八名水手试图自杀。 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 9. [Key moments from UNGA Day 2: Speeches from Rodríguez, Zelensky, Pezeshkian - CNN](https://news.google.com/rss/articles/CBMingFBVV95cUxOVW5YZkUxR3BLRUo4TG5rV3QwM1hES0ZOUHNoTG5vc0tZNmVGN2lWVGpGMHVjTlhHdFo2cDJOZUs5bTJLNi1qa2ROWk1CTGswV01oMnZFRnNaYVA1bUZ5UFJ1MDFCMWd5ZmM3M0xKUjBXa0w5c3IwUmlqNXF5eUNQQ0JWaVZlVExTXzh4OG5PdC1STndNLV9nMkVaVl9rZw?oc=5)
-
-- Source / 来源: CNN. Published: `2026-09-24T03:58:00+00:00`.
-- Keywords / 关键词: pezeshkian, speeches, zelensky, moments, unga, rodr, guez, key, day, perspectives
-- 中文关键词: 佩泽什基安、演讲、泽伦斯基、时刻、对他、卷、盖兹、钥匙、天、观点
-- Category / 分类: Global affairs / 全球事务
-- RSS Excerpt / RSS 摘要: Key moments from UNGA Day 2: Speeches from Rodríguez, Zelensky, Pezeshkian CNN See more headlines & perspectives on Google News
-- RSS 中文摘要: 联合国大会第 2 天的关键时刻：Rodríguez、Zelensky、Pezeshkian CNN 的演讲 在 Google 新闻上查看更多头条新闻和观点
-- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
-- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
-- EN Detailed Reading: Key signals: pezeshkian, speeches, zelensky, moments, and unga. The available excerpt says: Key moments from UNGA Day 2: Speeches from Rodríguez, Zelensky, Pezeshkian CNN See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文详细解读: 关键词信号：佩泽什基安、演讲、泽伦斯基、时刻、对他。RSS 中文摘要显示：联合国大会第 2 天的关键时刻：Rodríguez、Zelensky、Pezeshkian CNN 的演讲 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
-- EN What to watch: follow-up reporting; official statements; regional or market reaction
-- 后续关注: 后续报道；官方声明；地区或市场反应
-
-### 10. [Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii - npr.org](https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVBvMElSMnJpaVVXUkdLMHl0Zm9Sc05iMC1udVgxRGlsTXN2QjJob1JJZm9ORXFVNTZhYm1zSjFRVV9tNDdreEoxLTJYbzJvcldKT1hmelYtSUJVdWpkc1VwMUNfNEpxcWpuUjZERmZRUE16SWpsNjVOU29PM2ZkaDFfTWo?oc=5)
-
-- Source / 来源: npr.org. Published: `2026-09-24T03:19:45+00:00`.
-- Keywords / 关键词: hurricane, polo, mexico, hawaii, nolo, org, landslides, closes, fuels, fears
-- 中文关键词: 飓风、马球、墨西哥、夏威夷、诺洛、组织、山体滑坡、关闭、燃料、恐惧
+- Source / 来源: The New York Times. Published: `2026-09-25T04:01:06+00:00`.
+- Keywords / 关键词: france, pope, leo, everyone, secular, trying, heads, xiv, visit, processions
+- 中文关键词: 法国、教皇、狮子座、每个人、世俗、尝试、头、十四、访问、游行
 - Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii npr.org Category 5 Hurricane Polo is 'one of the strongest storms ever' npr.org Offshore Hurricane Polo sends rain into Mexico’s coast as Nolo nears Hawaii WOODTV.com Could Polo's remnants eventually raise the US flood risk? WUSA9 Forecasters say its possible Hurricane Polo could cause coastal flooding in San Diego County San Diego Union-Tribune
-- RSS 中文摘要: 诺洛逼近夏威夷，飓风“波罗”加剧了对墨西哥山体滑坡的担忧 npr.org 5 级飓风“波罗”是“有史以来最强的风暴之一” npr.org 诺洛接近夏威夷时，近海飓风“波罗”将降雨带入墨西哥海岸 WOODTV.com 波罗的残余物最终会增加美国洪水风险吗？ WUSA9 预报员表示，飓风波罗可能会导致圣地亚哥县沿海洪水泛滥
+- RSS Excerpt / RSS 摘要: Leo XIV, Trying to Be Everyone’s Pope, Heads to Secular France The New York Times Hundreds of thousands expected in Paris for Pope's visit BBC Pope Leo XIV's France visit puts Macron in diplomatic balancing act France 24 High-level meetings, open-air masses and public processions: What you need to know about Pope Leo's trip to France Le Monde.fr Pope Leo arrives in France with AI, apologies for clergy abuse on agenda Reuters
+- RSS 中文摘要: 利奥十四世，试图成为所有人的教皇，前往世俗法国 《纽约时报》 预计有数十万人前往巴黎参加教皇访问 BBC 教皇利奥十四世的法国访问使马克龙陷入外交平衡之举 法国 24 高层会议、露天群众和公众游行：关于教皇利奥的法国之行你需要了解的信息 Le Monde.fr 教皇利奥带着人工智能抵达法国，为议程上的神职人员虐待行为道歉 路透社
 - EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
 - 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: hurricane, polo, mexico, hawaii, and nolo. The available excerpt says: Hurricane Polo fuels fears of landslides in Mexico as Nolo closes in on Hawaii npr.org Category 5 Hurricane Polo is 'one of the strongest storms ever' npr.org Offshore Hurricane Polo sends rain into Mexico’s coast as Nolo nears Hawaii WOODTV.com Could Polo's remnants eventually raise the US flood risk? WUSA9 Forecasters say its possible Hurricane Polo could cause coastal flooding in San Diego County San Diego Union-Tribune Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：飓风、马球、墨西哥、夏威夷、诺洛。RSS 中文摘要显示：诺洛逼近夏威夷，飓风“波罗”加剧了对墨西哥山体滑坡的担忧 npr.org 5 级飓风“波罗”是“有史以来最强的风暴之一” npr.org 诺洛接近夏威夷时，近海飓风“波罗”将降雨带入墨西哥海岸 WOODTV.com 波罗的残余物最终会增加美国洪水风险吗？ WUSA9 预报员表示，飓风波罗可能会导致圣地亚哥县沿海洪水泛滥 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN Detailed Reading: Key signals: france, pope, leo, everyone, and secular. The available excerpt says: Leo XIV, Trying to Be Everyone’s Pope, Heads to Secular France The New York Times Hundreds of thousands expected in Paris for Pope's visit BBC Pope Leo XIV's France visit puts Macron in diplomatic balancing act France 24 High-level meetings, open-air masses and public processions: What you need to know about Pope Leo's trip to France Le Monde.fr Pope Leo arrives in France with AI, apologies for clergy abuse on agenda Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：法国、教皇、狮子座、每个人、世俗。RSS 中文摘要显示：利奥十四世，试图成为所有人的教皇，前往世俗法国 《纽约时报》 预计有数十万人前往巴黎参加教皇访问 BBC 教皇利奥十四世的法国访问使马克龙陷入外交平衡之举 法国 24 高层会议、露天群众和公众游行：关于教皇利奥的法国之行你需要了解的信息 Le Monde.fr 教皇利奥带着人工智能抵达法国，为议程上的神职人员虐待行为道歉 路透社 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
 - EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
 - 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 5. [Meloni government bans burqas, caps foreign students in Italian schools - Al Jazeera](https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHg0OXEzX2ZyRmJMUG9CNE5aUERxYTdaWEtaUGpZNkFfakgyZURpcDBlQkRublhRTEp2WXZ1VUNOWTA0MERPdTA5SEhoZk52cWtUUU0yMXJfZ1BHdXlySHdmMVVrblpZMXdZcW5xMDF5bDlkeXhJU1VyQ1JtT2hsNEhxOGdlaXdlRFoxNUQ1b0dfeEdUZ3NyMGpQeXJHcEdrbmdobnBCdVFxSzhGVndtLdIBtgFBVV95cUxNdTVYZFhwUlpXY2lVQUtTTGplbV9HdEl5ZENmU0Zodk1OTXdNS3BfamZSZ1pKNVhhbGQ1QzgwWkluS2JRbEotTVB5QnlJUUpSeFh3N1h2SGtEZks5cTF2MXZYN1EtS0hOdy1MOW1TZkFmZnNBcFpUTXA2eTVhRmE3eWpMYzVVckE0bkVpOUZOcjE4NHVuVzVYVzJFeTlKbTJFYUZKS2dpTXI1Mm1hNGdrc3h0NGNlQQ?oc=5)
+
+- Source / 来源: Al Jazeera. Published: `2026-09-25T02:10:38+00:00`.
+- Keywords / 关键词: foreign, students, schools, meloni, government, italian, jazeera, burqas, bans, caps
+- 中文关键词: 外国的、学生、学校、瓜类、政府、意大利语、半岛电视台、罩袍、禁令、帽子
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Meloni government bans burqas, caps foreign students in Italian schools Al Jazeera Italy ministers agree to ban burqa and niqab in school and cap foreigners in class BBC Italy to ban burqa in schools, limit foreign pupils DW.com Italy Moves to Cap Number of Foreign Students in Its Classrooms The New York Times Beset by far-right rival, Italy's Meloni tightens foreign pupil rules Reuters
+- RSS 中文摘要: 梅洛尼政府禁止穿罩袍，限制意大利学校外国学生人数 半岛电视台 意大利部长们同意禁止在学校穿罩袍和面纱，并限制外国人在课堂上 BBC 意大利禁止学校穿罩袍，限制外国学生 DW.com 意大利开始限制教室里的外国学生人数 《纽约时报》
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: foreign, students, schools, meloni, and government. The available excerpt says: Meloni government bans burqas, caps foreign students in Italian schools Al Jazeera Italy ministers agree to ban burqa and niqab in school and cap foreigners in class BBC Italy to ban burqa in schools, limit foreign pupils DW.com Italy Moves to Cap Number of Foreign Students in Its Classrooms The New York Times Beset by far-right rival, Italy's Meloni tightens foreign pupil rules Reuters Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：外国的、学生、学校、瓜类、政府。RSS 中文摘要显示：梅洛尼政府禁止穿罩袍，限制意大利学校外国学生人数 半岛电视台 意大利部长们同意禁止在学校穿罩袍和面纱，并限制外国人在课堂上 BBC 意大利禁止学校穿罩袍，限制外国学生 DW.com 意大利开始限制教室里的外国学生人数 《纽约时报》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 6. [How every senator voted on the Iran war powers resolution - The Washington Post](https://news.google.com/rss/articles/CBMitAFBVV95cUxPam9taGdWcUM0TV9za3VfOHRSY2F3YVExYWxOdzVKdU5rYTVQeFBlemFJOEhoSGxrU2drZFgwQ1hoUDU3dzZnbUY4SEwwNDg5Q24zZERXTUxlV2pCY3dUOWN5SmVocTNLZFN1c1phT08xcW1FcVZVSG1SYXlEWmJlazF5UmxWYWMyN0cxR1V4UThlYlZHNlpnNXExd2w2QXVSNU92c1o1cFQtbk9JcUI1RGkyZ1Y?oc=5)
+
+- Source / 来源: The Washington Post. Published: `2026-09-25T02:00:00+00:00`.
+- Keywords / 关键词: iran, war, resolution, washington, senator, powers, every, voted, senate, trump
+- 中文关键词: 伊朗、战争、解决、华盛顿、参议员、权力、每一个、投票了、参议院、特朗普
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: How every senator voted on the Iran war powers resolution The Washington Post Senate narrowly votes down resolution calling for end to Iran war CNBC Senate Defeats Bid to Direct Trump to End Iran War or Seek Approval The New York Times 4 GOP senators rebel against Trump on Iran war, vote with Dems to rein in authority Fox News GOP breaks ranks on Iran as voters fume over war’s costs The Hill
+- RSS 中文摘要: 每位参议员如何对伊朗战争权力决议进行投票 《华盛顿邮报》参议院以微弱优势否决了要求结束伊朗战争的决议 CNBC 参议院挫败了指示特朗普结束伊朗战争或寻求批准的努力 《纽约时报》 4 名共和党参议员在伊朗战争问题上反对特朗普，与民主党一起投票以控制权力 福克斯新闻 共和党在伊朗问题上分崩离析，因为选民对战争成本感到愤怒 国会山
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: iran, war, resolution, washington, and senator. The available excerpt says: How every senator voted on the Iran war powers resolution The Washington Post Senate narrowly votes down resolution calling for end to Iran war CNBC Senate Defeats Bid to Direct Trump to End Iran War or Seek Approval The New York Times 4 GOP senators rebel against Trump on Iran war, vote with Dems to rein in authority Fox News GOP breaks ranks on Iran as voters fume over war’s costs The Hill Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：伊朗、战争、解决、华盛顿、参议员。RSS 中文摘要显示：每位参议员如何对伊朗战争权力决议进行投票 《华盛顿邮报》参议院以微弱优势否决了要求结束伊朗战争的决议 CNBC 参议院挫败了指示特朗普结束伊朗战争或寻求批准的努力 《纽约时报》 4 名共和党参议员在伊朗战争问题上反对特朗普，与民主党一起投票以控制权力 福克斯新闻 共和党在伊朗问题上分崩离析，因为选民对战争成本感到愤怒 国会山 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [Rainy and windy conditions across Connecticut Friday night through Sunday! - WTNH.com](https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVJPUHRPdnoyQkEzSW9Udi10akY3R0lEZkJldGNvWmxfMGRaZlhBaXJDNjRQdzAxaEpGUVJvUzRVZjNKUUZqUktzMWhsX2FtcnRYZ0xqWTBnMnpoZ2ZmNDBPTHJOT3VDdnFqNjR6ekZ2R1F1QUJIMzJrSTF3VGFmN1RXVTJFQzVJOWxaSXc1SjRtVXZxbUx3WjBQVTYxNTg4VDd0M3VR0gGrAUFVX3lxTE1TMVNySHBZNWtrdUZhc1VVUTc5Z2JST3NlNXJqTTFFYXM0a3I2UzMzblJsYnRhRE9seElkeE1nTmU2WTdpRDlPamlGVHN3WlZVWXVCVkRxN1RWaEp2T1pGU2wwM3ludHgweC1EcEQ4TjBpaWJkbWYwbVBhampIQU1TWnVYcnBiUWZ0YWFneHQ2ZkJhZFJGZ2cyOVFiRWhkdkZkam5lcUpac2hCSQ?oc=5)
+
+- Source / 来源: WTNH.com. Published: `2026-09-25T05:07:21+00:00`.
+- Keywords / 关键词: friday, wtnh, com, connecticut, conditions, through, across, sunday, rainy, windy
+- 中文关键词: 星期五、重量、com、康涅狄格州、状况、通过、穿过、星期日、下雨的、有风的
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Rainy and windy conditions across Connecticut Friday night through Sunday! WTNH.com Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast The New York Times Friday & weekend storm forecast WTNH.com Maine sits on the northern edge of this weekend’s nor’easter WMTW NYC weather timeline: Breaking down the nor'easter scenarios for this weekend FOX 5 New York
+- RSS 中文摘要: 周五晚至周日康涅狄格州多雨多风！ WTNH.com 东北风可能给东海岸带来大雨、大风和洪水 《纽约时报》周五和周末风暴预报 WTNH.com 缅因州位于本周末东北风的北部边缘 WMTW NYC 天气时间表：详细分析本周末的东北风情景 FOX 5 纽约
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: friday, wtnh, com, connecticut, and conditions. The available excerpt says: Rainy and windy conditions across Connecticut Friday night through Sunday! WTNH.com Nor’easter Could Bring Heavy Rain, Winds, and Flooding to East Coast The New York Times Friday & weekend storm forecast WTNH.com Maine sits on the northern edge of this weekend’s nor’easter WMTW NYC weather timeline: Breaking down the nor'easter scenarios for this weekend FOX 5 New York Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：星期五、重量、com、康涅狄格州、状况。RSS 中文摘要显示：周五晚至周日康涅狄格州多雨多风！ WTNH.com 东北风可能给东海岸带来大雨、大风和洪水 《纽约时报》周五和周末风暴预报 WTNH.com 缅因州位于本周末东北风的北部边缘 WMTW NYC 天气时间表：详细分析本周末的东北风情景 FOX 5 纽约 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 8. [Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests - ABC7 Los Angeles](https://news.google.com/rss/articles/CBMisAFBVV95cUxOZjB4NnBQUWFldEg0MzJSZldEYXBFUGFMTFBrbDFHRVJRMHZpbzVlR0NzVWhuLTduTVhfQUFSYkNvMVNCY1pCcU1WMEw2R1U5d2tYdFQ5YldYOVNZRjF3bF83aVZQUFYwNmVnWjc5OU84ZGdXZ19DVjh1M0hCOWFEU0QyeE9pckJ3YW5feFVFWUlrZ281NFN5Z21MSDJhMEE1djUybWF3VG9VX2FRakU1Yg?oc=5)
+
+- Source / 来源: ABC7 Los Angeles. Published: `2026-09-24T22:20:16+00:00`.
+- Keywords / 关键词: february, super-sized, suggests, angeles, deaths, cause, study, heat, abc7, los
+- 中文关键词: 二月、超大的、建议、安吉利斯、死亡、原因、学习、热、ABC7、洛斯
+- Category / 分类: Climate, environment, and safety / 气候、环境与安全
+- RSS Excerpt / RSS 摘要: Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests ABC7 Los Angeles The Guardian view on a supersized El Niño: a natural phenomenon and human folly are a lethal combination | Editorial The Guardian 'Super' El Niño is coming. What should you expect? : Short Wave NPR Scientists Say Scorching Temperatures Brought on by the 'Super' El Niño Could Kill Nearly Half a Million People by February Smithsonian Magazine This year’s El Niño just broke a record months before it’s expected to peak Science News
+- RSS 中文摘要: 研究表明，到2月份，超大厄尔尼诺现象可能导致超过45万人中暑死亡，ABC7洛杉矶卫报对超大厄尔尼诺现象的看法：自然现象和人类愚蠢行为是致命的组合卫报社论 “超级”厄尔尼诺现象即将来临。你应该期待什么？ ：短波 NPR 科学家表示，“超级”厄尔尼诺现象带来的灼热气温可能会导致近 50 万人死亡，史密森尼杂志 2 月报道 今年的厄尔尼诺现象在预计达到顶峰的几个月前刚刚打破了纪录 科学新闻
+- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
+- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
+- EN Detailed Reading: Key signals: february, super-sized, suggests, angeles, and deaths. The available excerpt says: Super-sized El Niño could cause more than 450,000 heat deaths by February, study suggests ABC7 Los Angeles The Guardian view on a supersized El Niño: a natural phenomenon and human folly are a lethal combination | Editorial The Guardian 'Super' El Niño is coming. What should you expect? : Short Wave NPR Scientists Say Scorching Temperatures Brought on by the 'Super' El Niño Could Kill Nearly Half a Million People by February Smithsonian Magazine This year’s El Niño just broke a record months before it’s expected to peak Science News Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
+- 中文详细解读: 关键词信号：二月、超大的、建议、安吉利斯、死亡。RSS 中文摘要显示：研究表明，到2月份，超大厄尔尼诺现象可能导致超过45万人中暑死亡，ABC7洛杉矶卫报对超大厄尔尼诺现象的看法：自然现象和人类愚蠢行为是致命的组合卫报社论 “超级”厄尔尼诺现象即将来临。你应该期待什么？ ：短波 NPR 科学家表示，“超级”厄尔尼诺现象带来的灼热气温可能会导致近 50 万人死亡，史密森尼杂志 2 月报道 今年的厄尔尼诺现象在预计达到顶峰的几个月前刚刚打破了纪录 科学新闻 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
+- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
+- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
+
+### 9. [CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival - CNN](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd0JpUmhyZ3pwSmxlVUNxQ1c0Rl82TU91eno5eVlFZjh3b01Bcy1zcXNkWlNYQl84SzRiVTdkVGdSZXZZRmdOc0VOTS1YMy1nTjRsaVlVdEdqYWhxNUozdnhJLUREX3dQSTRtSzc4X29rS2ZURVZaQXNucG9VVjZlcTZhdDMzUQ?oc=5)
+
+- Source / 来源: CNN. Published: `2026-09-25T03:33:00+00:00`.
+- Keywords / 关键词: white, house, dinner, denied, access, state, reporters, arrival, trump, banned
+- 中文关键词: 白色的、房子、晚餐、被拒绝、使用权、状态、记者、到达、特朗普、禁止
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival CNN Media outlets banned by Trump denied access to White House dinner despite judge's order BBC In Trump’s White House, China’s Dictator Is Welcome. American Media, Less So. The New York Times Trump-Xi state visit latest: China could open Strait of Hormuz, Republican claims; notable group miss dinner Sky News David Ellison Dines With Trump & Xi As CEO’s Soon-To-Be Owned CNN Banned From White House, Again Deadline
+- RSS 中文摘要: CNN、MS NOW 白宫记者拒绝进入习近平国宴抵达 CNN 被特朗普禁止的媒体拒绝进入白宫晚宴，尽管法官下令 BBC 在特朗普的白宫，欢迎中国独裁者。美国媒体，不那么如此。 《纽约时报》特朗普与习近平最新国事访问：共和党称中国可能开放霍尔木兹海峡；著名团体错过晚宴 天空新闻 戴维·埃里森 (David Ellison) 与特朗普和习近平共进晚餐 即将成为首席执行官的 CNN 再次被禁止进入白宫
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: white, house, dinner, denied, and access. The available excerpt says: CNN, MS NOW White House reporters denied access to Xi’s state dinner arrival CNN Media outlets banned by Trump denied access to White House dinner despite judge's order BBC In Trump’s White House, China’s Dictator Is Welcome. American Media, Less So. The New York Times Trump-Xi state visit latest: China could open Strait of Hormuz, Republican claims; notable group miss dinner Sky News David Ellison Dines With Trump & Xi As CEO’s Soon-To-Be Owned CNN Banned From White House, Again Deadline Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：白色的、房子、晚餐、被拒绝、使用权。RSS 中文摘要显示：CNN、MS NOW 白宫记者拒绝进入习近平国宴抵达 CNN 被特朗普禁止的媒体拒绝进入白宫晚宴，尽管法官下令 BBC 在特朗普的白宫，欢迎中国独裁者。美国媒体，不那么如此。 《纽约时报》特朗普与习近平最新国事访问：共和党称中国可能开放霍尔木兹海峡；著名团体错过晚宴 天空新闻 戴维·埃里森 (David Ellison) 与特朗普和习近平共进晚餐 即将成为首席执行官的 CNN 再次被禁止进入白宫 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [Houthis say they attacked Riyadh and Aramco facilities in Yanbu - Reuters](https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWlXS0IwYk9WRDdxeGk1MmxybUpOa2lqYWN5Zm8wckN4ZVJJQUlCNXBJUkpsdXdTT240ZDhHMmJOWEszcHJUZDZscy1ibVkyZjlEUm03c3ZXZHlEanBFcE5Wa3A3QjVabTdPRTgtcnd5bWRhcVB0M0hEbW5QTUN0R2R3clB2OV9YblRYREFsY0NLU3ItMTFqRlFoRDVyV00zWnVoTUNzQ1ZDXzV1aUVN?oc=5)
+
+- Source / 来源: Reuters. Published: `2026-09-24T19:24:40+00:00`.
+- Keywords / 关键词: houthis, facilities, attacked, riyadh, aramco, yanbu, saudi, they, say, houthi
+- 中文关键词: 胡塞武装、设施、受到攻击、利雅得、阿美石油公司、yanbu、沙特、他们、说、houthi
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Houthis say they attacked Riyadh and Aramco facilities in Yanbu Reuters Saudi foreign minister warns Houthi threat goes global as Trump holds fire Fox News Saudi reports fresh Houthi attacks as France pledges to defend key oil port France 24 Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis Al Jazeera Saudi Arabia intercepts wave of Houthi missiles as oil climbs to one-week high The Guardian
+- RSS 中文摘要: 胡塞武装称他们袭击了利雅得和延布的阿美石油公司设施 路透社 沙特外长警告称，随着特朗普开火，胡塞武装的威胁将蔓延至全球 福克斯新闻 沙特报告新的胡塞武装袭击，法国承诺保卫重要石油港口 法国 24 沙特阿拉伯国王萨勒曼猛烈抨击“恐怖分子”胡塞武装瞄准麦加 半岛电视台 随着油价攀升至一周高点，沙特阿拉伯拦截了胡塞武装的一波导弹
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: houthis, facilities, attacked, riyadh, and aramco. The available excerpt says: Houthis say they attacked Riyadh and Aramco facilities in Yanbu Reuters Saudi foreign minister warns Houthi threat goes global as Trump holds fire Fox News Saudi reports fresh Houthi attacks as France pledges to defend key oil port France 24 Saudi Arabia’s King Salman slams targeting of Mecca by ‘terrorist’ Houthis Al Jazeera Saudi Arabia intercepts wave of Houthi missiles as oil climbs to one-week high The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：胡塞武装、设施、受到攻击、利雅得、阿美石油公司。RSS 中文摘要显示：胡塞武装称他们袭击了利雅得和延布的阿美石油公司设施 路透社 沙特外长警告称，随着特朗普开火，胡塞武装的威胁将蔓延至全球 福克斯新闻 沙特报告新的胡塞武装袭击，法国承诺保卫重要石油港口 法国 24 沙特阿拉伯国王萨勒曼猛烈抨击“恐怖分子”胡塞武装瞄准麦加 半岛电视台 随着油价攀升至一周高点，沙特阿拉伯拦截了胡塞武装的一波导弹 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
 
 
