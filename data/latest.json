@@ -1,92 +1,39 @@
 {
-  "generated_at": "2026-09-27T09:44:55+00:00",
+  "generated_at": "2026-09-28T10:25:36+00:00",
   "timezone": "UTC",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "Police declare major incident at UK's Fairford air base, used by US air forces - Reuters",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThaUHcwMHZuZEY2dldUNjhYQ29PeWRJdEYxWFBPV3NEUUdSc0l4MkdhN3liTGdyNG9XaEhwWG8xRk8xR29JVlA0ZEV2ZXM3RVZCRDlPSHhzU29Pek9tZVREdUdvOHRXS1ZuaTR0TXVGV253bkplU1lNbG85WXRjYzcwV2ZSekFCa1gtR1RtV09zM3NYeF93?oc=5",
-      "published_at": "2026-09-27T07:52:48+00:00",
-      "description": "Police declare major incident at UK's Fairford air base, used by US air forces Reuters RAF Fairford: Men held in major incident near air base as homes evacuated BBC Several men arrested, bomb disposal team deployed near air base used by U.S. forces in England CBS News Several arrested on suspicion of explosives offensives near UK base used by US forces CNN UK police evacuate homes near air base used by US Al Jazeera",
-      "description_zh": "警方宣布美国空军使用的英国费尔福德空军基地发生重大事件 路透 英国皇家空军费尔福德：男子因房屋疏散而在空军基地附近发生重大事件 BBC 数名男子被捕，拆弹小组部署在驻英美军使用的空军基地附近 CBS 新闻 数名男子因涉嫌在美军使用的英国基地附近发动爆炸袭击而被捕",
+      "title": "Air base at the center of a UK terror probe has been used by the US Air Force during the Iran war - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYjhYVGhzMUdRMGZFOEZQRmFESTdhM3daZkVuQS1oZnROdnNPTGxEU3hkem80LUJsVFlQT2hOcm9HTUJKY2drb3kteFNOc2haSV95UjNCUFZIRUJ0WXpxcmQ0TWtPVUZQS3diUDhicUJjamVaNkdMQlgwRGcxWlkxZjZwZXNIMEVlRTRWRjhPZE5jbmhJU1RLQU9zcHB5RGc?oc=5",
+      "published_at": "2026-09-28T08:35:00+00:00",
+      "description": "Air base at the center of a UK terror probe has been used by the US Air Force during the Iran war AP News Unanswered questions loom following alled UK terror plot arrests CNN What We Know About the Possible Terror Plot Thwarted at a U.K. Air Base The New York Times Trump says men arrested at UK air base used by US were looking to do 'big damage' Reuters 5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act AP News",
+      "description_zh": "Air base at the center of a UK terror probe has been used by the US Air Force during the Iran war AP News Unanswered questions loom following alled UK terror plot arrests CNN What We Know About the Possible Terror Plot Thwarted at a U.K. Air Base The New York Times Trump says men arrested at UK air base used by US were looking to do 'big damage' Reuters 5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act AP News",
       "keywords": [
         "air",
         "base",
+        "terror",
         "used",
-        "forces",
-        "incident",
-        "fairford",
-        "police",
-        "major",
-        "declare",
-        "uk's"
-      ],
-      "keywords_zh": [
-        "空气",
-        "根据",
-        "用过的",
-        "力量",
-        "事件",
-        "费尔福德",
-        "警察",
-        "主要的",
-        "宣布",
-        "英国的"
-      ],
-      "category": {
-        "en": "Technology",
-        "zh": "科技"
-      },
-      "interpretation": {
-        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
-        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: air, base, used, forces, and incident. The available excerpt says: Police declare major incident at UK's Fairford air base, used by US air forces Reuters RAF Fairford: Men held in major incident near air base as homes evacuated BBC Several men arrested, bomb disposal team deployed near air base used by U.S. forces in England CBS News Several arrested on suspicion of explosives offensives near UK base used by US forces CNN UK police evacuate homes near air base used by US Al Jazeera Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：空气、根据、用过的、力量、事件。RSS 中文摘要显示：警方宣布美国空军使用的英国费尔福德空军基地发生重大事件 路透 英国皇家空军费尔福德：男子因房屋疏散而在空军基地附近发生重大事件 BBC 数名男子被捕，拆弹小组部署在驻英美军使用的空军基地附近 CBS 新闻 数名男子因涉嫌在美军使用的英国基地附近发动爆炸袭击而被捕 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
-        "what_to_watch_en": [
-          "regulatory reaction",
-          "enterprise adoption",
-          "security or privacy consequences"
-        ],
-        "what_to_watch_zh": [
-          "监管反应",
-          "企业采用情况",
-          "安全或隐私后果"
-        ]
-      }
-    },
-    {
-      "rank": 2,
-      "title": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPekVrcUpCSVdWWjdjNHY5ZS12MmprMF9ma3loOGpyZExyTW5uRG9qT3NjV21qSUFSMUhRVV9Ld3A5TWpVTS1QcFI2VENoZTdQRkVIQi11Z2JuUV80a1B2U2Q5TGhlQlZiZkV3MFlCbkI4NUZDeWJROWgxbTAtSVE3dU0xUDVnbFU2MF9MN25MVmZRNUdCWXBleDhlamtaVGNzbkVtWDM1VlfSAa4BQVVfeXFMTjljQTNjOXdPLVpNZWhUNTduR2ZZWGN3dDRrak9NOS1WWlBNejVMWDk2aGRkek9CYzB5OWpiTU1BeWtHUkRZZGduc28td2dSZmlsQUM2NTNrQ1M5WU1rcVJoNWZKZlkzNmN5Z1FkWnJFN0FNVDEtQjFKSkYwQ0RQZFpkOWVxNm43dkloMnZtTFFFSy1xVVRYVEJEYkFZdzdBemNCMEJQZGVLZzdvQXlB?oc=5",
-      "published_at": "2026-09-27T03:30:46+00:00",
-      "description": "Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz Al Jazeera Iran insists on diplomatic solution after Trump rejects peace plan Reuters Iran Says Won’t Soften Demands After Trump Rejects Hormuz Offer bloomberg.com Iran war live: Tehran vows not to back down as Trump rejects Hormuz plan Al Jazeera Exclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms WSJ",
-      "description_zh": "特朗普拒绝伊朗结束战争并重新开放霍尔木兹的七日路线图特朗普拒绝伊朗停火，预计中期选举后将再次发生轰炸 华尔街日报",
-      "keywords": [
-        "rejects",
-        "trump",
         "iran",
-        "hormuz",
-        "jazeera",
         "war",
-        "seven-day",
-        "roadmap",
-        "reopen",
-        "end"
+        "center",
+        "during",
+        "probe",
+        "force"
       ],
       "keywords_zh": [
-        "拒绝",
-        "特朗普",
+        "air",
+        "base",
+        "terror",
+        "used",
         "伊朗",
-        "霍尔木兹",
-        "半岛电视台",
         "战争",
-        "七日",
-        "路线图",
-        "重新开放",
-        "结尾"
+        "center",
+        "during",
+        "probe",
+        "force"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -95,8 +42,61 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: rejects, trump, iran, hormuz, and jazeera. The available excerpt says: Trump rejects Iran’s seven-day roadmap to end war and reopen Hormuz Al Jazeera Iran insists on diplomatic solution after Trump rejects peace plan Reuters Iran Says Won’t Soften Demands After Trump Rejects Hormuz Offer bloomberg.com Iran war live: Tehran vows not to back down as Trump rejects Hormuz plan Al Jazeera Exclusive | Trump Rejects Iran Ceasefire, Expects Renewed Bombing After Midterms WSJ Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：拒绝、特朗普、伊朗、霍尔木兹、半岛电视台。RSS 中文摘要显示：特朗普拒绝伊朗结束战争并重新开放霍尔木兹的七日路线图特朗普拒绝伊朗停火，预计中期选举后将再次发生轰炸 华尔街日报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: air, base, terror, used, and iran. The available excerpt says: Air base at the center of a UK terror probe has been used by the US Air Force during the Iran war AP News Unanswered questions loom following alled UK terror plot arrests CNN What We Know About the Possible Terror Plot Thwarted at a U.K. Air Base The New York Times Trump says men arrested at UK air base used by US were looking to do 'big damage' Reuters 5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：air、base、terror、used、伊朗。RSS 中文摘要显示：Air base at the center of a UK terror probe has been used by the US Air Force during the Iran war AP News Unanswered questions loom following alled UK terror plot arrests CNN What We Know About the Possible Terror Plot Thwarted at a U.K. Air Base The New York Times Trump says men arrested at UK air base used by US were looking to do 'big damage' Reuters 5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act AP News 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "what_to_watch_en": [
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
+        ],
+        "what_to_watch_zh": [
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "title": "What We Know About the Possible Terror Plot Thwarted at a U.K. Air Base - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQWJyNF9VLUp1VkFMMUV0cEpid2xGRWdocUNXcGZmbnRtTXJlV3BJTVY0dlNncWRUa3hhVkVfcG5TMnBOOE50eklDYTVGY3BQc2E0WmVpMG1EM1lDMmZoeGR0SjlFNVNzcEhmMDViaGxNdl8wTlExNWdJQlh5bmE0Tm9aM0NjaVNqWFRheXdlUkw1Vkotd3V4QjlyUjU?oc=5",
+      "published_at": "2026-09-28T07:19:57+00:00",
+      "description": "What We Know About the Possible Terror Plot Thwarted at a U.K. Air Base The New York Times Unanswered questions loom following alled UK terror plot arrests CNN Trump says men arrested at UK air base used by US were looking to do 'big damage' Reuters 5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act AP News RAF Fairford live updates: Streeting thanks farmer who alerted police but says she has ‘a partial picture’ The Guardian",
+      "description_zh": "What We Know About the Possible Terror Plot Thwarted at a U.K. Air Base The New York Times Unanswered questions loom following alled UK terror plot arrests CNN Trump says men arrested at UK air base used by US were looking to do 'big damage' Reuters 5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act AP News RAF Fairford live updates: Streeting thanks farmer who alerted police but says she has ‘a partial picture’ The Guardian",
+      "keywords": [
+        "base",
+        "air",
+        "terror",
+        "plot",
+        "possible",
+        "thwarted",
+        "know",
+        "arrested",
+        "used",
+        "men"
+      ],
+      "keywords_zh": [
+        "base",
+        "air",
+        "terror",
+        "plot",
+        "possible",
+        "thwarted",
+        "know",
+        "arrested",
+        "used",
+        "men"
+      ],
+      "category": {
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
+      },
+      "interpretation": {
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: base, air, terror, plot, and possible. The available excerpt says: What We Know About the Possible Terror Plot Thwarted at a U.K. Air Base The New York Times Unanswered questions loom following alled UK terror plot arrests CNN Trump says men arrested at UK air base used by US were looking to do 'big damage' Reuters 5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act AP News RAF Fairford live updates: Streeting thanks farmer who alerted police but says she has ‘a partial picture’ The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：base、air、terror、plot、possible。RSS 中文摘要显示：What We Know About the Possible Terror Plot Thwarted at a U.K. Air Base The New York Times Unanswered questions loom following alled UK terror plot arrests CNN Trump says men arrested at UK air base used by US were looking to do 'big damage' Reuters 5 men arrested near UK air base used by US in Iran war on suspicion of preparing a terrorist act AP News RAF Fairford live updates: Streeting thanks farmer who alerted police but says she has ‘a partial picture’ The Guardian 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -111,246 +111,35 @@
     },
     {
       "rank": 3,
-      "title": "A persistent nor'easter batters US Northeast, causing coastal flooding, outages and at least 1 death - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYTRxZy15dFhRT2NCY19sbWxoNmk0bGhHcEtHUzRXZmVjc2RtTWxGV2ZyRVFwb3FUSXhwbU0zdmdrTkxqMXhEOTA1SjI2d0dESzItVmxMNk9kWG9hY2ROWEhVSVZ1bGdiMm0yVE1QYnRSanVtSU1lN002aEtsWXVuc0F1SkhHZHNqLXZ4VA?oc=5",
-      "published_at": "2026-09-27T02:44:00+00:00",
-      "description": "A persistent nor'easter batters US Northeast, causing coastal flooding, outages and at least 1 death AP News Nor'easter will slam Northeast, NYC, Boston through weekend The Weather Channel Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency BBC Live updates: Powerful Nor’easter digs in on the East Coast CNN Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend NPR",
-      "description_zh": "持续的东北风暴袭击美国东北部，造成沿海洪水、停电和至少 1 人死亡 美联社新闻 东北风暴将在周末袭击东北部、纽约市和波士顿 天气频道 东北风暴带来沿海洪水，纽约和新泽西州宣布紧急状态 BBC 实时更新：强大的东北风暴在东海岸挖掘 CNN 狂风婚礼和岩石游轮：本周末东海岸人如何勇敢面对东北风暴 NPR",
+      "title": "Eviction of 87-year-old sparks protests in Madrid over housing crisis - NPR",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQazBoOEtvYjlGdWdzRkZMbl9jeXpVUE53TkxiajM0ZHg4YkRMVkVRRXJxZU9GalBPU1o0UjhHTFlHRW16YTRpZ2pFcGlrM1ljcWlSdTlmV1hNQzkzU0tLb2o0VElnSWZLZWtTcXkyNEZ2enZVbkhmblo3ekMtZDAxdm9pRFg5ei12WmUya2tB?oc=5",
+      "published_at": "2026-09-28T07:20:18+00:00",
+      "description": "Eviction of 87-year-old sparks protests in Madrid over housing crisis NPR Anger grows across Spain after elderly woman is evicted from her home of 70 years NBC News Sánchez vows to pass housing decree on Tuesday amid outrage over Maricarmen eviction Euronews.com 87-year-old woman's eviction from Madrid apartment sparks protest against Spain's housing crisis Fortune Madrid housing protests enter third day after pensioner's eviction Reuters",
+      "description_zh": "Eviction of 87-year-old sparks protests in Madrid over housing crisis NPR Anger grows across Spain after elderly woman is evicted from her home of 70 years NBC News Sánchez vows to pass housing decree on Tuesday amid outrage over Maricarmen eviction Euronews.com 87-year-old woman's eviction from Madrid apartment sparks protest against Spain's housing crisis Fortune Madrid housing protests enter third day after pensioner's eviction Reuters",
       "keywords": [
-        "nor'easter",
-        "northeast",
-        "flooding",
-        "coastal",
-        "persistent",
-        "batters",
-        "causing",
-        "outages",
-        "death",
-        "weekend"
+        "eviction",
+        "housing",
+        "madrid",
+        "year-old",
+        "protests",
+        "sparks",
+        "crisis",
+        "pensioner's",
+        "maricarmen",
+        "apartment"
       ],
       "keywords_zh": [
-        "东北复活节",
-        "东北",
-        "洪水",
-        "沿海",
-        "执着的",
-        "击球手",
-        "引起",
-        "停电",
-        "死亡",
-        "周末"
-      ],
-      "category": {
-        "en": "Climate, environment, and safety",
-        "zh": "气候、环境与安全"
-      },
-      "interpretation": {
-        "summary_en": "This story concerns environmental risk, infrastructure safety, or public emergency response.",
-        "summary_zh": "这条新闻关系到环境风险、基础设施安全或公共应急响应。",
-        "detailed_en": "Key signals: nor'easter, northeast, flooding, coastal, and persistent. The available excerpt says: A persistent nor'easter batters US Northeast, causing coastal flooding, outages and at least 1 death AP News Nor'easter will slam Northeast, NYC, Boston through weekend The Weather Channel Nor'easter storm brings coastal flooding, as New York and New Jersey declare emergency BBC Live updates: Powerful Nor’easter digs in on the East Coast CNN Windy weddings and rocky cruises: How East Coasters are braving the nor'easter this weekend NPR Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.",
-        "detailed_zh": "关键词信号：东北复活节、东北、洪水、沿海、执着的。RSS 中文摘要显示：持续的东北风暴袭击美国东北部，造成沿海洪水、停电和至少 1 人死亡 美联社新闻 东北风暴将在周末袭击东北部、纽约市和波士顿 天气频道 东北风暴带来沿海洪水，纽约和新泽西州宣布紧急状态 BBC 实时更新：强大的东北风暴在东海岸挖掘 CNN 狂风婚礼和岩石游轮：本周末东海岸人如何勇敢面对东北风暴 NPR 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。",
-        "what_to_watch_en": [
-          "damage assessment",
-          "public safety advisories",
-          "policy or infrastructure reviews"
-        ],
-        "what_to_watch_zh": [
-          "损害评估",
-          "公共安全提示",
-          "政策或基础设施复盘"
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYXZfQ19QMGtCM0lyRzlEMmNCWUZUTHdXNDRxMjEydTBmQWdnM0kyNnQzOS1fWDZ2UVc1TzJRRWEtZ2dlaXgzZDBjUGRyMGRSYW1kRkMzUmFjSldQaWtha1RGWnJOdkprMFZzTmRYTDhmNVNJVElNV182Y1Q2bUJjMWw0Q3JEQTR3bDNuS19yazF2TW1BRmw0aURyWERZYW5kR0p3end6RjNkTTAtUGNlT2t6MUM4dlXSAbwBQVVfeXFMT1F5MWI0ZTBDb25iUmJNdExSZU1STDJJOEU5TDFaTFItZFNCc21qMGpEOGFadDYwN1FGeGdGc1NTUFFKaUNNM3ZYQnJSZ1hWNGt1djVWQmpzRWNUeEVDUHNzdkpmRG9zWnBmWnZTdTNtV0FWbmRXRlFPeDYtMTVyalJoQk1tSF94bGdzQkZSR09pZ3A3RE03RFJGbmR3emduNnFrcURYZUJ0Y3I0RmczM3VDWnM5RFlDNzdLbTE?oc=5",
-      "published_at": "2026-09-26T23:31:26+00:00",
-      "description": "Four American tourists among 6 killed in suspected gas leak blast in Athens Al Jazeera Six Dead After Explosion in Athens Tourist District The New York Times Victims of Athens explosion from US, UK and Greece Yahoo Athens explosion: Six dead in blast near Acropolis in Plaka district BBC 4 American tourists dead after building explosion and collapse in Athens CBS News",
-      "description_zh": "雅典疑似煤气泄漏爆炸，造成 6 人死亡，其中 4 名美国游客 半岛电视台 雅典旅游区爆炸后 6 人死亡 《纽约时报》 雅典爆炸受害者来自美国、英国和希腊 雅虎雅典爆炸：普拉卡区卫城附近爆炸造成 6 人死亡 BBC 雅典建筑爆炸倒塌后，4 名美国游客死亡 哥伦比亚广播公司新闻",
-      "keywords": [
-        "athens",
-        "american",
-        "tourists",
-        "blast",
-        "suspected",
-        "explosion",
-        "jazeera",
-        "killed",
-        "four",
-        "leak"
-      ],
-      "keywords_zh": [
-        "雅典",
-        "美国人",
-        "游客",
-        "爆炸",
-        "怀疑",
-        "半岛电视台",
-        "死亡",
-        "四",
-        "泄露"
-      ],
-      "category": {
-        "en": "Public safety and society",
-        "zh": "公共安全与社会"
-      },
-      "interpretation": {
-        "summary_en": "This story centers on harm to people, emergency response, or social disruption.",
-        "summary_zh": "这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。",
-        "detailed_en": "Key signals: athens, american, tourists, blast, and suspected. The available excerpt says: Four American tourists among 6 killed in suspected gas leak blast in Athens Al Jazeera Six Dead After Explosion in Athens Tourist District The New York Times Victims of Athens explosion from US, UK and Greece Yahoo Athens explosion: Six dead in blast near Acropolis in Plaka district BBC 4 American tourists dead after building explosion and collapse in Athens CBS News Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.",
-        "detailed_zh": "关键词信号：雅典、美国人、游客、爆炸、怀疑。RSS 中文摘要显示：雅典疑似煤气泄漏爆炸，造成 6 人死亡，其中 4 名美国游客 半岛电视台 雅典旅游区爆炸后 6 人死亡 《纽约时报》 雅典爆炸受害者来自美国、英国和希腊 雅虎雅典爆炸：普拉卡区卫城附近爆炸造成 6 人死亡 BBC 雅典建筑爆炸倒塌后，4 名美国游客死亡 哥伦比亚广播公司新闻 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。",
-        "what_to_watch_en": [
-          "official investigation",
-          "confirmed casualty numbers",
-          "prevention measures"
-        ],
-        "what_to_watch_zh": [
-          "官方调查",
-          "确认伤亡数字",
-          "预防措施"
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "title": "Russia expected to intensify hybrid war on Europe - dw.com",
-      "source": "dw.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUxrNzFJLThfQU82Uk82Q0pZbWxYa2ZQYXBieHRXdTQ1aERQVVZZdkh6V3JCU0dReUYtZ2Y4bVBXN2d5RjlmallvN0duSENPR0pQNmlfMTl4YlZaeWk5aE9pZ3l2OHN5UDdlS1V2bGhPV05tdGk0dnFMbzBhNmVwNlhKZmw1T1pVN0E?oc=5",
-      "published_at": "2026-09-26T23:34:41+00:00",
-      "description": "Russia expected to intensify hybrid war on Europe dw.com Europe frets as the Kremlin pushes the limits of its hybrid warfare NBC News Russia could attack a NATO country within months, Danish intelligence warns CNBC As Russia Steps Up Shadow War, Europeans Waver on How to Respond The New York Times Russia could attack a Nato country within months, Danish intelligence says The Guardian",
-      "description_zh": "俄罗斯预计将加剧对欧洲的混合战争 dw.com 克里姆林宫突破其混合战争的极限，欧洲感到焦虑 NBC新闻 丹麦情报机构警告 CNBC，俄罗斯可能在数月内攻击北约国家 丹麦情报机构称，俄罗斯可能在数月内攻击北约国家 欧洲人对如何回应犹豫不决",
-      "keywords": [
-        "russia",
-        "hybrid",
-        "europe",
-        "war",
-        "intensify",
-        "expected",
-        "com",
-        "intelligence",
-        "country",
-        "attack"
-      ],
-      "keywords_zh": [
-        "俄罗斯",
-        "杂交种",
-        "欧洲",
-        "战争",
-        "强化",
-        "预期的",
-        "com",
-        "智力",
-        "国家",
-        "袭击"
-      ],
-      "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
-      },
-      "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: russia, hybrid, europe, war, and intensify. The available excerpt says: Russia expected to intensify hybrid war on Europe dw.com Europe frets as the Kremlin pushes the limits of its hybrid warfare NBC News Russia could attack a NATO country within months, Danish intelligence warns CNBC As Russia Steps Up Shadow War, Europeans Waver on How to Respond The New York Times Russia could attack a Nato country within months, Danish intelligence says The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：俄罗斯、杂交种、欧洲、战争、强化。RSS 中文摘要显示：俄罗斯预计将加剧对欧洲的混合战争 dw.com 克里姆林宫突破其混合战争的极限，欧洲感到焦虑 NBC新闻 丹麦情报机构警告 CNBC，俄罗斯可能在数月内攻击北约国家 丹麦情报机构称，俄罗斯可能在数月内攻击北约国家 欧洲人对如何回应犹豫不决 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
-        "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
-        ],
-        "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
-        ]
-      }
-    },
-    {
-      "rank": 6,
-      "title": "At least 27 people killed in two shootings in South African townships - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcmdOdlJEMEQ4dmtRUTBFWGtFT1o4UTBjcnFhS01GUGF0bWFMaUJzMmJBZVNxMzE4WHdveHlKN2h6V3lyN3YybjN6azNDanE0aXM5ZjhZSUxMWGNyeGRFSWx6WUtndVk0ZTB5eDVISTg5b1VDOXJpd0hiamt4Sk5IRlFaXzhFdE3SAYwBQVVfeXFMTm12eTFrYm5IN195Zk1PMzBXMEJ0NkZVTWtPbmRiSWtTN3FWQlBmdHRoNXBwU3BhbWRUNzVFX3hvT0Y5bDBncGV4YmZfWkdVZy1TRE5tc3lwaThDWkVoc0w0S28zTnpQX3kxWWFYSTdTbTJ0VUc2NXpQVWcwVG5ibDJITjJsQXRaTXZXaTA?oc=5",
-      "published_at": "2026-09-27T08:04:19+00:00",
-      "description": "At least 27 people killed in two shootings in South African townships Al Jazeera South Africa police hunt suspects after twin shootings leave nearly 30 people dead CNN At least 27 people killed in 2 mass shootings in South Africa's Johannesburg, Capetown CBS News Two mass shootings in South Africa leave 27 dead BBC South Africa police hunt suspects after 27 killed in two separate shootings Reuters",
-      "description_zh": "南非城镇两起枪击事件造成至少 27 人死亡 半岛电视台 南非警方在两起枪击事件造成近 30 人死亡后追捕嫌疑人 CNN 南非约翰内斯堡和开普敦发生两起大规模枪击事件，造成至少 27 人死亡 CBS 新闻 南非发生两起大规模枪击事件，造成 27 人死亡 BBC 南非警方在两起枪击事件中造成 27 人死亡后追捕嫌疑人 路透社",
-      "keywords": [
-        "shootings",
-        "south",
-        "people",
-        "killed",
-        "two",
-        "townships",
-        "african",
-        "jazeera",
-        "africa",
-        "suspects"
-      ],
-      "keywords_zh": [
-        "枪击事件",
-        "南",
-        "人们",
-        "死亡",
-        "二",
-        "乡镇",
-        "非洲的",
-        "半岛电视台",
-        "非洲",
-        "嫌疑人"
-      ],
-      "category": {
-        "en": "Economy and markets",
-        "zh": "经济与市场"
-      },
-      "interpretation": {
-        "summary_en": "This story is tied to business conditions, financial expectations, or the cost of goods and capital.",
-        "summary_zh": "这条新闻与商业环境、金融预期或商品与资金成本相关。",
-        "detailed_en": "Key signals: shootings, south, people, killed, and two. The available excerpt says: At least 27 people killed in two shootings in South African townships Al Jazeera South Africa police hunt suspects after twin shootings leave nearly 30 people dead CNN At least 27 people killed in 2 mass shootings in South Africa's Johannesburg, Capetown CBS News Two mass shootings in South Africa leave 27 dead BBC South Africa police hunt suspects after 27 killed in two separate shootings Reuters Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.",
-        "detailed_zh": "关键词信号：枪击事件、南、人们、死亡、二。RSS 中文摘要显示：南非城镇两起枪击事件造成至少 27 人死亡 半岛电视台 南非警方在两起枪击事件造成近 30 人死亡后追捕嫌疑人 CNN 南非约翰内斯堡和开普敦发生两起大规模枪击事件，造成至少 27 人死亡 CBS 新闻 南非发生两起大规模枪击事件，造成 27 人死亡 BBC 南非警方在两起枪击事件中造成 27 人死亡后追捕嫌疑人 路透社 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。",
-        "what_to_watch_en": [
-          "price movements",
-          "company and government guidance",
-          "second-round supply-chain effects"
-        ],
-        "what_to_watch_zh": [
-          "价格变化",
-          "企业与政府指引",
-          "供应链二次影响"
-        ]
-      }
-    },
-    {
-      "rank": 7,
-      "title": "Pope Leo Receives Rockstar Welcome in Secular France - WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcjB6bGtJYzBxWnVpQXp5cS1qeEJTNDNMeFNmUFRtNi01eGExRGF1anpnVE1yNmphRmFuaHF4VXBqNkRkd00zZ1R3OWotNjVuNXdkZk1mZ1VteTRFV0tBWkpYLWdjRVdzanR4UkJtUzNIZ2kxVzBWU0FLOURvRXRwa0JVU0tYWXVWQUdxczVzZXhHYXRRODdvX1RB?oc=5",
-      "published_at": "2026-09-26T18:40:00+00:00",
-      "description": "Pope Leo Receives Rockstar Welcome in Secular France WSJ Pope brings message to protect life to French shrine at Lourdes known for miraculous cures The Hill Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square AP News Pope Leo prays for the sick and suffering in the Lourdes grotto in France OSV News Pope to French Bishops: Church bears prophetic authority in public square Vatican News",
-      "description_zh": "教宗利奥在世俗法国受到摇滚巨星的欢迎 《华尔街日报》 教宗向法国卢尔德圣地传达保护生命的信息",
-      "keywords": [
-        "pope",
-        "leo",
-        "france",
-        "receives",
-        "rockstar",
-        "welcome",
-        "secular",
-        "wsj",
-        "lourdes",
-        "french"
-      ],
-      "keywords_zh": [
-        "教皇",
-        "狮子座",
-        "法国",
-        "收到",
-        "摇滚明星",
-        "欢迎",
-        "世俗",
-        "华尔街日报",
-        "卢尔德",
-        "法语"
+        "eviction",
+        "housing",
+        "madrid",
+        "year-old",
+        "protests",
+        "sparks",
+        "crisis",
+        "pensioner's",
+        "maricarmen",
+        "apartment"
       ],
       "category": {
         "en": "Technology",
@@ -359,8 +148,8 @@
       "interpretation": {
         "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
         "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: pope, leo, france, receives, and rockstar. The available excerpt says: Pope Leo Receives Rockstar Welcome in Secular France WSJ Pope brings message to protect life to French shrine at Lourdes known for miraculous cures The Hill Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square AP News Pope Leo prays for the sick and suffering in the Lourdes grotto in France OSV News Pope to French Bishops: Church bears prophetic authority in public square Vatican News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：教皇、狮子座、法国、收到、摇滚明星。RSS 中文摘要显示：教宗利奥在世俗法国受到摇滚巨星的欢迎 《华尔街日报》 教宗向法国卢尔德圣地传达保护生命的信息 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "detailed_en": "Key signals: eviction, housing, madrid, year-old, and protests. The available excerpt says: Eviction of 87-year-old sparks protests in Madrid over housing crisis NPR Anger grows across Spain after elderly woman is evicted from her home of 70 years NBC News Sánchez vows to pass housing decree on Tuesday amid outrage over Maricarmen eviction Euronews.com 87-year-old woman's eviction from Madrid apartment sparks protest against Spain's housing crisis Fortune Madrid housing protests enter third day after pensioner's eviction Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：eviction、housing、madrid、year-old、protests。RSS 中文摘要显示：Eviction of 87-year-old sparks protests in Madrid over housing crisis NPR Anger grows across Spain after elderly woman is evicted from her home of 70 years NBC News Sánchez vows to pass housing decree on Tuesday amid outrage over Maricarmen eviction Euronews.com 87-year-old woman's eviction from Madrid apartment sparks protest against Spain's housing crisis Fortune Madrid housing protests enter third day after pensioner's eviction Reuters 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
         "what_to_watch_en": [
           "regulatory reaction",
           "enterprise adoption",
@@ -374,36 +163,248 @@
       }
     },
     {
-      "rank": 8,
-      "title": "Anger grows across Spain after elderly woman evicted from her home of 70 years - NBC News",
-      "source": "NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWnBOV19UVWk4ODZKYVI1eE05dVRjY1RCMGhRZUJ2UHhjSTVLVVFmVWFvamJ4aGZ4bXlNaV94SUU0enFIS1oxZ1RSN1dVcTlCY3JZTVJwMkZ2VHFDYlhaTzZMVXV5aE9DZ2NOdE9CY1VGOVdMYURSWW5PVVRzWXhvYkhnNktHODNfOTdwVktGRzNMaTlwR1JlZC1KemdCZ3AwUlE?oc=5",
-      "published_at": "2026-09-27T08:33:00+00:00",
-      "description": "Anger grows across Spain after elderly woman evicted from her home of 70 years NBC News Eviction of 87-year-old puts Spain’s deepening housing crisis in the spotlight The Guardian 87-year-old woman's eviction from Madrid apartment sparks protest against Spain's housing crisis Fortune Evicted 87-Year-Old Woman Urges Spaniards to ‘Fight’ to Avoid Same Fate The New York Times Spain: Thousands protest in Madrid against housing crisis dw.com",
-      "description_zh": "西班牙各地的愤怒情绪在老年妇女被驱逐出居住了70年的家后蔓延 NBC新闻 87岁老妇被驱逐使西班牙日益严重的住房危机成为人们关注的焦点 英国卫报 87岁老妇被驱逐出马德里公寓引发对西班牙住房危机的抗议 《财富》被驱逐的87岁老妇敦促西班牙人“战斗”以避免同样的命运 《纽约时报》西班牙：数千人在马德里抗议住房危机德国之声网站",
+      "rank": 4,
+      "title": "Iran Is Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S. - wsj.com",
+      "source": "wsj.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXp0VDVwMkZGQUR0OVFaQ0F6UHY3eDRsYmVadXFSWkRLQUhWVEZCVkFkdmZqd3FnMHBLQ05nWWZLV2p6MzVFWlVRYzZ5MDJURDczQ0FaMmdEOUNPTENwN3RRU01oOHpIdUNKenN6dnJWRzNWeVZwZFpuQ2RLakc0SE1qVTVLNDVsWTBIbm1Tc2N6V2N6aWNPN05wUmx1dkJLRE9Md0Vxd3ZVWTBhUDJoOWFOeGYydXRVRUE?oc=5",
+      "published_at": "2026-09-27T21:17:00+00:00",
+      "description": "Iran Is Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S. wsj.com Iran insists on diplomatic solution after Trump rejects peace plan Reuters Live Updates: Iran says Trump must choose war or diplomacy as talks expected to resume this week CBS News Trump says he rejected the latest Iranian proposal Axios Analysis | Trump says he has an off-ramp to his biggest political problem. He refuses to take it. The Washington Post",
+      "description_zh": "Iran Is Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S. wsj.com Iran insists on diplomatic solution after Trump rejects peace plan Reuters Live Updates: Iran says Trump must choose war or diplomacy as talks expected to resume this week CBS News Trump says he rejected the latest Iranian proposal Axios Analysis | Trump says he has an off-ramp to his biggest political problem. He refuses to take it. The Washington Post",
       "keywords": [
-        "spain",
-        "evicted",
-        "woman",
-        "elderly",
-        "across",
-        "anger",
-        "grows",
-        "years",
-        "home",
-        "her"
+        "iran",
+        "peace",
+        "talks",
+        "concessions",
+        "pressed",
+        "nuclear",
+        "revive",
+        "trump",
+        "make",
+        "wsj"
       ],
       "keywords_zh": [
-        "西班牙",
-        "被驱逐的",
-        "女士",
-        "老年",
-        "穿过",
-        "愤怒",
-        "成长",
-        "年",
-        "家",
-        "她"
+        "伊朗",
+        "peace",
+        "talks",
+        "concessions",
+        "pressed",
+        "核",
+        "revive",
+        "特朗普",
+        "make",
+        "wsj"
+      ],
+      "category": {
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
+      },
+      "interpretation": {
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: iran, peace, talks, concessions, and pressed. The available excerpt says: Iran Is Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S. wsj.com Iran insists on diplomatic solution after Trump rejects peace plan Reuters Live Updates: Iran says Trump must choose war or diplomacy as talks expected to resume this week CBS News Trump says he rejected the latest Iranian proposal Axios Analysis | Trump says he has an off-ramp to his biggest political problem. He refuses to take it. The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：伊朗、peace、talks、concessions、pressed。RSS 中文摘要显示：Iran Is Pressed to Make Nuclear Concessions to Revive Peace Talks With U.S. wsj.com Iran insists on diplomatic solution after Trump rejects peace plan Reuters Live Updates: Iran says Trump must choose war or diplomacy as talks expected to resume this week CBS News Trump says he rejected the latest Iranian proposal Axios Analysis | Trump says he has an off-ramp to his biggest political problem. He refuses to take it. The Washington Post 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "what_to_watch_en": [
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
+        ],
+        "what_to_watch_zh": [
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "title": "Two mass shootings in South Africa leave 28 dead - bbc.com",
+      "source": "bbc.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OcFRmTXRXMWwwbU1EajhqRUl1SXdfLWtsa0pXTzU4bTBOY21jVHp6Ui1PRUU5TmlVQmNPVDZkWC1wOFFBS1o5azZZdE9yT1RLbjctRXZJMmN6UzQ?oc=5",
+      "published_at": "2026-09-28T06:46:03+00:00",
+      "description": "Two mass shootings in South Africa leave 28 dead bbc.com South Africa police hunt suspects after twin shootings leave nearly 30 people dead CNN Death toll in South Africa bar shooting rises to 18 Yahoo South Africa reels from spate of mass shootings that killed 38 people in a week NPR South Africa reels from two shootings that kill 27 in one night Reuters",
+      "description_zh": "Two mass shootings in South Africa leave 28 dead bbc.com South Africa police hunt suspects after twin shootings leave nearly 30 people dead CNN Death toll in South Africa bar shooting rises to 18 Yahoo South Africa reels from spate of mass shootings that killed 38 people in a week NPR South Africa reels from two shootings that kill 27 in one night Reuters",
+      "keywords": [
+        "africa",
+        "south",
+        "shootings",
+        "leave",
+        "mass",
+        "dead",
+        "two",
+        "com",
+        "people",
+        "reels"
+      ],
+      "keywords_zh": [
+        "africa",
+        "south",
+        "shootings",
+        "leave",
+        "mass",
+        "死亡",
+        "two",
+        "com",
+        "people",
+        "reels"
+      ],
+      "category": {
+        "en": "Public safety and society",
+        "zh": "公共安全与社会"
+      },
+      "interpretation": {
+        "summary_en": "This story centers on harm to people, emergency response, or social disruption.",
+        "summary_zh": "这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。",
+        "detailed_en": "Key signals: africa, south, shootings, leave, and mass. The available excerpt says: Two mass shootings in South Africa leave 28 dead bbc.com South Africa police hunt suspects after twin shootings leave nearly 30 people dead CNN Death toll in South Africa bar shooting rises to 18 Yahoo South Africa reels from spate of mass shootings that killed 38 people in a week NPR South Africa reels from two shootings that kill 27 in one night Reuters Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.",
+        "detailed_zh": "关键词信号：africa、south、shootings、leave、mass。RSS 中文摘要显示：Two mass shootings in South Africa leave 28 dead bbc.com South Africa police hunt suspects after twin shootings leave nearly 30 people dead CNN Death toll in South Africa bar shooting rises to 18 Yahoo South Africa reels from spate of mass shootings that killed 38 people in a week NPR South Africa reels from two shootings that kill 27 in one night Reuters 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。",
+        "what_to_watch_en": [
+          "official investigation",
+          "confirmed casualty numbers",
+          "prevention measures"
+        ],
+        "what_to_watch_zh": [
+          "官方调查",
+          "确认伤亡数字",
+          "预防措施"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "title": "White House expands taxpayer-paid ad campaign boosting Trump - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNXhWMktSSF9XWkdfZm92cWticXh4YjRrdnBSRDE3UzdlQ2FZUG9MMS1TaGJ4NDNJNHRrY2gydS1oNVlSd29TTWxZdTVESXhCTERWMlJBSjhSeE9scy1reWtLOGJpZUdKLUNpN1dUaFh4bGg4ZlVWVFFIZXJEaW9xbWdueFBKQ2xjZEhqaFEzdFVjeUxheWdsY2JSNE1YLV81Q0FjWU5TaHJ1cnJ1NnBKQXNn?oc=5",
+      "published_at": "2026-09-28T05:36:37+00:00",
+      "description": "White House expands taxpayer-paid ad campaign boosting Trump The Washington Post Sen Kennedy says no living politicians should have buildings named after them after Trump's moves Fox News Donald Trump’s Latest Government-Funded Ad Reuses 2024 Campaign Message Yahoo Trump stirs new storm by posing as strongman in taxpayer-funded video CNN Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms CNBC",
+      "description_zh": "White House expands taxpayer-paid ad campaign boosting Trump The Washington Post Sen Kennedy says no living politicians should have buildings named after them after Trump's moves Fox News Donald Trump’s Latest Government-Funded Ad Reuses 2024 Campaign Message Yahoo Trump stirs new storm by posing as strongman in taxpayer-funded video CNN Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms CNBC",
+      "keywords": [
+        "trump",
+        "campaign",
+        "taxpayer-paid",
+        "washington",
+        "boosting",
+        "expands",
+        "white",
+        "house",
+        "taxpayer-funded",
+        "government-funded"
+      ],
+      "keywords_zh": [
+        "特朗普",
+        "campaign",
+        "taxpayer-paid",
+        "washington",
+        "boosting",
+        "expands",
+        "white",
+        "house",
+        "taxpayer-funded",
+        "government-funded"
+      ],
+      "category": {
+        "en": "Politics and governance",
+        "zh": "政治与治理"
+      },
+      "interpretation": {
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: trump, campaign, taxpayer-paid, washington, and boosting. The available excerpt says: White House expands taxpayer-paid ad campaign boosting Trump The Washington Post Sen Kennedy says no living politicians should have buildings named after them after Trump's moves Fox News Donald Trump’s Latest Government-Funded Ad Reuses 2024 Campaign Message Yahoo Trump stirs new storm by posing as strongman in taxpayer-funded video CNN Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms CNBC Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：特朗普、campaign、taxpayer-paid、washington、boosting。RSS 中文摘要显示：White House expands taxpayer-paid ad campaign boosting Trump The Washington Post Sen Kennedy says no living politicians should have buildings named after them after Trump's moves Fox News Donald Trump’s Latest Government-Funded Ad Reuses 2024 Campaign Message Yahoo Trump stirs new storm by posing as strongman in taxpayer-funded video CNN Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms CNBC 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "what_to_watch_en": [
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
+        ],
+        "what_to_watch_zh": [
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
+        ]
+      }
+    },
+    {
+      "rank": 7,
+      "title": "‘Xi got face’: China relishes equal treatment from Trump - Financial Times",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNb1ZMY1VpS1A0YnNDUjFuLXQ0d3duMXBpOE5YUjU5MklqRHRicU41aTVtX2tyaUktZ0FfTUROQ0tOckpIakVwNFk3STdPNHFqNUM4SFpFMGhpUlNQTElrZEpULV90cmsydGZjckZBQTYzT0ZLclpaRG5ReExQODdHM0x4cUQ?oc=5",
+      "published_at": "2026-09-28T05:55:21+00:00",
+      "description": "‘Xi got face’: China relishes equal treatment from Trump Financial Times Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold CNBC America and China’s leaders indulge in pageantry as crises mount The Economist View / The US-China tectonic plates have shifted Semafor The who's who in tech showed up for Trump's dinner with Xi — with one glaring exception Business Insider",
+      "description_zh": "‘Xi got face’: China relishes equal treatment from Trump Financial Times Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold CNBC America and China’s leaders indulge in pageantry as crises mount The Economist View / The US-China tectonic plates have shifted Semafor The who's who in tech showed up for Trump's dinner with Xi — with one glaring exception Business Insider",
+      "keywords": [
+        "china",
+        "treatment",
+        "financial",
+        "relishes",
+        "equal",
+        "trump",
+        "face",
+        "got",
+        "outcomes",
+        "pageantry"
+      ],
+      "keywords_zh": [
+        "中国",
+        "treatment",
+        "financial",
+        "relishes",
+        "equal",
+        "特朗普",
+        "face",
+        "got",
+        "outcomes",
+        "pageantry"
+      ],
+      "category": {
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
+      },
+      "interpretation": {
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: china, treatment, financial, relishes, and equal. The available excerpt says: ‘Xi got face’: China relishes equal treatment from Trump Financial Times Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold CNBC America and China’s leaders indulge in pageantry as crises mount The Economist View / The US-China tectonic plates have shifted Semafor The who's who in tech showed up for Trump's dinner with Xi — with one glaring exception Business Insider Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：中国、treatment、financial、relishes、equal。RSS 中文摘要显示：‘Xi got face’: China relishes equal treatment from Trump Financial Times Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold CNBC America and China’s leaders indulge in pageantry as crises mount The Economist View / The US-China tectonic plates have shifted Semafor The who's who in tech showed up for Trump's dinner with Xi — with one glaring exception Business Insider 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "what_to_watch_en": [
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
+        ],
+        "what_to_watch_zh": [
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Indonesia ferry death toll hits 66 as search enters 16th day - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWVYSVdHYzFrLS1mZWtBblk3WFI4N244WnpRejBpMjF1bm5LUHNOU2Rrd1Q1WHQwZ0h4MldzWGM0eVJCeEdXRTQ0djBBNzdSS1VKWEYzVzVVOFZYdWFmN2pqSm93NG5YZ3Q5R0FpNFVoVXhDT19CcEczUXAwN2V6MkpWcG0wNVRCcU5aZjg2MnlOLXdkeUlqT2tJdkluNWMtc1JfMGZXZkpDbXNjQnhtWEtR?oc=5",
+      "published_at": "2026-09-28T04:16:00+00:00",
+      "description": "Indonesia ferry death toll hits 66 as search enters 16th day Reuters Death toll in Indonesia's capsized Java Sea ferry rises to 64 as 71 people remain missing ABC News - Breaking News, Latest News and Videos Divers recover a total of 52 bodies from capsized ferry in Indonesia after a dayslong search Yahoo Death toll climbs after Indonesian ferry capsized in Java Sea The Independent Indonesia Ferry Accident Dayton Daily News",
+      "description_zh": "Indonesia ferry death toll hits 66 as search enters 16th day Reuters Death toll in Indonesia's capsized Java Sea ferry rises to 64 as 71 people remain missing ABC News - Breaking News, Latest News and Videos Divers recover a total of 52 bodies from capsized ferry in Indonesia after a dayslong search Yahoo Death toll climbs after Indonesian ferry capsized in Java Sea The Independent Indonesia Ferry Accident Dayton Daily News",
+      "keywords": [
+        "ferry",
+        "indonesia",
+        "death",
+        "toll",
+        "search",
+        "enters",
+        "hits",
+        "day",
+        "capsized",
+        "java"
+      ],
+      "keywords_zh": [
+        "ferry",
+        "indonesia",
+        "死亡",
+        "toll",
+        "search",
+        "enters",
+        "hits",
+        "day",
+        "capsized",
+        "java"
       ],
       "category": {
         "en": "Technology",
@@ -412,8 +413,8 @@
       "interpretation": {
         "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
         "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: spain, evicted, woman, elderly, and across. The available excerpt says: Anger grows across Spain after elderly woman evicted from her home of 70 years NBC News Eviction of 87-year-old puts Spain’s deepening housing crisis in the spotlight The Guardian 87-year-old woman's eviction from Madrid apartment sparks protest against Spain's housing crisis Fortune Evicted 87-Year-Old Woman Urges Spaniards to ‘Fight’ to Avoid Same Fate The New York Times Spain: Thousands protest in Madrid against housing crisis dw.com Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：西班牙、被驱逐的、女士、老年、穿过。RSS 中文摘要显示：西班牙各地的愤怒情绪在老年妇女被驱逐出居住了70年的家后蔓延 NBC新闻 87岁老妇被驱逐使西班牙日益严重的住房危机成为人们关注的焦点 英国卫报 87岁老妇被驱逐出马德里公寓引发对西班牙住房危机的抗议 《财富》被驱逐的87岁老妇敦促西班牙人“战斗”以避免同样的命运 《纽约时报》西班牙：数千人在马德里抗议住房危机德国之声网站 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "detailed_en": "Key signals: ferry, indonesia, death, toll, and search. The available excerpt says: Indonesia ferry death toll hits 66 as search enters 16th day Reuters Death toll in Indonesia's capsized Java Sea ferry rises to 64 as 71 people remain missing ABC News - Breaking News, Latest News and Videos Divers recover a total of 52 bodies from capsized ferry in Indonesia after a dayslong search Yahoo Death toll climbs after Indonesian ferry capsized in Java Sea The Independent Indonesia Ferry Accident Dayton Daily News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：ferry、indonesia、死亡、toll、search。RSS 中文摘要显示：Indonesia ferry death toll hits 66 as search enters 16th day Reuters Death toll in Indonesia's capsized Java Sea ferry rises to 64 as 71 people remain missing ABC News - Breaking News, Latest News and Videos Divers recover a total of 52 bodies from capsized ferry in Indonesia after a dayslong search Yahoo Death toll climbs after Indonesian ferry capsized in Java Sea The Independent Indonesia Ferry Accident Dayton Daily News 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
         "what_to_watch_en": [
           "regulatory reaction",
           "enterprise adoption",
@@ -428,88 +429,88 @@
     },
     {
       "rank": 9,
-      "title": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbEJFcjNvV3FnbnMyU21pVDFZV1k0TzFRajdDb0hHaVlrcFZlWThrTDZqdEwtQjdsOUdGeWR4c0JUdE1BMEFzamc5SmtfT3FUWVB2Tm1aa3daSWRoM3JqUl8zMVZkLWdfVm8wdXoyNzBmXzRRYnBvdGptV08xYkFYT1VmZ21wSUlvRHppckpmWXhUdWpCX0Z4RVhaNA?oc=5",
-      "published_at": "2026-09-27T00:55:00+00:00",
-      "description": "Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square AP News Pope brings message to protect life to French shrine at Lourdes known for miraculous cures The Hill Pope Leo Receives Rockstar Welcome in Secular France WSJ Pope Leo prays for the sick and suffering in the Lourdes grotto in France OSV News Pope to French Bishops: Church bears prophetic authority in public square Vatican News",
-      "description_zh": "教宗利奥吸引80万人前往巴黎市中心标志性广场参加露天弥撒 美联社新闻 教宗向法国卢尔德圣地传达保护生命的信息",
+      "title": "Palestine Action protesters arrested outside UK Labour Party conference - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVkRUR01nd2thUk5Zc3VhVVFaV0hLdFdxYUtuVWpkanltVGpULWpMbGJlRVZ3cE9jWGttZEpWQXR0ejlJMk9RakV3WVNOdFA2SDNVV2JSQlRQRlU0ODJvc1J5N2dYS0haN04wVDdHME9SLWM1YnN3TVhUYmxpNGVudF83SFhKdFQ5RFJwc0ZSUGcwbDcwVWxPMkZETm5acW9SWmRLbEVMX1hKMU5hdDZVQmJn0gG3AUFVX3lxTE9iYkdSajBEZ1otVGszc3pIenBvX2oycDEyUjFpZFNiT2tqNE5DYjI3SFl1MnFLb3NGcW9jdXBZdDhmTk82eF9OMDJSTURXejdQQ282WFdoT0pvX0Y2S19iRUtlU2FTQng2LXc5YWtMWnh0QURCMVVpNVBXZUY5eGxoV1VQM2ZXV0tCb05zUGpUTUxkVEhyOGlZVmdLLXljVWlvdGdEQ0RGQ191ZDFfa0dGUzB0Y011cw?oc=5",
+      "published_at": "2026-09-28T02:24:30+00:00",
+      "description": "Palestine Action protesters arrested outside UK Labour Party conference Al Jazeera More than 50 arrested at Palestine Action support rally bbc.com UK Foreign Secretary confronted by activists over Palestine Action ban Al Jazeera Massive Attack’s Robert Del Naja Arrested as Part of Pro-Palestine Protest consequence.net Labour conference avoids ‘divisive’ Gaza debate amid calls for government to label Israel’s actions ‘genocide’ The Jewish Chronicle",
+      "description_zh": "Palestine Action protesters arrested outside UK Labour Party conference Al Jazeera More than 50 arrested at Palestine Action support rally bbc.com UK Foreign Secretary confronted by activists over Palestine Action ban Al Jazeera Massive Attack’s Robert Del Naja Arrested as Part of Pro-Palestine Protest consequence.net Labour conference avoids ‘divisive’ Gaza debate amid calls for government to label Israel’s actions ‘genocide’ The Jewish Chronicle",
       "keywords": [
-        "pope",
-        "leo",
-        "square",
-        "open-air",
-        "central",
-        "people",
-        "iconic",
-        "draws",
-        "paris",
-        "mass"
+        "palestine",
+        "arrested",
+        "action",
+        "conference",
+        "jazeera",
+        "labour",
+        "protesters",
+        "outside",
+        "party",
+        "pro-palestine"
       ],
       "keywords_zh": [
-        "教皇",
-        "狮子座",
-        "正方形",
-        "露天",
-        "中央",
-        "人们",
-        "标志性的",
-        "画",
-        "巴黎",
-        "大量的"
+        "palestine",
+        "arrested",
+        "action",
+        "conference",
+        "jazeera",
+        "labour",
+        "protesters",
+        "outside",
+        "party",
+        "pro-palestine"
       ],
       "category": {
-        "en": "Technology",
-        "zh": "科技"
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
       },
       "interpretation": {
-        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
-        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: pope, leo, square, open-air, and central. The available excerpt says: Pope Leo draws 800,000 people to central Paris for open-air Mass on iconic square AP News Pope brings message to protect life to French shrine at Lourdes known for miraculous cures The Hill Pope Leo Receives Rockstar Welcome in Secular France WSJ Pope Leo prays for the sick and suffering in the Lourdes grotto in France OSV News Pope to French Bishops: Church bears prophetic authority in public square Vatican News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：教皇、狮子座、正方形、露天、中央。RSS 中文摘要显示：教宗利奥吸引80万人前往巴黎市中心标志性广场参加露天弥撒 美联社新闻 教宗向法国卢尔德圣地传达保护生命的信息 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: palestine, arrested, action, conference, and jazeera. The available excerpt says: Palestine Action protesters arrested outside UK Labour Party conference Al Jazeera More than 50 arrested at Palestine Action support rally bbc.com UK Foreign Secretary confronted by activists over Palestine Action ban Al Jazeera Massive Attack’s Robert Del Naja Arrested as Part of Pro-Palestine Protest consequence.net Labour conference avoids ‘divisive’ Gaza debate amid calls for government to label Israel’s actions ‘genocide’ The Jewish Chronicle Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：palestine、arrested、action、conference、jazeera。RSS 中文摘要显示：Palestine Action protesters arrested outside UK Labour Party conference Al Jazeera More than 50 arrested at Palestine Action support rally bbc.com UK Foreign Secretary confronted by activists over Palestine Action ban Al Jazeera Massive Attack’s Robert Del Naja Arrested as Part of Pro-Palestine Protest consequence.net Labour conference avoids ‘divisive’ Gaza debate amid calls for government to label Israel’s actions ‘genocide’ The Jewish Chronicle 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
-          "regulatory reaction",
-          "enterprise adoption",
-          "security or privacy consequences"
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
         ],
         "what_to_watch_zh": [
-          "监管反应",
-          "企业采用情况",
-          "安全或隐私后果"
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
         ]
       }
     },
     {
       "rank": 10,
-      "title": "Falling tree kills NYCHA worker in East New York, Brooklyn - ABC7 New York",
-      "source": "ABC7 New York",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdVBET1llaGJsNGcyRHBaLXlBQTBGa1c1b3NRYzg2UXM1UXlpZnBEeERUTWRkYnd6cFI3WHR0clVSNUVNNjNXUVZaNlNSQzlmUVJWUURRYS1xZG1rT1J3dklTbHZuQm1faFY0ZXZqaUZGZjNFNFAxOXY5VDVDMnljMVYtQkdQSkQ4RUZhT0RRX3Q3OWtRUWlQZGx5cGZSVThVT2tKWFd3Q1l6akhFT1ktSXdoUmZodGQ5YlJvZzdsY9IBxAFBVV95cUxPZmpaRDE5SG1KOS1BS1RuRlJDcVE0ZnMzOUlGVFpOMS12VmdHZHBUbnFwUVZPVUtfa3V1Y3M5czdkOU9oal9XTEsxZmJCb1RmZU90WjNaOFBLVEJWLTV1TGVrWWtSYnNfOFlZLS1JUDJ4MDJyOEE0dU5SQ0xJTkgzZUY4OWZkcGp3V21zQzRnZUNiTHhhdnBlRUR2X0VGNUEtb3FoWHhjZFh4dDVaWXBveWJyRzBHbUpEYlExUHVmc3NicTNa?oc=5",
-      "published_at": "2026-09-26T23:33:16+00:00",
-      "description": "Falling tree kills NYCHA worker in East New York, Brooklyn ABC7 New York One dead as powerful nor’easter causes flooding and knocks out power to parts of East Coast NBC News NYCHA employee struck and killed by falling tree in Brooklyn Spectrum News NY1 Man, 56, killed by falling tree in storm winds in Brooklyn was beloved NYCHA worker New York Daily News NYCHA worker killed by falling tree in East New York, Brooklyn NBC 4 New York",
-      "description_zh": "布鲁克林东纽约市的 NYCHA 工作人员被倒下的树杀死 ABC7 纽约 强东北风引发洪水并导致东海岸部分地区断电，造成一人死亡 NBC News NYCHA 员工在布鲁克林被倒下的树撞死 Spectrum News NY1 56 岁的男子在布鲁克林暴风中被倒下的树砸死，深受爱戴的 NYCHA 工作人员 《纽约每日新闻》 NYCHA 工作人员在布鲁克林东纽约被倒下的树身亡 NBC 4 New York",
+      "title": "Deadly storm hits the Northeast, and five arrested on terrorism charge near a U.S. air base: Weekend Rundown - NBC News",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcFpiVm9ScHMtbXNsOTQ3RFFOU28xUjJlM0s2Q21MU3ZsdWFRdjhnb3liNVdOeXpVcHFpLXVJQ1E2S1BKREhzbHNuVnR6MmQwWHpEQXZWVU1NbUFscXlCcThaVU5UYlcwd3p1NTlfSHlqZko0VHRBZUoxQnliLW5xTFZB?oc=5",
+      "published_at": "2026-09-27T22:05:30+00:00",
+      "description": "Deadly storm hits the Northeast, and five arrested on terrorism charge near a U.S. air base: Weekend Rundown NBC News Nor’easter Weakens but Remains a Threat The New York Times Rescues, beach erosion mark storm's impact in New Jersey ABC7 New York Live updates: Deadly nor'easter floods the coast as dangerous winds whip through the Northeast FOX Weather Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England AP News",
+      "description_zh": "Deadly storm hits the Northeast, and five arrested on terrorism charge near a U.S. air base: Weekend Rundown NBC News Nor’easter Weakens but Remains a Threat The New York Times Rescues, beach erosion mark storm's impact in New Jersey ABC7 New York Live updates: Deadly nor'easter floods the coast as dangerous winds whip through the Northeast FOX Weather Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England AP News",
       "keywords": [
-        "brooklyn",
-        "falling",
-        "nycha",
-        "tree",
-        "worker",
-        "east",
-        "kills",
-        "abc7",
-        "killed",
-        "nbc"
+        "northeast",
+        "deadly",
+        "terrorism",
+        "arrested",
+        "weekend",
+        "rundown",
+        "charge",
+        "storm",
+        "hits",
+        "five"
       ],
       "keywords_zh": [
-        "布鲁克林",
-        "坠落",
-        "尼查",
-        "树",
-        "工人",
-        "东方",
-        "造成死亡",
-        "ABC7",
-        "死亡",
-        "全国广播公司"
+        "northeast",
+        "deadly",
+        "terrorism",
+        "arrested",
+        "weekend",
+        "rundown",
+        "charge",
+        "storm",
+        "hits",
+        "five"
       ],
       "category": {
         "en": "Technology",
@@ -518,8 +519,8 @@
       "interpretation": {
         "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
         "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: brooklyn, falling, nycha, tree, and worker. The available excerpt says: Falling tree kills NYCHA worker in East New York, Brooklyn ABC7 New York One dead as powerful nor’easter causes flooding and knocks out power to parts of East Coast NBC News NYCHA employee struck and killed by falling tree in Brooklyn Spectrum News NY1 Man, 56, killed by falling tree in storm winds in Brooklyn was beloved NYCHA worker New York Daily News NYCHA worker killed by falling tree in East New York, Brooklyn NBC 4 New York Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：布鲁克林、坠落、尼查、树、工人。RSS 中文摘要显示：布鲁克林东纽约市的 NYCHA 工作人员被倒下的树杀死 ABC7 纽约 强东北风引发洪水并导致东海岸部分地区断电，造成一人死亡 NBC News NYCHA 员工在布鲁克林被倒下的树撞死 Spectrum News NY1 56 岁的男子在布鲁克林暴风中被倒下的树砸死，深受爱戴的 NYCHA 工作人员 《纽约每日新闻》 NYCHA 工作人员在布鲁克林东纽约被倒下的树身亡 NBC 4 New York 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "detailed_en": "Key signals: northeast, deadly, terrorism, arrested, and weekend. The available excerpt says: Deadly storm hits the Northeast, and five arrested on terrorism charge near a U.S. air base: Weekend Rundown NBC News Nor’easter Weakens but Remains a Threat The New York Times Rescues, beach erosion mark storm's impact in New Jersey ABC7 New York Live updates: Deadly nor'easter floods the coast as dangerous winds whip through the Northeast FOX Weather Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England AP News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：northeast、deadly、terrorism、arrested、weekend。RSS 中文摘要显示：Deadly storm hits the Northeast, and five arrested on terrorism charge near a U.S. air base: Weekend Rundown NBC News Nor’easter Weakens but Remains a Threat The New York Times Rescues, beach erosion mark storm's impact in New Jersey ABC7 New York Live updates: Deadly nor'easter floods the coast as dangerous winds whip through the Northeast FOX Weather Powerful nor’easter floods Northeast again, causing problems from New Jersey to New England AP News 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
         "what_to_watch_en": [
           "regulatory reaction",
           "enterprise adoption",
