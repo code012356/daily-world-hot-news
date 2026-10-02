@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-10-01T10:39:37+00:00` UTC.
+Generated at `2026-10-02T10:15:05+00:00` UTC.
 
-### 1. [US death row inmate survives execution attempt after two lethal injections - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE84SVQtdi1scTIxSHpaRWxNRmVpVWFkY3EwaTlkRjMtb1AwMzRMcXNTYmdxZ21yS19WWjJwbmhKUjc4NmlhWmZLb3pRRzdkMnVCUGM1NS16RWlXRFU?oc=5)
+### 1. [Indian pilot tells PM Modi he opened flydubai cockpit door during attack - Reuters](https://news.google.com/rss/articles/CBMitAFBVV95cUxQYW1JN1lJT0NhMWxSTm4xY1NJWHg4UGp5SzQtUlV2UjB6ZHgzdExsbXRIckJkWWpGWW1aY3dHX2ZBLTh5LS1yME1WaWJPQXdkTVluRVpCOTU2WjVhMm9wb1VVUEdsaG5xWlFYQUdPSndwYmhYN1VzMnBBMFJkdzVMTmJrc3R4cWxlcHBRdE5lWFBVc2NMLTJDSnRGazFDeXJXbW13Vzh0Q0QySjFTVVV3VXZiOHg?oc=5)
 
-- Source / 来源: BBC. Published: `2026-10-01T07:01:16+00:00`.
-- Keywords / 关键词: inmate, death, row, attempt, lethal, injections, execution, survives, two, tennessee
-- 中文关键词: 犯人、死亡、排、试图、致命、注射、执行、幸存下来、二、田纳西州
-- Category / 分类: Global affairs / 全球事务
-- RSS Excerpt / RSS 摘要: US death row inmate survives execution attempt after two lethal injections BBC Tennessee Death Row Inmate Christa Pike Still Alive After Attempts to Execute Her, Lawyers Say The New York Times Tennessee governor halts executions after second botched lethal injection attempt this year – US politics live The Guardian The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting. The Intercept Christa Pike: What to know about the case of Tennessee death row inmate NBC News
-- RSS 中文摘要: 美国死囚在两次注射死刑后幸存 BBC 田纳西州死囚克里斯塔·派克在试图处决她后仍然活着，律师称《纽约时报》 田纳西州州长在今年第二次注射死刑失败后停止执行死刑 – 美国政治直播《卫报》“撒旦恐慌”让她成为真正的犯罪痴迷。真相更令人难以忘怀。拦截克里斯塔·派克：关于田纳西州死囚案件的了解 NBC 新闻
-- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
-- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
-- EN Detailed Reading: Key signals: inmate, death, row, attempt, and lethal. The available excerpt says: US death row inmate survives execution attempt after two lethal injections BBC Tennessee Death Row Inmate Christa Pike Still Alive After Attempts to Execute Her, Lawyers Say The New York Times Tennessee governor halts executions after second botched lethal injection attempt this year – US politics live The Guardian The “Satanic Panic” Made Her a True-Crime Obsession. The Truth Is More Haunting. The Intercept Christa Pike: What to know about the case of Tennessee death row inmate NBC News Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文详细解读: 关键词信号：犯人、死亡、排、试图、致命。RSS 中文摘要显示：美国死囚在两次注射死刑后幸存 BBC 田纳西州死囚克里斯塔·派克在试图处决她后仍然活着，律师称《纽约时报》 田纳西州州长在今年第二次注射死刑失败后停止执行死刑 – 美国政治直播《卫报》“撒旦恐慌”让她成为真正的犯罪痴迷。真相更令人难以忘怀。拦截克里斯塔·派克：关于田纳西州死囚案件的了解 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
-- EN What to watch: follow-up reporting; official statements; regional or market reaction
-- 后续关注: 后续报道；官方声明；地区或市场反应
-
-### 2. [An Indian airline captain is hailed as a hero after a cockpit attack on a FlyDubai flight - AP News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcDNSb19Va1l3bHR0NkVQb1FCa0F1WFVhakZZZVNuSC1pMmNOc2I5b1dOeTZILVBXZF94bXZKOGFicG5OOGg3TWx2SGUtOHo0NEZmNGJnZ3ZPWmpYQlVRWUZPcjBpQWlIbHlJNmZBRGxPSlUtOXJQM3E2cjR4dV9HemNzYXpNVXV4Snd5R0J3anF1Q2ZVR05OZXJwX2ZMdk9iNmtscGJ1UXI5ZE0?oc=5)
-
-- Source / 来源: AP News. Published: `2026-10-01T06:50:57+00:00`.
-- Keywords / 关键词: flydubai, attack, flight, captain, airline, cockpit, indian, hailed, hero, attacker
-- 中文关键词: 迪拜航空、袭击、航班、队长、航空公司、座舱、印度人、欢呼、英雄、攻击者
+- Source / 来源: Reuters. Published: `2026-10-02T08:21:54+00:00`.
+- Keywords / 关键词: flydubai, attack, cockpit, pilot, indian, opened, during, tells, modi, door
+- 中文关键词: 迪拜航空、袭击、座舱、飞行员、印度人、打开、期间、告诉、莫迪、门
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: An Indian airline captain is hailed as a hero after a cockpit attack on a FlyDubai flight AP News Captain Smit Machchhar: The ‘jovial’ pilot and father who thwarted the Flydubai attacker CNN Live Updates: Israelis Celebrate Passengers’ Return as Questions Swirl Over Flight Attack The New York Times Plumber helped subdue flight attacker, pull plane out of dive ABC News - Breaking News, Latest News and Videos Israel vows to get to 'root' of flydubai attack, UAE launches investigation Reuters
-- RSS 中文摘要: 一名印度航空公司机长在迪拜航空航班遭遇驾驶舱袭击后被誉为英雄 美联社新闻 机长斯密特·马赫恰尔：挫败迪拜航空袭击者的“快乐”飞行员和父亲 CNN 实时更新：以色列人庆祝乘客回国，但飞行袭击引发质疑 纽约时报水管工帮助制服了袭击者，将飞机从俯冲状态中拉出来迪拜航空袭击事件，阿联酋启动调查 路透
+- RSS Excerpt / RSS 摘要: Indian pilot tells PM Modi he opened flydubai cockpit door during attack Reuters ‘I couldn’t let everybody else die,’ says hero Flydubai pilot Smit Machchhar CNN Some of world’s strict aviation security measures are under fresh scrutiny after in-flight attack NBC News Israeli passenger says he knew what to do on flydubai plane after watching TV show Reuters I was on the Flydubai flight that plunged 17,000 feet after the cockpit attack. I didn't realize my life was at stake. Business Insider
+- RSS 中文摘要: 印度飞行员告诉莫迪总理，他在袭击中打开了迪拜航空的驾驶舱门 路透社 “我不能让其他人死去” 迪拜航空英雄飞行员斯米特·马赫哈尔 (Smit Machchhar) 表示 世界上一些严格的航空安全措施在飞行中遭到袭击后正在接受新的审查 NBC 新闻 以色列乘客表示，在观看电视节目后，他知道在迪拜航空的飞机上该怎么做 路透社 我乘坐的迪拜航空航班在驾驶舱袭击后从 17,000 英尺的高空坠落。我没有意识到我的生命受到威胁。商业内幕
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: flydubai, attack, flight, captain, and airline. The available excerpt says: An Indian airline captain is hailed as a hero after a cockpit attack on a FlyDubai flight AP News Captain Smit Machchhar: The ‘jovial’ pilot and father who thwarted the Flydubai attacker CNN Live Updates: Israelis Celebrate Passengers’ Return as Questions Swirl Over Flight Attack The New York Times Plumber helped subdue flight attacker, pull plane out of dive ABC News - Breaking News, Latest News and Videos Israel vows to get to 'root' of flydubai attack, UAE launches investigation Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：迪拜航空、袭击、航班、队长、航空公司。RSS 中文摘要显示：一名印度航空公司机长在迪拜航空航班遭遇驾驶舱袭击后被誉为英雄 美联社新闻 机长斯密特·马赫恰尔：挫败迪拜航空袭击者的“快乐”飞行员和父亲 CNN 实时更新：以色列人庆祝乘客回国，但飞行袭击引发质疑 纽约时报水管工帮助制服了袭击者，将飞机从俯冲状态中拉出来迪拜航空袭击事件，阿联酋启动调查 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: flydubai, attack, cockpit, pilot, and indian. The available excerpt says: Indian pilot tells PM Modi he opened flydubai cockpit door during attack Reuters ‘I couldn’t let everybody else die,’ says hero Flydubai pilot Smit Machchhar CNN Some of world’s strict aviation security measures are under fresh scrutiny after in-flight attack NBC News Israeli passenger says he knew what to do on flydubai plane after watching TV show Reuters I was on the Flydubai flight that plunged 17,000 feet after the cockpit attack. I didn't realize my life was at stake. Business Insider Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：迪拜航空、袭击、座舱、飞行员、印度人。RSS 中文摘要显示：印度飞行员告诉莫迪总理，他在袭击中打开了迪拜航空的驾驶舱门 路透社 “我不能让其他人死去” 迪拜航空英雄飞行员斯米特·马赫哈尔 (Smit Machchhar) 表示 世界上一些严格的航空安全措施在飞行中遭到袭击后正在接受新的审查 NBC 新闻 以色列乘客表示，在观看电视节目后，他知道在迪拜航空的飞机上该怎么做 路透社 我乘坐的迪拜航空航班在驾驶舱袭击后从 17,000 英尺的高空坠落。我没有意识到我的生命受到威胁。商业内幕 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 3. [Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing? - The New York Times](https://news.google.com/rss/articles/CBMipAFBVV95cUxQMy05RDEyYW81VkZvLUg2OW1NcFhRcUFxZkVsdENyQmlIZjZiTFlobjh0cXRDRmFJaUpTMEwzbEp5OXdTZnRPWmgwSEQwUHpoTWlGTFAwTDJ0d2VQRHZQNHVIZVJVdS1UQVQ3VGU4WUpsYzlXM0pIUE54ZzFuZG96Z2lUaHh0bEZwQnY1NUJHV0dCVGdXV0ZGekh5ZkRSS0ZxU0hTVw?oc=5)
+### 2. [‘I couldn’t let everybody else die,’ says hero Flydubai pilot Smit Machchhar - CNN](https://news.google.com/rss/articles/CBMitAFBVV95cUxNWEt5V1JnRXV4cHhBS0pzdlV0LVRTeDk2ZkZiU3lUc2F4MGRTUEpaMnBfTEJzSXBZMUJrcERtNDk2ZC1lOEpqOFVDdlJNNXA1cndkNEhSLUFxLWhwRHJ2bzZyS3VWQUVtRlhaSWcwUUlUMTc5ZVM1Q3JpLTFzYzJuY0Q0blY1U3RBUnNGYkVVWVZNZE1xYmF0T0kyaEtCVV83MVg4WmJBVjh6NVZPSEpkRmVPRC0?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-10-01T04:38:34+00:00`.
-- Keywords / 关键词: flydubai, machchhar, captain, pilot, smit, stabbing, cockpit, hailed, hero, attacker
-- 中文关键词: 迪拜航空、马赫恰哈尔、队长、飞行员、斯密特、刺、座舱、欢呼、英雄、攻击者
+- Source / 来源: CNN. Published: `2026-10-02T07:29:14+00:00`.
+- Keywords / 关键词: flydubai, everybody, machchhar, couldn, pilot, else, hero, smit, let, die
+- 中文关键词: 迪拜航空、大家、马赫恰哈尔、不能、飞行员、别的、英雄、斯密特、让、死
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing? The New York Times Captain Smit Machchhar: The ‘jovial’ pilot and father who thwarted the Flydubai attacker CNN Live Updates: Israelis Celebrate Passengers’ Return as Questions Swirl Over Flight Attack The New York Times Plumber helped subdue flight attacker, pull plane out of dive ABC News - Breaking News, Latest News and Videos Israel vows to get to 'root' of flydubai attack, UAE launches investigation Reuters
-- RSS 中文摘要: FlyDubai 驾驶舱刺伤事件后被誉为英雄的机长 Smit Macchhar 是谁？ 《纽约时报》机长斯密特·马赫哈尔：挫败迪拜航空袭击事件的“快活”飞行员和父亲 CNN 实时更新：飞行袭击事件引发质疑之际，以色列庆祝乘客回国 《纽约时报》水管工帮助制服了袭击者，将飞机从俯冲状态中拉出来
+- RSS Excerpt / RSS 摘要: ‘I couldn’t let everybody else die,’ says hero Flydubai pilot Smit Machchhar CNN Some of world’s strict aviation security measures are under fresh scrutiny after in-flight attack NBC News Israeli passenger says he knew what to do on flydubai plane after watching TV show Reuters I was on the Flydubai flight that plunged 17,000 feet after the cockpit attack. I didn't realize my life was at stake. Business Insider Flydubai flight shows Israel’s changing Middle East ties, and Saudi's old limits The Jerusalem Post
+- RSS 中文摘要: 英雄 Flydubai 飞行员 Smit Macchhar 表示：“我不能让其他人死去。” CNN 飞行中遭遇袭击后，世界上一些严格的航空安全措施正在接受新的审查。 NBC 新闻 以色列乘客表示，在观看电视节目后，他知道在 Flydubai 飞机上该怎么做。我没有意识到我的生命受到威胁。商业内幕 Flydubai 航班显示以色列不断变化的中东关系以及沙特的旧限制
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: flydubai, machchhar, captain, pilot, and smit. The available excerpt says: Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing? The New York Times Captain Smit Machchhar: The ‘jovial’ pilot and father who thwarted the Flydubai attacker CNN Live Updates: Israelis Celebrate Passengers’ Return as Questions Swirl Over Flight Attack The New York Times Plumber helped subdue flight attacker, pull plane out of dive ABC News - Breaking News, Latest News and Videos Israel vows to get to 'root' of flydubai attack, UAE launches investigation Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：迪拜航空、马赫恰哈尔、队长、飞行员、斯密特。RSS 中文摘要显示：FlyDubai 驾驶舱刺伤事件后被誉为英雄的机长 Smit Macchhar 是谁？ 《纽约时报》机长斯密特·马赫哈尔：挫败迪拜航空袭击事件的“快活”飞行员和父亲 CNN 实时更新：飞行袭击事件引发质疑之际，以色列庆祝乘客回国 《纽约时报》水管工帮助制服了袭击者，将飞机从俯冲状态中拉出来 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: flydubai, everybody, machchhar, couldn, and pilot. The available excerpt says: ‘I couldn’t let everybody else die,’ says hero Flydubai pilot Smit Machchhar CNN Some of world’s strict aviation security measures are under fresh scrutiny after in-flight attack NBC News Israeli passenger says he knew what to do on flydubai plane after watching TV show Reuters I was on the Flydubai flight that plunged 17,000 feet after the cockpit attack. I didn't realize my life was at stake. Business Insider Flydubai flight shows Israel’s changing Middle East ties, and Saudi's old limits The Jerusalem Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：迪拜航空、大家、马赫恰哈尔、不能、飞行员。RSS 中文摘要显示：英雄 Flydubai 飞行员 Smit Macchhar 表示：“我不能让其他人死去。” CNN 飞行中遭遇袭击后，世界上一些严格的航空安全措施正在接受新的审查。 NBC 新闻 以色列乘客表示，在观看电视节目后，他知道在 Flydubai 飞机上该怎么做。我没有意识到我的生命受到威胁。商业内幕 Flydubai 航班显示以色列不断变化的中东关系以及沙特的旧限制 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 4. [UK believes Iran involved in RAF Fairford incident, Burnham says - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1UHBuUzZGckZNRjdBb3dkOEIwU0NxY2lPanNVVjdkRzF1SnFQWXN4UEZLdVhvdlViZWhnekhnQmNrdFVVRWVtcGRCMzFIWGNlWlZNUkVDQlJ5SXM?oc=5)
+### 3. [El Al forced to cancel first rescue flights to Dubai after authorities revoke landing permissions - The Jerusalem Post](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vdmxPR3RxN3hQS0J6WWhGSnV5ZFRyV3F0a2c1LVozTE1NZmVOMVJkZEtjNzMtTVVpbXhNX0x0R1VBZ2F4cy1yc3JpV2dJTFlsMlZZNS1NbTlsSUtH?oc=5)
 
-- Source / 来源: BBC. Published: `2026-09-30T21:26:59+00:00`.
-- Keywords / 关键词: iran, fairford, burnham, believes, incident, raf, involved, base, indications, explosives
-- 中文关键词: 伊朗、费尔福德、伯纳姆、相信、事件、英国皇家空军、涉及、根据、适应症、炸药
+- Source / 来源: The Jerusalem Post. Published: `2026-10-02T07:22:48+00:00`.
+- Keywords / 关键词: flights, dubai, rescue, authorities, permissions, jerusalem, landing, forced, cancel, revoke
+- 中文关键词: 航班、迪拜、救援、当局、权限、耶路撒冷、降落、被迫、取消、撤销
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: UK believes Iran involved in RAF Fairford incident, Burnham says BBC Trump says Iran decision coming ‘very soon’ as US probes possible Fairford terror links Fox News UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says The New York Times British police find no explosives in vehicles of men detained near base used by U.S. NBC News "Strong indications" Iran had role in U.K. bomb plot, PM Andy Burnham says Axios
-- RSS 中文摘要: 伯纳姆表示，英国认为伊朗参与了英国皇家空军费尔福德空军基地事件
+- RSS Excerpt / RSS 摘要: El Al forced to cancel first rescue flights to Dubai after authorities revoke landing permissions The Jerusalem Post El Al says today’s repatriation flights canceled due to UAE pulling approval The Times of Israel Israeli airlines plan to resume Dubai flights after flydubai incident Reuters Stranded Flydubai passengers face delay to flights back to Israel Yahoo Israeli Ministry of Transportation announces rescue flights from Dubai to depart today | LIVE BLOG i24news.tv
+- RSS 中文摘要: 当局撤销着陆许可后，以色列航空公司被迫取消飞往迪拜的首个救援航班《耶路撒冷邮报》称，由于阿联酋撤回批准，今天的遣返航班被取消。现场博客 i24news.tv
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, fairford, burnham, believes, and incident. The available excerpt says: UK believes Iran involved in RAF Fairford incident, Burnham says BBC Trump says Iran decision coming ‘very soon’ as US probes possible Fairford terror links Fox News UK Believes Iran Played a Part in RAF Fairford Air Base Incident, Burnham Says The New York Times British police find no explosives in vehicles of men detained near base used by U.S. NBC News "Strong indications" Iran had role in U.K. bomb plot, PM Andy Burnham says Axios Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、费尔福德、伯纳姆、相信、事件。RSS 中文摘要显示：伯纳姆表示，英国认为伊朗参与了英国皇家空军费尔福德空军基地事件 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: flights, dubai, rescue, authorities, and permissions. The available excerpt says: El Al forced to cancel first rescue flights to Dubai after authorities revoke landing permissions The Jerusalem Post El Al says today’s repatriation flights canceled due to UAE pulling approval The Times of Israel Israeli airlines plan to resume Dubai flights after flydubai incident Reuters Stranded Flydubai passengers face delay to flights back to Israel Yahoo Israeli Ministry of Transportation announces rescue flights from Dubai to depart today | LIVE BLOG i24news.tv Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：航班、迪拜、救援、当局、权限。RSS 中文摘要显示：当局撤销着陆许可后，以色列航空公司被迫取消飞往迪拜的首个救援航班《耶路撒冷邮报》称，由于阿联酋撤回批准，今天的遣返航班被取消。现场博客 i24news.tv 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 5. [Cornell student’s 2024 statement to police reveals new details about the night of her alleged rape - NBC News](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbE9FNklZMVJIX19sSFUwVWxwNUhQYVdFeEZZV1QxVXFUbDVQdVdzOGJfV1RNTEdBczBFMExEemhRTll6ODFNRnIzWk1ORElPVjNjNVBpWjdGVHpVcno5UGt0RE1heDNwdGN0ejdGVncwVERSQVU5NjVueVJFREpDRFFDRnZCN0sxOTh0WlN1NUQ4M0JkQUFqaVByQjk3LUJ6MVk0TkZkUGk?oc=5)
+### 4. [Letitia James appointed special prosecutor in alleged gang-rape at Cornell - The Guardian](https://news.google.com/rss/articles/CBMihgFBVV95cUxOdlFVbUFKUEVsRFFHV2dfaGJkNW80WFM3ajZEZWFyT2tyTjVKWEViS3Fsc3VERElGRjFjOXZfVHlHbEVzOVItQmVrdE5CckFfb0lhWjVzVXhQTnRTZm9rc2UyYU1laHYwX3hpQ05UcWVKWERHc2hJZ1BUWjdSZ2lWRVB6U1laZw?oc=5)
 
-- Source / 来源: NBC News. Published: `2026-10-01T06:10:50+00:00`.
-- Keywords / 关键词: cornell, rape, statement, police, her, student, reveals, details, alleged, night
-- 中文关键词: 康奈尔大学、强奸、陈述、警察、她、学生、揭示、细节、据称、夜晚
+- Source / 来源: The Guardian. Published: `2026-10-02T01:31:00+00:00`.
+- Keywords / 关键词: cornell, prosecutor, appointed, gang-rape, letitia, special, alleged, james, rape, investigation
+- 中文关键词: 康奈尔大学、检察官、任命、轮奸、莱蒂西亚、特别的、据称、詹姆斯、强奸、调查
 - Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Cornell student’s 2024 statement to police reveals new details about the night of her alleged rape NBC News Statement Written by Police in Cornell Assault Case Omitted Her Claim She Was Raped The New York Times A ‘loophole’ in New York’s rape law may have shut the door on criminal charges in the Cornell case. It’s not the first time CNN Cornell case spotlights 'confusing' web of systems for reporting campus assaults BBC How the “Cornell Seven” Rape Case Became a National Scandal The New Yorker
-- RSS 中文摘要: 康奈尔大学学生 2024 年向警方提交的声明披露了有关她被指控强奸当晚的新细节 NBC 新闻声明 警方在康奈尔袭击案中撰写的声明省略了她被强奸的说法 《纽约时报》纽约时报的强奸法中的一个“漏洞”可能导致康奈尔案中的刑事指控关闭了大门。这并不是 CNN 康奈尔大学案件第一次聚焦报道校园袭击事件的“令人困惑”的系统网络 BBC “康奈尔七人”强奸案如何成为全国丑闻 《纽约客》
+- RSS Excerpt / RSS 摘要: Letitia James appointed special prosecutor in alleged gang-rape at Cornell The Guardian How a Cornell Student Went From Shame to Action The New York Times Cornell under a microscope over handling of frat house rape investigation The Hill AOC's dramatic retelling of Cornell rape allegations collides with complaint details Fox News Cornell rape case renews push to close NY sexual assault loophole ABC7 Eyewitness News
+- RSS 中文摘要: 利蒂西亚·詹姆斯被任命为康奈尔大学轮奸案特别检察官 《卫报》 康奈尔大学学生如何从耻辱走向行动 《纽约时报》 康奈尔大学在处理兄弟会强奸案调查的显微镜下 希尔 AOC 戏剧性地复述康奈尔大学强奸指控与投诉细节相冲突 福克斯新闻 康奈尔大学强奸案再次推动堵塞纽约性侵犯漏洞 ABC7 目击者新闻
 - EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
 - 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: cornell, rape, statement, police, and her. The available excerpt says: Cornell student’s 2024 statement to police reveals new details about the night of her alleged rape NBC News Statement Written by Police in Cornell Assault Case Omitted Her Claim She Was Raped The New York Times A ‘loophole’ in New York’s rape law may have shut the door on criminal charges in the Cornell case. It’s not the first time CNN Cornell case spotlights 'confusing' web of systems for reporting campus assaults BBC How the “Cornell Seven” Rape Case Became a National Scandal The New Yorker Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：康奈尔大学、强奸、陈述、警察、她。RSS 中文摘要显示：康奈尔大学学生 2024 年向警方提交的声明披露了有关她被指控强奸当晚的新细节 NBC 新闻声明 警方在康奈尔袭击案中撰写的声明省略了她被强奸的说法 《纽约时报》纽约时报的强奸法中的一个“漏洞”可能导致康奈尔案中的刑事指控关闭了大门。这并不是 CNN 康奈尔大学案件第一次聚焦报道校园袭击事件的“令人困惑”的系统网络 BBC “康奈尔七人”强奸案如何成为全国丑闻 《纽约客》 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN Detailed Reading: Key signals: cornell, prosecutor, appointed, gang-rape, and letitia. The available excerpt says: Letitia James appointed special prosecutor in alleged gang-rape at Cornell The Guardian How a Cornell Student Went From Shame to Action The New York Times Cornell under a microscope over handling of frat house rape investigation The Hill AOC's dramatic retelling of Cornell rape allegations collides with complaint details Fox News Cornell rape case renews push to close NY sexual assault loophole ABC7 Eyewitness News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：康奈尔大学、检察官、任命、轮奸、莱蒂西亚。RSS 中文摘要显示：利蒂西亚·詹姆斯被任命为康奈尔大学轮奸案特别检察官 《卫报》 康奈尔大学学生如何从耻辱走向行动 《纽约时报》 康奈尔大学在处理兄弟会强奸案调查的显微镜下 希尔 AOC 戏剧性地复述康奈尔大学强奸指控与投诉细节相冲突 福克斯新闻 康奈尔大学强奸案再次推动堵塞纽约性侵犯漏洞 ABC7 目击者新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
 - EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
 - 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 6. [Swiss glaciers suffer another year of record ice loss - NPR](https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbHE2WTMxcGExUVZEVVc3UHdoOC1uQnNuQS1aQjgyNTB5Z2dNanpMVF9CTlN3dzhBbjAyWTFvOEVmeEJvQVhoXzFGdXJMak1mWmpVZHZfaEg4OXRZazh2MXhUOThuZF9ZOU5BQ0hMWEwwSGd6c05lUmlWbnZLWUk?oc=5)
+### 5. [Christa Pike's execution failed. Here's how lethal injection works - Axios](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTXNzRFpfVllmb3M1TW81NlItcl9aNzJDd0ZFS2lWN2EyRnB6a0NnZ2s3TDZpM0tNRWtEY2hjdkF3bVJ6NGlDVmxOLS1qal9JMTlYSklPN0wyREU2MHVuQWJlOGI0dzFFUEhCXy1xa3lLbmxHRWRpcWJFS3lwR3c0QzJLSDRMMF9DRnMw?oc=5)
 
-- Source / 来源: NPR. Published: `2026-09-30T23:00:00+00:00`.
-- Keywords / 关键词: glaciers, swiss, ice, record, another, suffer, loss, switzerland, astonishing, washington
-- 中文关键词: 冰川、瑞士人、冰、记录、其他、遭受、损失、瑞士、惊人、华盛顿
-- Category / 分类: Economy and markets / 经济与市场
-- RSS Excerpt / RSS 摘要: Swiss glaciers suffer another year of record ice loss NPR Swiss glaciers lose more than 5% of ice after record heatwave Reuters ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years The Guardian Switzerland’s glaciers are losing an astonishing amount of ice. See the meltdown. The Washington Post There's something 'highly unusual' about this photo of the Matterhorn SBS
-- RSS 中文摘要: 瑞士冰川又遭遇创纪录的冰损失一年 NPR 瑞士冰川在创纪录的热浪后失去了超过 5% 的冰 路透社“融化速度爆炸”：瑞士冰川在五年内消失了 20% 《卫报》瑞士的冰川正在失去数量惊人的冰。看到崩溃。华盛顿邮报 SBS 马特宏峰的这张照片有些“极不寻常”
-- EN Summary: This story is tied to business conditions, financial expectations, or the cost of goods and capital.
-- 中文概要: 这条新闻与商业环境、金融预期或商品与资金成本相关。
-- EN Detailed Reading: Key signals: glaciers, swiss, ice, record, and another. The available excerpt says: Swiss glaciers suffer another year of record ice loss NPR Swiss glaciers lose more than 5% of ice after record heatwave Reuters ‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years The Guardian Switzerland’s glaciers are losing an astonishing amount of ice. See the meltdown. The Washington Post There's something 'highly unusual' about this photo of the Matterhorn SBS Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
-- 中文详细解读: 关键词信号：冰川、瑞士人、冰、记录、其他。RSS 中文摘要显示：瑞士冰川又遭遇创纪录的冰损失一年 NPR 瑞士冰川在创纪录的热浪后失去了超过 5% 的冰 路透社“融化速度爆炸”：瑞士冰川在五年内消失了 20% 《卫报》瑞士的冰川正在失去数量惊人的冰。看到崩溃。华盛顿邮报 SBS 马特宏峰的这张照片有些“极不寻常” 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
-- EN What to watch: price movements; company and government guidance; second-round supply-chain effects
-- 后续关注: 价格变化；企业与政府指引；供应链二次影响
-
-### 7. [Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump - CBS News](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXNwVUhFZkZrZmxLRFd1QVZwZFFWVjFLcEgxWmNJWnJCMlNnOExuY3BsdWlLaG9HYzF1VjJKYnB6eHlfU1NLZWlUcWhDMmpCVFI1eGczV19kR3kycThHd0ducEtLejdicmJXanhmWWFUcWRJeVVDb28xUlRmTWxPSWRwbXBfRU1uSW1N?oc=5)
-
-- Source / 来源: CBS News. Published: `2026-10-01T07:21:00+00:00`.
-- Keywords / 关键词: iran, received, rejected, trump, counterproposal, ceasefire, updates, live, plan, day
-- 中文关键词: 伊朗、已收到、被拒绝、特朗普、反提案、停火、更新、居住、计划、天
+- Source / 来源: Axios. Published: `2026-10-02T01:52:16+00:00`.
+- Keywords / 关键词: execution, christa, lethal, injection, pike's, failed, here's, works, axios, tennessee
+- 中文关键词: 执行、克里斯塔、致命、注射、派克的、失败的、这是、作品、轴、田纳西州
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump CBS News Trump rejected Iran's latest peace deal. What will happen next? USA Today Iran indicates it’s received an official US response to its latest offer on ending the war AP News Iran says it receives US response to latest proposal as Washington pulls out of Iraq Reuters U.S.-Iran talks yield little, raising odds of renewed combat Axios
-- RSS 中文摘要: 实时更新：伊朗表示已收到美国对特朗普拒绝的 7 天停火计划的反建议 哥伦比亚广播公司新闻 特朗普拒绝了伊朗最新的和平协议。接下来会发生什么？今日美国 伊朗表示已收到美国对其关于结束战争的最新提议的正式回应 美联社新闻 伊朗表示，随着华盛顿从伊拉克撤军，伊朗已收到美国对其最新提议的回应 路透 美伊谈判收效甚微，增加了重新爆发战斗的可能性
+- RSS Excerpt / RSS 摘要: Christa Pike's execution failed. Here's how lethal injection works Axios What’s next for Christa Pike after surviving lethal injection CNN Calls grow for US death penalty halt after ‘torturous’ botched execution of Christa Pike The Guardian ‘It was a mess’: Tennessee fails to execute woman after 2 lethal injections NBC News Tennessee Botches One Execution After Another, Despite Repeated Warnings The New York Times
+- RSS 中文摘要: 克里斯塔·派克的处决失败了。以下是注射死刑的工作原理 Axios 注射死刑后克里斯塔·派克 (Christa Pike) 幸存后的下一步是什么 CNN 在对克里斯塔·派克 (Christa Pike) 进行“痛苦”的拙劣处决后，要求美国停止执行死刑的呼声越来越高 《卫报》“真是一团糟”：田纳西州在两次注射死刑后未能处决一名妇女 NBC 新闻 尽管一再警告，田纳西州却一次又一次地执行死刑 纽约时报
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, received, rejected, trump, and counterproposal. The available excerpt says: Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump CBS News Trump rejected Iran's latest peace deal. What will happen next? USA Today Iran indicates it’s received an official US response to its latest offer on ending the war AP News Iran says it receives US response to latest proposal as Washington pulls out of Iraq Reuters U.S.-Iran talks yield little, raising odds of renewed combat Axios Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、已收到、被拒绝、特朗普、反提案。RSS 中文摘要显示：实时更新：伊朗表示已收到美国对特朗普拒绝的 7 天停火计划的反建议 哥伦比亚广播公司新闻 特朗普拒绝了伊朗最新的和平协议。接下来会发生什么？今日美国 伊朗表示已收到美国对其关于结束战争的最新提议的正式回应 美联社新闻 伊朗表示，随着华盛顿从伊拉克撤军，伊朗已收到美国对其最新提议的回应 路透 美伊谈判收效甚微，增加了重新爆发战斗的可能性 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: execution, christa, lethal, injection, and pike's. The available excerpt says: Christa Pike's execution failed. Here's how lethal injection works Axios What’s next for Christa Pike after surviving lethal injection CNN Calls grow for US death penalty halt after ‘torturous’ botched execution of Christa Pike The Guardian ‘It was a mess’: Tennessee fails to execute woman after 2 lethal injections NBC News Tennessee Botches One Execution After Another, Despite Repeated Warnings The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：执行、克里斯塔、致命、注射、派克的。RSS 中文摘要显示：克里斯塔·派克的处决失败了。以下是注射死刑的工作原理 Axios 注射死刑后克里斯塔·派克 (Christa Pike) 幸存后的下一步是什么 CNN 在对克里斯塔·派克 (Christa Pike) 进行“痛苦”的拙劣处决后，要求美国停止执行死刑的呼声越来越高 《卫报》“真是一团糟”：田纳西州在两次注射死刑后未能处决一名妇女 NBC 新闻 尽管一再警告，田纳西州却一次又一次地执行死刑 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 8. [A new Bolsonaro could pull Brazil away from Europe — and toward Trump - politico.eu](https://news.google.com/rss/articles/CBMiogFBVV95cUxPRmVWTWJqc05GRlR3RWR3X0RaOXpzQTBzdEE3QWRrWFpDT0ZjNmFVa2t1RDFCMmluRmw3REF1a0N2NXVncEdOWTJtbW1kczBnZ2xBeWh4VDNmMzl2T1llRzJ5UVRpWUVhc2xSTFd1RUdFcnVyUG5TcFd6aVUtQUJ1U1RwUDJ6WUdpd29lU3d0NTd5ZjJiSlVvSW05a191OUo5Mmc?oc=5)
+### 6. [Student protests grip France as Prime Minister Lecornu calls crisis meeting - pbs.org](https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3lrb1FDWTRUYlN5RFdxWkRJajFZcWc4THY0NkNXTzhhYV9Uem5BZk1Ec3ppcW1VMVdLaUdTbTh5UFJXdGxSeW1xOHpmOTh6VHlBa3F3UV9fZ0M3aXBSOGZ2VEhfTHlGdHk1ZW9ON0ZKY2FEdndkcWhwWV9INmd2c04ydWd3c3BwXzZVaDlWS3hNNFNlYkptYXB5MzdVSHU1bHl6Z190N2dBWjhaeHVn0gG0AUFVX3lxTE1xZHpXcFotS3N1Mlh5UElfR1k2YXpxcE9yM1VydzF0ZDEtVzhkU05iUi1YZVl6amRIX1E5NlR4R3hVeGw3cWlXdVhCTU14V2sxTGZUZ1hjU1NDLXZ6VEdkd0trcnhUdHVmNnE1WVJlMV9IcVpkUDZTU1QwdlFhTUZITGp3MDhYS29ra3dzVVQ1VVRlOEFCcGVsU3hwRjAwajRsUi1TdzRwRG9ZSlZaUnZBY3pwSQ?oc=5)
 
-- Source / 来源: politico.eu. Published: `2026-09-30T10:59:00+00:00`.
-- Keywords / 关键词: bolsonaro, brazil, politico, europe, toward, trump, pull, away, presidential, brazil's
-- 中文关键词: 博尔索纳罗、巴西、政治报、欧洲、朝向、特朗普、拉、离开、总统、巴西的
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: A new Bolsonaro could pull Brazil away from Europe — and toward Trump politico.eu The Guardian view on Lula v the Bolsonaros: the decision of Brazilian voters will affect us all | Editorial The Guardian Picanha, prices and politics: What Brazil's favorite steak says about the election NPR Brazil’s Presidential Election Is Going Down to the Wire Jacobin Brazil's Lula, Flavio Bolsonaro still tied in presidential runoff scenario, Atlas poll shows Reuters
-- RSS 中文摘要: 新博尔索纳罗可能会让巴西远离欧洲，走向特朗普 politico.eu 《卫报》对卢拉诉博尔索纳罗家族的看法：巴西选民的决定将影响我们所有人社论《卫报》Picanha、价格和政治：巴西最受欢迎的牛排对选举有何评价 NPR 巴西总统选举即将进入最后阶段 雅各宾派 Atlas 民意调查显示，巴西卢拉、弗拉维奥·博尔索纳罗在总统决选中仍处于平局 路透
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: bolsonaro, brazil, politico, europe, and toward. The available excerpt says: A new Bolsonaro could pull Brazil away from Europe — and toward Trump politico.eu The Guardian view on Lula v the Bolsonaros: the decision of Brazilian voters will affect us all | Editorial The Guardian Picanha, prices and politics: What Brazil's favorite steak says about the election NPR Brazil’s Presidential Election Is Going Down to the Wire Jacobin Brazil's Lula, Flavio Bolsonaro still tied in presidential runoff scenario, Atlas poll shows Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：博尔索纳罗、巴西、政治报、欧洲、朝向。RSS 中文摘要显示：新博尔索纳罗可能会让巴西远离欧洲，走向特朗普 politico.eu 《卫报》对卢拉诉博尔索纳罗家族的看法：巴西选民的决定将影响我们所有人社论《卫报》Picanha、价格和政治：巴西最受欢迎的牛排对选举有何评价 NPR 巴西总统选举即将进入最后阶段 雅各宾派 Atlas 民意调查显示，巴西卢拉、弗拉维奥·博尔索纳罗在总统决选中仍处于平局 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 9. [Trump Administration Finalizes Plan to Lower Drug Prices in Medicare - WSJ](https://news.google.com/rss/articles/CBMisAFBVV95cUxORE5zZ3g4NmVyb3c5dWJLTzlkdWQteU5oX1NnQ2wzOVJIOThVcEJPcGNzTUlpZWtEWkw4Ny1iTzdWM3ZHT1RKdWh2cUhoRV9kaFh6WkxpZDlfZm1Ednd4eHZSd3NlOHR6R3hOdjBNVjFOLVV4U1pzc0gyYk9LWmhuZ0JndmJKeUk3RXBGQlpmcjh2OXRhWTU2LW5WVXdMNzF1eDJWNlNyM3ZxSEV3NV9UaQ?oc=5)
-
-- Source / 来源: WSJ. Published: `2026-10-01T02:23:00+00:00`.
-- Keywords / 关键词: medicare, drug, trump, administration, finalizes, prices, lower, plan, wsj, pricing
-- 中文关键词: 医疗保险、药品、特朗普、行政、最终确定、价格、降低、计划、华尔街日报、定价
+- Source / 来源: pbs.org. Published: `2026-10-01T22:43:20+00:00`.
+- Keywords / 关键词: protests, france, student, meeting, crisis, calls, minister, lecornu, prime, grip
+- 中文关键词: 抗议、法国、学生、会议、危机、来电、部长、独角兽、主要的、紧握
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Trump Administration Finalizes Plan to Lower Drug Prices in Medicare WSJ Trump’s watered-down Medicare drug pricing rule saves 96% less than initial proposal STAT What Medicaid’s New Payment Model Means For Your Prescriptions Yahoo What Trump's 'most favoured nation' drug pricing policy might mean for Canadians CBC CMS finalises narrower GLOBE model for Medicare Part B drugs firstwordpharma.com
-- RSS 中文摘要: 特朗普政府敲定降低医疗保险药品价格的计划 华尔街日报 特朗普淡化的医疗保险药品定价规则比最初提案节省了 96% STAT 医疗补助的新支付模式对您的处方意味着什么 雅虎 特朗普的“最惠国”药品定价政策对加拿大人可能意味着什么 CBC CMS 最终确定了医疗保险 B 部分药品的更窄 GLOBE 模型firstwordpharma.com
+- RSS Excerpt / RSS 摘要: Student protests grip France as Prime Minister Lecornu calls crisis meeting pbs.org France school protests: Hundreds of schools closed and 40 headteachers hurt BBC Fires Break Out At French Schools As Students Protest Nationwide Yahoo France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting The Guardian French schools burn as student unrest spreads Financial Times
+- RSS 中文摘要: 总理勒科尔努召开危机内阁会议，学生抗议席卷法国 pbs.org 法国学校抗议：数百所学校关闭，40 名校长受伤 BBC 法国学校发生火灾，学生全国抗议 雅虎法国，总理召开危机内阁会议，学校抗议升级为“城市暴力” 英国《卫报》 学生骚乱蔓延，法国学校被烧毁
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: medicare, drug, trump, administration, and finalizes. The available excerpt says: Trump Administration Finalizes Plan to Lower Drug Prices in Medicare WSJ Trump’s watered-down Medicare drug pricing rule saves 96% less than initial proposal STAT What Medicaid’s New Payment Model Means For Your Prescriptions Yahoo What Trump's 'most favoured nation' drug pricing policy might mean for Canadians CBC CMS finalises narrower GLOBE model for Medicare Part B drugs firstwordpharma.com Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：医疗保险、药品、特朗普、行政、最终确定。RSS 中文摘要显示：特朗普政府敲定降低医疗保险药品价格的计划 华尔街日报 特朗普淡化的医疗保险药品定价规则比最初提案节省了 96% STAT 医疗补助的新支付模式对您的处方意味着什么 雅虎 特朗普的“最惠国”药品定价政策对加拿大人可能意味着什么 CBC CMS 最终确定了医疗保险 B 部分药品的更窄 GLOBE 模型firstwordpharma.com 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: protests, france, student, meeting, and crisis. The available excerpt says: Student protests grip France as Prime Minister Lecornu calls crisis meeting pbs.org France school protests: Hundreds of schools closed and 40 headteachers hurt BBC Fires Break Out At French Schools As Students Protest Nationwide Yahoo France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting The Guardian French schools burn as student unrest spreads Financial Times Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：抗议、法国、学生、会议、危机。RSS 中文摘要显示：总理勒科尔努召开危机内阁会议，学生抗议席卷法国 pbs.org 法国学校抗议：数百所学校关闭，40 名校长受伤 BBC 法国学校发生火灾，学生全国抗议 雅虎法国，总理召开危机内阁会议，学校抗议升级为“城市暴力” 英国《卫报》 学生骚乱蔓延，法国学校被烧毁 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 10. [CA couple accused of killing son-in-law at park charged with murder: New details on arrest revealed - ABC7 San Francisco](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcDNUb01VZ2hudTdhSWgzblg2WmxPM1pPRXd0TzdmZWhCaG93RGxjTDFPbkRTcEZZN1FPcUJzbzQyaXJJVE90LVhjRDdIZnZZdVhpUWQwY2xNSk1yXzNpaVM1ZWJCYktmSzJoUkhKcmd4bjkwODNuSlB5Skd4QTdGMFRzSmJQdkRvZzBKaHJ5TTRweDMyZlR0dVNEYUR2dVdEb2tfb1lxbXNQelZjMjFjYUFLLVZzSWVNWHhWNTlkYV9oaTZlWTBxRDIzR0Z1Mm1wdHAyb1M4OXpzc3R0QWlyWQ?oc=5)
+### 7. [Judge denies motion asking for Lindsay Clancy to be found not guilty due to lack of evidence - pbs.org](https://news.google.com/rss/articles/CBMixwFBVV95cUxNZlQ2TnRXdVFiUW53Q01NSDF6V3djOVgtekgzakE0dVRudW50MVJ3WGdEQ2phdmVjQndLRnZIUDkwc2lGeUV3UE1PRnVNdkxUQzI4cjJUY0gyMWNXeXZBTzJPelNKQ25uMXhBSE52bU9zZjVaUktXOXh2MGRFQ0hUaF8xcmU5QVdnNndCZjF1NlliOFA3Z29RbEJwNFBFSEItang2Qzl2LVp3ckk3bFdwUkVOREgtOEo0dEQxeW5LQVZoUmxvN0tF?oc=5)
 
-- Source / 来源: ABC7 San Francisco. Published: `2026-10-01T00:51:56+00:00`.
-- Keywords / 关键词: killing, son-in-law, francisco, accused, charged, couple, murder, park, san, revealed
-- 中文关键词: 造成死亡、女婿、弗朗西斯科、被告、带电、夫妻、谋杀、公园、桑、透露
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: CA couple accused of killing son-in-law at park charged with murder: New details on arrest revealed ABC7 San Francisco Couple Accused of Killing Their Son-in-Law in Bay Area Park The New York Times In-laws charged with murder of New York Times games engineer in California The Guardian New York Times games engineering director allegedly shot in Dublin by in-laws San Francisco Chronicle Bitter divorce, abuse allegations preceded killing of NY Times exec SFGATE
-- RSS 中文摘要: 加州一对夫妇被指控在公园杀害女婿，被控谋杀：逮捕的新细节披露 ABC7 旧金山夫妇被控在湾区公园杀害女婿 《纽约时报》 姻亲被指控在加州谋杀《纽约时报》游戏工程师 《卫报》 纽约时报游戏工程总监涉嫌在都柏林被姻亲枪杀 《旧金山纪事报》 痛苦的离婚、虐待指控，随后《纽约时报》执行官 SFGATE 被杀
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: killing, son-in-law, francisco, accused, and charged. The available excerpt says: CA couple accused of killing son-in-law at park charged with murder: New details on arrest revealed ABC7 San Francisco Couple Accused of Killing Their Son-in-Law in Bay Area Park The New York Times In-laws charged with murder of New York Times games engineer in California The Guardian New York Times games engineering director allegedly shot in Dublin by in-laws San Francisco Chronicle Bitter divorce, abuse allegations preceded killing of NY Times exec SFGATE Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：造成死亡、女婿、弗朗西斯科、被告、带电。RSS 中文摘要显示：加州一对夫妇被指控在公园杀害女婿，被控谋杀：逮捕的新细节披露 ABC7 旧金山夫妇被控在湾区公园杀害女婿 《纽约时报》 姻亲被指控在加州谋杀《纽约时报》游戏工程师 《卫报》 纽约时报游戏工程总监涉嫌在都柏林被姻亲枪杀 《旧金山纪事报》 痛苦的离婚、虐待指控，随后《纽约时报》执行官 SFGATE 被杀 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+- Source / 来源: pbs.org. Published: `2026-10-01T23:09:04+00:00`.
+- Keywords / 关键词: lindsay, clancy, judge, denies, guilty, motion, evidence, asking, found, lack
+- 中文关键词: 林赛、克兰西、法官、否认、有罪的、运动、证据、询问、成立、缺少
+- Category / 分类: Public safety and society / 公共安全与社会
+- RSS Excerpt / RSS 摘要: Judge denies motion asking for Lindsay Clancy to be found not guilty due to lack of evidence pbs.org Judge in Lindsay Clancy’s Case Declines to Find Her Not Guilty After Mistrial The New York Times Judge denies motion to find Lindsay Clancy not guilty after mistrial Yahoo Why Lindsay Clancy’s lawyer is disputing whether she killed her children The Washington Post Judge denies Lindsay Clancy's long-shot bid for a not-guilty finding in children's deaths CBS News
+- RSS 中文摘要: 由于缺乏证据，法官驳回要求林赛·克兰西无罪的动议 pbs.org 林赛·克兰西案件的法官在误审后拒绝认定她无罪 《纽约时报》 法官驳回要求在误审后认定林赛·克兰西无罪的动议 雅虎 为什么林赛·克兰西的律师对她是否杀害了孩子提出争议 《华盛顿邮报》法官否认了林赛·克兰西在儿童死亡案件中寻求无罪判决的远景尝试 哥伦比亚广播公司新闻
+- EN Summary: This story centers on harm to people, emergency response, or social disruption.
+- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
+- EN Detailed Reading: Key signals: lindsay, clancy, judge, denies, and guilty. The available excerpt says: Judge denies motion asking for Lindsay Clancy to be found not guilty due to lack of evidence pbs.org Judge in Lindsay Clancy’s Case Declines to Find Her Not Guilty After Mistrial The New York Times Judge denies motion to find Lindsay Clancy not guilty after mistrial Yahoo Why Lindsay Clancy’s lawyer is disputing whether she killed her children The Washington Post Judge denies Lindsay Clancy's long-shot bid for a not-guilty finding in children's deaths CBS News Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
+- 中文详细解读: 关键词信号：林赛、克兰西、法官、否认、有罪的。RSS 中文摘要显示：由于缺乏证据，法官驳回要求林赛·克兰西无罪的动议 pbs.org 林赛·克兰西案件的法官在误审后拒绝认定她无罪 《纽约时报》 法官驳回要求在误审后认定林赛·克兰西无罪的动议 雅虎 为什么林赛·克兰西的律师对她是否杀害了孩子提出争议 《华盛顿邮报》法官否认了林赛·克兰西在儿童死亡案件中寻求无罪判决的远景尝试 哥伦比亚广播公司新闻 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
+- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
+- 后续关注: 官方调查；确认伤亡数字；预防措施
+
+### 8. [Putin warns Russia is prepared to use ‘all weapons,’ including nuclear, to protect Kaliningrad - CNN](https://news.google.com/rss/articles/CBMiigFBVV95cUxOUmZxY1FyU2JuRHhwX2p1YjNJcTNBUmdYSXd6LXVQM1ljQk1XZ3FyMm1WVlU5YWR4eEdmXzA4MklRc0psLW8zVVM4b1ZuSmwwMFpOdDdZbWRJSDNycGtadjA2cFp1aFF6VWpNZ19sYVNvUUFuaUlWNXRtQjNwR2pmdmJHd2kyQlhnMmc?oc=5)
+
+- Source / 来源: CNN. Published: `2026-10-01T22:30:37+00:00`.
+- Keywords / 关键词: kaliningrad, russia, warns, nuclear, putin, use, including, weapons, protect, all
+- 中文关键词: 加里宁格勒、俄罗斯、警告、核、普京、使用、包括、武器、保护、全部
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Putin warns Russia is prepared to use ‘all weapons,’ including nuclear, to protect Kaliningrad CNN Putin warns Russia will use 'all weapons,' including nuclear, if any of its territory is attacked kcci.com Russia warns NATO of a possible nuclear response if Kaliningrad is cut off AP News Putin warns West that Russia is ready to use every weapon to protect Kaliningrad BBC Why Russia's Kaliningrad is a potential flashpoint with NATO Reuters
+- RSS 中文摘要: 普京警告俄罗斯准备使用包括核武器在内的“所有武器”来保护加里宁格勒 CNN 普京警告称，如果其任何领土受到攻击，俄罗斯将使用包括核武器在内的“所有武器” kcci.com 俄罗斯警告北约，如果加里宁格勒被切断，可能会采取核反应 美联社新闻 普京警告西方，俄罗斯已准备好使用一切武器来保护加里宁格勒 BBC 为什么俄罗斯加里宁格勒是与北约的潜在爆发点 路透
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: kaliningrad, russia, warns, nuclear, and putin. The available excerpt says: Putin warns Russia is prepared to use ‘all weapons,’ including nuclear, to protect Kaliningrad CNN Putin warns Russia will use 'all weapons,' including nuclear, if any of its territory is attacked kcci.com Russia warns NATO of a possible nuclear response if Kaliningrad is cut off AP News Putin warns West that Russia is ready to use every weapon to protect Kaliningrad BBC Why Russia's Kaliningrad is a potential flashpoint with NATO Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：加里宁格勒、俄罗斯、警告、核、普京。RSS 中文摘要显示：普京警告俄罗斯准备使用包括核武器在内的“所有武器”来保护加里宁格勒 CNN 普京警告称，如果其任何领土受到攻击，俄罗斯将使用包括核武器在内的“所有武器” kcci.com 俄罗斯警告北约，如果加里宁格勒被切断，可能会采取核反应 美联社新闻 普京警告西方，俄罗斯已准备好使用一切武器来保护加里宁格勒 BBC 为什么俄罗斯加里宁格勒是与北约的潜在爆发点 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 9. [Pentagon prepares for potential surge of naval forces in Middle East - The Washington Post](https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc2drZTBYMDZkTGhpaWhjRm81VzBwZFNPTFVQZ19ESVBtbHhCSEpWN1pLSHZLWF9Wam0zRlhNMHN2TWp6NDJyZmRlZElaU1JjYWZlcTJScW1SLUNaQlJZbEdETUJZZjEyOER4YThpWjh3b2VyTTZsRDFJRGE2eVg3SFFGZ0dSVEVjQ2VqSF9uS1pvNzRFMzE1Q1ZmYzdoMW16Mk1hNGVHQVBGM0JRUmF1SlJjLTJmZHRuVmJJ?oc=5)
+
+- Source / 来源: The Washington Post. Published: `2026-10-02T05:03:04+00:00`.
+- Keywords / 关键词: middle, east, forces, surge, washington, potential, pentagon, prepares, naval, carrier
+- 中文关键词: 中间、东方、力量、涌、华盛顿、潜在的、五角大楼、准备、海军、载体
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Pentagon prepares for potential surge of naval forces in Middle East The Washington Post Iran war live: Yemeni forces target Houthis in Sanaa, Saada and Taiz Al Jazeera 3rd Aircraft Carrier, 10,000 Troops Head To Middle East After Trump's Warning NDTV US deploys thousands more troops, Marines to Middle East as oil prices surge Fox News U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes CNBC
+- RSS 中文摘要: 五角大楼为中东可能增派的海军力量做准备 华盛顿邮报 伊朗战争直播：也门军队瞄准萨那、萨达和塔伊兹的胡塞武装 半岛电视台第三艘航空母舰，一万名士兵前往中东 在特朗普发出警告后 NDTV 美国因油价飙升而向中东增派数千名士兵和海军陆战队 福克斯新闻 在特朗普警告伊朗将发动新的袭击之际，美国将向中东派遣第三个航母编队 CNBC
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: middle, east, forces, surge, and washington. The available excerpt says: Pentagon prepares for potential surge of naval forces in Middle East The Washington Post Iran war live: Yemeni forces target Houthis in Sanaa, Saada and Taiz Al Jazeera 3rd Aircraft Carrier, 10,000 Troops Head To Middle East After Trump's Warning NDTV US deploys thousands more troops, Marines to Middle East as oil prices surge Fox News U.S. to send third carrier group to Mideast as Trump warns of new Iran strikes CNBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：中间、东方、力量、涌、华盛顿。RSS 中文摘要显示：五角大楼为中东可能增派的海军力量做准备 华盛顿邮报 伊朗战争直播：也门军队瞄准萨那、萨达和塔伊兹的胡塞武装 半岛电视台第三艘航空母舰，一万名士兵前往中东 在特朗普发出警告后 NDTV 美国因油价飙升而向中东增派数千名士兵和海军陆战队 福克斯新闻 在特朗普警告伊朗将发动新的袭击之际，美国将向中东派遣第三个航母编队 CNBC 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says - defensenews.com](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNnA1Z0s3cnVZcFhKZmtaQXNiTklvZGg5Mjg3aFRwNG1GUjdwVWlJOVBMMUFsckhXZVVSbVV1THMyWTMtcVNwM2Nac2ktbXZlZG0yZi0tMW9BdGpnVEwzVTJBbXNWY3RvNGNFaEhiR09XWkNnOE96bnNxcm9DcS1YQUFHdUpKM1dxenpRX0VCVXVGTktqTzh1SGNqMXNzcmMwbXZEaHVIdERHWWY5Sll5akFUVHJDS2hJZ1pqWTBDVzVrTGZsOVkwWVZ2ODdJQ0dHMFZ0YThWWGFZclZrajZF?oc=5)
+
+- Source / 来源: defensenews.com. Published: `2026-10-01T19:54:35+00:00`.
+- Keywords / 关键词: ballistic, missile, combat, ukraine, first, fp-7, tactical, time, zelenskyy, deploys
+- 中文关键词: 弹道的、导弹、战斗、乌克兰、第一的、FP-7、战术上的、时间、泽连斯基、部署
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says defensenews.com Ukraine war briefing: Zelenskyy says new ballistic missile used in combat The Guardian Zelensky shows first combat use of Ukraine's FP-7 tactical ballistic missile Ukrinform Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskiy says Reuters Ukraine uses FP-7 ballistic missile in combat for first time – video Українська правда
+- RSS 中文摘要: 泽连斯基称，乌克兰首次在战斗中部署 FP-7 战术弹道导弹 乌克兰战争简报：泽连斯基称在战斗中使用了新型弹道导弹 《卫报》泽连斯基展示了乌克兰 FP-7 战术弹道导弹的首次战斗使用 乌克兰新闻社 乌克兰首次在战斗中部署 FP-7 战术弹道导弹，泽连斯基称路透社 乌克兰首次在战斗中使用 FP-7 弹道导弹 - 视频Українська правда
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: ballistic, missile, combat, ukraine, and first. The available excerpt says: Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says defensenews.com Ukraine war briefing: Zelenskyy says new ballistic missile used in combat The Guardian Zelensky shows first combat use of Ukraine's FP-7 tactical ballistic missile Ukrinform Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskiy says Reuters Ukraine uses FP-7 ballistic missile in combat for first time – video Українська правда Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：弹道的、导弹、战斗、乌克兰、第一的。RSS 中文摘要显示：泽连斯基称，乌克兰首次在战斗中部署 FP-7 战术弹道导弹 乌克兰战争简报：泽连斯基称在战斗中使用了新型弹道导弹 《卫报》泽连斯基展示了乌克兰 FP-7 战术弹道导弹的首次战斗使用 乌克兰新闻社 乌克兰首次在战斗中部署 FP-7 战术弹道导弹，泽连斯基称路透社 乌克兰首次在战斗中使用 FP-7 弹道导弹 - 视频Українська правда 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
 
 
