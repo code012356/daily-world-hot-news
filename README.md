@@ -10,155 +10,155 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-10-16T08:41:20+00:00` UTC.
+Generated at `2026-10-17T08:12:09+00:00` UTC.
 
-### 1. [Teen shooter kills 3 children, teacher in Oregon elementary school before being shot by bystander - CNN](https://news.google.com/rss/articles/CBMie0FVX3lxTE56TDBxdnR3ZVZaNk96U3ZOelhDbk5mb0pUdnpHZHNxYXlSQWxlOUlDcUg1ekhZc0hvOXV3aUZ0WE9EdnJaN09FTU5NbnJsODdtM1YtNmgtUGh3LTRLOG9NS2QxSXZMVGpORFFZMnJYdWs3SHFEUC1rUkswdw?oc=5)
+### 1. [It took just 3 minutes. How the Bend school shooting unfolded - CNN](https://news.google.com/rss/articles/CBMigwFBVV95cUxPLWNpd0JoRS1jYWZzNEJyc2xjOW9TLUxjOFdGVThoeVl3QmlZOG5jekVpbC1kSDVwQS1fWjUwdEZTRm5tUWFnUEtVX3NvNktKSXZxM2FXZWdIMmxVeHB2WFZpdk1VVXNOYjhuaUJqbXN0NzJWcHlQUGJSZkJ4Q0U3UDh5OA?oc=5)
 
-- Source / 来源: CNN. Published: `2026-10-16T07:21:00+00:00`.
-- Keywords / 关键词: elementary, school, children, shooter, teacher, bystander, oregon, before, kills, teen
-- 中文关键词: elementary、school、children、shooter、teacher、bystander、oregon、before、造成死亡、teen
+- Source / 来源: CNN. Published: `2026-10-17T06:46:54+00:00`.
+- Keywords / 关键词: school, shooting, bend, unfolded, minutes, took, just, elementary, killed, oregon
+- 中文关键词: 学校、射击、弯曲、展开的、分钟、采取了、只是、初级、死亡、俄勒冈州
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: It took just 3 minutes. How the Bend school shooting unfolded CNN Bystander who killed Oregon shooter identified as father of girls at elementary school The Guardian What we know about the 16-year-old who opened fire at his former elementary school, killing 4 in a special needs classroom CNN Oregon teacher fought school attacker before armed dad killed suspect BBC Bend police name victims in Silver Rail school shooting KPTV
+- RSS 中文摘要: 只用了3分钟。本德学校枪击事件是如何展开的 CNN 杀死俄勒冈州枪手的旁观者被确认为小学女孩的父亲 《卫报》 我们对这名向他以前就读的小学开枪，在特殊需要教室中造成 4 人死亡的 16 岁少年的了解 CNN 俄勒冈州老师在武装父亲杀死嫌疑人之前与学校袭击者战斗 BBC Bend 警方公布了 Silver Rail 学校枪击事件中的受害者 KPTV
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: school, shooting, bend, unfolded, and minutes. The available excerpt says: It took just 3 minutes. How the Bend school shooting unfolded CNN Bystander who killed Oregon shooter identified as father of girls at elementary school The Guardian What we know about the 16-year-old who opened fire at his former elementary school, killing 4 in a special needs classroom CNN Oregon teacher fought school attacker before armed dad killed suspect BBC Bend police name victims in Silver Rail school shooting KPTV Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：学校、射击、弯曲、展开的、分钟。RSS 中文摘要显示：只用了3分钟。本德学校枪击事件是如何展开的 CNN 杀死俄勒冈州枪手的旁观者被确认为小学女孩的父亲 《卫报》 我们对这名向他以前就读的小学开枪，在特殊需要教室中造成 4 人死亡的 16 岁少年的了解 CNN 俄勒冈州老师在武装父亲杀死嫌疑人之前与学校袭击者战斗 BBC Bend 警方公布了 Silver Rail 学校枪击事件中的受害者 KPTV 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 2. [Pope pictured for first time since surgery and cancer diagnosis - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MNDhSTUViUVZRSmhGbE14YTAxOWQ1cVFoLVdUb0w5cnRTUFNUN1RXdEpxX1NjS2VUbEhJeXRLMDBfWXk5NGNBQVprYTdJYzY2TV9kaHNsNFNlSXM?oc=5)
+
+- Source / 来源: BBC. Published: `2026-10-16T23:20:37+00:00`.
+- Keywords / 关键词: surgery, pope, cancer, first, since, diagnosis, pictured, time, celebrates, vatican
+- 中文关键词: 外科手术、教皇、癌症、第一的、自从、诊断、如图所示、时间、庆祝、教廷
+- Category / 分类: Economy and markets / 经济与市场
+- RSS Excerpt / RSS 摘要: Pope pictured for first time since surgery and cancer diagnosis BBC Pope Leo Found to Have Lung Cancer During Surgery, Vatican Says The New York Times First images of Pope Leo released since lung surgery as he celebrates mass in makeshift chapel CNN Papal trip could face changes after surgery The Pillar Pope continues 'steady improvement,' celebrates Mass for Gemelli staff Vatican News
+- RSS 中文摘要: 教宗自手术和癌症诊断后首次合影 BBC 教宗利奥在手术期间被发现患有肺癌，梵蒂冈称《纽约时报》 自从肺部手术后首次发布教宗利奥的照片，当时他在临时教堂庆祝弥撒 CNN 教宗的行程可能会在手术后面临变化 支柱教宗继续“稳步改善”，为双子星工作人员庆祝弥撒 梵蒂冈新闻
+- EN Summary: This story is tied to business conditions, financial expectations, or the cost of goods and capital.
+- 中文概要: 这条新闻与商业环境、金融预期或商品与资金成本相关。
+- EN Detailed Reading: Key signals: surgery, pope, cancer, first, and since. The available excerpt says: Pope pictured for first time since surgery and cancer diagnosis BBC Pope Leo Found to Have Lung Cancer During Surgery, Vatican Says The New York Times First images of Pope Leo released since lung surgery as he celebrates mass in makeshift chapel CNN Papal trip could face changes after surgery The Pillar Pope continues 'steady improvement,' celebrates Mass for Gemelli staff Vatican News Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
+- 中文详细解读: 关键词信号：外科手术、教皇、癌症、第一的、自从。RSS 中文摘要显示：教宗自手术和癌症诊断后首次合影 BBC 教宗利奥在手术期间被发现患有肺癌，梵蒂冈称《纽约时报》 自从肺部手术后首次发布教宗利奥的照片，当时他在临时教堂庆祝弥撒 CNN 教宗的行程可能会在手术后面临变化 支柱教宗继续“稳步改善”，为双子星工作人员庆祝弥撒 梵蒂冈新闻 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
+- EN What to watch: price movements; company and government guidance; second-round supply-chain effects
+- 后续关注: 价格变化；企业与政府指引；供应链二次影响
+
+### 3. [Katie Zacharia leaving White House role less than five days into job - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMTR3VHR5Vm9QUlJyLUxPa3o2SHVEdUV3RkdwSzljMXJ1amZNUXljR0ktTkxWV0c1T0otZFBrYmdwQ3E3Xy1YOUxmb1RyNEQ3Y3EyWDZnRnVLZGM?oc=5)
+
+- Source / 来源: BBC. Published: `2026-10-17T05:20:40+00:00`.
+- Keywords / 关键词: zacharia, katie, white, house, days, leaving, role, less, five, job
+- 中文关键词: 撒迦利亚、凯蒂、白色的、房子、天、离开、角色、较少的、五、工作
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Katie Zacharia leaving White House role less than five days into job BBC Katie Zacharia Is Ousted After 5 Days as White House Press Secretary The New York Times Katie Zacharia was fired after failing in the one arena Trump cares about: television The Irish Times Capehart and Continetti on the White House press secretary's quick exit PBS Exclusive | White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam WSJ
+- RSS 中文摘要: 凯蒂·扎卡里亚 (Katie Zacharia) 上任不到五天就离开白宫 凯蒂·扎卡里亚 (Katie Zacharia) 在担任白宫新闻秘书 5 天后被解雇 《纽约时报》 凯蒂·扎卡里亚 (Katie Zacharia) 在特朗普关心的电视领域失败后被解雇 爱尔兰时报 卡普哈特 (Caphart) 和康蒂内蒂 (Continetti) 谈论白宫新闻秘书的快速退出 PBS 独家 |白宫新闻秘书凯蒂·扎卡里亚 (Katie Zacharia) 未通过律师资格考试 华尔街日报
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: zacharia, katie, white, house, and days. The available excerpt says: Katie Zacharia leaving White House role less than five days into job BBC Katie Zacharia Is Ousted After 5 Days as White House Press Secretary The New York Times Katie Zacharia was fired after failing in the one arena Trump cares about: television The Irish Times Capehart and Continetti on the White House press secretary's quick exit PBS Exclusive | White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam WSJ Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：撒迦利亚、凯蒂、白色的、房子、天。RSS 中文摘要显示：凯蒂·扎卡里亚 (Katie Zacharia) 上任不到五天就离开白宫 凯蒂·扎卡里亚 (Katie Zacharia) 在担任白宫新闻秘书 5 天后被解雇 《纽约时报》 凯蒂·扎卡里亚 (Katie Zacharia) 在特朗普关心的电视领域失败后被解雇 爱尔兰时报 卡普哈特 (Caphart) 和康蒂内蒂 (Continetti) 谈论白宫新闻秘书的快速退出 PBS 独家 |白宫新闻秘书凯蒂·扎卡里亚 (Katie Zacharia) 未通过律师资格考试 华尔街日报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 4. [Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia - WSJ](https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1nT1V3ajJHakhMdm5jRDRqQW5PMlU5N1FidUlPemxtZFBFYV9UY0dJdGp2US1qU2NsbGRLazVUd2RsXzc3bWIxa00xcmpEbEY4aG9xcmkzX3g2ZDd2RVdlRGRGV0JUZjZLN0JTU2xybHFKQTlaV19oYUp3a2o5Wjg2Sk9kQQ?oc=5)
+
+- Source / 来源: WSJ. Published: `2026-10-17T02:00:00+00:00`.
+- Keywords / 关键词: houthis, iran, arabia, saudi, intelligence, targeting, attacks, giving, wsj, yemeni
+- 中文关键词: 胡塞武装、伊朗、阿拉伯、沙特、智力、瞄准、袭击、给予、华尔街日报、也门
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia WSJ Iran cultivated Houthis for years before opening new war front, Yemeni insider says Iran International Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength 10TV What do the Houthis want? Financial Times How the Houthis are helping Iran turn Saudi Arabia into a pressure point Reuters
+- RSS 中文摘要: 伊朗正在向胡塞武装提供袭击沙特阿拉伯的目标和情报 《华尔街日报》 伊朗在开辟新的战争前线之前培育了胡塞武装多年，也门内部人士称伊朗国际胡塞武装对沙特阿拉伯的袭击表明也门叛军的实力不断增强 10TV 胡塞武装想要什么？英国《金融时报》：胡塞武装如何帮助伊朗将沙特阿拉伯变成一个压力点 路透
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: houthis, iran, arabia, saudi, and intelligence. The available excerpt says: Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia WSJ Iran cultivated Houthis for years before opening new war front, Yemeni insider says Iran International Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength 10TV What do the Houthis want? Financial Times How the Houthis are helping Iran turn Saudi Arabia into a pressure point Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：胡塞武装、伊朗、阿拉伯、沙特、智力。RSS 中文摘要显示：伊朗正在向胡塞武装提供袭击沙特阿拉伯的目标和情报 《华尔街日报》 伊朗在开辟新的战争前线之前培育了胡塞武装多年，也门内部人士称伊朗国际胡塞武装对沙特阿拉伯的袭击表明也门叛军的实力不断增强 10TV 胡塞武装想要什么？英国《金融时报》：胡塞武装如何帮助伊朗将沙特阿拉伯变成一个压力点 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 5. [Palestinians, US journalist attacked in West Bank pogrom: What we know - Al Jazeera](https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEc2RFdEdThxcUZmbVZGR2ZXUkRfUlU2Q2VLNHM3c3Z0Ry1hNmJKYTdsN1BqUVhxNkNWNHpKbzVmbVZYNXE1NTBEb2pLUnY5enhGTXlXcGNOd0tuWmpfU21lLVpqRFQ4UW1HYkV0V0lzUV85dFpNbnNEOGdjb2c0Q1Myek5va2xBSXhTNHIyemR2cmYyUVBMZzFGMF8wMmw3UHFlSTQtZDNoQ0lRTjZ30gG0AUFVX3lxTE1sRE5ZUTdiSXhsRVM5MDluRVVKVnRFZWVxUmduYnJJc2tCS3I1dl9fM2FwRWRhVXZlelE2OFJiVzhicVVXOU1hdVgta3llR2hjUE9tVDEzTXBzVlR4OGZPVXdoRDh0WGdqVllWS25pRnlhTEEtMHpiaUFpYU13ekczQ1Zza09NOUtwcHk5alNuSWlsOEttWEZ2OEF5bzRSU1pidzNwajQwdjFfR3RFUnVoa2V3Rg?oc=5)
+
+- Source / 来源: Al Jazeera. Published: `2026-10-17T03:56:34+00:00`.
+- Keywords / 关键词: journalist, west, bank, palestinians, attacked, jazeera, pogrom, know, israeli, attack
+- 中文关键词: 记者、西方、银行、巴勒斯坦人、受到攻击、半岛电视台、屠杀、知道、以色列、袭击
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Palestinians, US journalist attacked in West Bank pogrom: What we know Al Jazeera Israeli settlers burn olive trees, injure journalist in West Bank attack Reuters Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack BBC Hardline rabbi: Jews can take Palestinian olives to ‘demonstrate our ownership of the land’ The Times of Israel Congress members condemn Israeli settler attack on Washington Post photographer The Washington Post
+- RSS 中文摘要: 巴勒斯坦人和美国记者在西岸大屠杀中遭到袭击：我们所知道的 半岛电视台 以色列定居者在西岸袭击中烧毁橄榄树，打伤记者 路透社 巴勒斯坦人和美国记者在西岸收获袭击中被以色列定居者受伤 BBC 强硬派拉比：犹太人可以拿走巴勒斯坦橄榄来“展示我们对土地的所有权” 以色列时报国会议员谴责以色列定居者对《华盛顿邮报》摄影师的袭击 华盛顿邮报
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: journalist, west, bank, palestinians, and attacked. The available excerpt says: Palestinians, US journalist attacked in West Bank pogrom: What we know Al Jazeera Israeli settlers burn olive trees, injure journalist in West Bank attack Reuters Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack BBC Hardline rabbi: Jews can take Palestinian olives to ‘demonstrate our ownership of the land’ The Times of Israel Congress members condemn Israeli settler attack on Washington Post photographer The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：记者、西方、银行、巴勒斯坦人、受到攻击。RSS 中文摘要显示：巴勒斯坦人和美国记者在西岸大屠杀中遭到袭击：我们所知道的 半岛电视台 以色列定居者在西岸袭击中烧毁橄榄树，打伤记者 路透社 巴勒斯坦人和美国记者在西岸收获袭击中被以色列定居者受伤 BBC 强硬派拉比：犹太人可以拿走巴勒斯坦橄榄来“展示我们对土地的所有权” 以色列时报国会议员谴责以色列定居者对《华盛顿邮报》摄影师的袭击 华盛顿邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 6. [Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine - The Guardian](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2luakxEaEVyTXo5MTktaTdoVzd4Zk1EX1NoYk8zZGE4bDNoYVpBS3FZeXJnMU1jazRhVkVfT2hSZ3pPY1JmSlotWVY3LWFjcDdGeDV2eU12bHhMM2E3QWI1aVczdmxiYjhBNlhGU1RCeE9hakdKN3hmTlZvTEgwSmxQam1lNVdJOUVFemlueXNwcFVUS3hYckNfb0UwbVJrZ0ticnctYmlueFR0MHRBR0cwZ1ZJc3VlNVFNcGw5SndCczR4VVhrNndabWptMGcwMF9aVQ?oc=5)
+
+- Source / 来源: The Guardian. Published: `2026-10-17T03:20:00+00:00`.
+- Keywords / 关键词: sanctions, trump, russia, ukraine, deepening, congress, pauses, passed, row, waives
+- 中文关键词: 制裁、特朗普、俄罗斯、乌克兰、深化、国会、停顿、通过了、排、放弃
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine The Guardian Trump Waives Graham Act Sanctions On Russia Before They Take Effect Radio Free Europe/Radio Liberty Trump waives several Russia sanctions as new US law takes effect BBC Trump waives Russia-related sanctions before they even kick in as Ukraine ties worsen CNN Trump Signs Order Exempting Russia From Sanctions Law The New York Times
+- RSS 中文摘要: 特朗普暂停国会通过的新的俄罗斯制裁，因与乌克兰的争端不断加深 《卫报》 特朗普在格雷厄姆法案生效前放弃对俄罗斯的制裁 美国新法律生效后，特朗普放弃了多项对俄罗斯的制裁 随着乌克兰关系恶化，特朗普在与俄罗斯相关的制裁生效之前就放弃了这些制裁 CNN 特朗普签署命令，使俄罗斯免受制裁法影响 纽约时报
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: sanctions, trump, russia, ukraine, and deepening. The available excerpt says: Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine The Guardian Trump Waives Graham Act Sanctions On Russia Before They Take Effect Radio Free Europe/Radio Liberty Trump waives several Russia sanctions as new US law takes effect BBC Trump waives Russia-related sanctions before they even kick in as Ukraine ties worsen CNN Trump Signs Order Exempting Russia From Sanctions Law The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：制裁、特朗普、俄罗斯、乌克兰、深化。RSS 中文摘要显示：特朗普暂停国会通过的新的俄罗斯制裁，因与乌克兰的争端不断加深 《卫报》 特朗普在格雷厄姆法案生效前放弃对俄罗斯的制裁 美国新法律生效后，特朗普放弃了多项对俄罗斯的制裁 随着乌克兰关系恶化，特朗普在与俄罗斯相关的制裁生效之前就放弃了这些制裁 CNN 特朗普签署命令，使俄罗斯免受制裁法影响 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [Three Mexicans jailed for 158 years each for killing Australian, US surfers - Al Jazeera](https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmtyTUYtcHJ3SDFJM21aY2ZRcHhLaXhYWjNUSWlwU2JiYWtXOGltRVNfMVYwSjhadnl1LWNUZU5rZGV1eGltaEsxR3Fxd2N4M29zbUlUYUtia0FxcFp2cENDdnVadTJ5TS13VVlQSkJ6WC13c0Z3WGp5Ym5TYXlhNE5GWGM2YWhXT1BIUTF3ZENvSi1iWmoydUNKeFp0SXIwUzh6MkpjbF83dDZuYjFiRG9kN3dIdzjSAbwBQVVfeXFMUGloS1BMMGZhOTNYaTBJaXdQRXhVZi10U09ESHpLZEVUcXEtS2hpNVktaWR1SUE4THRVeGZ2UEdFRkpwS0poNlpLcXY2Zk1DdFNIU29CM2pseGJDLTZzMVN3dV9IUDhmMW0xWU9xRFVHNnFBMmpyZTMzejRuR21nNHdabjBhaU9uQWRwM0RHWFlJaTBPYWxIbHRMZVoya0sycUxoZ05reTFNRGxOdEtoeXVMRmZBblRSbkl0Q2I?oc=5)
+
+- Source / 来源: Al Jazeera. Published: `2026-10-17T05:05:15+00:00`.
+- Keywords / 关键词: australian, surfers, three, years, jailed, each, mexicans, killing, jazeera, mexico
+- 中文关键词: 澳大利亚人、冲浪者、三、年、入狱、每个、墨西哥人、造成死亡、半岛电视台、墨西哥
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Three Mexicans jailed for 158 years each for killing Australian, US surfers Al Jazeera Three men jailed for 158 years each for murdering Australian and US surfers in Mexico BBC Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ The Guardian Three men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico CNN Three sentenced to 158 years in Mexico for murder of Australian, US surfers Reuters
+- RSS 中文摘要: 三名墨西哥人因杀害澳大利亚和美国冲浪者分别被判入狱 158 年 半岛电视台 三名男子因在墨西哥谋杀澳大利亚和美国冲浪者而各被判入狱 158 年 BBC 墨西哥法官因谋杀澳大利亚和美国冲浪者而判处三名男子 158 年监禁​ 《卫报》 三名男子因在墨西哥杀害澳大利亚和美国冲浪者而被判处 158 年以上监禁 CNN 三名男子因在墨西哥谋杀澳大利亚和美国冲浪者而被判处 158 年监禁美国冲浪者路透社
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: australian, surfers, three, years, and jailed. The available excerpt says: Three Mexicans jailed for 158 years each for killing Australian, US surfers Al Jazeera Three men jailed for 158 years each for murdering Australian and US surfers in Mexico BBC Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ The Guardian Three men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico CNN Three sentenced to 158 years in Mexico for murder of Australian, US surfers Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：澳大利亚人、冲浪者、三、年、入狱。RSS 中文摘要显示：三名墨西哥人因杀害澳大利亚和美国冲浪者分别被判入狱 158 年 半岛电视台 三名男子因在墨西哥谋杀澳大利亚和美国冲浪者而各被判入狱 158 年 BBC 墨西哥法官因谋杀澳大利亚和美国冲浪者而判处三名男子 158 年监禁​ 《卫报》 三名男子因在墨西哥杀害澳大利亚和美国冲浪者而被判处 158 年以上监禁 CNN 三名男子因在墨西哥谋杀澳大利亚和美国冲浪者而被判处 158 年监禁美国冲浪者路透社 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 8. [Norte Fire burning near San Juan Capistrano prompts evacuation orders as flames threaten homes - CBS News](https://news.google.com/rss/articles/CBMimAFBVV95cUxORUc5Vko0TFBRVmFfYlpHTUo4TXdzbDNuWUY5NnFaRTF3ekdJWUVVLW1rUzdCTGJNQ1k3dkhWR3RVQmdOcVdOTURXQU1WUmZWcDBFUU1KbEdrUjlpcjNBclhxcHJvdWJLVXJJTFE0WjY3aXlWLUpKRGJjNG1KT09tdmlFVXpRamFjME5mM2hKeVZYaV9QNkJBag?oc=5)
+
+- Source / 来源: CBS News. Published: `2026-10-17T02:02:52+00:00`.
+- Keywords / 关键词: burning, norte, homes, fire, capistrano, evacuation, threaten, prompts, orders, flames
+- 中文关键词: 燃烧、北、家园、火、卡皮斯特拉诺、疏散、威胁、提示、订单、火焰
 - Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: Teen shooter kills 3 children, teacher in Oregon elementary school before being shot by bystander CNN Oregon elementary school teen gunman fired his mom’s shotgun at truck before rampage that left 3 kids, teacher dead: report New York Post 3 children and 1 teacher dead in Bend elementary school shooting; bystander kills 16-year-old shooter OregonLive.com Shooter killed inside Bend elementary school; 'multiple victims' reported, including children KGW 5 dead in Bend elementary school shooting KPTV
-- RSS 中文摘要: Teen shooter kills 3 children, teacher in Oregon elementary school before being shot by bystander CNN Oregon elementary school teen gunman fired his mom’s shotgun at truck before rampage that left 3 kids, teacher dead: report New York Post 3 children and 1 teacher dead in Bend elementary school shooting; bystander kills 16-year-old shooter OregonLive.com Shooter killed inside Bend elementary school; 'multiple victims' reported, including children KGW 5 dead in Bend elementary school shooting KPTV
+- RSS Excerpt / RSS 摘要: Norte Fire burning near San Juan Capistrano prompts evacuation orders as flames threaten homes CBS News Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal ABC7 Los Angeles Update: Norte Fire burns 465 acres in Orange County since Oct. 16 Sacramento Bee All the wildfires burning across Southern California right now KTLA New wildfire in Southern California explodes in size, burning multiple homes CNN
+- RSS 中文摘要: 圣胡安卡皮斯特拉诺附近燃烧的北火引发疏散命令，因为火焰威胁到房屋 CBS 新闻 灌木丛火灾引发洛杉矶和奥兰治县的疏散，圣安娜风横扫南加州 ABC7 洛杉矶更新：自 10 月 16 日以来，北火在奥兰治县烧毁了 465 英亩土地 Sacramento Bee 目前南加州各地正在燃烧的所有野火 KTLA 南加州新的野火规模扩大，烧毁了多所房屋 CNN
 - EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
 - 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: elementary, school, children, shooter, and teacher. The available excerpt says: Teen shooter kills 3 children, teacher in Oregon elementary school before being shot by bystander CNN Oregon elementary school teen gunman fired his mom’s shotgun at truck before rampage that left 3 kids, teacher dead: report New York Post 3 children and 1 teacher dead in Bend elementary school shooting; bystander kills 16-year-old shooter OregonLive.com Shooter killed inside Bend elementary school; 'multiple victims' reported, including children KGW 5 dead in Bend elementary school shooting KPTV Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：elementary、school、children、shooter、teacher。RSS 中文摘要显示：Teen shooter kills 3 children, teacher in Oregon elementary school before being shot by bystander CNN Oregon elementary school teen gunman fired his mom’s shotgun at truck before rampage that left 3 kids, teacher dead: report New York Post 3 children and 1 teacher dead in Bend elementary school shooting; bystander kills 16-year-old shooter OregonLive.com Shooter killed inside Bend elementary school; 'multiple victims' reported, including children KGW 5 dead in Bend elementary school shooting KPTV 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
+- EN Detailed Reading: Key signals: burning, norte, homes, fire, and capistrano. The available excerpt says: Norte Fire burning near San Juan Capistrano prompts evacuation orders as flames threaten homes CBS News Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal ABC7 Los Angeles Update: Norte Fire burns 465 acres in Orange County since Oct. 16 Sacramento Bee All the wildfires burning across Southern California right now KTLA New wildfire in Southern California explodes in size, burning multiple homes CNN Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
+- 中文详细解读: 关键词信号：燃烧、北、家园、火、卡皮斯特拉诺。RSS 中文摘要显示：圣胡安卡皮斯特拉诺附近燃烧的北火引发疏散命令，因为火焰威胁到房屋 CBS 新闻 灌木丛火灾引发洛杉矶和奥兰治县的疏散，圣安娜风横扫南加州 ABC7 洛杉矶更新：自 10 月 16 日以来，北火在奥兰治县烧毁了 465 英亩土地 Sacramento Bee 目前南加州各地正在燃烧的所有野火 KTLA 南加州新的野火规模扩大，烧毁了多所房屋 CNN 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
 - EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
 - 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
 
-### 2. [What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer - PBS](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVmNyazEtTGd4SEdSRTh5czBYaDdCaDRzT2VMTGdodUhXOG9mVFNtYmtHU045OXUzZjBiNGlCMFpzd3BVNlY1MXFyTlpIMWN5MXNYdDN1ZHF5ZlRzUXZ6dE4ybVd6ZnI4SW8tUGI5Y09Mc05VaVpBcHFsM0RETEVwWGNjbExGUW56S0tncFd3MXVXZ2dOX05tU1F0Yy1pT2NaZlhmQTIwWDlub0JGU3U2V3J3ZlhHTjZN?oc=5)
+### 9. [California congressman mailed envelope with ‘suspicious powder’ as FBI probes letters with DSA-linked address - New York Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVVZRTBHR2ZnNnI5M2trNUZPaEYyU0dPdjhHNlBLdEowU3VMZzE4eWZlY2hRTXk0NkJ6U3R3aUFNVTY1b2F5Q0dyUkFLdGEzbVZWZUVmTVJ2RUZTUFJ4ZGN5RkF0emlWX0NETTNhc1hEdC15THRSQ3RVbWlBVENnZ1o4M3pCNEQ3RFZiaGRaY2FLVDVsam81NFRMUmMwNlNJUFBWQg?oc=5)
 
-- Source / 来源: PBS. Published: `2026-10-15T15:18:01+00:00`.
-- Keywords / 关键词: cancer, leo, pope, know, lung, adenocarcinoma, here's, xiv's, form, pbs
-- 中文关键词: cancer、leo、pope、know、lung、adenocarcinoma、here's、xiv's、form、pbs
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer PBS Column | I’m an oncologist. Here’s what nonsmokers need to know about lung cancer. The Washington Post ‘A bolt from the blue’: Shock cancer diagnosis raises uncertainty for Leo’s papacy CNN Pope Leo is eating, celebrating Mass and walking after cancer surgery, but trip is in question AP News First Presidency Conveys Message of Healing and Comfort to Pope Leo XIV newsroom.churchofjesuschrist.org
-- RSS 中文摘要: What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer PBS Column | I’m an oncologist. Here’s what nonsmokers need to know about lung cancer. The Washington Post ‘A bolt from the blue’: Shock cancer diagnosis raises uncertainty for Leo’s papacy CNN Pope Leo is eating, celebrating Mass and walking after cancer surgery, but trip is in question AP News First Presidency Conveys Message of Healing and Comfort to Pope Leo XIV newsroom.churchofjesuschrist.org
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: cancer, leo, pope, know, and lung. The available excerpt says: What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer PBS Column | I’m an oncologist. Here’s what nonsmokers need to know about lung cancer. The Washington Post ‘A bolt from the blue’: Shock cancer diagnosis raises uncertainty for Leo’s papacy CNN Pope Leo is eating, celebrating Mass and walking after cancer surgery, but trip is in question AP News First Presidency Conveys Message of Healing and Comfort to Pope Leo XIV newsroom.churchofjesuschrist.org Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：cancer、leo、pope、know、lung。RSS 中文摘要显示：What is adenocarcinoma? Here's what to know about Pope Leo XIV's form of lung cancer PBS Column | I’m an oncologist. Here’s what nonsmokers need to know about lung cancer. The Washington Post ‘A bolt from the blue’: Shock cancer diagnosis raises uncertainty for Leo’s papacy CNN Pope Leo is eating, celebrating Mass and walking after cancer surgery, but trip is in question AP News First Presidency Conveys Message of Healing and Comfort to Pope Leo XIV newsroom.churchofjesuschrist.org 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 3. [At least 30 children killed in Pakistan school roof collapse - The Washington Post](https://news.google.com/rss/articles/CBMinwFBVV95cUxNN0RUVDEwSW03NVo4Tlo0bkNwYl9mR1BrVU5aR3FCWjhqSGlJY0h3TUxYTWd6MzZZTWxlT0xnQTNUVXdUSG5ldmJ3X2xXQklhTUdSMFFCdEI5eVJZYXRmQUlSNTlab3B5VVpkT1pqQnRwbUM0d2I4QkFxZThQdHVydG41THo4ci0zc0Jqc05xQUlQNDJBQVVrdWQzTnliRjA?oc=5)
-
-- Source / 来源: The Washington Post. Published: `2026-10-16T02:50:33+00:00`.
-- Keywords / 关键词: pakistan, school, collapse, roof, children, killed, washington, inspections, relatives, collapses
-- 中文关键词: pakistan、school、collapse、roof、children、死亡、washington、inspections、relatives、collapses
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: At least 30 children killed in Pakistan school roof collapse The Washington Post Pakistan orders school inspections as relatives say they warned of risks before deadly collapse The Hill 32 Children Killed After School Roof Collapses in Pakistan The New York Times School roof collapse in Pakistan kills at least 35 and injures more than 50 AP News Families of children killed in Pakistan school roof collapse demand justice Yahoo
-- RSS 中文摘要: At least 30 children killed in Pakistan school roof collapse The Washington Post Pakistan orders school inspections as relatives say they warned of risks before deadly collapse The Hill 32 Children Killed After School Roof Collapses in Pakistan The New York Times School roof collapse in Pakistan kills at least 35 and injures more than 50 AP News Families of children killed in Pakistan school roof collapse demand justice Yahoo
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: pakistan, school, collapse, roof, and children. The available excerpt says: At least 30 children killed in Pakistan school roof collapse The Washington Post Pakistan orders school inspections as relatives say they warned of risks before deadly collapse The Hill 32 Children Killed After School Roof Collapses in Pakistan The New York Times School roof collapse in Pakistan kills at least 35 and injures more than 50 AP News Families of children killed in Pakistan school roof collapse demand justice Yahoo Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：pakistan、school、collapse、roof、children。RSS 中文摘要显示：At least 30 children killed in Pakistan school roof collapse The Washington Post Pakistan orders school inspections as relatives say they warned of risks before deadly collapse The Hill 32 Children Killed After School Roof Collapses in Pakistan The New York Times School roof collapse in Pakistan kills at least 35 and injures more than 50 AP News Families of children killed in Pakistan school roof collapse demand justice Yahoo 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 4. [Trump says Fort Hood shooter's execution will not be livestreamed - Axios](https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlJ5Qmd1QjhDREJTMjNfaGRMdjRWRlZUMXkwS0xldkJFeXB5YWZ4ZklnRVlxSTdtRWVuZE9kaWpDaUliTlY2cmdndFZMYTNJQkZfZ2pnNnF6RjUzZnFhVGRMRUVvSHg3M1BZaE9ZNml3SWczWUFUdVhVQmhNckhkUnRuNA?oc=5)
-
-- Source / 来源: Axios. Published: `2026-10-16T02:36:03+00:00`.
-- Keywords / 关键词: execution, trump, fort, hood, livestreamed, shooter's, axios, livestream, nidal, hasan
-- 中文关键词: execution、特朗普、fort、hood、livestreamed、shooter's、axios、livestream、nidal、hasan
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump says Fort Hood shooter's execution will not be livestreamed Axios Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter The New York Times Trump shuts down Hegseth plan to livestream military execution Reuters Why the Death Penalty Is a Sore Point for Papal Authority First Things Trump rules out livestream for Nidal Hasan firing squad execution Fox News
-- RSS 中文摘要: Trump says Fort Hood shooter's execution will not be livestreamed Axios Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter The New York Times Trump shuts down Hegseth plan to livestream military execution Reuters Why the Death Penalty Is a Sore Point for Papal Authority First Things Trump rules out livestream for Nidal Hasan firing squad execution Fox News
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: execution, trump, fort, hood, and livestreamed. The available excerpt says: Trump says Fort Hood shooter's execution will not be livestreamed Axios Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter The New York Times Trump shuts down Hegseth plan to livestream military execution Reuters Why the Death Penalty Is a Sore Point for Papal Authority First Things Trump rules out livestream for Nidal Hasan firing squad execution Fox News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：execution、特朗普、fort、hood、livestreamed。RSS 中文摘要显示：Trump says Fort Hood shooter's execution will not be livestreamed Axios Trump Cancels Planned Execution Livestream of Nidal Hasan, Fort Hood Shooter The New York Times Trump shuts down Hegseth plan to livestream military execution Reuters Why the Death Penalty Is a Sore Point for Papal Authority First Things Trump rules out livestream for Nidal Hasan firing squad execution Fox News 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 5. [Houthi missile attack on Yemeni presidential palace kills five, minister says - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fNUFycEtoM2tnclA4RkVaZHh0bkZJanktTm9YdmdEYkI2WFJMQTBaOS1BS19uZ3c2a18tMS1BSFpqcGlfUkRuaVlOWkNNZlBvcTNNWWxJbjFqblU?oc=5)
-
-- Source / 来源: BBC. Published: `2026-10-15T23:38:46+00:00`.
-- Keywords / 关键词: palace, attack, presidential, houthi, yemeni, five, minister, missile, kills, houthis
-- 中文关键词: palace、袭击、presidential、houthi、yemeni、five、minister、导弹、造成死亡、houthis
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Houthi missile attack on Yemeni presidential palace kills five, minister says BBC Iran-aligned Houthis launch deadly attack on Yemeni presidential palace in escalating campaign against Saudi Arabia CNN Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure Reuters Iran war updates: Five killed, 16 hurt in Houthi attack on palace in Aden Al Jazeera Middle East: Houthis target Yemen government palace in Aden DW.com
-- RSS 中文摘要: Houthi missile attack on Yemeni presidential palace kills five, minister says BBC Iran-aligned Houthis launch deadly attack on Yemeni presidential palace in escalating campaign against Saudi Arabia CNN Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure Reuters Iran war updates: Five killed, 16 hurt in Houthi attack on palace in Aden Al Jazeera Middle East: Houthis target Yemen government palace in Aden DW.com
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: palace, attack, presidential, houthi, and yemeni. The available excerpt says: Houthi missile attack on Yemeni presidential palace kills five, minister says BBC Iran-aligned Houthis launch deadly attack on Yemeni presidential palace in escalating campaign against Saudi Arabia CNN Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure Reuters Iran war updates: Five killed, 16 hurt in Houthi attack on palace in Aden Al Jazeera Middle East: Houthis target Yemen government palace in Aden DW.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：palace、袭击、presidential、houthi、yemeni。RSS 中文摘要显示：Houthi missile attack on Yemeni presidential palace kills five, minister says BBC Iran-aligned Houthis launch deadly attack on Yemeni presidential palace in escalating campaign against Saudi Arabia CNN Yemen's Houthis hit palace in Aden, coalition details attacks on Saudi infrastructure Reuters Iran war updates: Five killed, 16 hurt in Houthi attack on palace in Aden Al Jazeera Middle East: Houthis target Yemen government palace in Aden DW.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 6. [Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports - Reuters](https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1poWEFKa01FenF2THNycHFFMFNaeklhc2JGSVJqa21nTGo1cFpyMFR5cGFwMHN1cVdjdWM5NjhiaU9Zakg2ZUJDVG1aeVBPRHVNYm95NEItUlFGNndZQnhVQUE3bE1rZE52bHgxM3Jmd1RCVm9FNy1LNFlFb1RXQ0ZXRG9CRXNUUE9PUG1rbHdqSE5XT3FOSzBlUFdoTUoxZmwxbUFoY01ZMG85cG5INDg2ZmdycTdUaHc?oc=5)
-
-- Source / 来源: Reuters. Published: `2026-10-15T20:27:35+00:00`.
-- Keywords / 关键词: ballroom, nvidia, washington, million, trump's, apple, each, gave, trump, white
-- 中文关键词: ballroom、nvidia、washington、million、trump's、apple、each、gave、特朗普、white
+- Source / 来源: New York Post. Published: `2026-10-17T01:55:00+00:00`.
+- Keywords / 关键词: suspicious, letters, envelope, fbi, congressman, california, dsa-linked, address, mailed, powder
+- 中文关键词: 可疑的、字母、信封、联邦调查局、众议员、加利福尼亚州、DSA连接、地址、邮寄的、粉末
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports Reuters Secret documents reveal donors behind $330 million for Trump’s ballroom The Spokesman-Review Nvidia and Apple each gave $25M to Trump’s ballroom, Washington Post says The Next Web Leaked list shows what Microsoft, Amazon and other tech giants are giving for the White House ballroom GeekWire Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom CNBC
-- RSS 中文摘要: Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports Reuters Secret documents reveal donors behind $330 million for Trump’s ballroom The Spokesman-Review Nvidia and Apple each gave $25M to Trump’s ballroom, Washington Post says The Next Web Leaked list shows what Microsoft, Amazon and other tech giants are giving for the White House ballroom GeekWire Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom CNBC
+- RSS Excerpt / RSS 摘要: California congressman mailed envelope with ‘suspicious powder’ as FBI probes letters with DSA-linked address New York Post Authorities investigate letters with 'suspicious substances' sent to congressional, election offices Yahoo Letters with unidentified substance sent to Sen. Klobuchar, Rep. Morrison and Minnesota secretary of state CBS News FBI reacts after Alabama secretary of state’s office gets latest suspicious package WSFA Nebraska Secretary of State’s Office reports receiving suspicious envelope KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE
+- RSS 中文摘要: 加州议员邮寄了装有“可疑粉末”的信封，联邦调查局正在调查与 DSA 相关的地址的信件 纽约邮报当局调查了发送给国会和选举办公室的含有“可疑物质”的信件 雅虎 发送给参议员克洛布查尔、众议员莫里森和明尼苏达州国务卿的带有不明物质的信件 哥伦比亚广播公司新闻 阿拉巴马州国务卿办公室收到最新可疑包裹后，联邦调查局做出反应 WSFA 内布拉斯加州国务卿办公室报告收到可疑信封内布拉斯加州当地新闻、天气、体育 |内布拉斯加州林肯
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: ballroom, nvidia, washington, million, and trump's. The available excerpt says: Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports Reuters Secret documents reveal donors behind $330 million for Trump’s ballroom The Spokesman-Review Nvidia and Apple each gave $25M to Trump’s ballroom, Washington Post says The Next Web Leaked list shows what Microsoft, Amazon and other tech giants are giving for the White House ballroom GeekWire Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom CNBC Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：ballroom、nvidia、washington、million、trump's。RSS 中文摘要显示：Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports Reuters Secret documents reveal donors behind $330 million for Trump’s ballroom The Spokesman-Review Nvidia and Apple each gave $25M to Trump’s ballroom, Washington Post says The Next Web Leaked list shows what Microsoft, Amazon and other tech giants are giving for the White House ballroom GeekWire Nvidia and Cisco confirm multimillion-dollar donations to Trump's White House ballroom CNBC 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: suspicious, letters, envelope, fbi, and congressman. The available excerpt says: California congressman mailed envelope with ‘suspicious powder’ as FBI probes letters with DSA-linked address New York Post Authorities investigate letters with 'suspicious substances' sent to congressional, election offices Yahoo Letters with unidentified substance sent to Sen. Klobuchar, Rep. Morrison and Minnesota secretary of state CBS News FBI reacts after Alabama secretary of state’s office gets latest suspicious package WSFA Nebraska Secretary of State’s Office reports receiving suspicious envelope KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：可疑的、字母、信封、联邦调查局、众议员。RSS 中文摘要显示：加州议员邮寄了装有“可疑粉末”的信封，联邦调查局正在调查与 DSA 相关的地址的信件 纽约邮报当局调查了发送给国会和选举办公室的含有“可疑物质”的信件 雅虎 发送给参议员克洛布查尔、众议员莫里森和明尼苏达州国务卿的带有不明物质的信件 哥伦比亚广播公司新闻 阿拉巴马州国务卿办公室收到最新可疑包裹后，联邦调查局做出反应 WSFA 内布拉斯加州国务卿办公室报告收到可疑信封内布拉斯加州当地新闻、天气、体育 |内布拉斯加州林肯 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 7. [A brewing Pacific storm could become one of the planet’s strongest this year - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxQNW1kT3NvVDRTQ2I2MmJHRk1XakNtZjNhb01LSHJlajRxcDBHc0JfRnRMNXNDTUVXemkwRHFzUlBWSFFkQ1pLcUdOXzIweFpPVWxKNmZRWFp4VmxoaFVkQkM2aEpjRTQ1dU1paW8tbEpCaHM5YjRWU0FTa0RER1NPRVJLdUZjNVJhaHV0NVU2NG8yRDJjeWhpUERRNExiVzR2SVpZdVdKTWtBTzNLRVloMDRPSlBaNll5ME96Vm5n?oc=5)
+### 10. [Policing of France’s school protests clouds Macron’s final months and sparks uproar - AP News](https://news.google.com/rss/articles/CBMitAFBVV95cUxORTdIUU5zQlFVS0tTajhEZWNKWVFhejdpRWlrSGJfVm1RS19iVENTVEJGZTFySWZBUzNxZGFtaEw5YVdHYTQtMGJaWW9yMGZaR1ZiNHpUUVAySjVmWlpPQkxNeDZXbWVfcjdGcENLVkhBWUpTUmx1QnZDOXRmWEx1WUFrdUtjc2laVDZtVGo0YUtkZDEyLTJkd1dXTmlYWi04Yzc5QTgtWVVlSTFpT1ZQTWUyUk8?oc=5)
 
-- Source / 来源: The Washington Post. Published: `2026-10-15T23:30:00+00:00`.
-- Keywords / 关键词: storm, washington, strongest, brewing, pacific, become, planet, one, typhoon, guam
-- 中文关键词: storm、washington、strongest、brewing、pacific、become、planet、one、typhoon、guam
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: A brewing Pacific storm could become one of the planet’s strongest this year The Washington Post Maps: Tracking Tropical Storm Champi The New York Times UPDATED 'Not a very good outlook': Champi could pass directly over Guam as CAT3 typhoon guampdn.com Potential super typhoon to enter PAR next week ABS-CBN Guam under typhoon watch; Category 1 to 3 storm forecast The Guam Daily Post
-- RSS 中文摘要: A brewing Pacific storm could become one of the planet’s strongest this year The Washington Post Maps: Tracking Tropical Storm Champi The New York Times UPDATED 'Not a very good outlook': Champi could pass directly over Guam as CAT3 typhoon guampdn.com Potential super typhoon to enter PAR next week ABS-CBN Guam under typhoon watch; Category 1 to 3 storm forecast The Guam Daily Post
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: storm, washington, strongest, brewing, and pacific. The available excerpt says: A brewing Pacific storm could become one of the planet’s strongest this year The Washington Post Maps: Tracking Tropical Storm Champi The New York Times UPDATED 'Not a very good outlook': Champi could pass directly over Guam as CAT3 typhoon guampdn.com Potential super typhoon to enter PAR next week ABS-CBN Guam under typhoon watch; Category 1 to 3 storm forecast The Guam Daily Post Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：storm、washington、strongest、brewing、pacific。RSS 中文摘要显示：A brewing Pacific storm could become one of the planet’s strongest this year The Washington Post Maps: Tracking Tropical Storm Champi The New York Times UPDATED 'Not a very good outlook': Champi could pass directly over Guam as CAT3 typhoon guampdn.com Potential super typhoon to enter PAR next week ABS-CBN Guam under typhoon watch; Category 1 to 3 storm forecast The Guam Daily Post 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 8. [4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage - The Hill](https://news.google.com/rss/articles/CBMinAFBVV95cUxNcEZiY3k5TEN0aS1va0xtVFVvcHVXeFlULTdYMG5kQ2llcXdxYjVlS1FZR2JhZENkbkFDUVEta1NHTEN1MzUtYWVWSzVaMlB0LWRuWm40UnpseVhUOUZIQ1Zlc2dGWDVYeWREcFRnMFNhZEo0ZXp2UENhNkEzZDloYW1HcTBKSS1mcGpKOTRMMFRvdnNxNEgxY2RLcm3SAaIBQVVfeXFMTmF2UnpmUDJJbkJhMTI5QXR0Q3U5cUNmSlhCV29TUjBEUmxVRVhWU1hadHRfYklnOTlXOXQ0akp6dmhKendoWi1JdXBDcDhQTm4xbExRd0REVnY3S2k2U3puUTNGOHpVSE4yRnZCcEFwSmRZMGNzTWdONWlHZF9NMzBqUDdXaktEcHo3ZTQ2UE9fOWllS1ZsNWJ4RXRvWW1sM1ZB?oc=5)
-
-- Source / 来源: The Hill. Published: `2026-10-15T22:38:00+00:00`.
-- Keywords / 关键词: ukraine, investigation, senators, demanding, inspector, pentagon, starlink, general, letter, outage
-- 中文关键词: 乌克兰、investigation、senators、demanding、inspector、pentagon、starlink、general、letter、outage
+- Source / 来源: AP News. Published: `2026-10-16T09:15:00+00:00`.
+- Keywords / 关键词: france, protests, school, policing, clouds, macron, months, sparks, uproar, final
+- 中文关键词: 法国、抗议、学校、治安、云、马克龙、月、火花、喧哗、最终的
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: 4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage The Hill EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say Reuters White House Reportedly Ordered Limits On Ukraine's Starshield Use—As Trump Blasts Zelenskyy Forbes Senators Demand Investigation Into Ukraine Satellite Disruption The New York Times Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems CNBC
-- RSS 中文摘要: 4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage The Hill EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say Reuters White House Reportedly Ordered Limits On Ukraine's Starshield Use—As Trump Blasts Zelenskyy Forbes Senators Demand Investigation Into Ukraine Satellite Disruption The New York Times Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems CNBC
+- RSS Excerpt / RSS 摘要: Policing of France’s school protests clouds Macron’s final months and sparks uproar AP News Students, trade unions and Yellow Vests set to protest across France Reuters The 53-Year-Old in a Suit Who’s the Face of France’s Youth Protests The New York Times A family at the heart of France's working-class anger Le Monde.fr French police accused over war-like injuries to teenagers in school protests | France The Guardian
+- RSS 中文摘要: 法国学校抗议活动的监管给马克龙的最后几个月蒙上阴影，引发轩然大波 美联社新闻 学生、工会和黄背心将在法国各地举行抗议活动 路透社 53 岁穿西装的年轻人代表法国青年抗议活动 纽约时报 一个家庭是法国工人阶级愤怒的核心法国《卫报》
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: ukraine, investigation, senators, demanding, and inspector. The available excerpt says: 4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage The Hill EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say Reuters White House Reportedly Ordered Limits On Ukraine's Starshield Use—As Trump Blasts Zelenskyy Forbes Senators Demand Investigation Into Ukraine Satellite Disruption The New York Times Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems CNBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：乌克兰、investigation、senators、demanding、inspector。RSS 中文摘要显示：4 GOP senators join letter demanding Pentagon inspector general investigation of Ukraine’s Starlink outage The Hill EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say Reuters White House Reportedly Ordered Limits On Ukraine's Starshield Use—As Trump Blasts Zelenskyy Forbes Senators Demand Investigation Into Ukraine Satellite Disruption The New York Times Elon Musk says Trump is 'ultimately' responsible for any curbs on Ukraine's Starshield systems CNBC 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 9. [Katie Zacharia confirms she didn’t pass the bar exam - The Washington Post](https://news.google.com/rss/articles/CBMizgFBVV95cUxOUW1SMjNXbi15QmZPZzMtVXUzQmVKelVralo2N2ZIaXBDczJHMTc0MjRlalJfVkZoWkQ5YmJtNjFZRTM5aV9rallkd0R0SXpIWUxpOHlCX0dYRkZZa1lOc2c4aEFjckhJTGNkNlk2bnh6bnhxbFZ0VlhKbGNrVWFtRzlRckxWQXRiXzlfTVg5YXI1WkNtTGM2QmNRUHhSdWpzb2RFUkNJRDRiYXZzb2Z2T0hiWGo2Vm1kdU1wZFgyaEVKTGx2RFJnVW1xVzNWQQ?oc=5)
-
-- Source / 来源: The Washington Post. Published: `2026-10-16T05:00:00+00:00`.
-- Keywords / 关键词: zacharia, katie, exam, bar, she, washington, secretary, confirms, trump, press
-- 中文关键词: zacharia、katie、exam、bar、she、washington、secretary、confirms、特朗普、press
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Katie Zacharia confirms she didn’t pass the bar exam The Washington Post Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer? The New York Times Donald Trump’s Press Secretary Gives Bizarre Reason for Failing the Bar Exam Yahoo Trump press secretary explains failed bar exam Axios Trump selects Katie Zacharia as next White House press secretary CNN
-- RSS 中文摘要: Katie Zacharia confirms she didn’t pass the bar exam The Washington Post Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer? The New York Times Donald Trump’s Press Secretary Gives Bizarre Reason for Failing the Bar Exam Yahoo Trump press secretary explains failed bar exam Axios Trump selects Katie Zacharia as next White House press secretary CNN
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: zacharia, katie, exam, bar, and she. The available excerpt says: Katie Zacharia confirms she didn’t pass the bar exam The Washington Post Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer? The New York Times Donald Trump’s Press Secretary Gives Bizarre Reason for Failing the Bar Exam Yahoo Trump press secretary explains failed bar exam Axios Trump selects Katie Zacharia as next White House press secretary CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：zacharia、katie、exam、bar、she。RSS 中文摘要显示：Katie Zacharia confirms she didn’t pass the bar exam The Washington Post Katie Zacharia Is Trump’s New Press Secretary. But Is She a Lawyer? The New York Times Donald Trump’s Press Secretary Gives Bizarre Reason for Failing the Bar Exam Yahoo Trump press secretary explains failed bar exam Axios Trump selects Katie Zacharia as next White House press secretary CNN 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 10. [Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce - Yahoo News UK](https://news.google.com/rss/articles/CBMihAFBVV95cUxQTzdsOUhkNExlWXVFYU91TDVfWXY5TThyMU9SR2hQMnBLOU1UekJQM0ZrdnY3a2MteERlNGZKbTYyNHp2Um00X3pLaDhuWlFNZFBHNlI0YzdzUmNMYXJYLUVlZnZHV296SU9QWXd1WEN0UnRhZTRYQV9KY0hRcDNPWmpyUVk?oc=5)
-
-- Source / 来源: Yahoo News UK. Published: `2026-10-15T19:56:51+00:00`.
-- Keywords / 关键词: zelenskiy, refinery, ukraine, russian, trump's, energy, we're, done, truce, yahoo
-- 中文关键词: zelenskiy、refinery、乌克兰、俄罗斯、trump's、能源、we're、done、truce、yahoo
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce Yahoo News UK See more headlines & perspectives on Google News
-- RSS 中文摘要: Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce Yahoo News UK See more headlines & perspectives on Google News
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: zelenskiy, refinery, ukraine, russian, and trump's. The available excerpt says: Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce Yahoo News UK See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：zelenskiy、refinery、乌克兰、俄罗斯、trump's。RSS 中文摘要显示：Ukraine hits Russian refinery as Zelenskiy says 'we're done' with Trump's energy truce Yahoo News UK See more headlines & perspectives on Google News 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: france, protests, school, policing, and clouds. The available excerpt says: Policing of France’s school protests clouds Macron’s final months and sparks uproar AP News Students, trade unions and Yellow Vests set to protest across France Reuters The 53-Year-Old in a Suit Who’s the Face of France’s Youth Protests The New York Times A family at the heart of France's working-class anger Le Monde.fr French police accused over war-like injuries to teenagers in school protests | France The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：法国、抗议、学校、治安、云。RSS 中文摘要显示：法国学校抗议活动的监管给马克龙的最后几个月蒙上阴影，引发轩然大波 美联社新闻 学生、工会和黄背心将在法国各地举行抗议活动 路透社 53 岁穿西装的年轻人代表法国青年抗议活动 纽约时报 一个家庭是法国工人阶级愤怒的核心法国《卫报》 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
