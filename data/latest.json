@@ -1,198 +1,39 @@
 {
-  "generated_at": "2026-10-17T08:12:09+00:00",
+  "generated_at": "2026-10-18T08:29:13+00:00",
   "timezone": "UTC",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "It took just 3 minutes. How the Bend school shooting unfolded - CNN",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLWNpd0JoRS1jYWZzNEJyc2xjOW9TLUxjOFdGVThoeVl3QmlZOG5jekVpbC1kSDVwQS1fWjUwdEZTRm5tUWFnUEtVX3NvNktKSXZxM2FXZWdIMmxVeHB2WFZpdk1VVXNOYjhuaUJqbXN0NzJWcHlQUGJSZkJ4Q0U3UDh5OA?oc=5",
-      "published_at": "2026-10-17T06:46:54+00:00",
-      "description": "It took just 3 minutes. How the Bend school shooting unfolded CNN Bystander who killed Oregon shooter identified as father of girls at elementary school The Guardian What we know about the 16-year-old who opened fire at his former elementary school, killing 4 in a special needs classroom CNN Oregon teacher fought school attacker before armed dad killed suspect BBC Bend police name victims in Silver Rail school shooting KPTV",
-      "description_zh": "只用了3分钟。本德学校枪击事件是如何展开的 CNN 杀死俄勒冈州枪手的旁观者被确认为小学女孩的父亲 《卫报》 我们对这名向他以前就读的小学开枪，在特殊需要教室中造成 4 人死亡的 16 岁少年的了解 CNN 俄勒冈州老师在武装父亲杀死嫌疑人之前与学校袭击者战斗 BBC Bend 警方公布了 Silver Rail 学校枪击事件中的受害者 KPTV",
+      "title": "Major fire breaks out in Alberta after deadly incident at military base - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRWZIOVJaUGpyUnFDcG1BTVZmOTRtZ2pvLTBjLVBDMU9fb3huN2x3Q1ZGbTBENURyc0JIdXRJQThHajNORTVlVjVnZjJrUV94VDlGaXJrZWRqQVBlWlBBRmJzVkhUem1NRzl5a05uTzJQWEdVLTNEckFlNFFBb1dmeTQwUmU0YkhFd1laTmI2ZUdtTGlLS1VZM3dPTi14ZVNxX2oxY0dzbw?oc=5",
+      "published_at": "2026-10-18T07:51:00+00:00",
+      "description": "Major fire breaks out in Alberta after deadly incident at military base AP News See more headlines & perspectives on Google News",
+      "description_zh": "军事基地发生致命事件后，阿尔伯塔省发生重大火灾 美联社新闻 在 Google 新闻上查看更多头条新闻和观点",
       "keywords": [
-        "school",
-        "shooting",
-        "bend",
-        "unfolded",
-        "minutes",
-        "took",
-        "just",
-        "elementary",
-        "killed",
-        "oregon"
+        "incident",
+        "military",
+        "alberta",
+        "breaks",
+        "deadly",
+        "major",
+        "fire",
+        "base",
+        "out",
+        "perspectives"
       ],
       "keywords_zh": [
-        "学校",
-        "射击",
-        "弯曲",
-        "展开的",
-        "分钟",
-        "采取了",
-        "只是",
-        "初级",
-        "死亡",
-        "俄勒冈州"
-      ],
-      "category": {
-        "en": "Technology",
-        "zh": "科技"
-      },
-      "interpretation": {
-        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
-        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: school, shooting, bend, unfolded, and minutes. The available excerpt says: It took just 3 minutes. How the Bend school shooting unfolded CNN Bystander who killed Oregon shooter identified as father of girls at elementary school The Guardian What we know about the 16-year-old who opened fire at his former elementary school, killing 4 in a special needs classroom CNN Oregon teacher fought school attacker before armed dad killed suspect BBC Bend police name victims in Silver Rail school shooting KPTV Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：学校、射击、弯曲、展开的、分钟。RSS 中文摘要显示：只用了3分钟。本德学校枪击事件是如何展开的 CNN 杀死俄勒冈州枪手的旁观者被确认为小学女孩的父亲 《卫报》 我们对这名向他以前就读的小学开枪，在特殊需要教室中造成 4 人死亡的 16 岁少年的了解 CNN 俄勒冈州老师在武装父亲杀死嫌疑人之前与学校袭击者战斗 BBC Bend 警方公布了 Silver Rail 学校枪击事件中的受害者 KPTV 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
-        "what_to_watch_en": [
-          "regulatory reaction",
-          "enterprise adoption",
-          "security or privacy consequences"
-        ],
-        "what_to_watch_zh": [
-          "监管反应",
-          "企业采用情况",
-          "安全或隐私后果"
-        ]
-      }
-    },
-    {
-      "rank": 2,
-      "title": "Pope pictured for first time since surgery and cancer diagnosis - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MNDhSTUViUVZRSmhGbE14YTAxOWQ1cVFoLVdUb0w5cnRTUFNUN1RXdEpxX1NjS2VUbEhJeXRLMDBfWXk5NGNBQVprYTdJYzY2TV9kaHNsNFNlSXM?oc=5",
-      "published_at": "2026-10-16T23:20:37+00:00",
-      "description": "Pope pictured for first time since surgery and cancer diagnosis BBC Pope Leo Found to Have Lung Cancer During Surgery, Vatican Says The New York Times First images of Pope Leo released since lung surgery as he celebrates mass in makeshift chapel CNN Papal trip could face changes after surgery The Pillar Pope continues 'steady improvement,' celebrates Mass for Gemelli staff Vatican News",
-      "description_zh": "教宗自手术和癌症诊断后首次合影 BBC 教宗利奥在手术期间被发现患有肺癌，梵蒂冈称《纽约时报》 自从肺部手术后首次发布教宗利奥的照片，当时他在临时教堂庆祝弥撒 CNN 教宗的行程可能会在手术后面临变化 支柱教宗继续“稳步改善”，为双子星工作人员庆祝弥撒 梵蒂冈新闻",
-      "keywords": [
-        "surgery",
-        "pope",
-        "cancer",
-        "first",
-        "since",
-        "diagnosis",
-        "pictured",
-        "time",
-        "celebrates",
-        "vatican"
-      ],
-      "keywords_zh": [
-        "外科手术",
-        "教皇",
-        "癌症",
-        "第一的",
-        "自从",
-        "诊断",
-        "如图所示",
-        "时间",
-        "庆祝",
-        "教廷"
-      ],
-      "category": {
-        "en": "Economy and markets",
-        "zh": "经济与市场"
-      },
-      "interpretation": {
-        "summary_en": "This story is tied to business conditions, financial expectations, or the cost of goods and capital.",
-        "summary_zh": "这条新闻与商业环境、金融预期或商品与资金成本相关。",
-        "detailed_en": "Key signals: surgery, pope, cancer, first, and since. The available excerpt says: Pope pictured for first time since surgery and cancer diagnosis BBC Pope Leo Found to Have Lung Cancer During Surgery, Vatican Says The New York Times First images of Pope Leo released since lung surgery as he celebrates mass in makeshift chapel CNN Papal trip could face changes after surgery The Pillar Pope continues 'steady improvement,' celebrates Mass for Gemelli staff Vatican News Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.",
-        "detailed_zh": "关键词信号：外科手术、教皇、癌症、第一的、自从。RSS 中文摘要显示：教宗自手术和癌症诊断后首次合影 BBC 教宗利奥在手术期间被发现患有肺癌，梵蒂冈称《纽约时报》 自从肺部手术后首次发布教宗利奥的照片，当时他在临时教堂庆祝弥撒 CNN 教宗的行程可能会在手术后面临变化 支柱教宗继续“稳步改善”，为双子星工作人员庆祝弥撒 梵蒂冈新闻 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。",
-        "what_to_watch_en": [
-          "price movements",
-          "company and government guidance",
-          "second-round supply-chain effects"
-        ],
-        "what_to_watch_zh": [
-          "价格变化",
-          "企业与政府指引",
-          "供应链二次影响"
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "title": "Katie Zacharia leaving White House role less than five days into job - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IMTR3VHR5Vm9QUlJyLUxPa3o2SHVEdUV3RkdwSzljMXJ1amZNUXljR0ktTkxWV0c1T0otZFBrYmdwQ3E3Xy1YOUxmb1RyNEQ3Y3EyWDZnRnVLZGM?oc=5",
-      "published_at": "2026-10-17T05:20:40+00:00",
-      "description": "Katie Zacharia leaving White House role less than five days into job BBC Katie Zacharia Is Ousted After 5 Days as White House Press Secretary The New York Times Katie Zacharia was fired after failing in the one arena Trump cares about: television The Irish Times Capehart and Continetti on the White House press secretary's quick exit PBS Exclusive | White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam WSJ",
-      "description_zh": "凯蒂·扎卡里亚 (Katie Zacharia) 上任不到五天就离开白宫 凯蒂·扎卡里亚 (Katie Zacharia) 在担任白宫新闻秘书 5 天后被解雇 《纽约时报》 凯蒂·扎卡里亚 (Katie Zacharia) 在特朗普关心的电视领域失败后被解雇 爱尔兰时报 卡普哈特 (Caphart) 和康蒂内蒂 (Continetti) 谈论白宫新闻秘书的快速退出 PBS 独家 |白宫新闻秘书凯蒂·扎卡里亚 (Katie Zacharia) 未通过律师资格考试 华尔街日报",
-      "keywords": [
-        "zacharia",
-        "katie",
-        "white",
-        "house",
-        "days",
-        "leaving",
-        "role",
-        "less",
-        "five",
-        "job"
-      ],
-      "keywords_zh": [
-        "撒迦利亚",
-        "凯蒂",
-        "白色的",
-        "房子",
-        "天",
-        "离开",
-        "角色",
-        "较少的",
-        "五",
-        "工作"
-      ],
-      "category": {
-        "en": "Politics and governance",
-        "zh": "政治与治理"
-      },
-      "interpretation": {
-        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
-        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: zacharia, katie, white, house, and days. The available excerpt says: Katie Zacharia leaving White House role less than five days into job BBC Katie Zacharia Is Ousted After 5 Days as White House Press Secretary The New York Times Katie Zacharia was fired after failing in the one arena Trump cares about: television The Irish Times Capehart and Continetti on the White House press secretary's quick exit PBS Exclusive | White House Press Secretary Katie Zacharia Didn’t Pass Bar Exam WSJ Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：撒迦利亚、凯蒂、白色的、房子、天。RSS 中文摘要显示：凯蒂·扎卡里亚 (Katie Zacharia) 上任不到五天就离开白宫 凯蒂·扎卡里亚 (Katie Zacharia) 在担任白宫新闻秘书 5 天后被解雇 《纽约时报》 凯蒂·扎卡里亚 (Katie Zacharia) 在特朗普关心的电视领域失败后被解雇 爱尔兰时报 卡普哈特 (Caphart) 和康蒂内蒂 (Continetti) 谈论白宫新闻秘书的快速退出 PBS 独家 |白宫新闻秘书凯蒂·扎卡里亚 (Katie Zacharia) 未通过律师资格考试 华尔街日报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
-        "what_to_watch_en": [
-          "polling or vote margins",
-          "party reactions",
-          "policy promises after the result"
-        ],
-        "what_to_watch_zh": [
-          "民调或票差",
-          "党派反应",
-          "结果后的政策承诺"
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "title": "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia - WSJ",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOS1nT1V3ajJHakhMdm5jRDRqQW5PMlU5N1FidUlPemxtZFBFYV9UY0dJdGp2US1qU2NsbGRLazVUd2RsXzc3bWIxa00xcmpEbEY4aG9xcmkzX3g2ZDd2RVdlRGRGV0JUZjZLN0JTU2xybHFKQTlaV19oYUp3a2o5Wjg2Sk9kQQ?oc=5",
-      "published_at": "2026-10-17T02:00:00+00:00",
-      "description": "Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia WSJ Iran cultivated Houthis for years before opening new war front, Yemeni insider says Iran International Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength 10TV What do the Houthis want? Financial Times How the Houthis are helping Iran turn Saudi Arabia into a pressure point Reuters",
-      "description_zh": "伊朗正在向胡塞武装提供袭击沙特阿拉伯的目标和情报 《华尔街日报》 伊朗在开辟新的战争前线之前培育了胡塞武装多年，也门内部人士称伊朗国际胡塞武装对沙特阿拉伯的袭击表明也门叛军的实力不断增强 10TV 胡塞武装想要什么？英国《金融时报》：胡塞武装如何帮助伊朗将沙特阿拉伯变成一个压力点 路透",
-      "keywords": [
-        "houthis",
-        "iran",
-        "arabia",
-        "saudi",
-        "intelligence",
-        "targeting",
-        "attacks",
-        "giving",
-        "wsj",
-        "yemeni"
-      ],
-      "keywords_zh": [
-        "胡塞武装",
-        "伊朗",
-        "阿拉伯",
-        "沙特",
-        "智力",
-        "瞄准",
-        "袭击",
-        "给予",
-        "华尔街日报",
-        "也门"
+        "事件",
+        "军事",
+        "艾伯塔省",
+        "休息",
+        "致命",
+        "主要的",
+        "火",
+        "根据",
+        "出去",
+        "观点"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -201,8 +42,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: houthis, iran, arabia, saudi, and intelligence. The available excerpt says: Iran Is Giving Houthis Targeting and Intelligence for Attacks on Saudi Arabia WSJ Iran cultivated Houthis for years before opening new war front, Yemeni insider says Iran International Houthi strikes on Saudi Arabia show the Yemeni rebels' growing strength 10TV What do the Houthis want? Financial Times How the Houthis are helping Iran turn Saudi Arabia into a pressure point Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：胡塞武装、伊朗、阿拉伯、沙特、智力。RSS 中文摘要显示：伊朗正在向胡塞武装提供袭击沙特阿拉伯的目标和情报 《华尔街日报》 伊朗在开辟新的战争前线之前培育了胡塞武装多年，也门内部人士称伊朗国际胡塞武装对沙特阿拉伯的袭击表明也门叛军的实力不断增强 10TV 胡塞武装想要什么？英国《金融时报》：胡塞武装如何帮助伊朗将沙特阿拉伯变成一个压力点 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: incident, military, alberta, breaks, and deadly. The available excerpt says: Major fire breaks out in Alberta after deadly incident at military base AP News See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：事件、军事、艾伯塔省、休息、致命。RSS 中文摘要显示：军事基地发生致命事件后，阿尔伯塔省发生重大火灾 美联社新闻 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -216,36 +57,89 @@
       }
     },
     {
-      "rank": 5,
-      "title": "Palestinians, US journalist attacked in West Bank pogrom: What we know - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEc2RFdEdThxcUZmbVZGR2ZXUkRfUlU2Q2VLNHM3c3Z0Ry1hNmJKYTdsN1BqUVhxNkNWNHpKbzVmbVZYNXE1NTBEb2pLUnY5enhGTXlXcGNOd0tuWmpfU21lLVpqRFQ4UW1HYkV0V0lzUV85dFpNbnNEOGdjb2c0Q1Myek5va2xBSXhTNHIyemR2cmYyUVBMZzFGMF8wMmw3UHFlSTQtZDNoQ0lRTjZ30gG0AUFVX3lxTE1sRE5ZUTdiSXhsRVM5MDluRVVKVnRFZWVxUmduYnJJc2tCS3I1dl9fM2FwRWRhVXZlelE2OFJiVzhicVVXOU1hdVgta3llR2hjUE9tVDEzTXBzVlR4OGZPVXdoRDh0WGdqVllWS25pRnlhTEEtMHpiaUFpYU13ekczQ1Zza09NOUtwcHk5alNuSWlsOEttWEZ2OEF5bzRSU1pidzNwajQwdjFfR3RFUnVoa2V3Rg?oc=5",
-      "published_at": "2026-10-17T03:56:34+00:00",
-      "description": "Palestinians, US journalist attacked in West Bank pogrom: What we know Al Jazeera Israeli settlers burn olive trees, injure journalist in West Bank attack Reuters Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack BBC Hardline rabbi: Jews can take Palestinian olives to ‘demonstrate our ownership of the land’ The Times of Israel Congress members condemn Israeli settler attack on Washington Post photographer The Washington Post",
-      "description_zh": "巴勒斯坦人和美国记者在西岸大屠杀中遭到袭击：我们所知道的 半岛电视台 以色列定居者在西岸袭击中烧毁橄榄树，打伤记者 路透社 巴勒斯坦人和美国记者在西岸收获袭击中被以色列定居者受伤 BBC 强硬派拉比：犹太人可以拿走巴勒斯坦橄榄来“展示我们对土地的所有权” 以色列时报国会议员谴责以色列定居者对《华盛顿邮报》摄影师的袭击 华盛顿邮报",
+      "rank": 2,
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ibzBDeFpmYzZjSU9OQ09Fc1J5MFZKUG1tOUZmZWtJOEZZRzR1aGRZQzNaWHNsZ1ZzVzJJbnBvV2RtQ0VnblpoN2NaRHlIUndHRVh4N1paMXRiSk0?oc=5",
+      "published_at": "2026-10-18T05:56:20+00:00",
+      "description": "Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests BBC Buildings torched and over 1,000 detained after half a million protesters sweep France CNN Whole streets in Paris ‘devastated’ by protests, says mayor, as France demonstrations continue – Europe live The Guardian Unrest Mars Day of Protest in France, as Student Movement Turns National The New York Times Spire collapses at historic town hall amid violent protests in France Euronews",
+      "description_zh": "法国发生暴力冲突、抢劫和建筑物起火，抗议后 1,200 多人被捕 BBC 大楼被纵火，1,000 多人被拘留，五十万抗议者席卷法国 CNN 市长表示，随着法国示威活动的继续，巴黎整条街道都被抗议活动“摧毁” - 欧洲直播 《卫报》法国抗议火星日，学生运动全国化 在法国的暴力抗议活动中，纽约时报尖塔在历史悠久的市政厅倒塌欧洲新闻报",
       "keywords": [
-        "journalist",
-        "west",
-        "bank",
-        "palestinians",
-        "attacked",
-        "jazeera",
-        "pogrom",
-        "know",
-        "israeli",
-        "attack"
+        "france",
+        "protests",
+        "buildings",
+        "violent",
+        "arrested",
+        "clashes",
+        "looting",
+        "ablaze",
+        "demonstrations",
+        "protesters"
       ],
       "keywords_zh": [
-        "记者",
-        "西方",
-        "银行",
-        "巴勒斯坦人",
-        "受到攻击",
-        "半岛电视台",
-        "屠杀",
-        "知道",
-        "以色列",
-        "袭击"
+        "法国",
+        "抗议",
+        "建筑物",
+        "暴力",
+        "被捕",
+        "冲突",
+        "抢劫",
+        "燃烧",
+        "示威",
+        "抗议者"
+      ],
+      "category": {
+        "en": "Technology",
+        "zh": "科技"
+      },
+      "interpretation": {
+        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
+        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
+        "detailed_en": "Key signals: france, protests, buildings, violent, and arrested. The available excerpt says: Violent clashes, looting and buildings ablaze in France as over 1,200 arrested after protests BBC Buildings torched and over 1,000 detained after half a million protesters sweep France CNN Whole streets in Paris ‘devastated’ by protests, says mayor, as France demonstrations continue – Europe live The Guardian Unrest Mars Day of Protest in France, as Student Movement Turns National The New York Times Spire collapses at historic town hall amid violent protests in France Euronews Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：法国、抗议、建筑物、暴力、被捕。RSS 中文摘要显示：法国发生暴力冲突、抢劫和建筑物起火，抗议后 1,200 多人被捕 BBC 大楼被纵火，1,000 多人被拘留，五十万抗议者席卷法国 CNN 市长表示，随着法国示威活动的继续，巴黎整条街道都被抗议活动“摧毁” - 欧洲直播 《卫报》法国抗议火星日，学生运动全国化 在法国的暴力抗议活动中，纽约时报尖塔在历史悠久的市政厅倒塌欧洲新闻报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "what_to_watch_en": [
+          "regulatory reaction",
+          "enterprise adoption",
+          "security or privacy consequences"
+        ],
+        "what_to_watch_zh": [
+          "监管反应",
+          "企业采用情况",
+          "安全或隐私后果"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Trump's Russia waiver draws instant bipartisan backlash - Axios",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbWVTdHdKeEJ1UF9uS09wSTdzT0RtVkJUTWpGTWc1RnV6eFR6VHhHNDlPREhaS0ljWlE2T3Z0bm1VM1VnRnEtNGR1anA2bm1RaS02eUY0eFgzLUlpc2JtWkloS2hvRllNSERpOWh0QllEMklURzcySlJYNkFRc182RF96WXdScEk?oc=5",
+      "published_at": "2026-10-18T01:36:03+00:00",
+      "description": "Trump's Russia waiver draws instant bipartisan backlash Axios Graham Breaks With Trump Over Russia Sanctions Law Her Brother Championed The New York Times Ukraine-Russia war latest: Zelensky seeks support to enforce Russian sanctions The Independent Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen AP News Rubio says Trump to take up to 60 days to weigh Russia sanctions Reuters",
+      "description_zh": "特朗普的俄罗斯豁免立即引起两党强烈反对 Axios Graham 就俄罗斯制裁法与特朗普决裂 她的兄弟支持《纽约时报》 乌克兰-俄罗斯战争最新消息：泽伦斯基寻求支持以执行对俄罗斯的制裁 《独立报》 特朗普放弃俄罗斯制裁的决定激怒了国会，但没有立即反击 美联社新闻 鲁比奥表示特朗普需要长达 60 天的时间来权衡俄罗斯制裁 路透",
+      "keywords": [
+        "russia",
+        "bipartisan",
+        "sanctions",
+        "backlash",
+        "trump's",
+        "instant",
+        "waiver",
+        "draws",
+        "axios",
+        "trump"
+      ],
+      "keywords_zh": [
+        "俄罗斯",
+        "两党",
+        "制裁",
+        "反弹",
+        "特朗普的",
+        "立即的",
+        "放弃",
+        "画",
+        "轴",
+        "特朗普"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -254,8 +148,114 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: journalist, west, bank, palestinians, and attacked. The available excerpt says: Palestinians, US journalist attacked in West Bank pogrom: What we know Al Jazeera Israeli settlers burn olive trees, injure journalist in West Bank attack Reuters Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack BBC Hardline rabbi: Jews can take Palestinian olives to ‘demonstrate our ownership of the land’ The Times of Israel Congress members condemn Israeli settler attack on Washington Post photographer The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：记者、西方、银行、巴勒斯坦人、受到攻击。RSS 中文摘要显示：巴勒斯坦人和美国记者在西岸大屠杀中遭到袭击：我们所知道的 半岛电视台 以色列定居者在西岸袭击中烧毁橄榄树，打伤记者 路透社 巴勒斯坦人和美国记者在西岸收获袭击中被以色列定居者受伤 BBC 强硬派拉比：犹太人可以拿走巴勒斯坦橄榄来“展示我们对土地的所有权” 以色列时报国会议员谴责以色列定居者对《华盛顿邮报》摄影师的袭击 华盛顿邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: russia, bipartisan, sanctions, backlash, and trump's. The available excerpt says: Trump's Russia waiver draws instant bipartisan backlash Axios Graham Breaks With Trump Over Russia Sanctions Law Her Brother Championed The New York Times Ukraine-Russia war latest: Zelensky seeks support to enforce Russian sanctions The Independent Trump’s decision to waive Russian sanctions outrages Congress, but no quick counter seen AP News Rubio says Trump to take up to 60 days to weigh Russia sanctions Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：俄罗斯、两党、制裁、反弹、特朗普的。RSS 中文摘要显示：特朗普的俄罗斯豁免立即引起两党强烈反对 Axios Graham 就俄罗斯制裁法与特朗普决裂 她的兄弟支持《纽约时报》 乌克兰-俄罗斯战争最新消息：泽伦斯基寻求支持以执行对俄罗斯的制裁 《独立报》 特朗普放弃俄罗斯制裁的决定激怒了国会，但没有立即反击 美联社新闻 鲁比奥表示特朗普需要长达 60 天的时间来权衡俄罗斯制裁 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "what_to_watch_en": [
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
+        ],
+        "what_to_watch_zh": [
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Pope's surgeon details operating on the \"ideal patient\" after lung cancer discovery \"entirely by chance\" - CBS News",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOX09ZZWZHWExqbjBYc3dGUEs0TkxaelBhSi1PLU5yNkdpbV82eWNWb3JUN2tvcmU3TG5iYmV2X2NtS3hadVB2WjNwV0JKWC0wQnNFVVIwRHRncG9VQkRqbThCWndnd2hPVzdtb29IVC1TTU1Nc1BHQmZHVWY2UzlDdWxB?oc=5",
+      "published_at": "2026-10-17T19:53:00+00:00",
+      "description": "Pope's surgeon details operating on the \"ideal patient\" after lung cancer discovery \"entirely by chance\" CBS News Pope Leo returns to Vatican four days after cancer surgery Reuters Pope Leo’s cancer surgery early in his papacy sends shockwaves through the Catholic Church NBC News ‘I Am Much Better, Thank You’: Pope Leo Leaves Hospital, Days After Lung Surgery The New York Times Pope’s surgeon: No clinical reason to cancel visit to South America Vatican News",
+      "description_zh": "教皇的外科医生详细介绍了在发现肺癌后对“理想患者”进行手术“完全是偶然” 哥伦比亚广播公司新闻 教皇利奥在癌症手术四天后返回梵蒂冈 路透社 教皇利奥在就任教皇初期的癌症手术在天主教会引起了震动 NBC新闻“我好多了，谢谢你”：教皇利奥在肺手术几天后离开医院 纽约时报 教皇的外科医生：没有临床理由取消对南美洲的访问 梵蒂冈新闻",
+      "keywords": [
+        "cancer",
+        "surgeon",
+        "lung",
+        "operating",
+        "discovery",
+        "entirely",
+        "details",
+        "patient",
+        "pope's",
+        "chance"
+      ],
+      "keywords_zh": [
+        "癌症",
+        "外科医生",
+        "肺",
+        "操作",
+        "发现",
+        "完全",
+        "细节",
+        "病人",
+        "教皇的",
+        "机会"
+      ],
+      "category": {
+        "en": "Technology",
+        "zh": "科技"
+      },
+      "interpretation": {
+        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
+        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
+        "detailed_en": "Key signals: cancer, surgeon, lung, operating, and discovery. The available excerpt says: Pope's surgeon details operating on the \"ideal patient\" after lung cancer discovery \"entirely by chance\" CBS News Pope Leo returns to Vatican four days after cancer surgery Reuters Pope Leo’s cancer surgery early in his papacy sends shockwaves through the Catholic Church NBC News ‘I Am Much Better, Thank You’: Pope Leo Leaves Hospital, Days After Lung Surgery The New York Times Pope’s surgeon: No clinical reason to cancel visit to South America Vatican News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：癌症、外科医生、肺、操作、发现。RSS 中文摘要显示：教皇的外科医生详细介绍了在发现肺癌后对“理想患者”进行手术“完全是偶然” 哥伦比亚广播公司新闻 教皇利奥在癌症手术四天后返回梵蒂冈 路透社 教皇利奥在就任教皇初期的癌症手术在天主教会引起了震动 NBC新闻“我好多了，谢谢你”：教皇利奥在肺手术几天后离开医院 纽约时报 教皇的外科医生：没有临床理由取消对南美洲的访问 梵蒂冈新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "what_to_watch_en": [
+          "regulatory reaction",
+          "enterprise adoption",
+          "security or privacy consequences"
+        ],
+        "what_to_watch_zh": [
+          "监管反应",
+          "企业采用情况",
+          "安全或隐私后果"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "title": "European diplomats attacked in West Bank a day after beating of Post photographer - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVRQVkt2NVFCMG16ZmVhbmRvSTdsY2tLSlk5RTk1Mk5VbmdxSGI1TmNYOHRvWjNtay1Cc3otam10ckYzMjRsMmtvcmpQY0VJVm11b1h2Q0J6REpDUV9GM1ZMQjBrbElobDJjc2dTNGhTaHp1X0hRSVRHRko3OUE2Nkxnai00b0tBd0hMX1hCRGMtMTNZQ3N1YmhONC1naldZbXkyT2ppZUk1Z052SDRTaEdOc2plN1V1UnFKb3Bhdw?oc=5",
+      "published_at": "2026-10-18T04:00:33+00:00",
+      "description": "European diplomats attacked in West Bank a day after beating of Post photographer The Washington Post European diplomats attacked by Israeli settlers in West Bank BBC Israeli settlers attack European diplomats in West Bank The Guardian Israeli settlers attack Palestinians, European diplomats in West Bank, Belgium says Reuters Israel must explain failure to prevent West Bank violence The Jerusalem Post",
+      "description_zh": "欧洲外交官在殴打邮报摄影师一天后在约旦河西岸遭到袭击 华盛顿邮报 欧洲外交官在约旦河西岸遭到以色列定居者袭击 BBC 以色列定居者袭击约旦河西岸的欧洲外交官 英国卫报 以色列定居者袭击巴勒斯坦人，比利时约旦河西岸的欧洲外交官表示路透社 以色列必须解释未能防止约旦河西岸暴力事件 耶路撒冷邮报",
+      "keywords": [
+        "west",
+        "bank",
+        "diplomats",
+        "european",
+        "attacked",
+        "photographer",
+        "washington",
+        "beating",
+        "day",
+        "settlers"
+      ],
+      "keywords_zh": [
+        "西方",
+        "银行",
+        "外交官",
+        "欧洲的",
+        "受到攻击",
+        "摄影师",
+        "华盛顿",
+        "殴打",
+        "天",
+        "定居者"
+      ],
+      "category": {
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
+      },
+      "interpretation": {
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: west, bank, diplomats, european, and attacked. The available excerpt says: European diplomats attacked in West Bank a day after beating of Post photographer The Washington Post European diplomats attacked by Israeli settlers in West Bank BBC Israeli settlers attack European diplomats in West Bank The Guardian Israeli settlers attack Palestinians, European diplomats in West Bank, Belgium says Reuters Israel must explain failure to prevent West Bank violence The Jerusalem Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：西方、银行、外交官、欧洲的、受到攻击。RSS 中文摘要显示：欧洲外交官在殴打邮报摄影师一天后在约旦河西岸遭到袭击 华盛顿邮报 欧洲外交官在约旦河西岸遭到以色列定居者袭击 BBC 以色列定居者袭击约旦河西岸的欧洲外交官 英国卫报 以色列定居者袭击巴勒斯坦人，比利时约旦河西岸的欧洲外交官表示路透社 以色列必须解释未能防止约旦河西岸暴力事件 耶路撒冷邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -270,88 +270,88 @@
     },
     {
       "rank": 6,
-      "title": "Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine - The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOX2luakxEaEVyTXo5MTktaTdoVzd4Zk1EX1NoYk8zZGE4bDNoYVpBS3FZeXJnMU1jazRhVkVfT2hSZ3pPY1JmSlotWVY3LWFjcDdGeDV2eU12bHhMM2E3QWI1aVczdmxiYjhBNlhGU1RCeE9hakdKN3hmTlZvTEgwSmxQam1lNVdJOUVFemlueXNwcFVUS3hYckNfb0UwbVJrZ0ticnctYmlueFR0MHRBR0cwZ1ZJc3VlNVFNcGw5SndCczR4VVhrNndabWptMGcwMF9aVQ?oc=5",
-      "published_at": "2026-10-17T03:20:00+00:00",
-      "description": "Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine The Guardian Trump Waives Graham Act Sanctions On Russia Before They Take Effect Radio Free Europe/Radio Liberty Trump waives several Russia sanctions as new US law takes effect BBC Trump waives Russia-related sanctions before they even kick in as Ukraine ties worsen CNN Trump Signs Order Exempting Russia From Sanctions Law The New York Times",
-      "description_zh": "特朗普暂停国会通过的新的俄罗斯制裁，因与乌克兰的争端不断加深 《卫报》 特朗普在格雷厄姆法案生效前放弃对俄罗斯的制裁 美国新法律生效后，特朗普放弃了多项对俄罗斯的制裁 随着乌克兰关系恶化，特朗普在与俄罗斯相关的制裁生效之前就放弃了这些制裁 CNN 特朗普签署命令，使俄罗斯免受制裁法影响 纽约时报",
+      "title": "‘No Kings’ protesters spurn organizers' rules: ‘This is as partisan as you can get’ - Fox News",
+      "source": "Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXVweUpYd2FCS05EanpxQm9vaWViM1pNbTZwS0JKaU5JWDFjblN6X0RNNU56VWZuUk1IcVRGMTljTWVvcWpvTFM5R3NTdlRXVERkam9ZNGd0aWd1VTNjX2d3bjhqcldEWEtsRVdzUWFvNzJ1TUFVUmR4R2YzNFZEQ19TS1lMSnctOHlHcmFUNnR3Ym5KaFBiNUVuSTlPTWgxNVR30gGoAUFVX3lxTFB3M2FyRTF5b1gxRVZET3IzYXBLeWZxQ2x0RUUyY19YRXJMMTU0RHVqdjNKcTNJaXVMU0dSdXdjRjluNzk1N1hVang5QkViVTBEd2c0YWtmdXlmVmhNM3NrZlR6V0FtZ2pJRlBRSm1WNWxUVHFtVEZSRlNXcDRrODJoSWpqVHYtcmtLdEFDSkVMTXJ3SE40amRDZHkwRHZhbUJuTzF0NE5iag?oc=5",
+      "published_at": "2026-10-18T01:13:28+00:00",
+      "description": "‘No Kings’ protesters spurn organizers' rules: ‘This is as partisan as you can get’ Fox News 4 Takeaways From a Voting-Focused ‘No Kings’ Day The New York Times No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms PBS Arizona No Kings crowds channel anger at Trump and Republicans into early votes Arizona Mirror Traffic disrupted as thousands attend 'No Kings' march in Seattle KING5.com",
+      "description_zh": "“无国王”抗议者藐视组织者的规则：“这是你所能得到的党派偏见”福克斯新闻4以投票为中心的“无国王”日的要点纽约时报无国王集会在美国各地敦促选民在中期选举前尽早投票公共广播公司亚利桑那州无国王人群将对特朗普和共和党的愤怒转化为提前投票亚利桑那州镜报数千人参加西雅图的“无国王”游行交通中断王五网",
       "keywords": [
-        "sanctions",
-        "trump",
-        "russia",
-        "ukraine",
-        "deepening",
-        "congress",
-        "pauses",
-        "passed",
-        "row",
-        "waives"
+        "kings",
+        "organizers",
+        "protesters",
+        "partisan",
+        "spurn",
+        "rules",
+        "you",
+        "get",
+        "fox",
+        "arizona"
       ],
       "keywords_zh": [
-        "制裁",
-        "特朗普",
-        "俄罗斯",
-        "乌克兰",
-        "深化",
-        "国会",
-        "停顿",
-        "通过了",
-        "排",
-        "放弃"
+        "国王",
+        "组织者",
+        "抗议者",
+        "党派",
+        "拒绝",
+        "规则",
+        "你",
+        "得到",
+        "狐狸",
+        "亚利桑那"
       ],
       "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
+        "en": "Politics and governance",
+        "zh": "政治与治理"
       },
       "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: sanctions, trump, russia, ukraine, and deepening. The available excerpt says: Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine The Guardian Trump Waives Graham Act Sanctions On Russia Before They Take Effect Radio Free Europe/Radio Liberty Trump waives several Russia sanctions as new US law takes effect BBC Trump waives Russia-related sanctions before they even kick in as Ukraine ties worsen CNN Trump Signs Order Exempting Russia From Sanctions Law The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：制裁、特朗普、俄罗斯、乌克兰、深化。RSS 中文摘要显示：特朗普暂停国会通过的新的俄罗斯制裁，因与乌克兰的争端不断加深 《卫报》 特朗普在格雷厄姆法案生效前放弃对俄罗斯的制裁 美国新法律生效后，特朗普放弃了多项对俄罗斯的制裁 随着乌克兰关系恶化，特朗普在与俄罗斯相关的制裁生效之前就放弃了这些制裁 CNN 特朗普签署命令，使俄罗斯免受制裁法影响 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: kings, organizers, protesters, partisan, and spurn. The available excerpt says: ‘No Kings’ protesters spurn organizers' rules: ‘This is as partisan as you can get’ Fox News 4 Takeaways From a Voting-Focused ‘No Kings’ Day The New York Times No Kings rallies across U.S. urge voters to cast ballots early ahead of midterms PBS Arizona No Kings crowds channel anger at Trump and Republicans into early votes Arizona Mirror Traffic disrupted as thousands attend 'No Kings' march in Seattle KING5.com Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：国王、组织者、抗议者、党派、拒绝。RSS 中文摘要显示：“无国王”抗议者藐视组织者的规则：“这是你所能得到的党派偏见”福克斯新闻4以投票为中心的“无国王”日的要点纽约时报无国王集会在美国各地敦促选民在中期选举前尽早投票公共广播公司亚利桑那州无国王人群将对特朗普和共和党的愤怒转化为提前投票亚利桑那州镜报数千人参加西雅图的“无国王”游行交通中断王五网 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
         ],
         "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
         ]
       }
     },
     {
       "rank": 7,
-      "title": "Three Mexicans jailed for 158 years each for killing Australian, US surfers - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmtyTUYtcHJ3SDFJM21aY2ZRcHhLaXhYWjNUSWlwU2JiYWtXOGltRVNfMVYwSjhadnl1LWNUZU5rZGV1eGltaEsxR3Fxd2N4M29zbUlUYUtia0FxcFp2cENDdnVadTJ5TS13VVlQSkJ6WC13c0Z3WGp5Ym5TYXlhNE5GWGM2YWhXT1BIUTF3ZENvSi1iWmoydUNKeFp0SXIwUzh6MkpjbF83dDZuYjFiRG9kN3dIdzjSAbwBQVVfeXFMUGloS1BMMGZhOTNYaTBJaXdQRXhVZi10U09ESHpLZEVUcXEtS2hpNVktaWR1SUE4THRVeGZ2UEdFRkpwS0poNlpLcXY2Zk1DdFNIU29CM2pseGJDLTZzMVN3dV9IUDhmMW0xWU9xRFVHNnFBMmpyZTMzejRuR21nNHdabjBhaU9uQWRwM0RHWFlJaTBPYWxIbHRMZVoya0sycUxoZ05reTFNRGxOdEtoeXVMRmZBblRSbkl0Q2I?oc=5",
-      "published_at": "2026-10-17T05:05:15+00:00",
-      "description": "Three Mexicans jailed for 158 years each for killing Australian, US surfers Al Jazeera Three men jailed for 158 years each for murdering Australian and US surfers in Mexico BBC Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ The Guardian Three men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico CNN Three sentenced to 158 years in Mexico for murder of Australian, US surfers Reuters",
-      "description_zh": "三名墨西哥人因杀害澳大利亚和美国冲浪者分别被判入狱 158 年 半岛电视台 三名男子因在墨西哥谋杀澳大利亚和美国冲浪者而各被判入狱 158 年 BBC 墨西哥法官因谋杀澳大利亚和美国冲浪者而判处三名男子 158 年监禁​ 《卫报》 三名男子因在墨西哥杀害澳大利亚和美国冲浪者而被判处 158 年以上监禁 CNN 三名男子因在墨西哥谋杀澳大利亚和美国冲浪者而被判处 158 年监禁美国冲浪者路透社",
+      "title": "As an Oregon community mourns 4 killed in school shooting, 2 wounded survivors remain hospitalized - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOa1dWRFZBRE9rakd3dTlLb2hKc3FocTN2N2ktUnI2aTE5SXd0cEpYb3ZGcjdKazdjSmJBa05IclhmQmxHRlF0dnFSc1c5QUFvemJKUW9UWWJ4VDFISEVJYktzYkxORXA2elRpdENmV1lhbm5udVFOQ2psMkJmS19tZTR4SFkza1lvMHB2NWx4UjE?oc=5",
+      "published_at": "2026-10-18T01:35:00+00:00",
+      "description": "As an Oregon community mourns 4 killed in school shooting, 2 wounded survivors remain hospitalized AP News Hero bystander took down Oregon school shooter, and a teacher tackled him, saving lives, police say CBS News As an Oregon community mourns 4 killed in school shooting, 2 survivors remain hospitalized KSL Silver Rail Elementary will remain closed until 'further notice' after deadly mass shooting KGW Oregon father is the latest armed civilian to confront a gunman in a U.S. mass shooting PBS",
+      "description_zh": "俄勒冈州社区哀悼校园枪击事件中的 4 人死亡，2 名受伤幸存者仍在住院 美联社新闻 英雄旁观者击倒了俄勒冈州学校枪击案凶手，一名老师制服了他，挽救了生命，警方称哥伦比亚广播公司新闻 俄勒冈州社区哀悼学校枪击事件中 4 人死亡，2 名幸存者仍在住院 KSL Silver Rail 小学将保持关闭，直至致命大规模枪击事件发生后“进一步通知” KGW 俄勒冈州的父亲是最新一位在枪击事件中与枪手对峙的武装平民美国公共广播公司大规模枪击事件",
       "keywords": [
-        "australian",
-        "surfers",
-        "three",
-        "years",
-        "jailed",
-        "each",
-        "mexicans",
-        "killing",
-        "jazeera",
-        "mexico"
+        "shooting",
+        "oregon",
+        "school",
+        "remain",
+        "hospitalized",
+        "community",
+        "survivors",
+        "mourns",
+        "killed",
+        "wounded"
       ],
       "keywords_zh": [
-        "澳大利亚人",
-        "冲浪者",
-        "三",
-        "年",
-        "入狱",
-        "每个",
-        "墨西哥人",
-        "造成死亡",
-        "半岛电视台",
-        "墨西哥"
+        "射击",
+        "俄勒冈州",
+        "学校",
+        "保持",
+        "住院治疗",
+        "社区",
+        "幸存者",
+        "哀悼",
+        "死亡",
+        "受伤的"
       ],
       "category": {
         "en": "Technology",
@@ -360,8 +360,8 @@
       "interpretation": {
         "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
         "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: australian, surfers, three, years, and jailed. The available excerpt says: Three Mexicans jailed for 158 years each for killing Australian, US surfers Al Jazeera Three men jailed for 158 years each for murdering Australian and US surfers in Mexico BBC Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​ The Guardian Three men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico CNN Three sentenced to 158 years in Mexico for murder of Australian, US surfers Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：澳大利亚人、冲浪者、三、年、入狱。RSS 中文摘要显示：三名墨西哥人因杀害澳大利亚和美国冲浪者分别被判入狱 158 年 半岛电视台 三名男子因在墨西哥谋杀澳大利亚和美国冲浪者而各被判入狱 158 年 BBC 墨西哥法官因谋杀澳大利亚和美国冲浪者而判处三名男子 158 年监禁​ 《卫报》 三名男子因在墨西哥杀害澳大利亚和美国冲浪者而被判处 158 年以上监禁 CNN 三名男子因在墨西哥谋杀澳大利亚和美国冲浪者而被判处 158 年监禁美国冲浪者路透社 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "detailed_en": "Key signals: shooting, oregon, school, remain, and hospitalized. The available excerpt says: As an Oregon community mourns 4 killed in school shooting, 2 wounded survivors remain hospitalized AP News Hero bystander took down Oregon school shooter, and a teacher tackled him, saving lives, police say CBS News As an Oregon community mourns 4 killed in school shooting, 2 survivors remain hospitalized KSL Silver Rail Elementary will remain closed until 'further notice' after deadly mass shooting KGW Oregon father is the latest armed civilian to confront a gunman in a U.S. mass shooting PBS Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：射击、俄勒冈州、学校、保持、住院治疗。RSS 中文摘要显示：俄勒冈州社区哀悼校园枪击事件中的 4 人死亡，2 名受伤幸存者仍在住院 美联社新闻 英雄旁观者击倒了俄勒冈州学校枪击案凶手，一名老师制服了他，挽救了生命，警方称哥伦比亚广播公司新闻 俄勒冈州社区哀悼学校枪击事件中 4 人死亡，2 名幸存者仍在住院 KSL Silver Rail 小学将保持关闭，直至致命大规模枪击事件发生后“进一步通知” KGW 俄勒冈州的父亲是最新一位在枪击事件中与枪手对峙的武装平民美国公共广播公司大规模枪击事件 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
         "what_to_watch_en": [
           "regulatory reaction",
           "enterprise adoption",
@@ -376,141 +376,140 @@
     },
     {
       "rank": 8,
-      "title": "Norte Fire burning near San Juan Capistrano prompts evacuation orders as flames threaten homes - CBS News",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUc5Vko0TFBRVmFfYlpHTUo4TXdzbDNuWUY5NnFaRTF3ekdJWUVVLW1rUzdCTGJNQ1k3dkhWR3RVQmdOcVdOTURXQU1WUmZWcDBFUU1KbEdrUjlpcjNBclhxcHJvdWJLVXJJTFE0WjY3aXlWLUpKRGJjNG1KT09tdmlFVXpRamFjME5mM2hKeVZYaV9QNkJBag?oc=5",
-      "published_at": "2026-10-17T02:02:52+00:00",
-      "description": "Norte Fire burning near San Juan Capistrano prompts evacuation orders as flames threaten homes CBS News Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal ABC7 Los Angeles Update: Norte Fire burns 465 acres in Orange County since Oct. 16 Sacramento Bee All the wildfires burning across Southern California right now KTLA New wildfire in Southern California explodes in size, burning multiple homes CNN",
-      "description_zh": "圣胡安卡皮斯特拉诺附近燃烧的北火引发疏散命令，因为火焰威胁到房屋 CBS 新闻 灌木丛火灾引发洛杉矶和奥兰治县的疏散，圣安娜风横扫南加州 ABC7 洛杉矶更新：自 10 月 16 日以来，北火在奥兰治县烧毁了 465 英亩土地 Sacramento Bee 目前南加州各地正在燃烧的所有野火 KTLA 南加州新的野火规模扩大，烧毁了多所房屋 CNN",
+      "title": "Boy and man killed, 10 injured after woman drives through youth soccer game in Wichita, Kansas - NBC News",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZlBhSnIwQ0pGeWxqR29oT0Jya1hhS3pfWFg0RDdTcHUxVVptYXVsMlBRRUJnaWw1OUtlMXdicFVqVzJqTlctNE1IaGVmUHBNQXZvVFF5VjBlWnpOSUZQSmlydUFrYUNsYkpMOUN3cnpxYVFLWUR4Yl8xNlNuemg5NnZoQ1JveGNtNUdNaHZVN1NIcDA?oc=5",
+      "published_at": "2026-10-18T00:09:00+00:00",
+      "description": "Boy and man killed, 10 injured after woman drives through youth soccer game in Wichita, Kansas NBC News 6-year-old boy and man killed, 11 injured after truck drives through soccer game in Wichita KAKE Vehicle drives through soccer field during game in Kansas, killing 2 and injuring more Yahoo Police: 6-year-old boy, 35-year-old man killed in crash at Stryker Sports Complex KWCH Kansas leaders react to Stryker Sports Complex mass casualty KSN-TV",
+      "description_zh": "堪萨斯州威奇托市一名妇女驾车驶过青少年足球比赛，导致男孩和男子死亡，10 人受伤 NBC 新闻 卡车驶过威奇托足球比赛后，6 岁男孩和男子死亡，11 人受伤 KAKE 堪萨斯州比赛期间，车辆驶过足球场，导致 2 人死亡、多人受伤 雅虎警方：6 岁男孩和 35 岁男子在 Stryker 体育中心撞车事故中丧生 KWCH 堪萨斯州领导人对 Stryker 体育中心做出反应大规模伤亡 KSN-TV",
       "keywords": [
-        "burning",
-        "norte",
-        "homes",
-        "fire",
-        "capistrano",
-        "evacuation",
-        "threaten",
-        "prompts",
-        "orders",
-        "flames"
+        "through",
+        "killed",
+        "drives",
+        "soccer",
+        "kansas",
+        "game",
+        "boy",
+        "man",
+        "injured",
+        "wichita"
       ],
       "keywords_zh": [
-        "燃烧",
-        "北",
-        "家园",
-        "火",
-        "卡皮斯特拉诺",
-        "疏散",
-        "威胁",
-        "提示",
-        "订单",
-        "火焰"
+        "通过",
+        "死亡",
+        "驱动器",
+        "足球",
+        "堪萨斯州",
+        "游戏",
+        "男生",
+        "男人",
+        "受伤",
+        "威奇托"
       ],
       "category": {
-        "en": "Climate, environment, and safety",
-        "zh": "气候、环境与安全"
+        "en": "Public safety and society",
+        "zh": "公共安全与社会"
       },
       "interpretation": {
-        "summary_en": "This story concerns environmental risk, infrastructure safety, or public emergency response.",
-        "summary_zh": "这条新闻关系到环境风险、基础设施安全或公共应急响应。",
-        "detailed_en": "Key signals: burning, norte, homes, fire, and capistrano. The available excerpt says: Norte Fire burning near San Juan Capistrano prompts evacuation orders as flames threaten homes CBS News Brush fires trigger evacuations in Los Angeles, Orange counties amid Santa Ana winds across SoCal ABC7 Los Angeles Update: Norte Fire burns 465 acres in Orange County since Oct. 16 Sacramento Bee All the wildfires burning across Southern California right now KTLA New wildfire in Southern California explodes in size, burning multiple homes CNN Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.",
-        "detailed_zh": "关键词信号：燃烧、北、家园、火、卡皮斯特拉诺。RSS 中文摘要显示：圣胡安卡皮斯特拉诺附近燃烧的北火引发疏散命令，因为火焰威胁到房屋 CBS 新闻 灌木丛火灾引发洛杉矶和奥兰治县的疏散，圣安娜风横扫南加州 ABC7 洛杉矶更新：自 10 月 16 日以来，北火在奥兰治县烧毁了 465 英亩土地 Sacramento Bee 目前南加州各地正在燃烧的所有野火 KTLA 南加州新的野火规模扩大，烧毁了多所房屋 CNN 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。",
+        "summary_en": "This story centers on harm to people, emergency response, or social disruption.",
+        "summary_zh": "这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。",
+        "detailed_en": "Key signals: through, killed, drives, soccer, and kansas. The available excerpt says: Boy and man killed, 10 injured after woman drives through youth soccer game in Wichita, Kansas NBC News 6-year-old boy and man killed, 11 injured after truck drives through soccer game in Wichita KAKE Vehicle drives through soccer field during game in Kansas, killing 2 and injuring more Yahoo Police: 6-year-old boy, 35-year-old man killed in crash at Stryker Sports Complex KWCH Kansas leaders react to Stryker Sports Complex mass casualty KSN-TV Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.",
+        "detailed_zh": "关键词信号：通过、死亡、驱动器、足球、堪萨斯州。RSS 中文摘要显示：堪萨斯州威奇托市一名妇女驾车驶过青少年足球比赛，导致男孩和男子死亡，10 人受伤 NBC 新闻 卡车驶过威奇托足球比赛后，6 岁男孩和男子死亡，11 人受伤 KAKE 堪萨斯州比赛期间，车辆驶过足球场，导致 2 人死亡、多人受伤 雅虎警方：6 岁男孩和 35 岁男子在 Stryker 体育中心撞车事故中丧生 KWCH 堪萨斯州领导人对 Stryker 体育中心做出反应大规模伤亡 KSN-TV 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。",
         "what_to_watch_en": [
-          "damage assessment",
-          "public safety advisories",
-          "policy or infrastructure reviews"
+          "official investigation",
+          "confirmed casualty numbers",
+          "prevention measures"
         ],
         "what_to_watch_zh": [
-          "损害评估",
-          "公共安全提示",
-          "政策或基础设施复盘"
+          "官方调查",
+          "确认伤亡数字",
+          "预防措施"
         ]
       }
     },
     {
       "rank": 9,
-      "title": "California congressman mailed envelope with ‘suspicious powder’ as FBI probes letters with DSA-linked address - New York Post",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVVZRTBHR2ZnNnI5M2trNUZPaEYyU0dPdjhHNlBLdEowU3VMZzE4eWZlY2hRTXk0NkJ6U3R3aUFNVTY1b2F5Q0dyUkFLdGEzbVZWZUVmTVJ2RUZTUFJ4ZGN5RkF0emlWX0NETTNhc1hEdC15THRSQ3RVbWlBVENnZ1o4M3pCNEQ3RFZiaGRaY2FLVDVsam81NFRMUmMwNlNJUFBWQg?oc=5",
-      "published_at": "2026-10-17T01:55:00+00:00",
-      "description": "California congressman mailed envelope with ‘suspicious powder’ as FBI probes letters with DSA-linked address New York Post Authorities investigate letters with 'suspicious substances' sent to congressional, election offices Yahoo Letters with unidentified substance sent to Sen. Klobuchar, Rep. Morrison and Minnesota secretary of state CBS News FBI reacts after Alabama secretary of state’s office gets latest suspicious package WSFA Nebraska Secretary of State’s Office reports receiving suspicious envelope KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE",
-      "description_zh": "加州议员邮寄了装有“可疑粉末”的信封，联邦调查局正在调查与 DSA 相关的地址的信件 纽约邮报当局调查了发送给国会和选举办公室的含有“可疑物质”的信件 雅虎 发送给参议员克洛布查尔、众议员莫里森和明尼苏达州国务卿的带有不明物质的信件 哥伦比亚广播公司新闻 阿拉巴马州国务卿办公室收到最新可疑包裹后，联邦调查局做出反应 WSFA 内布拉斯加州国务卿办公室报告收到可疑信封内布拉斯加州当地新闻、天气、体育 |内布拉斯加州林肯",
+      "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3Znc0NqYlJ2Y2MwME81SURwLU5wTkJwcDdwdTBXaG1XRlZmQVlmRFcwNVg1T3lFekhIbU9HT3h0UUVqUVNkRkppSnh1OG5EY0g5T3BiTFNTQXh0MGk5Yk9FMkMtZmoxNzVVNFFVMFJSMEUwWWUySkVSQXNqeUlzYzFXY2JuNXBiZnRrdTlpR0hRd3BtSFFqZzVKaVRlVnlIQnRPeXlJb2RIS3VhOVpITlZBVWJVYTBKYWJsRC1n?oc=5",
+      "published_at": "2026-10-17T19:58:23+00:00",
+      "description": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings The New York Times Three men jailed for 158 years each for murdering Australian brothers and US friend in Mexico BBC Three men get 158 years each for murdering American and Australian surfers, dumping bodies in Mexican well Fox News 3 men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico ABC News - Breaking News, Latest News and Videos Mexican killers of U.S., Australian surfers sentenced to 158 years in prison CBS News",
+      "description_zh": "墨西哥法官因冲浪者杀戮案判处 3 名男子每人 159 年监禁 《纽约时报》 三名男子因在墨西哥谋杀澳大利亚兄弟和美国朋友而各被判处 158 年监禁 BBC 三名男子因谋杀美国和澳大利亚冲浪者并将尸体倾倒在墨西哥井中而各被判处 158 年监禁 福克斯新闻 三名男子因在墨西哥杀害澳大利亚和美国冲浪者而被判处 158 年以上 ABC 新闻 - 突发新闻、最新新闻和视频杀害美国和澳大利亚冲浪者的凶手被判处 158 年监禁 CBS 新闻",
       "keywords": [
-        "suspicious",
-        "letters",
-        "envelope",
-        "fbi",
-        "congressman",
-        "california",
-        "dsa-linked",
-        "address",
-        "mailed",
-        "powder"
+        "years",
+        "men",
+        "mexican",
+        "each",
+        "killings",
+        "australian",
+        "sentences",
+        "surfer",
+        "judge",
+        "surfers"
       ],
       "keywords_zh": [
-        "可疑的",
-        "字母",
-        "信封",
-        "联邦调查局",
-        "众议员",
-        "加利福尼亚州",
-        "DSA连接",
-        "地址",
-        "邮寄的",
-        "粉末"
+        "年",
+        "男人",
+        "墨西哥人",
+        "每个",
+        "杀戮",
+        "澳大利亚人",
+        "句子",
+        "冲浪者",
+        "法官"
       ],
       "category": {
-        "en": "Politics and governance",
-        "zh": "政治与治理"
+        "en": "Technology",
+        "zh": "科技"
       },
       "interpretation": {
-        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
-        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: suspicious, letters, envelope, fbi, and congressman. The available excerpt says: California congressman mailed envelope with ‘suspicious powder’ as FBI probes letters with DSA-linked address New York Post Authorities investigate letters with 'suspicious substances' sent to congressional, election offices Yahoo Letters with unidentified substance sent to Sen. Klobuchar, Rep. Morrison and Minnesota secretary of state CBS News FBI reacts after Alabama secretary of state’s office gets latest suspicious package WSFA Nebraska Secretary of State’s Office reports receiving suspicious envelope KOLN | Nebraska Local News, Weather, Sports | Lincoln, NE Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：可疑的、字母、信封、联邦调查局、众议员。RSS 中文摘要显示：加州议员邮寄了装有“可疑粉末”的信封，联邦调查局正在调查与 DSA 相关的地址的信件 纽约邮报当局调查了发送给国会和选举办公室的含有“可疑物质”的信件 雅虎 发送给参议员克洛布查尔、众议员莫里森和明尼苏达州国务卿的带有不明物质的信件 哥伦比亚广播公司新闻 阿拉巴马州国务卿办公室收到最新可疑包裹后，联邦调查局做出反应 WSFA 内布拉斯加州国务卿办公室报告收到可疑信封内布拉斯加州当地新闻、天气、体育 |内布拉斯加州林肯 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
+        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
+        "detailed_en": "Key signals: years, men, mexican, each, and killings. The available excerpt says: Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings The New York Times Three men jailed for 158 years each for murdering Australian brothers and US friend in Mexico BBC Three men get 158 years each for murdering American and Australian surfers, dumping bodies in Mexican well Fox News 3 men sentenced to more than 158 years for the killings of Australian, US surfers in Mexico ABC News - Breaking News, Latest News and Videos Mexican killers of U.S., Australian surfers sentenced to 158 years in prison CBS News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：年、男人、墨西哥人、每个、杀戮。RSS 中文摘要显示：墨西哥法官因冲浪者杀戮案判处 3 名男子每人 159 年监禁 《纽约时报》 三名男子因在墨西哥谋杀澳大利亚兄弟和美国朋友而各被判处 158 年监禁 BBC 三名男子因谋杀美国和澳大利亚冲浪者并将尸体倾倒在墨西哥井中而各被判处 158 年监禁 福克斯新闻 三名男子因在墨西哥杀害澳大利亚和美国冲浪者而被判处 158 年以上 ABC 新闻 - 突发新闻、最新新闻和视频杀害美国和澳大利亚冲浪者的凶手被判处 158 年监禁 CBS 新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
         "what_to_watch_en": [
-          "polling or vote margins",
-          "party reactions",
-          "policy promises after the result"
+          "regulatory reaction",
+          "enterprise adoption",
+          "security or privacy consequences"
         ],
         "what_to_watch_zh": [
-          "民调或票差",
-          "党派反应",
-          "结果后的政策承诺"
+          "监管反应",
+          "企业采用情况",
+          "安全或隐私后果"
         ]
       }
     },
     {
       "rank": 10,
-      "title": "Policing of France’s school protests clouds Macron’s final months and sparks uproar - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORTdIUU5zQlFVS0tTajhEZWNKWVFhejdpRWlrSGJfVm1RS19iVENTVEJGZTFySWZBUzNxZGFtaEw5YVdHYTQtMGJaWW9yMGZaR1ZiNHpUUVAySjVmWlpPQkxNeDZXbWVfcjdGcENLVkhBWUpTUmx1QnZDOXRmWEx1WUFrdUtjc2laVDZtVGo0YUtkZDEyLTJkd1dXTmlYWi04Yzc5QTgtWVVlSTFpT1ZQTWUyUk8?oc=5",
-      "published_at": "2026-10-16T09:15:00+00:00",
-      "description": "Policing of France’s school protests clouds Macron’s final months and sparks uproar AP News Students, trade unions and Yellow Vests set to protest across France Reuters The 53-Year-Old in a Suit Who’s the Face of France’s Youth Protests The New York Times A family at the heart of France's working-class anger Le Monde.fr French police accused over war-like injuries to teenagers in school protests | France The Guardian",
-      "description_zh": "法国学校抗议活动的监管给马克龙的最后几个月蒙上阴影，引发轩然大波 美联社新闻 学生、工会和黄背心将在法国各地举行抗议活动 路透社 53 岁穿西装的年轻人代表法国青年抗议活动 纽约时报 一个家庭是法国工人阶级愤怒的核心法国《卫报》",
+      "title": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RPSkdZZ0xrcm1MRkYySnVIVFRmRFN0UXBfV21jVlcxZ2xrUDloZlFYWE1Za0JnRXNHVXdRbWkzSVljckpwSmpUSzFsWHpCcV9YM2RTSGZZNEprQlNkSmFPQlgtYUZCejI3a3BuS2RmUEgwS3JmUUNIbkxvSzJoNUg3ckdsRUxvVE9BdTFBX0NUR3pYcThTQjBUb05tQ1V2QzlUR3JneGU5ZTB2Z0xPTGdUM2lSemFsQmc?oc=5",
+      "published_at": "2026-10-17T23:49:37+00:00",
+      "description": "US wants Israel to 'crack down' on settler violence in West Bank, Rubio says Reuters Son of Washington Post journalist beaten by settlers: ‘We were told Bezos is shocked, will intervene’ The Times of Israel Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar Al Jazeera Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank The New York Times Huckabee condemns Israeli settlers’ attack on Washington Post photojournalist The Hill",
+      "description_zh": "鲁比奥表示，美国希望以色列“打击”约旦河西岸定居者的暴力行为 路透社 《华盛顿邮报》记者被定居者殴打的儿子：“我们被告知贝索斯感到震惊，将进行干预” 《以色列时报》 强硬派以色列拉比对被盗巴勒斯坦橄榄的裁决引发轩然大波 半岛电视台 以色列定居者袭击约旦河西岸的巴勒斯坦人和《华盛顿邮报》记者 《纽约时报》哈卡比谴责以色列定居者对《华盛顿邮报》摄影记者 The Hill 的袭击",
       "keywords": [
-        "france",
-        "protests",
-        "school",
-        "policing",
-        "clouds",
-        "macron",
-        "months",
-        "sparks",
-        "uproar",
-        "final"
+        "israel",
+        "west",
+        "bank",
+        "violence",
+        "settler",
+        "wants",
+        "crack",
+        "down",
+        "rubio",
+        "washington"
       ],
       "keywords_zh": [
-        "法国",
-        "抗议",
-        "学校",
-        "治安",
-        "云",
-        "马克龙",
-        "月",
-        "火花",
-        "喧哗",
-        "最终的"
+        "以色列",
+        "西方",
+        "银行",
+        "暴力",
+        "定居者",
+        "想要",
+        "裂缝",
+        "向下",
+        "卢比奥",
+        "华盛顿"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -519,8 +518,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: france, protests, school, policing, and clouds. The available excerpt says: Policing of France’s school protests clouds Macron’s final months and sparks uproar AP News Students, trade unions and Yellow Vests set to protest across France Reuters The 53-Year-Old in a Suit Who’s the Face of France’s Youth Protests The New York Times A family at the heart of France's working-class anger Le Monde.fr French police accused over war-like injuries to teenagers in school protests | France The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：法国、抗议、学校、治安、云。RSS 中文摘要显示：法国学校抗议活动的监管给马克龙的最后几个月蒙上阴影，引发轩然大波 美联社新闻 学生、工会和黄背心将在法国各地举行抗议活动 路透社 53 岁穿西装的年轻人代表法国青年抗议活动 纽约时报 一个家庭是法国工人阶级愤怒的核心法国《卫报》 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: israel, west, bank, violence, and settler. The available excerpt says: US wants Israel to 'crack down' on settler violence in West Bank, Rubio says Reuters Son of Washington Post journalist beaten by settlers: ‘We were told Bezos is shocked, will intervene’ The Times of Israel Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar Al Jazeera Israeli Settlers Attack Palestinians and Washington Post Journalist in West Bank The New York Times Huckabee condemns Israeli settlers’ attack on Washington Post photojournalist The Hill Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：以色列、西方、银行、暴力、定居者。RSS 中文摘要显示：鲁比奥表示，美国希望以色列“打击”约旦河西岸定居者的暴力行为 路透社 《华盛顿邮报》记者被定居者殴打的儿子：“我们被告知贝索斯感到震惊，将进行干预” 《以色列时报》 强硬派以色列拉比对被盗巴勒斯坦橄榄的裁决引发轩然大波 半岛电视台 以色列定居者袭击约旦河西岸的巴勒斯坦人和《华盛顿邮报》记者 《纽约时报》哈卡比谴责以色列定居者对《华盛顿邮报》摄影记者 The Hill 的袭击 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
