@@ -1,39 +1,92 @@
 {
-  "generated_at": "2026-10-23T09:00:52+00:00",
+  "generated_at": "2026-10-24T08:34:23+00:00",
   "timezone": "UTC",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn - The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQY0J6anQ4RjZXTDhIdVNWR1JZdHdIc3dJdWhlMDdMdjBqSExXWDFDOEVtT1Bpdl9IU2NMVE5PSE53U3ZxOEo3VkpoSzdKcjRRNHFnbW9IY1N6RjZobnZmT0RtdjlTOXVFbERnTjNMTUY2NXh6WWM0YlVYbnlSOE9TLUxoSFdvUEMzMVZNdFhxRjcxNnJfSGNsRFp2aWNYUkxjY3lEWkstX1VDeEtoWUEyaXJWUkRNSjFLVFdKNFVhT3E?oc=5",
-      "published_at": "2026-10-23T04:01:00+00:00",
-      "description": "Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn The Guardian ‘Worst on record’: Brutal summer heat wave killed more than 50,000 in Europe’s cities CNN Summer Heatwaves Linked To 50,000 Deaths In Europe, Study Finds Forbes Heat Waves Killed an Estimated 50,000 in European Cities, a Likely Record The New York Times Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths NPR",
-      "description_zh": "科学家警告《卫报》，今年夏天，高温造成欧洲城市 5 万人死亡，“创下历史新高”：残酷的夏季热浪在欧洲城市造成 5 万人死亡 CNN 夏季热浪导致欧洲 5 万人死亡，研究发现福布斯估计欧洲城市有 5 万人因热浪死亡，这可能是创纪录的记录 纽约时报 欧洲高温声称50,000条生命。 NPR 将三分之二的死亡归咎于气候变化",
+      "title": "Paris shuts museums and police deploy in big numbers for new protests across France - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWFhXb1VmdWxKRzJmZnRpSGpJTk40b3JoTldmR0FjTW9nWWxibmNBOTJCN1NNa1IyenIycmtueTVnVHhaR19YOUU3TkE2ODBHRFFlRWdDYVZzVWY0MVlqV0dTOHlkaTdEbmxkdnFNMnJicVFjSkhYUVdOaGFYYU5jVEQ5VEhRUU5tWlJjZ1pzOE5GQQ?oc=5",
+      "published_at": "2026-10-24T04:59:00+00:00",
+      "description": "Paris shuts museums and police deploy in big numbers for new protests across France AP News Ruins of Limoges city hall a symbol of France divided by national protests BBC Paris museums close, stores put up barricades as France prepares for more protests CBS News France's Macron tightens curbs on protests, blaming hard left for unrest Reuters Live: France braces for fresh wave of protests amid high tensions France 24",
+      "description_zh": "巴黎关闭博物馆，并在法国各地部署大批警察 美联社新闻 利摩日市政厅废墟是法国因全国性抗议而分裂的象征 BBC 巴黎博物馆关闭，商店设置路障，法国准备举行更多抗议 CBS 新闻 法国马克龙加强对抗议活动的限制，将骚乱归咎于极左派 路透社直播：法国在高度紧张的情况下准备迎接新一波抗议 France 24",
       "keywords": [
-        "heat",
-        "killed",
-        "europe",
-        "cities",
-        "summer",
-        "staggering",
-        "scientists",
-        "people",
-        "warn",
-        "record"
+        "protests",
+        "france",
+        "museums",
+        "paris",
+        "numbers",
+        "police",
+        "deploy",
+        "across",
+        "shuts",
+        "big"
       ],
       "keywords_zh": [
-        "热",
-        "死亡",
-        "欧洲",
-        "城市",
-        "夏天",
-        "令人震惊的",
-        "科学家",
-        "人们",
-        "警告",
-        "记录"
+        "抗议",
+        "法国",
+        "博物馆",
+        "巴黎",
+        "数字",
+        "警察",
+        "部署",
+        "穿过",
+        "关闭",
+        "大的"
+      ],
+      "category": {
+        "en": "Global affairs",
+        "zh": "全球事务"
+      },
+      "interpretation": {
+        "summary_en": "This story is drawing attention because it may signal a broader public concern or changing global trend.",
+        "summary_zh": "这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。",
+        "detailed_en": "Key signals: protests, france, museums, paris, and numbers. The available excerpt says: Paris shuts museums and police deploy in big numbers for new protests across France AP News Ruins of Limoges city hall a symbol of France divided by national protests BBC Paris museums close, stores put up barricades as France prepares for more protests CBS News France's Macron tightens curbs on protests, blaming hard left for unrest Reuters Live: France braces for fresh wave of protests amid high tensions France 24 Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.",
+        "detailed_zh": "关键词信号：抗议、法国、博物馆、巴黎、数字。RSS 中文摘要显示：巴黎关闭博物馆，并在法国各地部署大批警察 美联社新闻 利摩日市政厅废墟是法国因全国性抗议而分裂的象征 BBC 巴黎博物馆关闭，商店设置路障，法国准备举行更多抗议 CBS 新闻 法国马克龙加强对抗议活动的限制，将骚乱归咎于极左派 路透社直播：法国在高度紧张的情况下准备迎接新一波抗议 France 24 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。",
+        "what_to_watch_en": [
+          "follow-up reporting",
+          "official statements",
+          "regional or market reaction"
+        ],
+        "what_to_watch_zh": [
+          "后续报道",
+          "官方声明",
+          "地区或市场反应"
+        ]
+      }
+    },
+    {
+      "rank": 2,
+      "title": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQmxvaUpMTUR1QlpFdTFCM21oR2ZqYmwzWUVrSFpBYmZLYlFjWV9yc3NTX1BjTnZndGl1d2N4OG52MlVJenJKNkxKUW9aR3lZaGtvVzJ1UzhCeDh2X3hQcFRJVklIZ2N5X3drTHk0YVpFTmNKcGN6WDlpQ294WE5TNUhBT0g0NFJjSDhmek9yMU0zNGRMeU1mZ1ZkME13QUJ1aGFMR0gtOWVqcG50SFZQNWdUVlZxV01wNUNWc2gwZlp3VVhoZDc3VnIwcWdQSGhVOWFWUUE3ZndMTDIz?oc=5",
+      "published_at": "2026-10-24T00:43:00+00:00",
+      "description": "EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say Reuters Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions WSJ Ukraine Says Restrictions on Starlink Speed Have Been Lifted Bloomberg.com Ukrainian officials say Starshield restrictions still in place, despite Trump’s claims CNN How Starlink slowdown hit Ukraine’s front line soldiers pushing Russia back NBC News",
+      "description_zh": "独家：消息人士称，美国多年来一直要求马斯克改变在乌克兰和中东的星链服务 - 路透中文网特朗普致电马斯克并要求他取消乌克兰星链限制 华尔街日报乌克兰称星链速度限制已取消 Bloomberg.com 乌克兰官员表示，尽管特朗普声称星盾限制仍然存在 CNN 星链减速如何影响乌克兰前线士兵击退俄罗斯 NBC新闻",
+      "keywords": [
+        "starlink",
+        "ukraine",
+        "exclusive",
+        "asked",
+        "musk",
+        "say",
+        "service",
+        "sources",
+        "middle",
+        "years"
+      ],
+      "keywords_zh": [
+        "星链",
+        "乌克兰",
+        "独家的",
+        "问",
+        "麝香",
+        "说",
+        "服务",
+        "来源",
+        "中间",
+        "年"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -42,8 +95,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: heat, killed, europe, cities, and summer. The available excerpt says: Heat killed ‘staggering’ 50,000 people in Europe’s cities this summer, scientists warn The Guardian ‘Worst on record’: Brutal summer heat wave killed more than 50,000 in Europe’s cities CNN Summer Heatwaves Linked To 50,000 Deaths In Europe, Study Finds Forbes Heat Waves Killed an Estimated 50,000 in European Cities, a Likely Record The New York Times Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths NPR Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：热、死亡、欧洲、城市、夏天。RSS 中文摘要显示：科学家警告《卫报》，今年夏天，高温造成欧洲城市 5 万人死亡，“创下历史新高”：残酷的夏季热浪在欧洲城市造成 5 万人死亡 CNN 夏季热浪导致欧洲 5 万人死亡，研究发现福布斯估计欧洲城市有 5 万人因热浪死亡，这可能是创纪录的记录 纽约时报 欧洲高温声称50,000条生命。 NPR 将三分之二的死亡归咎于气候变化 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: starlink, ukraine, exclusive, asked, and musk. The available excerpt says: EXCLUSIVE: US has for years asked Musk to alter Starlink service in Ukraine, Middle East, sources say Reuters Exclusive | Trump Called Musk and Asked Him to Lift Ukraine Starlink Restrictions WSJ Ukraine Says Restrictions on Starlink Speed Have Been Lifted Bloomberg.com Ukrainian officials say Starshield restrictions still in place, despite Trump’s claims CNN How Starlink slowdown hit Ukraine’s front line soldiers pushing Russia back NBC News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：星链、乌克兰、独家的、问、麝香。RSS 中文摘要显示：独家：消息人士称，美国多年来一直要求马斯克改变在乌克兰和中东的星链服务 - 路透中文网特朗普致电马斯克并要求他取消乌克兰星链限制 华尔街日报乌克兰称星链速度限制已取消 Bloomberg.com 乌克兰官员表示，尽管特朗普声称星盾限制仍然存在 CNN 星链减速如何影响乌克兰前线士兵击退俄罗斯 NBC新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -57,89 +110,36 @@
       }
     },
     {
-      "rank": 2,
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKaDg3UXZnbGZSa1NMWm94WEl0QTZPOS1RcWRBcjRxaHhpUW1QWUhvQk5qT0dIeHNkT3lsMWFQcGtFSlJ0aWJrVDR2WEVmcXBXVHdTWFVWUU9oN2M?oc=5",
-      "published_at": "2026-10-22T19:27:57+00:00",
-      "description": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother BBC Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad The Guardian Trump turns the GOP’s Ramaswamy ad headache into a migraine CNN Iowa GOP Senate candidate's condemnation of Ramaswamy ad puts her at odds with Trump ABC News - Breaking News, Latest News and Videos Donald Trump Backs Vivek Ramaswamy’s Ad Despite GOP Calls to Take It Down Yahoo",
-      "description_zh": "“这是卑鄙的”：艾米·阿克顿回应俄亥俄州攻击广告，其中她疏远的母亲 BBC 特朗普攻击俄亥俄州州长，呼吁拉马斯瓦米放弃“令人深感不安”的广告 《卫报》特朗普将共和党的拉马斯瓦米广告头痛变成偏头痛 CNN 爱荷华州共和党参议院候选人对拉马斯瓦米广告的谴责使她与特朗普产生分歧 ABC 新闻 - 突发新闻、最新新闻和视频 唐纳德·特朗普支持维韦克尽管共和党呼吁撤下拉马斯瓦米的广告 雅虎",
-      "keywords": [
-        "ohio",
-        "her",
-        "despicable",
-        "featuring",
-        "estranged",
-        "ramaswamy",
-        "responds",
-        "attack",
-        "mother",
-        "acton"
-      ],
-      "keywords_zh": [
-        "俄亥俄州",
-        "她",
-        "卑鄙",
-        "特色",
-        "疏远的",
-        "拉马斯瓦米",
-        "回应",
-        "袭击",
-        "母亲",
-        "阿克顿"
-      ],
-      "category": {
-        "en": "Politics and governance",
-        "zh": "政治与治理"
-      },
-      "interpretation": {
-        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
-        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: ohio, her, despicable, featuring, and estranged. The available excerpt says: 'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother BBC Trump attacks Ohio governor over call for Ramaswamy to drop ‘deeply troubling’ ad The Guardian Trump turns the GOP’s Ramaswamy ad headache into a migraine CNN Iowa GOP Senate candidate's condemnation of Ramaswamy ad puts her at odds with Trump ABC News - Breaking News, Latest News and Videos Donald Trump Backs Vivek Ramaswamy’s Ad Despite GOP Calls to Take It Down Yahoo Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：俄亥俄州、她、卑鄙、特色、疏远的。RSS 中文摘要显示：“这是卑鄙的”：艾米·阿克顿回应俄亥俄州攻击广告，其中她疏远的母亲 BBC 特朗普攻击俄亥俄州州长，呼吁拉马斯瓦米放弃“令人深感不安”的广告 《卫报》特朗普将共和党的拉马斯瓦米广告头痛变成偏头痛 CNN 爱荷华州共和党参议院候选人对拉马斯瓦米广告的谴责使她与特朗普产生分歧 ABC 新闻 - 突发新闻、最新新闻和视频 唐纳德·特朗普支持维韦克尽管共和党呼吁撤下拉马斯瓦米的广告 雅虎 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
-        "what_to_watch_en": [
-          "polling or vote margins",
-          "party reactions",
-          "policy promises after the result"
-        ],
-        "what_to_watch_zh": [
-          "民调或票差",
-          "党派反应",
-          "结果后的政策承诺"
-        ]
-      }
-    },
-    {
       "rank": 3,
-      "title": "Powerful earthquake in Tibet's Nagqu area leaves 16 dead - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HbFZ2QmxZN2szRDYzOXd2S205UFJrVlM3d2Z3bnpuZFpVOEVfWE9UM1BfWnNfMllodUpJN3JMVW43WmtyS1JCUnpMUVJOLXNKYU9COEZRZ3RoaEE?oc=5",
-      "published_at": "2026-10-23T05:16:37+00:00",
-      "description": "Powerful earthquake in Tibet's Nagqu area leaves 16 dead BBC Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports Reuters Powerful earthquake in Tibet kills at least 16 people Al Jazeera Rescuers search for survivors after deadly earthquake in China’s Tibet region Click2Houston Rescuers pull survivors from rubble after Tibet earthquake South China Morning Post",
-      "description_zh": "西藏那曲地区发生强烈地震，造成 16 人死亡 BBC 新华社报道，中国西藏发生 7 级地震，造成 16 人死亡 路透社 西藏发生强烈地震，造成至少 16 人死亡 半岛电视台救援人员在中国西藏地区发生致命地震后搜寻幸存者 Click2Houston 救援人员在西藏地震后从废墟中救出幸存者 南华早报",
+      "title": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYmtHSXQwRFhlWlZKbTU2TEhPODc5MERFTG9feGQwRUY1ZklES2JWS3UxTUxOelgxRExOSFdUWEJnVFFDX284OHNsZWxIUzBVRzdINlpRRVhIYlBTN3A4Q2JrYWFrZVZ0MEZGRXVXVXVKTW82dmgwRWROUHFXcVVPU0oxdkljc3lldHc?oc=5",
+      "published_at": "2026-10-24T03:46:54+00:00",
+      "description": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say The New York Times Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad Axios US discreetly moves diplomats and families from multiple Middle Eastern countries as escalation fears grow CNN Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast Bloomberg.com World in Brief: Iran’s “advanced” plans to kill Americans; Trump to cut more Canada tariffs The Economist",
+      "description_zh": "官员称，伊朗正计划袭击美国人的“后期”美国人；特朗普将进一步削减加拿大关税 - 经济学人",
       "keywords": [
-        "earthquake",
-        "powerful",
-        "tibet's",
-        "leaves",
-        "nagqu",
-        "tibet",
-        "area",
-        "dead",
-        "survivors",
-        "rescuers"
+        "advanced",
+        "iran",
+        "americans",
+        "officials",
+        "attacks",
+        "planning",
+        "stages",
+        "say",
+        "plots",
+        "kill"
       ],
       "keywords_zh": [
-        "地震",
-        "强大的",
-        "西藏的",
-        "树叶",
-        "nagqu",
-        "西藏",
-        "区域",
-        "死亡",
-        "幸存者",
-        "救援人员"
+        "先进的",
+        "伊朗",
+        "美国人",
+        "官员",
+        "袭击",
+        "规划",
+        "阶段",
+        "说",
+        "地块",
+        "杀"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -148,8 +148,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: earthquake, powerful, tibet's, leaves, and nagqu. The available excerpt says: Powerful earthquake in Tibet's Nagqu area leaves 16 dead BBC Earthquake of magnitude 7 strikes China's Tibet, killing 16, Xinhua reports Reuters Powerful earthquake in Tibet kills at least 16 people Al Jazeera Rescuers search for survivors after deadly earthquake in China’s Tibet region Click2Houston Rescuers pull survivors from rubble after Tibet earthquake South China Morning Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：地震、强大的、西藏的、树叶、nagqu。RSS 中文摘要显示：西藏那曲地区发生强烈地震，造成 16 人死亡 BBC 新华社报道，中国西藏发生 7 级地震，造成 16 人死亡 路透社 西藏发生强烈地震，造成至少 16 人死亡 半岛电视台救援人员在中国西藏地区发生致命地震后搜寻幸存者 Click2Houston 救援人员在西藏地震后从废墟中救出幸存者 南华早报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: advanced, iran, americans, officials, and attacks. The available excerpt says: Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say The New York Times Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad Axios US discreetly moves diplomats and families from multiple Middle Eastern countries as escalation fears grow CNN Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast Bloomberg.com World in Brief: Iran’s “advanced” plans to kill Americans; Trump to cut more Canada tariffs The Economist Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：先进的、伊朗、美国人、官员、袭击。RSS 中文摘要显示：官员称，伊朗正计划袭击美国人的“后期”美国人；特朗普将进一步削减加拿大关税 - 经济学人 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -164,88 +164,35 @@
     },
     {
       "rank": 4,
-      "title": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search - PBS",
-      "source": "PBS",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRExSWTdjUmgzREVtRVJZVk4taWtYeno3LVJOY1prTUx1T3V3LThsbTVRWU16TGswSG9pdjJoM0lpbkFCQk5FZzkycDlVZkNJeDZkR2NTVllZTnFFQ3Y1dDIwRjk5VXdMS2ZVNTFTVUE0YmdxYllmV1plSjBmTmxVQ19lXzVWNWRwRzN5QjY2UnV4LXBCOG9TRHpwZWNuMGs3dUNZY0tDemc2a29Bdk9Rc0JURFYxaHJoQVJPd2g1SdIBxAFBVV95cUxOS09mTmxkZTFKNDBIdXA0Nm1fcEphdWNNSHE5S0FreDB5N2lFR2VWNzRQaTBaNmUwZkhpVWxybFM0a1UxanlUSkg3bWhzLTNBT0NVSV94OFh0WGRkRGNPZ0ktYWxZYjdiZ0pCblZ5TXAwcmxYaV85eHZFNjNOaV9RYVJLNS0zLUJBbjFtQVdLMFdoeUJPWS1sWGduMFVFeWRHb25VNlRHWEp4dGNLQ1pmVlZvYlJTcTJsUGNBMDZJdnZpRTJi?oc=5",
-      "published_at": "2026-10-23T00:25:01+00:00",
-      "description": "Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search PBS Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out BBC Ilhan Omar is not the Minnesota congresswoman’s 'real name': sources Fox News Ilhan Omar responds to immigration fraud allegations after federal search of home WBFF Trump calls for Omar to resign, defends Ramaswamy campaign ad at Iowa rally Iowa Capital Dispatch",
-      "description_zh": "众议员伊尔汗·奥马尔 (Ilhan Omar) 表示，联邦搜查后她将搬出华盛顿特区的家 PBS 伊尔汗·奥马尔 (Ilhan Omar) 表示，黎明前对她家的“奇怪”突袭迫使她搬出 BBC 伊尔汗·奥马尔 (Ilhan Omar) 不是明尼苏达州女议员的“真名”：消息来源福克斯新闻 伊尔汗·奥马尔 (Ilhan Omar) 在联邦搜查住宅后回应移民欺诈指控 WBFF 特朗普呼吁奥马尔辞职，为爱荷华州集会上的拉马斯瓦米竞选广告辩护爱荷华资本调度",
+      "title": "Intelligence memo warns Iran plotting to kill Americans in Middle East - Financial Times",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQT3RsMHVNMnF5WlZJMXdwWUNELU1ibWhnUktvTm1sOEp0T1JmVlN0N0pDczRUeklQcUtrN0pnUmRJcGhZT0p0NVdyUnMxZ0d5cDkzcXZwM0tPYXFYUDljSGNURTI4LUtLWXExTlJZcEtTV21Gd2wtclNUWndfNFFLa2dtSUM?oc=5",
+      "published_at": "2026-10-24T02:49:04+00:00",
+      "description": "Intelligence memo warns Iran plotting to kill Americans in Middle East Financial Times Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say The New York Times Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad Axios US discreetly moves diplomats and families from multiple Middle Eastern countries as escalation fears grow CNN Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast Bloomberg.com",
+      "description_zh": "情报备忘录警告伊朗密谋在中东杀害美国人 《金融时报》 官员称，伊朗正计划袭击美国人的“高级阶段” 《纽约时报》独家报道：美国情报备忘录警告伊朗“高级”密谋杀害海外官员 随着局势升级的担忧加剧，Axios US 谨慎地转移了多个中东国家的外交官和家人 CNN 伊朗阴谋、胡塞武装袭击促使美国在中东下令离境 Bloomberg.com",
       "keywords": [
-        "omar",
-        "ilhan",
-        "home",
-        "her",
-        "federal",
-        "search",
-        "move",
-        "out",
-        "washington",
-        "rep"
+        "iran",
+        "americans",
+        "middle",
+        "warns",
+        "memo",
+        "kill",
+        "intelligence",
+        "financial",
+        "plotting",
+        "east"
       ],
       "keywords_zh": [
-        "奥马尔",
-        "伊尔汗",
-        "家",
-        "她",
-        "联邦",
-        "搜索",
-        "移动",
-        "出去",
-        "华盛顿",
-        "代表"
-      ],
-      "category": {
-        "en": "Politics and governance",
-        "zh": "政治与治理"
-      },
-      "interpretation": {
-        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
-        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: omar, ilhan, home, her, and federal. The available excerpt says: Rep. Ilhan Omar says she will move out of her Washington, DC, home after federal search PBS Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out BBC Ilhan Omar is not the Minnesota congresswoman’s 'real name': sources Fox News Ilhan Omar responds to immigration fraud allegations after federal search of home WBFF Trump calls for Omar to resign, defends Ramaswamy campaign ad at Iowa rally Iowa Capital Dispatch Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：奥马尔、伊尔汗、家、她、联邦。RSS 中文摘要显示：众议员伊尔汗·奥马尔 (Ilhan Omar) 表示，联邦搜查后她将搬出华盛顿特区的家 PBS 伊尔汗·奥马尔 (Ilhan Omar) 表示，黎明前对她家的“奇怪”突袭迫使她搬出 BBC 伊尔汗·奥马尔 (Ilhan Omar) 不是明尼苏达州女议员的“真名”：消息来源福克斯新闻 伊尔汗·奥马尔 (Ilhan Omar) 在联邦搜查住宅后回应移民欺诈指控 WBFF 特朗普呼吁奥马尔辞职，为爱荷华州集会上的拉马斯瓦米竞选广告辩护爱荷华资本调度 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
-        "what_to_watch_en": [
-          "polling or vote margins",
-          "party reactions",
-          "policy promises after the result"
-        ],
-        "what_to_watch_zh": [
-          "民调或票差",
-          "党派反应",
-          "结果后的政策承诺"
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "title": "Grenade exercise sparked deadly fire at Canada military base, army says - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2JZakhBd0REdzZBMlZ0cE5JQnRqekZaazl5VWNiRzVCR1hDMVpvY2M2Q3c1cXU4QnhrYmNhdmJyQklwNGo3Um9kLW8zUENqMUo0ai0zOVFUcDFrbDN0SDJ4ZGlMcjY5UVpzTkEyZ3ZSWjRqbjB1bU5BUW1KVFFhQTZSRkhDQWtOTkJTWThZbUFTZFZjMl8xYWFCejBBUDBRdVRxM1ZDY1VqQTRrUjhDMTJB0gG3AUFVX3lxTFBkMlpCM1JiWS1ENkJ4WHNjRXlDTkltd3dKYzlkUW1EY1dpWmdIMUp5RU40OHFUb1d5d1A2UGxYZjAtdFo0RGVoT1pldE1wNjJLVE8teDF1dlpXV3gycDBkR3gzdHk2bVVZR2JzODBhcHJOWjRPRWFDRnhmYVdDNnktX1M4SkFXMEQ2U3huOTRsWUgwY2NwSFp4U2RDSDlKcmxCREF4NVA2Z1djb1MwRzA0cVl3elRrQQ?oc=5",
-      "published_at": "2026-10-23T04:55:57+00:00",
-      "description": "Grenade exercise sparked deadly fire at Canada military base, army says Al Jazeera Blaze that killed 4 soldiers on Canadian military base sparked on grenade launcher range, officials say CBS News Canada Area presidency offers condolences after deadly military base fire Church News Prince Albert soldier killed in fire was living his childhood dream with military CBC Deadly fire at Canada military base was caused by live grenade exercise, army says Reuters",
-      "description_zh": "手榴弹演习在加拿大军事基地引发致命火灾，军方称半岛电视台大火造成加拿大军事基地4名士兵死亡，官员称哥伦比亚广播公司新闻加拿大地区主席在致命军事基地火灾后表示哀悼教会新闻在火灾中丧生的阿尔伯特亲王士兵正在与军方一起实现儿时的梦想加拿大军方称加拿大军事基地致命火灾是由现场手榴弹演习引起的路透社",
-      "keywords": [
-        "military",
-        "fire",
-        "base",
-        "grenade",
-        "deadly",
-        "canada",
-        "exercise",
-        "sparked",
-        "army",
-        "jazeera"
-      ],
-      "keywords_zh": [
-        "军事",
-        "火",
-        "根据",
-        "手榴弹",
-        "致命",
-        "加拿大",
-        "锻炼",
-        "sparked",
-        "军队",
-        "半岛电视台"
+        "伊朗",
+        "美国人",
+        "中间",
+        "警告",
+        "备忘录",
+        "杀",
+        "智力",
+        "金融的",
+        "绘图",
+        "东方"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -254,8 +201,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: military, fire, base, grenade, and deadly. The available excerpt says: Grenade exercise sparked deadly fire at Canada military base, army says Al Jazeera Blaze that killed 4 soldiers on Canadian military base sparked on grenade launcher range, officials say CBS News Canada Area presidency offers condolences after deadly military base fire Church News Prince Albert soldier killed in fire was living his childhood dream with military CBC Deadly fire at Canada military base was caused by live grenade exercise, army says Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：军事、火、根据、手榴弹、致命。RSS 中文摘要显示：手榴弹演习在加拿大军事基地引发致命火灾，军方称半岛电视台大火造成加拿大军事基地4名士兵死亡，官员称哥伦比亚广播公司新闻加拿大地区主席在致命军事基地火灾后表示哀悼教会新闻在火灾中丧生的阿尔伯特亲王士兵正在与军方一起实现儿时的梦想加拿大军方称加拿大军事基地致命火灾是由现场手榴弹演习引起的路透社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: iran, americans, middle, warns, and memo. The available excerpt says: Intelligence memo warns Iran plotting to kill Americans in Middle East Financial Times Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say The New York Times Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad Axios US discreetly moves diplomats and families from multiple Middle Eastern countries as escalation fears grow CNN Iran Plots, Houthi Attacks Spur US Departure Orders in Mideast Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：伊朗、美国人、中间、警告、备忘录。RSS 中文摘要显示：情报备忘录警告伊朗密谋在中东杀害美国人 《金融时报》 官员称，伊朗正计划袭击美国人的“高级阶段” 《纽约时报》独家报道：美国情报备忘录警告伊朗“高级”密谋杀害海外官员 随着局势升级的担忧加剧，Axios US 谨慎地转移了多个中东国家的外交官和家人 CNN 伊朗阴谋、胡塞武装袭击促使美国在中东下令离境 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -269,36 +216,89 @@
       }
     },
     {
-      "rank": 6,
-      "title": "Trump Rallies to Shore Up Iowa Senate Race for Ashley Hinson - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWGk4T0Z2eTRFR2pSM1Mzc3dqUW9JbW9nYlJOcE1pQVpQd2ozUmh3V0htYXIxUmNnc0t1VU9EZnhCOVhUWWlPWG8xT1ZuNHpMXzVHdm5wVUViMDF6WGdVY2VpVUdReFZzeXdlOFhjTGhoUjVRS2pkY2dyWmFTQXRUTndhUi1aQktR?oc=5",
-      "published_at": "2026-10-23T03:08:04+00:00",
-      "description": "Trump Rallies to Shore Up Iowa Senate Race for Ashley Hinson The New York Times Trump rallies in Iowa for Ashley Hinson, other GOP midterm candidates NBC News Watch: President Trump’s rally in Sioux City KTIV Trump puts focus on farmers in Iowa visit, as Republicans struggle on once-fertile ground CBS News In Iowa, Trump seeks to temper economic woes of farm country The Washington Post",
-      "description_zh": "特朗普集会支持爱荷华州参议院竞选阿什利·辛森 (Ashley Hinson) 《纽约时报》 特朗普在爱荷华州集会支持阿什利·辛森 (Ashley Hinson) 和其他共和党中期候选人 NBC 新闻观察：特朗普总统在苏城举行集会",
+      "rank": 5,
+      "title": "Fire engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat - CNN",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLYVNjc1RIWWRGa1laSkRUekhXdll4b1JET2o3WG51ZW5lYzlSajlUeDhLNl9xXzFzdUZzekt3akpLbTNINWp1U3RQc2I0blZHb0JyMUN6bXBHdDFyQ2ZiVms4SEk5MVRwaW5Md3hvdEhGU25EWDNiVERn?oc=5",
+      "published_at": "2026-10-24T05:01:03+00:00",
+      "description": "Fire engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat CNN Arrest made after fire at Hitler's famed Eagle's Nest retreat BBC Fire breaks out at Alpine retreat built for Hitler in Germany. A person is detained WRAL Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria The Guardian Suspect arrested as fire engulfs Hitler’s ‘Eagle’s Nest’ retreat, German police say NBC News",
+      "description_zh": "火灾吞没了希特勒的“鹰巢”山区度假胜地 CNN 在希特勒著名的鹰巢度假胜地发生火灾后逮捕了 BBC 德国为希特勒建造的阿尔卑斯山度假胜地发生火灾。一名男子被拘留 WRAL 大火吞没了希特勒位于巴伐利亚的“鹰巢”山间别墅 德国警方称，火灾吞没了希特勒“鹰巢”的山间别墅，《卫报》嫌疑人被捕",
       "keywords": [
-        "trump",
-        "iowa",
-        "rallies",
-        "ashley",
-        "hinson",
-        "senate",
-        "shore",
-        "race",
-        "once-fertile",
-        "republicans"
+        "retreat",
+        "hitler",
+        "fire",
+        "nest",
+        "engulfs",
+        "eagle",
+        "mountain",
+        "hitler's",
+        "detained",
+        "arrested"
       ],
       "keywords_zh": [
-        "特朗普",
-        "爱荷华州",
-        "集会",
-        "ashley",
-        "辛森",
-        "参议院",
-        "支撑",
-        "种族",
-        "曾经生育过的",
-        "共和党人"
+        "撤退",
+        "希特勒",
+        "火",
+        "巢",
+        "吞没",
+        "鹰",
+        "山",
+        "希特勒的",
+        "被拘留",
+        "被捕"
+      ],
+      "category": {
+        "en": "Technology",
+        "zh": "科技"
+      },
+      "interpretation": {
+        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
+        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
+        "detailed_en": "Key signals: retreat, hitler, fire, nest, and engulfs. The available excerpt says: Fire engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat CNN Arrest made after fire at Hitler's famed Eagle's Nest retreat BBC Fire breaks out at Alpine retreat built for Hitler in Germany. A person is detained WRAL Blaze engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat in Bavaria The Guardian Suspect arrested as fire engulfs Hitler’s ‘Eagle’s Nest’ retreat, German police say NBC News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：撤退、希特勒、火、巢、吞没。RSS 中文摘要显示：火灾吞没了希特勒的“鹰巢”山区度假胜地 CNN 在希特勒著名的鹰巢度假胜地发生火灾后逮捕了 BBC 德国为希特勒建造的阿尔卑斯山度假胜地发生火灾。一名男子被拘留 WRAL 大火吞没了希特勒位于巴伐利亚的“鹰巢”山间别墅 德国警方称，火灾吞没了希特勒“鹰巢”的山间别墅，《卫报》嫌疑人被捕 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "what_to_watch_en": [
+          "regulatory reaction",
+          "enterprise adoption",
+          "security or privacy consequences"
+        ],
+        "what_to_watch_zh": [
+          "监管反应",
+          "企业采用情况",
+          "安全或隐私后果"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrNnNzMVdVUEVmTDc1QVB0aGpSWTREdWFMY2g2QUQ5RExzMUxrdlNhdnd6ZGxJWWhnRGltX0kxOFZOMXNhVWI2aWhsaU1DMS1fR1FTT1E0V2lnVFU?oc=5",
+      "published_at": "2026-10-24T00:36:47+00:00",
+      "description": "White House lifts tariffs on some Canadian goods as midterm elections loom BBC Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins WSJ Donald Trump to cut Canadian tariffs after pressure from Republicans Financial Times Trump, seeking to help Maine’s Susan Collins, exempts some Canadian imports from his 50 percent tariffs The Boston Globe Trump administration cancels some Canada tariffs amid close midterm races NBC News",
+      "description_zh": "中期选举临近，白宫提高部分加拿大商品关税 BBC 特朗普取消对加拿大的部分关税，以帮助苏珊·柯林斯 华尔街日报 唐纳德·特朗普在共和党人的压力下削减加拿大关税 英国金融时报 特朗普寻求帮助缅因州的苏珊·柯林斯，免除部分加拿大进口商品的 50% 关税 波士顿环球报 特朗普政府在势均力敌的中期选举中取消了部分加拿大关税 NBC 新闻",
+      "keywords": [
+        "tariffs",
+        "some",
+        "canadian",
+        "midterm",
+        "elections",
+        "white",
+        "house",
+        "lifts",
+        "goods",
+        "trump"
+      ],
+      "keywords_zh": [
+        "关税",
+        "一些",
+        "加拿大人",
+        "期中考试",
+        "选举",
+        "白色的",
+        "房子",
+        "电梯",
+        "商品",
+        "特朗普"
       ],
       "category": {
         "en": "Politics and governance",
@@ -307,8 +307,8 @@
       "interpretation": {
         "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
         "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: trump, iowa, rallies, ashley, and hinson. The available excerpt says: Trump Rallies to Shore Up Iowa Senate Race for Ashley Hinson The New York Times Trump rallies in Iowa for Ashley Hinson, other GOP midterm candidates NBC News Watch: President Trump’s rally in Sioux City KTIV Trump puts focus on farmers in Iowa visit, as Republicans struggle on once-fertile ground CBS News In Iowa, Trump seeks to temper economic woes of farm country The Washington Post Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：特朗普、爱荷华州、集会、ashley、辛森。RSS 中文摘要显示：特朗普集会支持爱荷华州参议院竞选阿什利·辛森 (Ashley Hinson) 《纽约时报》 特朗普在爱荷华州集会支持阿什利·辛森 (Ashley Hinson) 和其他共和党中期候选人 NBC 新闻观察：特朗普总统在苏城举行集会 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "detailed_en": "Key signals: tariffs, some, canadian, midterm, and elections. The available excerpt says: White House lifts tariffs on some Canadian goods as midterm elections loom BBC Trump to Remove Some Tariffs on Canada in Bid to Help Susan Collins WSJ Donald Trump to cut Canadian tariffs after pressure from Republicans Financial Times Trump, seeking to help Maine’s Susan Collins, exempts some Canadian imports from his 50 percent tariffs The Boston Globe Trump administration cancels some Canada tariffs amid close midterm races NBC News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：关税、一些、加拿大人、期中考试、选举。RSS 中文摘要显示：中期选举临近，白宫提高部分加拿大商品关税 BBC 特朗普取消对加拿大的部分关税，以帮助苏珊·柯林斯 华尔街日报 唐纳德·特朗普在共和党人的压力下削减加拿大关税 英国金融时报 特朗普寻求帮助缅因州的苏珊·柯林斯，免除部分加拿大进口商品的 50% 关税 波士顿环球报 特朗普政府在势均力敌的中期选举中取消了部分加拿大关税 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
           "polling or vote margins",
           "party reactions",
@@ -323,35 +323,88 @@
     },
     {
       "rank": 7,
-      "title": "SpaceX investor: Starlink is ‘not reliable for national security for anybody but Trump’ - The Hill",
-      "source": "The Hill",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0pKSUR3V21LTGEzdnZmbGw4bjR6V2ZLNG1RclhWWXZLaTZYUGwybEV4U3VFMlNxUFdRZWJWX2RadnVMUktFbzY5eHJvLTg3eGU2RUczLU02RXB6Q0gwZzJ6dlVnNlk2N004UWVOcnRwUzhic3FWc0xiVWFTb0s4WU5nWGhtb3Ff0gGOAUFVX3lxTE9fSFBka0JfVlBsS280VHMzOGI4ajdXVHI0U0s0X0V6RWhXWFRPcjlxTDBjU25aaS1lOHpfZzRic0wzUFlaRklFZ0REUU5XMUVoRmxEVmJTWmFhcEp3ckhwSVVMZ0hkQ0R3UWFDcXBsSXZxTC15bUM4WjlyREVxbWhzMlZ5SmpDeEtiX0dsWXc?oc=5",
-      "published_at": "2026-10-22T22:11:00+00:00",
-      "description": "SpaceX investor: Starlink is ‘not reliable for national security for anybody but Trump’ The Hill Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine WSJ Trump claims Musk restored Starshield access, but Ukrainians say restrictions still in place CNN The America-Ukraine link grows even spottier The Economist US Democratic senator probes Ukraine's loss of Starshield service Reuters",
-      "description_zh": "SpaceX 投资者：星链“对于国家安全而言，除了特朗普之外，对任何人来说都不可靠”马斯克下令星链减速令乌克兰措手不及 华尔街日报 特朗普声称马斯克恢复了星盾访问，但乌克兰人表示限制仍然存在 CNN 美乌链接变得更加不稳定 经济学人 美国民主党参议员调查乌克兰失去星盾服务的情况 路透",
+      "title": "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdGRMR1JveUxtWjMxa3pQY2xnRmk4Z3ltWFVWaVNhN3VKU0xBUEVadFVMRjJiWk1GMkx0S1JVc19rVDM0T1ZJaHBheV9OUlpGLUtWdkxCNHlYQUVXRl9FRmF0UkhyNmlmVHd6emJwVEx3c1RMNGREUHZ6UEpVQXNrZENNbjBlOUNhN0VadURKWVQ?oc=5",
+      "published_at": "2026-10-23T23:14:00+00:00",
+      "description": "Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ The Guardian ‘I’m just a carpenter from Bend’: Father who killed Silver Rail school shooter grapples with the aftermath Oregon Public Broadcasting - OPB ‘I Have to Go In’: Kaylub Giamanco Describes Killing Gunman in Oregon School Shooting The New York Times ‘I have to go in,’ Bend school shooting hero told a 911 dispatcher. ‘People are going to die.’ CNN Bend School Shooter’s Mother Twice Accused of Assault but Never Convicted Willamette Week",
+      "description_zh": "杀害俄勒冈州学校枪击案凶手的父亲首次发声：“我必须进去”《卫报》“我只是本德的一名木匠”：杀害银轨学校枪击案凶手的父亲正在努力应对后果俄勒冈州公共广播 - OPB“我必须进去”：凯鲁布·贾曼科描述了在俄勒冈州学校枪击事件中杀死枪手的情况《纽约时报》“我必须进去，”本德学校枪击英雄告诉 911调度员。 “人们会死。” CNN Bend 学校枪击案凶手的母亲两次被指控袭击，但从未被定罪 Willamette Week",
       "keywords": [
-        "starlink",
-        "trump",
-        "investor",
-        "reliable",
-        "national",
-        "security",
-        "anybody",
-        "spacex",
-        "hill",
-        "starshield"
+        "school",
+        "shooter",
+        "oregon",
+        "father",
+        "killed",
+        "speaks",
+        "first",
+        "time",
+        "out",
+        "bend"
       ],
       "keywords_zh": [
-        "星链",
-        "特朗普",
-        "投资者",
-        "可靠的",
-        "国家的",
-        "安全",
-        "任何人",
-        "太空探索公司",
-        "爬坡道",
-        "星盾"
+        "学校",
+        "射手",
+        "俄勒冈州",
+        "父亲",
+        "死亡",
+        "说话",
+        "第一的",
+        "时间",
+        "出去",
+        "弯曲"
+      ],
+      "category": {
+        "en": "Technology",
+        "zh": "科技"
+      },
+      "interpretation": {
+        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
+        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
+        "detailed_en": "Key signals: school, shooter, oregon, father, and killed. The available excerpt says: Father who killed Oregon school shooter speaks out for first time: ‘I have to go in’ The Guardian ‘I’m just a carpenter from Bend’: Father who killed Silver Rail school shooter grapples with the aftermath Oregon Public Broadcasting - OPB ‘I Have to Go In’: Kaylub Giamanco Describes Killing Gunman in Oregon School Shooting The New York Times ‘I have to go in,’ Bend school shooting hero told a 911 dispatcher. ‘People are going to die.’ CNN Bend School Shooter’s Mother Twice Accused of Assault but Never Convicted Willamette Week Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：学校、射手、俄勒冈州、父亲、死亡。RSS 中文摘要显示：杀害俄勒冈州学校枪击案凶手的父亲首次发声：“我必须进去”《卫报》“我只是本德的一名木匠”：杀害银轨学校枪击案凶手的父亲正在努力应对后果俄勒冈州公共广播 - OPB“我必须进去”：凯鲁布·贾曼科描述了在俄勒冈州学校枪击事件中杀死枪手的情况《纽约时报》“我必须进去，”本德学校枪击英雄告诉 911调度员。 “人们会死。” CNN Bend 学校枪击案凶手的母亲两次被指控袭击，但从未被定罪 Willamette Week 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "what_to_watch_en": [
+          "regulatory reaction",
+          "enterprise adoption",
+          "security or privacy consequences"
+        ],
+        "what_to_watch_zh": [
+          "监管反应",
+          "企业采用情况",
+          "安全或隐私后果"
+        ]
+      }
+    },
+    {
+      "rank": 8,
+      "title": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVGJBZk42N0tFU1dHOFQ0V1VOeHZ5a2s1dTZHV25pUXFxLTVMYXFZd3pRV1REYVdJMFp6RnJfa0pDbm9ReHNuTEwzQk9DNXVWRklGcldpamJUekdRQVJyb2hZQ1d4WXBDSEtvNC1hNVhwZ0pXcnV5T0o0RkN2NG93c1I1U05XTEt3Q3JZRWpNdndCakJUTUdNTFBJUi1hU0lPZllsTDBjWEota3RTcnfSAbMBQVVfeXFMTnRaMGRtWmRKM2RsNS1rOFR4bl9HTTVnNkN5WklMa0xpUHYzampIZkFldVo5WVNVS010ak9HOHNfN2NacndHN29lSXZONGgtOE5fLUxsanZDN0E0UmhoWEtnV1gxOTZXdk9UTFNHemUwaHVPYkNOemFrdld4VEN5blFuRnJVUktGdThwNHVBWTh2bF9Vb3V6R1dfYWhiQ3RGNGdwbUtIelZmR1Vic2hVX2xEblk?oc=5",
+      "published_at": "2026-10-23T20:55:29+00:00",
+      "description": "Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says Al Jazeera Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels NPR Major Yemeni City Running Out of Food and Water as Houthis Encircle It The New York Times Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege Yahoo Water rationing, rubbish pile-up raise disease fears in Yemen's besieged Taiz Reuters",
+      "description_zh": "联合国表示，危机日益加深，到达也门塔伊兹的时间“不多了” 被胡塞叛军围困的也门城市饮用水供应减少 NPR 也门主要城市因胡塞武装包围而耗尽食物和水 《纽约时报》也门塔伊兹医院警告称，由于胡塞武装围攻，也门塔伊兹医院将在几天内倒塌 雅虎供水配给、垃圾堆积引发了也门被围困塔伊兹的疾病担忧路透社",
+      "keywords": [
+        "taiz",
+        "running",
+        "yemen",
+        "out",
+        "deepening",
+        "jazeera",
+        "crisis",
+        "reach",
+        "time",
+        "water"
+      ],
+      "keywords_zh": [
+        "塔伊兹",
+        "跑步",
+        "也门",
+        "出去",
+        "深化",
+        "半岛电视台",
+        "危机",
+        "抵达",
+        "时间",
+        "水"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -360,8 +413,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: starlink, trump, investor, reliable, and national. The available excerpt says: SpaceX investor: Starlink is ‘not reliable for national security for anybody but Trump’ The Hill Exclusive | Musk Ordered Starlink Slowdown That Blindsided Ukraine WSJ Trump claims Musk restored Starshield access, but Ukrainians say restrictions still in place CNN The America-Ukraine link grows even spottier The Economist US Democratic senator probes Ukraine's loss of Starshield service Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：星链、特朗普、投资者、可靠的、国家的。RSS 中文摘要显示：SpaceX 投资者：星链“对于国家安全而言，除了特朗普之外，对任何人来说都不可靠”马斯克下令星链减速令乌克兰措手不及 华尔街日报 特朗普声称马斯克恢复了星盾访问，但乌克兰人表示限制仍然存在 CNN 美乌链接变得更加不稳定 经济学人 美国民主党参议员调查乌克兰失去星盾服务的情况 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: taiz, running, yemen, out, and deepening. The available excerpt says: Time ‘running out’ to reach Yemen’s Taiz amid deepening crisis, UN says Al Jazeera Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels NPR Major Yemeni City Running Out of Food and Water as Houthis Encircle It The New York Times Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege Yahoo Water rationing, rubbish pile-up raise disease fears in Yemen's besieged Taiz Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：塔伊兹、跑步、也门、出去、深化。RSS 中文摘要显示：联合国表示，危机日益加深，到达也门塔伊兹的时间“不多了” 被胡塞叛军围困的也门城市饮用水供应减少 NPR 也门主要城市因胡塞武装包围而耗尽食物和水 《纽约时报》也门塔伊兹医院警告称，由于胡塞武装围攻，也门塔伊兹医院将在几天内倒塌 雅虎供水配给、垃圾堆积引发了也门被围困塔伊兹的疾病担忧路透社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -375,161 +428,108 @@
       }
     },
     {
-      "rank": 8,
-      "title": "France’s Emmanuel Macron says ‘illegitimate’ protests will be banned as cities block demonstrations - NBC News",
-      "source": "NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOV9BS3VFOWU4d2hZcDg4bTBtREtkN1lpYm5pSUFSanRqSWdOVXJsMEpJWkNrYTlWVUFBY3hXdGR3SnJHTjBpZENQWXhXaU9vQV9XMlBhV0w4RGthaE1mbmQ5MVlwNlk0VnJ1QlgxX3o0RGxQUFhNU3hRX0pLYmlaTktmX2NrLWZXc1RWd254cmdWNGhQVGI2bzF5cXZvX19YeXduRmd0UUVRdw?oc=5",
-      "published_at": "2026-10-22T11:31:36+00:00",
-      "description": "France’s Emmanuel Macron says ‘illegitimate’ protests will be banned as cities block demonstrations NBC News France's Macron tightens curbs on protests, blaming hard left for unrest Reuters Europe Today: France braces for fresh protests as EU leaders seek Hungary reset Euronews France’s devastation and its aftermath The Economist Is Paris Burning? The American Prospect",
-      "description_zh": "法国马克龙表示，随着城市封锁示威活动，“非法”抗议活动将被禁止 NBC新闻 法国马克龙加强对抗议活动的限制，将骚乱归咎于极左派 路透社 今日欧洲：欧盟领导人寻求匈牙利重置，法国准备迎接新的抗议活动 欧洲新闻 法国的破坏及其后果 经济学人 巴黎在燃烧吗？美国前景",
-      "keywords": [
-        "protests",
-        "france",
-        "macron",
-        "demonstrations",
-        "illegitimate",
-        "emmanuel",
-        "banned",
-        "cities",
-        "block",
-        "nbc"
-      ],
-      "keywords_zh": [
-        "抗议",
-        "法国",
-        "马克龙",
-        "示威",
-        "非法的",
-        "伊曼纽尔",
-        "禁止",
-        "城市",
-        "堵塞",
-        "全国广播公司"
-      ],
-      "category": {
-        "en": "Global affairs",
-        "zh": "全球事务"
-      },
-      "interpretation": {
-        "summary_en": "This story is drawing attention because it may signal a broader public concern or changing global trend.",
-        "summary_zh": "这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。",
-        "detailed_en": "Key signals: protests, france, macron, demonstrations, and illegitimate. The available excerpt says: France’s Emmanuel Macron says ‘illegitimate’ protests will be banned as cities block demonstrations NBC News France's Macron tightens curbs on protests, blaming hard left for unrest Reuters Europe Today: France braces for fresh protests as EU leaders seek Hungary reset Euronews France’s devastation and its aftermath The Economist Is Paris Burning? The American Prospect Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.",
-        "detailed_zh": "关键词信号：抗议、法国、马克龙、示威、非法的。RSS 中文摘要显示：法国马克龙表示，随着城市封锁示威活动，“非法”抗议活动将被禁止 NBC新闻 法国马克龙加强对抗议活动的限制，将骚乱归咎于极左派 路透社 今日欧洲：欧盟领导人寻求匈牙利重置，法国准备迎接新的抗议活动 欧洲新闻 法国的破坏及其后果 经济学人 巴黎在燃烧吗？美国前景 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。",
-        "what_to_watch_en": [
-          "follow-up reporting",
-          "official statements",
-          "regional or market reaction"
-        ],
-        "what_to_watch_zh": [
-          "后续报道",
-          "官方声明",
-          "地区或市场反应"
-        ]
-      }
-    },
-    {
       "rank": 9,
-      "title": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him? - The New York Times",
+      "title": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say - The New York Times",
       "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZTd5Q0ctSWhwUzFDT3dGbTZ6UGoxYmtFTDFpMVE3UXVCTXVpRFVQV0U2X3JoZ182SHF5MjdtNm5mTUFGWjdPejJheGV3X20zMjNfaWsyX2U4dGJGNGxWcnRnekZtLXNQYjAxanVxM3luUktmdnNsTzFHVEtiUTZ6R2p0Q09uSmtoZ3k0UTM2RQ?oc=5",
-      "published_at": "2026-10-23T04:01:13+00:00",
-      "description": "Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him? The New York Times See more headlines & perspectives on Google News",
-      "description_zh": "加迪·艾森科特与内塔尼亚胡非常不同。他能打败他吗？纽约时报 在 Google 新闻上查看更多头条新闻和观点",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNlJoOXZ4OHV6X3hNUTFnWnJveU5VWEVNWGhSMTRueHdwV09qZlowMkI5VlROQ0hKcUNXSHBkWmlyYmVIVUpENVhTc1BYRHVjU1R1Ymx2MDVWMHJVdmR1YzVjRWlQMzJuSXMwV3lZSmlYcDY4Ul9aMXcwYzZqS01CSkJuWXdWSmV4alE?oc=5",
+      "published_at": "2026-10-24T04:42:00+00:00",
+      "description": "Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say The New York Times Israel begins demolitions in West Bank city after two soldiers killed in shooting attack CNN Israel imposes closures across a West Bank city after attacks, and other Mideast news Click2Houston Netanyahu Calls for West Bank Lockdown After Deadly Attack WSJ Israel raids towns, detains dozens of Palestinians in occupied West Bank Al Jazeera",
+      "description_zh": "官员称巴勒斯坦枪手在西岸向以色列人开火 《纽约时报》 两名士兵在枪击事件中丧生后，以色列开始在西岸城市进行拆除 CNN 以色列在袭击后对西岸城市实施封锁，其他中东新闻 Click2Houston 内塔尼亚胡在致命袭击后呼吁封锁西岸 华尔街日报 以色列突袭城镇，在被占领的西岸拘留数十名巴勒斯坦人",
       "keywords": [
-        "netanyahu",
-        "eisenkot",
-        "couldn",
-        "unlike",
-        "gadi",
-        "beat",
-        "him",
-        "perspectives",
-        "headlines",
-        "google"
+        "west",
+        "bank",
+        "palestinian",
+        "officials",
+        "israelis",
+        "gunmen",
+        "open",
+        "fire",
+        "say",
+        "israel"
       ],
       "keywords_zh": [
-        "内塔尼亚胡",
-        "睾丸",
-        "不能",
-        "不像",
-        "加迪",
-        "打",
-        "他",
-        "观点",
-        "头条新闻",
-        "谷歌"
+        "西方",
+        "银行",
+        "巴勒斯坦人",
+        "官员",
+        "以色列人",
+        "枪手",
+        "打开",
+        "火",
+        "说",
+        "以色列"
       ],
       "category": {
-        "en": "Global affairs",
-        "zh": "全球事务"
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
       },
       "interpretation": {
-        "summary_en": "This story is drawing attention because it may signal a broader public concern or changing global trend.",
-        "summary_zh": "这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。",
-        "detailed_en": "Key signals: netanyahu, eisenkot, couldn, unlike, and gadi. The available excerpt says: Gadi Eisenkot Couldn’t Be More Unlike Netanyahu. Can He Beat Him? The New York Times See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.",
-        "detailed_zh": "关键词信号：内塔尼亚胡、睾丸、不能、不像、加迪。RSS 中文摘要显示：加迪·艾森科特与内塔尼亚胡非常不同。他能打败他吗？纽约时报 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。",
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: west, bank, palestinian, officials, and israelis. The available excerpt says: Palestinian Gunmen Open Fire on Israelis in the West Bank, Officials Say The New York Times Israel begins demolitions in West Bank city after two soldiers killed in shooting attack CNN Israel imposes closures across a West Bank city after attacks, and other Mideast news Click2Houston Netanyahu Calls for West Bank Lockdown After Deadly Attack WSJ Israel raids towns, detains dozens of Palestinians in occupied West Bank Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：西方、银行、巴勒斯坦人、官员、以色列人。RSS 中文摘要显示：官员称巴勒斯坦枪手在西岸向以色列人开火 《纽约时报》 两名士兵在枪击事件中丧生后，以色列开始在西岸城市进行拆除 CNN 以色列在袭击后对西岸城市实施封锁，其他中东新闻 Click2Houston 内塔尼亚胡在致命袭击后呼吁封锁西岸 华尔街日报 以色列突袭城镇，在被占领的西岸拘留数十名巴勒斯坦人 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
-          "follow-up reporting",
-          "official statements",
-          "regional or market reaction"
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
         ],
         "what_to_watch_zh": [
-          "后续报道",
-          "官方声明",
-          "地区或市场反应"
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
         ]
       }
     },
     {
       "rank": 10,
-      "title": "Hegseth staff damaged historic WWII-era Eisenhower globe trying to move it to his office - NBC News",
-      "source": "NBC News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbm84UDNoTmZENTRfcVZIeWdscU4wT0hUUl9kVzhlTWR3WWJKVmlfYTUyWG5STXpHcHQ2MTVHMzM0c2tiWDRHM0t2Q0diVzAwdGFLTFkwVkZvdkFpZ2EzNmQxRThwNDNFNlJxOFhlWDB6X1hHYXZ6MXFwODBHZDRsYThrOXEzdDU3NW9ocld1N3RyRmhuZDRhbFV6VHM4NlR0Z05sLU5nOEpqZlVyQTljaFFMSEpMMGpzVDZwUWphY1N5R0hkb1JB?oc=5",
-      "published_at": "2026-10-23T01:28:00+00:00",
-      "description": "Hegseth staff damaged historic WWII-era Eisenhower globe trying to move it to his office NBC News Hegseth wanted Eisenhower’s globe for his office. His staff broke it. The Washington Post Hegseth’s staff damages Eisenhower's WWII globe during move NPR 'Accidents happen': Hegseth's staff damage historical Eisenhower globe USA Today Pete Hegseth’s staff break priceless historic globe he requested for office The Guardian",
-      "description_zh": "赫格斯的工作人员试图将二战时期的艾森豪威尔地球仪搬到他的办公室，结果损坏了。 NBC 新闻赫格斯想要将艾森豪威尔地球仪放在他的办公室。他的工作人员打破了它。 《华盛顿邮报》赫格塞斯的工作人员在搬迁过程中损坏了艾森豪威尔的二战地球仪 NPR “意外发生”：赫格塞斯的工作人员损坏了历史悠久的艾森豪威尔地球仪 《今日美国》 皮特·赫格塞斯的工作人员打破了他要求担任职务的无价历史地球仪 《卫报》",
+      "title": "Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother - PBS",
+      "source": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVllZVYzS1A0MHc5Q0FheU5jd3FRcGg2S3N5dUlPZVgzVHFmblhqNGRfZ0xpNGViNWN1NExxNEdIVUdqWk1XRzVBLXN5RDBXbDdaSEd3NExsbTRISGRKV2lkT1JkTzVBSXZMQmM2cUVnRjJhLVZJZ2UtUUdFZHJudVRqekRlUzUwTU1yMkl1OXJpaEJkUWpTLVY3MXJDTlN1bDQ0QdIBqgFBVV95cUxQaUFzeGRJS3RaMXRidlRFVGM4ZDdLV3ptVXRDTzRTamVWQUZla0JpR1ZGQm5iVmlQWk50bkdpVWJHcHl1ZXFBVHhlcHliVkN2NUdEVHl1bzE0WHc2aEczT0hCRlRkWEVZOHBiTlgycUpkR0ZkVFh0YXdpWnFPaVU2Q0FaVUVzLUR0ZkFzZGFuX2VaN3ZEUnJFRW44UEdyRzZBRVR2UkRja2xFQQ?oc=5",
+      "published_at": "2026-10-23T18:07:34+00:00",
+      "description": "Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother PBS Cook Political moves Ohio governor’s race after Ramaswamy attack ad The Washington Post Vivek Ramaswamy’s Trump Act Could Be His Undoing Politico Trump turns the GOP’s Ramaswamy ad headache into a migraine CNN Trump doubles down on Amy Acton criticism as Ramaswamy ad controversy swirls ABC News - Breaking News, Latest News and Videos",
+      "description_zh": "维韦克·拉马斯瓦米 (Vivek Ramaswamy) 为艾米·阿克顿 (Amy Acton) 关系疏远的母亲的广告辩护 PBS 库克 (PBS Cook) 拉马斯瓦米攻击广告后俄亥俄州州长竞选的政治举措 《华盛顿邮报》 维韦克·拉马斯瓦米 (Vivek Ramaswamy) 的特朗普法案可能会毁掉政治特朗普 (Politico Trump) 将共和党的拉马斯瓦米 (Ramaswamy) 广告头痛变成偏头痛 CNN 特朗普在拉马斯瓦米 (Ramaswamy) 广告争议激起之际加大力度批评艾米·阿克顿 (Amy Acton) ABC 新闻 - 突发新闻、最新新闻和视频",
       "keywords": [
-        "staff",
-        "globe",
-        "hegseth",
-        "eisenhower",
-        "office",
-        "his",
-        "historic",
-        "move",
-        "wwii-era",
-        "damaged"
+        "ramaswamy",
+        "vivek",
+        "amy",
+        "featuring",
+        "estranged",
+        "defends",
+        "acton's",
+        "mother",
+        "pbs",
+        "trump"
       ],
       "keywords_zh": [
-        "职员",
-        "地球",
-        "赫格斯",
-        "艾森豪威尔",
-        "办公室",
-        "他的",
-        "历史性",
-        "移动",
-        "二战时代",
-        "损坏的"
+        "拉马斯瓦米",
+        "维维克",
+        "艾米",
+        "特色",
+        "疏远的",
+        "捍卫",
+        "阿克顿的",
+        "母亲",
+        "PBS",
+        "特朗普"
       ],
       "category": {
-        "en": "Technology",
-        "zh": "科技"
+        "en": "Politics and governance",
+        "zh": "政治与治理"
       },
       "interpretation": {
-        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
-        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: staff, globe, hegseth, eisenhower, and office. The available excerpt says: Hegseth staff damaged historic WWII-era Eisenhower globe trying to move it to his office NBC News Hegseth wanted Eisenhower’s globe for his office. His staff broke it. The Washington Post Hegseth’s staff damages Eisenhower's WWII globe during move NPR 'Accidents happen': Hegseth's staff damage historical Eisenhower globe USA Today Pete Hegseth’s staff break priceless historic globe he requested for office The Guardian Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：职员、地球、赫格斯、艾森豪威尔、办公室。RSS 中文摘要显示：赫格斯的工作人员试图将二战时期的艾森豪威尔地球仪搬到他的办公室，结果损坏了。 NBC 新闻赫格斯想要将艾森豪威尔地球仪放在他的办公室。他的工作人员打破了它。 《华盛顿邮报》赫格塞斯的工作人员在搬迁过程中损坏了艾森豪威尔的二战地球仪 NPR “意外发生”：赫格塞斯的工作人员损坏了历史悠久的艾森豪威尔地球仪 《今日美国》 皮特·赫格塞斯的工作人员打破了他要求担任职务的无价历史地球仪 《卫报》 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: ramaswamy, vivek, amy, featuring, and estranged. The available excerpt says: Vivek Ramaswamy defends ad featuring Amy Acton's estranged mother PBS Cook Political moves Ohio governor’s race after Ramaswamy attack ad The Washington Post Vivek Ramaswamy’s Trump Act Could Be His Undoing Politico Trump turns the GOP’s Ramaswamy ad headache into a migraine CNN Trump doubles down on Amy Acton criticism as Ramaswamy ad controversy swirls ABC News - Breaking News, Latest News and Videos Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：拉马斯瓦米、维维克、艾米、特色、疏远的。RSS 中文摘要显示：维韦克·拉马斯瓦米 (Vivek Ramaswamy) 为艾米·阿克顿 (Amy Acton) 关系疏远的母亲的广告辩护 PBS 库克 (PBS Cook) 拉马斯瓦米攻击广告后俄亥俄州州长竞选的政治举措 《华盛顿邮报》 维韦克·拉马斯瓦米 (Vivek Ramaswamy) 的特朗普法案可能会毁掉政治特朗普 (Politico Trump) 将共和党的拉马斯瓦米 (Ramaswamy) 广告头痛变成偏头痛 CNN 特朗普在拉马斯瓦米 (Ramaswamy) 广告争议激起之际加大力度批评艾米·阿克顿 (Amy Acton) ABC 新闻 - 突发新闻、最新新闻和视频 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
-          "regulatory reaction",
-          "enterprise adoption",
-          "security or privacy consequences"
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
         ],
         "what_to_watch_zh": [
-          "监管反应",
-          "企业采用情况",
-          "安全或隐私后果"
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
         ]
       }
     }
