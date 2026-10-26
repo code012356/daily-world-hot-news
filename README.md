@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-10-25T08:53:20+00:00` UTC.
+Generated at `2026-10-26T09:35:27+00:00` UTC.
 
-### 1. [North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge - AP News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5)
+### 1. [A look at the main issues in Israeli elections seen as a referendum on Netanyahu - AP News](https://news.google.com/rss/articles/CBMiogFBVV95cUxQLVh1VFF0cm5DVjIxQ2x5S1NKOWNMU0NiTVZGMWRUMm16Sm9qWHJ6YTFITUpoREZpY1RiZ1NGY3NyNFI0VW9iR2xXODZ2N2Q2dXplVkc3TlpvQmd0c21UZ0wwbUpSSndhMXQ0bFhHMDVaOE5vTlZ0MUFJWkw1WERfVEpnd1Vtdms5ZHJ3d1pOOFJaUUVSTDlyeXg0OVgzZndFUWc?oc=5)
 
-- Source / 来源: AP News. Published: `2026-10-25T03:36:00+00:00`.
-- Keywords / 关键词: china, kim, bridge, north, jong, cross-border, inaugurate, korean, leader, visits
-- 中文关键词: 中国、金、桥、北、琼、跨境、就职、韩国人、领导者、访问
+- Source / 来源: AP News. Published: `2026-10-26T08:36:00+00:00`.
+- Keywords / 关键词: netanyahu, israeli, referendum, elections, issues, look, main, seen, israelis, vote
+- 中文关键词: 内塔尼亚胡、以色列、公投、选举、问题、看、主要的、见过、以色列人、投票
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge AP News Kim Jong-un Makes First Visit to China in Over a Year The New York Times Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge WSJ North Korea has opened up bridges to Russia and China – in which direction will it go? The Guardian North Korea’s Kim Jong Un crosses new China border bridge to reaffirm ties Financial Times
-- RSS 中文摘要: 朝鲜领导人金正恩访华，为一座新的跨境大桥揭幕 美联社新闻 金正恩一年多来首次访华 《纽约时报》 金正恩惊喜访华，跨越新大桥 《华尔街日报》 朝鲜开通了通往俄罗斯和中国的桥梁——它会走向哪个方向？英国《卫报》 朝鲜领导人金正恩跨过新建的中国边境大桥，重申两国关系
+- RSS Excerpt / RSS 摘要: A look at the main issues in Israeli elections seen as a referendum on Netanyahu AP News Opinion | The Millions of Israelis in Netanyahu’s Corner The New York Times Israeli vote reckons with Oct. 7, Netanyahu, and future of Jewish state USA Today Thousands of Israelis Are Flying Back to Vote The New Yorker Who are the first time voters who could sway Israel’s election? The Forward
+- RSS 中文摘要: 以色列选举的主要问题被视为对内塔尼亚胡的公投数百万以色列人站在内塔尼亚胡的角落 《纽约时报》 以色列投票决定 10 月 7 日，内塔尼亚胡和犹太国家的未来 《今日美国》 数千以色列人飞回投票 《纽约客》 谁是第一批可能影响以色列选举的选民？前锋
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: china, kim, bridge, north, and jong. The available excerpt says: North Korean leader Kim Jong Un visits China to inaugurate a new cross-border bridge AP News Kim Jong-un Makes First Visit to China in Over a Year The New York Times Kim Jong Un Makes Surprise Trip to China, Crosses New Bridge WSJ North Korea has opened up bridges to Russia and China – in which direction will it go? The Guardian North Korea’s Kim Jong Un crosses new China border bridge to reaffirm ties Financial Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：中国、金、桥、北、琼。RSS 中文摘要显示：朝鲜领导人金正恩访华，为一座新的跨境大桥揭幕 美联社新闻 金正恩一年多来首次访华 《纽约时报》 金正恩惊喜访华，跨越新大桥 《华尔街日报》 朝鲜开通了通往俄罗斯和中国的桥梁——它会走向哪个方向？英国《卫报》 朝鲜领导人金正恩跨过新建的中国边境大桥，重申两国关系 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: netanyahu, israeli, referendum, elections, and issues. The available excerpt says: A look at the main issues in Israeli elections seen as a referendum on Netanyahu AP News Opinion | The Millions of Israelis in Netanyahu’s Corner The New York Times Israeli vote reckons with Oct. 7, Netanyahu, and future of Jewish state USA Today Thousands of Israelis Are Flying Back to Vote The New Yorker Who are the first time voters who could sway Israel’s election? The Forward Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：内塔尼亚胡、以色列、公投、选举、问题。RSS 中文摘要显示：以色列选举的主要问题被视为对内塔尼亚胡的公投数百万以色列人站在内塔尼亚胡的角落 《纽约时报》 以色列投票决定 10 月 7 日，内塔尼亚胡和犹太国家的未来 《今日美国》 数千以色列人飞回投票 《纽约客》 谁是第一批可能影响以色列选举的选民？前锋 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 2. [Ramaswamy ad puts Acton’s estranged mother in spotlight as records reveal family’s troubled past - NBC News](https://news.google.com/rss/articles/CBMiugFBVV95cUxOaUFkSTJKc3QzZDc2RVlRRlpZNTZkcUxqYjh6UGZpYWgzTW5uRkF3dy1sWERMNlA3Wll2VGFqeVBfTGRtMzJoclV3X19xenZoX0MzR1A3Q19kN3RqSlM1bXlTcmxDZE5iM3d6UERiWjZNczE2V0hfMFQxOFJ2ZnRmeXRPOVk3aV9Xd1d3UzdOZWxGM0lTUGRGZDViQ0JRSHdXaV9wdDVQZHJ3Wm0wc3NJUVFWSjNveTkxbHc?oc=5)
+### 2. [Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win - Reuters](https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcTcxYXBQdWxiZ1dwSGEteEw4Z2FtSFF1Nk5jUkdiUXRBMkxTeGhuekNtZFMtSFNTRnhMTG5XbzRNcm80U2ltMEpFNlhuOURXMkprOXYyVWFTWnZLd0NodzUyNGJZVE51N1BWSF9rU0FvUmJEZmJ2a0ktM3hYa1ptaGx1ekllZ2ZqbHZwdThDOXJneHZlTC1qa2VvRnNJX2luWGRROTItMW05ZUhZVVhOdEgzejhBSHktNXB3?oc=5)
 
-- Source / 来源: NBC News. Published: `2026-10-25T00:36:00+00:00`.
-- Keywords / 关键词: ramaswamy, acton, estranged, spotlight, troubled, records, mother, reveal, family, puts
-- 中文关键词: 拉马斯瓦米、阿克顿、疏远的、聚光灯、陷入困境的、记录、母亲、揭示、家庭、看跌期权
+- Source / 来源: Reuters. Published: `2026-10-26T08:34:33+00:00`.
+- Keywords / 关键词: lula, bolsonaro, brazil, recognize, refuses, future, flavio, heads, back, win
+- 中文关键词: 卢拉、博尔索纳罗、巴西、认出、拒绝、未来、弗拉维奥、头、后退、赢
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Ramaswamy ad puts Acton’s estranged mother in spotlight as records reveal family’s troubled past NBC News Obama rips into Ramaswamy over attack ad: ‘There’s no line he won’t cross’ The Washington Post Vivek Ramaswamy’s Trump Act Could Be His Undoing Politico How Vivek Ramaswamy’s Ruthless Ad in Ohio Divided Republicans The New York Times Amy Acton says Trump, Vance should 'look at the facts' after Ramaswamy attack ad ABC News - Breaking News, Latest News and Videos
-- RSS 中文摘要: 拉马斯瓦米的广告将阿克顿疏远的母亲置于聚光灯下，因为记录揭示了家庭的麻烦过去 NBC新闻 奥巴马就攻击性广告猛烈抨击拉马斯瓦米：“他没有逾越的底线” 《华盛顿邮报》 维韦克·拉马斯瓦米的特朗普法案可能会导致他的毁灭 政客 维韦克·拉马斯瓦米在俄亥俄州的无情广告如何分裂共和党 《纽约时报》 艾米·阿克顿说特朗普和万斯应该“看看拉马斯瓦米袭击广告后的事实 ABC News - 突发新闻、最新新闻和视频
+- RSS Excerpt / RSS 摘要: Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win Reuters Lula’s victory may be a turning point for Latin America Al Jazeera Lula is declared winner of Brazil’s election as Bolsonaro rejects results AP News Lula wins reelection in historic runoff, setting up tense political battle Politico Santander Shares Drop After Surprise Result in Brazilian Election WSJ
+- RSS 中文摘要: 巴西回到未来，弗拉维奥·博尔索纳罗拒绝承认卢拉获胜 路透社 卢拉的胜利可能是拉丁美洲的一个转折点 半岛电视台宣布卢拉在巴西选举中获胜，博尔索纳罗拒绝接受选举结果 美联社新闻 卢拉在历史性的决选中赢得连任，引发紧张的政治斗争 巴西选举结果出人意料后，政治桑坦德银行股价下跌 华尔街日报
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: ramaswamy, acton, estranged, spotlight, and troubled. The available excerpt says: Ramaswamy ad puts Acton’s estranged mother in spotlight as records reveal family’s troubled past NBC News Obama rips into Ramaswamy over attack ad: ‘There’s no line he won’t cross’ The Washington Post Vivek Ramaswamy’s Trump Act Could Be His Undoing Politico How Vivek Ramaswamy’s Ruthless Ad in Ohio Divided Republicans The New York Times Amy Acton says Trump, Vance should 'look at the facts' after Ramaswamy attack ad ABC News - Breaking News, Latest News and Videos Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：拉马斯瓦米、阿克顿、疏远的、聚光灯、陷入困境的。RSS 中文摘要显示：拉马斯瓦米的广告将阿克顿疏远的母亲置于聚光灯下，因为记录揭示了家庭的麻烦过去 NBC新闻 奥巴马就攻击性广告猛烈抨击拉马斯瓦米：“他没有逾越的底线” 《华盛顿邮报》 维韦克·拉马斯瓦米的特朗普法案可能会导致他的毁灭 政客 维韦克·拉马斯瓦米在俄亥俄州的无情广告如何分裂共和党 《纽约时报》 艾米·阿克顿说特朗普和万斯应该“看看拉马斯瓦米袭击广告后的事实 ABC News - 突发新闻、最新新闻和视频 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: lula, bolsonaro, brazil, recognize, and refuses. The available excerpt says: Brazil heads back to the future as Flavio Bolsonaro refuses to recognize Lula win Reuters Lula’s victory may be a turning point for Latin America Al Jazeera Lula is declared winner of Brazil’s election as Bolsonaro rejects results AP News Lula wins reelection in historic runoff, setting up tense political battle Politico Santander Shares Drop After Surprise Result in Brazilian Election WSJ Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：卢拉、博尔索纳罗、巴西、认出、拒绝。RSS 中文摘要显示：巴西回到未来，弗拉维奥·博尔索纳罗拒绝承认卢拉获胜 路透社 卢拉的胜利可能是拉丁美洲的一个转折点 半岛电视台宣布卢拉在巴西选举中获胜，博尔索纳罗拒绝接受选举结果 美联社新闻 卢拉在历史性的决选中赢得连任，引发紧张的政治斗争 巴西选举结果出人意料后，政治桑坦德银行股价下跌 华尔街日报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 3. [Almost 1,000 arrested as clashes follow another day of mass protests across France - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkdVB3VzZ5U3JiUXVrMFFYQ1d3VzNpd2F0R2NKcUIxdUxiWHVyd19FOUhJbi1HMFNrOUIzbTI2NTRsdjZWX0V1RXlvZUxGYTdUVTlOYlZfOTUyTTA?oc=5)
+### 3. [Belgrade in rapture as Serbian students topple Vucic in historic election - Reuters](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaDU5OF9aQ3E2dTNHOFJTREhlbTdKc2pnSkx6Smd0eC1OYzVYc293MVpLNzBrYWZfcnd2VG9rZW9RQVVSQktWNlpYOEdmSEFSS2l0dzBsSHNtLWxBTnZHeThBdWJNOVZwUy1HY1RGRGU5WVZmTzExSklDNkVJb3JYdDAtSF9LX3V6Y1BQOHVwb1l0WXJHdlRqelVubTdrdTZBN1QxZWNXUThwZw?oc=5)
 
-- Source / 来源: BBC. Published: `2026-10-25T04:16:52+00:00`.
-- Keywords / 关键词: across, france, protests, clashes, arrested, another, almost, follow, mass, day
-- 中文关键词: 穿过、法国、抗议、冲突、被捕、其他、几乎、跟随、大量的、天
+- Source / 来源: Reuters. Published: `2026-10-25T22:59:00+00:00`.
+- Keywords / 关键词: students, serbian, vucic, belgrade, historic, election, rapture, topple, movement, serbia
+- 中文关键词: 学生、塞尔维亚、狼、贝尔格莱德、历史性、选举、狂喜、推翻、移动
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Belgrade in rapture as Serbian students topple Vucic in historic election Reuters Serbia’s leader concedes defeat to student-led movement in seismic political shift CNN Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live The Guardian Aleksandar Vucic, the Serbian leader brought down by students Al Jazeera Student-backed movement leads to political shakeup in Serbia NPR
+- RSS 中文摘要: 塞尔维亚学生在历史性选举中推翻武契奇，贝尔格莱德欣喜若狂 路透社 塞尔维亚领导人承认学生领导的运动在地震性政治转变中失败 CNN 学生领导的运动推翻武契奇后，塞尔维亚醒悟到新的现实 – 欧洲直播 卫报 亚历山大·武契奇，被学生推翻的塞尔维亚领导人 半岛电视台 学生支持的运动导致塞尔维亚政治动荡 NPR
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: students, serbian, vucic, belgrade, and historic. The available excerpt says: Belgrade in rapture as Serbian students topple Vucic in historic election Reuters Serbia’s leader concedes defeat to student-led movement in seismic political shift CNN Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live The Guardian Aleksandar Vucic, the Serbian leader brought down by students Al Jazeera Student-backed movement leads to political shakeup in Serbia NPR Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：学生、塞尔维亚、狼、贝尔格莱德、历史性。RSS 中文摘要显示：塞尔维亚学生在历史性选举中推翻武契奇，贝尔格莱德欣喜若狂 路透社 塞尔维亚领导人承认学生领导的运动在地震性政治转变中失败 CNN 学生领导的运动推翻武契奇后，塞尔维亚醒悟到新的现实 – 欧洲直播 卫报 亚历山大·武契奇，被学生推翻的塞尔维亚领导人 半岛电视台 学生支持的运动导致塞尔维亚政治动荡 NPR 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 4. [Serbia's strongman leader Vucic concedes defeat to student-led movement in seismic political shift - PBS](https://news.google.com/rss/articles/CBMizAFBVV95cUxQYndmZXdwY2p1QUc0UV9vbmpEYnE0V1g2VHBzejRJNnU3aUxZYWNLZnhxdl9CUk11MHVCSmpnQzdxTTN6OG5pNGplLWhwb3NORDVyZC03ek5sWExwLVhfM0lCM0NQcE4zRFljSG80RS1IZ1gyVmViSzVpT3dnQ1lZaGJmR3RfVGl0YWxWX3FuMzVOWWxOUFhfLTJ3TVY5SWo4ZUZPQWFLbFZab3J6QzRsZlpEWHJEVzlOU3FQN010V2xNT1ZlXzY3dE5VUnLSAdIBQVVfeXFMTzU4T0VIVm1QbzQ3UUhYU0J1YWM5ejMwQ0hoclEyR0VhWTNheGl5Z0tLNzZ4aWI2Nk4tNEdqWWMxY01kcHdLNkVQbk1JelRFTUlra0JPbHB1U21ZcnFuN1NwRm5fYVhDWGl2T1YwVXZPWElkWDN3OHJVYXp1T29EVENMYTEzdExqX1VabTV5b0Jua2dWMEhzQVFfSERveGNMR0p4dzh6TUlDUmYtQjdnTkV5RTdGUXY1ekk4czdBdlVvUkdsbEpUZkQ3ajFtZnoxTlV3?oc=5)
+
+- Source / 来源: PBS. Published: `2026-10-25T21:35:34+00:00`.
+- Keywords / 关键词: student-led, movement, leader, vucic, political, concedes, seismic, defeat, shift, strongman
+- 中文关键词: 学生主导、移动、领导者、狼、政治的、承认、地震、击败、转移、大力士
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Serbia's strongman leader Vucic concedes defeat to student-led movement in seismic political shift PBS Serbia’s leader concedes defeat to student-led movement in seismic political shift CNN Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live The Guardian Belgrade in rapture as Serbian students topple Vucic in historic election Reuters Aleksandar Vucic, the Serbian leader brought down by students Al Jazeera
+- RSS 中文摘要: 塞尔维亚强人领袖武契奇承认学生领导的运动在地震性政治转变中失败 PBS 塞尔维亚领导人承认学生领导的运动在地震性政治转变中失败 CNN 学生领导的运动推翻武契奇后，塞尔维亚醒悟到新的现实 – 欧洲直播 贝尔格莱德卫报欣喜若狂，塞尔维亚学生在历史性选举中推翻武契奇 路透社 亚历山大·武契奇，被学生推翻的塞尔维亚领导人 半岛电视台
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: student-led, movement, leader, vucic, and political. The available excerpt says: Serbia's strongman leader Vucic concedes defeat to student-led movement in seismic political shift PBS Serbia’s leader concedes defeat to student-led movement in seismic political shift CNN Serbia wakes up to new reality after student-led movement ousts Vučić – Europe live The Guardian Belgrade in rapture as Serbian students topple Vucic in historic election Reuters Aleksandar Vucic, the Serbian leader brought down by students Al Jazeera Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：学生主导、移动、领导者、狼、政治的。RSS 中文摘要显示：塞尔维亚强人领袖武契奇承认学生领导的运动在地震性政治转变中失败 PBS 塞尔维亚领导人承认学生领导的运动在地震性政治转变中失败 CNN 学生领导的运动推翻武契奇后，塞尔维亚醒悟到新的现实 – 欧洲直播 贝尔格莱德卫报欣喜若狂，塞尔维亚学生在历史性选举中推翻武契奇 路透社 亚历山大·武契奇，被学生推翻的塞尔维亚领导人 半岛电视台 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 5. [Jordan says 3 arrested in deadly attack on Greek Orthodox church - CBS News](https://news.google.com/rss/articles/CBMiigFBVV95cUxNS3d4WE5BaDgyMm1CVVE5LVJRdDI5WnJfaE9JOXdfSzUwb0tmcUhjTllNZ0RHa183Tjc0VXB1NUw5NGxERWZDUUtySXBwNS1XSFlwQWYyOS1SUjNpeXFsQzNMWE5ZekEtbjA2X01hT2xnck5feGxJMXRTeFI4OW9WdmpCT0I4cDI2RUE?oc=5)
+
+- Source / 来源: CBS News. Published: `2026-10-26T07:10:00+00:00`.
+- Keywords / 关键词: attack, church, jordan, deadly, arrested, orthodox, greek, cbs, radicalization, hostilities
+- 中文关键词: 袭击、教会、约旦、致命、被捕、正统、希腊语、哥伦比亚广播公司、激进化、敌对行动
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Jordan says 3 arrested in deadly attack on Greek Orthodox church CBS News Jordan arrests three suspects in deadly church attack Al Jazeera Multiple Gunmen Open Fire During Church Funeral, Killing at Least 7 and Wounding Dozens More People.com ‘Wake Up From the Illusion’: Jordanian Analyst Warns of Deepening Radicalization After Church Attack The Media Line Pope appeals for end to hostilities in Yemen and prays for Jordan attack victims Vatican News
+- RSS 中文摘要: 约旦称，希腊东正教教堂致命袭击中有3人被捕 哥伦比亚广播公司新闻 约旦逮捕了教堂致命袭击的三名嫌疑人 半岛电视台 多名枪手在教堂葬礼期间开枪，造成至少7人死亡，数十人受伤 People.com“从幻觉中醒来”：约旦分析家警告教堂袭击后激进化加剧 媒体热线 教宗呼吁结束也门的敌对行动，并为约旦袭击受害者祈祷 梵蒂冈新闻
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: attack, church, jordan, deadly, and arrested. The available excerpt says: Jordan says 3 arrested in deadly attack on Greek Orthodox church CBS News Jordan arrests three suspects in deadly church attack Al Jazeera Multiple Gunmen Open Fire During Church Funeral, Killing at Least 7 and Wounding Dozens More People.com ‘Wake Up From the Illusion’: Jordanian Analyst Warns of Deepening Radicalization After Church Attack The Media Line Pope appeals for end to hostilities in Yemen and prays for Jordan attack victims Vatican News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：袭击、教会、约旦、致命、被捕。RSS 中文摘要显示：约旦称，希腊东正教教堂致命袭击中有3人被捕 哥伦比亚广播公司新闻 约旦逮捕了教堂致命袭击的三名嫌疑人 半岛电视台 多名枪手在教堂葬礼期间开枪，造成至少7人死亡，数十人受伤 People.com“从幻觉中醒来”：约旦分析家警告教堂袭击后激进化加剧 媒体热线 教宗呼吁结束也门的敌对行动，并为约旦袭击受害者祈祷 梵蒂冈新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 6. [Trump dials up Islamophobia against Abdul El-Sayed at Michigan Senate rally - Al Jazeera](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXU1WnVVaTE0c0w4NGZZMUdtbDg5UWVBdHZqQW84eFpSVGNiWDdtemxJTkljM0ZxN1d5bFFEM042ZEZDdDBEOFFwU1lzRmZZVDNjV05BbWY2MHByUUVaOUVVWHkweDk4MXloNFFGVDZCLUVzWnY3NHdHUWY4NFRqdUVyZktvQ1ozWWlNV0JfMTltVWtERlVkbV9oMVFFR2wzc21fVTN3d0RuTjRQeXNuZ0xqTEp1eGVh0gG-AUFVX3lxTFA0a2hMRVBQc3h0WUFncEw2eGpjZkNCMDJ1aVFRMGs3NFdyY2xieWdoT2lqU0RVandqLXJiMGpXaHFCVjJGZkVKTWp1TVJEeDYzSmtiU3Rwcml2UXd2QzNGekI2OFcwb3FtazZWWVVTdnFJOC1OTjd1V0N1aXdGM0YwQjRjS2JWdUdWdTJnS0ZldG92VG9LU2JHZUY5NjMxV0V6ZXVNeGxUNHZqYm5oYkZoQ0dvTmtlNm45ZVZqMnc?oc=5)
+
+- Source / 来源: Al Jazeera. Published: `2026-10-26T04:07:07+00:00`.
+- Keywords / 关键词: trump, el-sayed, michigan, islamophobia, jazeera, senate, dials, abdul, rally, escalates
+- 中文关键词: 特朗普、埃尔赛义德、密歇根州、伊斯兰恐惧症、半岛电视台、参议院、拨号盘、阿卜杜勒、集会、升级
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Trump dials up Islamophobia against Abdul El-Sayed at Michigan Senate rally Al Jazeera In Islamophobic Rant, Trump Seeks to Stir Republican Base in Michigan The New York Times Trump escalates anti-Muslim attacks against El-Sayed in Michigan NPR Trump calls El-Sayed a ‘jihadist’ as he escalates campaign rhetoric The Washington Post 2026 Midterms: Trump Attacks El-Sayed, Election Lawsuits Fox News
+- RSS 中文摘要: 特朗普在密歇根州参议院集会中激起对阿卜杜勒·赛义德的仇视伊斯兰情绪 半岛电视台 在仇视伊斯兰的咆哮中，特朗普试图煽动密歇根州的共和党基础 《纽约时报》 特朗普在密歇根州升级了针对艾尔·赛义德的反穆斯林攻击 NPR 特朗普在升级竞选言论时称艾尔·赛义德为“圣战分子” 华盛顿邮报 2026 年中期选举：特朗普攻击艾尔·赛义德，选举诉讼福克斯新闻动态
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: trump, el-sayed, michigan, islamophobia, and jazeera. The available excerpt says: Trump dials up Islamophobia against Abdul El-Sayed at Michigan Senate rally Al Jazeera In Islamophobic Rant, Trump Seeks to Stir Republican Base in Michigan The New York Times Trump escalates anti-Muslim attacks against El-Sayed in Michigan NPR Trump calls El-Sayed a ‘jihadist’ as he escalates campaign rhetoric The Washington Post 2026 Midterms: Trump Attacks El-Sayed, Election Lawsuits Fox News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：特朗普、埃尔赛义德、密歇根州、伊斯兰恐惧症、半岛电视台。RSS 中文摘要显示：特朗普在密歇根州参议院集会中激起对阿卜杜勒·赛义德的仇视伊斯兰情绪 半岛电视台 在仇视伊斯兰的咆哮中，特朗普试图煽动密歇根州的共和党基础 《纽约时报》 特朗普在密歇根州升级了针对艾尔·赛义德的反穆斯林攻击 NPR 特朗普在升级竞选言论时称艾尔·赛义德为“圣战分子” 华盛顿邮报 2026 年中期选举：特朗普攻击艾尔·赛义德，选举诉讼福克斯新闻动态 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 7. [Opposition leader María Machado returns to Venezuela - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xR2Z4WDJTQ2l5Q2steHAxSU9hZmVsVHFQZEljR0c0ajlIRWZVS2E0QmxRb0tCRF84TWdHLXJTRWRfOEt5V1pQVkdvRGpnWTNPYmdBTHhmS1BObFU?oc=5)
+
+- Source / 来源: BBC. Published: `2026-10-26T05:20:19+00:00`.
+- Keywords / 关键词: opposition, machado, leader, venezuela, returns, mar, corina, supporters, exile, venezuelan
+- 中文关键词: 反对、马查多、领导者、委内瑞拉、回报、三月、科里纳、支持者、流亡
 - Category / 分类: Global affairs / 全球事务
-- RSS Excerpt / RSS 摘要: Almost 1,000 arrested as clashes follow another day of mass protests across France BBC Violence flares in Paris after largely peaceful protests across France Reuters More than 400,000 protest across France, challenging Macron as Paris clashes erupt AP News How a Small Student Protest Spread Across France The New York Times Hundreds of thousands march across France in protests over schools and policing The Guardian
-- RSS 中文摘要: 法国各地又发生一天的大规模抗议活动，近千人因冲突被捕 BBC 法国各地基本和平抗议后，巴黎爆发暴力事件 路透社 巴黎冲突爆发之际，法国各地有超过 40 万人抗议，挑战马克龙 美联社新闻 小规模学生抗议活动如何在法国蔓延 纽约时报 数十万人在法国各地游行，抗议学校和治安问题 卫报
+- RSS Excerpt / RSS 摘要: Opposition leader María Machado returns to Venezuela BBC Venezuela’s opposition leader María Corina Machado returns from exile to crowds of cheering supporters CNN Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas DW.com Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad Fox News Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela The Guardian
+- RSS 中文摘要: 反对派领袖玛丽亚·马查多返回委内瑞拉 BBC 委内瑞拉反对派领袖玛丽亚·科里娜·马查多流亡归来，受到欢呼的支持者欢迎 CNN 委内瑞拉：反对派领袖马查多流亡归来，在加拉加斯受到数千名支持者的欢迎 DW.com 委内瑞拉反对派领导人玛丽亚·科里娜·马查多在国外近一年后意外回国 福克斯新闻 流亡反对派领导人玛丽亚·科里娜·马查多在委内瑞拉受到热烈欢迎 卫报
 - EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
 - 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
-- EN Detailed Reading: Key signals: across, france, protests, clashes, and arrested. The available excerpt says: Almost 1,000 arrested as clashes follow another day of mass protests across France BBC Violence flares in Paris after largely peaceful protests across France Reuters More than 400,000 protest across France, challenging Macron as Paris clashes erupt AP News How a Small Student Protest Spread Across France The New York Times Hundreds of thousands march across France in protests over schools and policing The Guardian Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文详细解读: 关键词信号：穿过、法国、抗议、冲突、被捕。RSS 中文摘要显示：法国各地又发生一天的大规模抗议活动，近千人因冲突被捕 BBC 法国各地基本和平抗议后，巴黎爆发暴力事件 路透社 巴黎冲突爆发之际，法国各地有超过 40 万人抗议，挑战马克龙 美联社新闻 小规模学生抗议活动如何在法国蔓延 纽约时报 数十万人在法国各地游行，抗议学校和治安问题 卫报 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
+- EN Detailed Reading: Key signals: opposition, machado, leader, venezuela, and returns. The available excerpt says: Opposition leader María Machado returns to Venezuela BBC Venezuela’s opposition leader María Corina Machado returns from exile to crowds of cheering supporters CNN Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas DW.com Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad Fox News Exiled opposition leader María Corina Machado returns to rapturous reception in Venezuela The Guardian Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
+- 中文详细解读: 关键词信号：反对、马查多、领导者、委内瑞拉、回报。RSS 中文摘要显示：反对派领袖玛丽亚·马查多返回委内瑞拉 BBC 委内瑞拉反对派领袖玛丽亚·科里娜·马查多流亡归来，受到欢呼的支持者欢迎 CNN 委内瑞拉：反对派领袖马查多流亡归来，在加拉加斯受到数千名支持者的欢迎 DW.com 委内瑞拉反对派领导人玛丽亚·科里娜·马查多在国外近一年后意外回国 福克斯新闻 流亡反对派领导人玛丽亚·科里娜·马查多在委内瑞拉受到热烈欢迎 卫报 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
 - EN What to watch: follow-up reporting; official statements; regional or market reaction
 - 后续关注: 后续报道；官方声明；地区或市场反应
 
-### 4. [Soldiers guard center of Milan as thousands of protesters march in cities across Europe - PBS](https://news.google.com/rss/articles/CBMivwFBVV95cUxQaTAzeUdEYmZOVjRRTDBfMTlvMmhkX3p4blQ5ZkRYWFdQemlobUhHY2MzX3lCdGZXbjM4cEFPN2dXS092U09wSFVpWGpBa3RCWl9HWHlnbXdZVFVvNVZvaEROOV9YZ2RRbTVMN0t3M0xQZ0l3WmNZWHdRTjNNNU5uRTE0TC1Oem4zTlhPaTYxeERjTTZiejlNTGVhN3k4bmtBVHJEcnRPRmh2VnhhQW1tSW9wY1FES013SDNNVUFTNNIBxAFBVV95cUxPVnNydHo0a3RNVXY5cTExaEpwQWQ3TFZaYlpZZnpVcE5GSjVtTTV0RVplTFFqbWNLZ2tBLVZSTkVoN3FUR05VeHZUN2VPZl9oSk92ZUQtQnFEY3RCLVl2WHlmUjVzYm9mZU9vdmxQclJxNWRmU3VLX1RQNFJiY2hETnhhZ0E1NnNvcW5LdnJZc1JWZzA5bnJxa3kwcFJGZXUzS0lPYjFMdjZaYjV5UEZxZXBGZml0RVhqTF8ybXlXUWxSN0RV?oc=5)
+### 8. [Saudi Arabia intercepts missiles and drones as fighting with Houthis rages - Al Jazeera](https://news.google.com/rss/articles/CBMitwFBVV95cUxNUlpCbHphMHZ1OU9KdDFLVzhKMFR4Q1BxVzBqamJEMjJ1YnF1YXFCYjhEaC1GV3I0N3JpcUp0emRoTHlFV1NFOVpYc2daSmZzS2hlSElXUTd2RFZxaVNoOTVvWGphNlJvQ2RHVzRMWHFzS1ROWVFvNnBrb0phekVsSGg5LVlCbmJmamRBcDU0WWs1Ump3TTV4YnZjd0RyMzUtVmxwcm1meWhULTdVTFEwcS0wQ1JuV3fSAbwBQVVfeXFMT0o3Wlo2OHNpSGl1alBxS1dGcGZyUm8tX0F1aWNKYm1NdUZkaXJSbzNjbmZmSjE5WW1KOUliQVhjQW96d3E3NXBoMjlJZEpjN2Fick1zNTJqVVFwT2NoUTdQSnZsc24tUkYzQm1pVmdxU3RBbWFWRW1hbzdPTGdGQUcxelNPTEdNaWMzZnJMb081dmlNblpYbnF1Vm9fX2swOGUxTDEwQW0tamh0dHRiTDV2OWNkVXdiUElaT00?oc=5)
 
-- Source / 来源: PBS. Published: `2026-10-24T19:50:31+00:00`.
-- Keywords / 关键词: protesters, thousands, soldiers, center, cities, across, europe, guard, milan, march
-- 中文关键词: 抗议者、数千、士兵、中心、城市、穿过、欧洲、警卫、米兰、行进
-- Category / 分类: Global affairs / 全球事务
-- RSS Excerpt / RSS 摘要: Soldiers guard center of Milan as thousands of protesters march in cities across Europe PBS See more headlines & perspectives on Google News
-- RSS 中文摘要: 数千名抗议者在欧洲各城市游行，士兵守卫米兰市中心 PBS 在 Google 新闻上查看更多头条新闻和观点
-- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
-- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
-- EN Detailed Reading: Key signals: protesters, thousands, soldiers, center, and cities. The available excerpt says: Soldiers guard center of Milan as thousands of protesters march in cities across Europe PBS See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文详细解读: 关键词信号：抗议者、数千、士兵、中心、城市。RSS 中文摘要显示：数千名抗议者在欧洲各城市游行，士兵守卫米兰市中心 PBS 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
-- EN What to watch: follow-up reporting; official statements; regional or market reaction
-- 后续关注: 后续报道；官方声明；地区或市场反应
-
-### 5. [A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War - The New York Times](https://news.google.com/rss/articles/CBMikwFBVV95cUxOenJjWWFLN0xjSXdjOHdmUFJ5ekx1M0FLLWR0dGxDc1p6X2xJbDAzM2Zia0lIZFhwdTBJOExfNnVseXd4M1RzUjRDV2MySDBTTTFuQTFKYmVrd2JEWTdOUG9BM3kzU24waU9zQlJMV0d3cFR1VXJrdVZzd1FITEV4Y3lMbHVOM1hZWlFnQlZKd3FvVDA?oc=5)
-
-- Source / 来源: The New York Times. Published: `2026-10-25T00:55:30+00:00`.
-- Keywords / 关键词: iran, war, pushing, threat, level, risks, fear, back, full, trump
-- 中文关键词: 伊朗、战争、推动、威胁、等级、风险、害怕、后退、满的、特朗普
+- Source / 来源: Al Jazeera. Published: `2026-10-25T13:10:35+00:00`.
+- Keywords / 关键词: houthis, saudi, missiles, fighting, jazeera, arabia, drones, intercepts, rages, airport
+- 中文关键词: 胡塞武装、沙特、导弹、斗争、半岛电视台、阿拉伯、无人机、拦截、愤怒、飞机场
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War The New York Times Signs point to renewed major US military ops against Iran Yahoo Live - Trump says Iran strike possible tomorrow, report points to post-election plans Iran International Trump Prepares for Iran Escalation After US, Israeli Elections Bloomberg.com Opinion | Iran war fever is rising again. The battlespace has changed. The Washington Post
-- RSS 中文摘要: 新水平的威胁和恐惧风险将美国和伊朗推回全面战争 《纽约时报》迹象表明美国将重新对伊朗采取重大军事行动伊朗战争热潮再次高涨。战场空间已经改变。华盛顿邮报
+- RSS Excerpt / RSS 摘要: Saudi Arabia intercepts missiles and drones as fighting with Houthis rages Al Jazeera Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies Reuters Iran live updates: Houthis claim new attack on Riyadh airport, Saudis report interception ABC News - Breaking News, Latest News and Videos Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis CNBC Saudi air defences intercept Houthi barrage near Mecca Al Jazeera
+- RSS 中文摘要: 沙特阿拉伯在与胡塞武装的战斗中拦截导弹和无人机 半岛电视台 胡塞武装表示，随着战斗加剧，他们袭击了沙特石油泵站和利雅得机场 路透社 伊朗实时更新：胡塞武装声称对利雅得机场发动新的袭击，沙特报告拦截 ABC新闻 - 突发新闻、最新新闻和视频 沙特阿拉伯表示，它拦截了伊朗支持的胡塞武装的导弹和无人机 CNBC 沙特防空系统在麦加附近拦截了胡塞武装的弹幕
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, war, pushing, threat, and level. The available excerpt says: A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War The New York Times Signs point to renewed major US military ops against Iran Yahoo Live - Trump says Iran strike possible tomorrow, report points to post-election plans Iran International Trump Prepares for Iran Escalation After US, Israeli Elections Bloomberg.com Opinion | Iran war fever is rising again. The battlespace has changed. The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、战争、推动、威胁、等级。RSS 中文摘要显示：新水平的威胁和恐惧风险将美国和伊朗推回全面战争 《纽约时报》迹象表明美国将重新对伊朗采取重大军事行动伊朗战争热潮再次高涨。战场空间已经改变。华盛顿邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: houthis, saudi, missiles, fighting, and jazeera. The available excerpt says: Saudi Arabia intercepts missiles and drones as fighting with Houthis rages Al Jazeera Houthis say they attacked Saudi oil pumping stations, Riyadh airport as fighting intensifies Reuters Iran live updates: Houthis claim new attack on Riyadh airport, Saudis report interception ABC News - Breaking News, Latest News and Videos Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis CNBC Saudi air defences intercept Houthi barrage near Mecca Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：胡塞武装、沙特、导弹、斗争、半岛电视台。RSS 中文摘要显示：沙特阿拉伯在与胡塞武装的战斗中拦截导弹和无人机 半岛电视台 胡塞武装表示，随着战斗加剧，他们袭击了沙特石油泵站和利雅得机场 路透社 伊朗实时更新：胡塞武装声称对利雅得机场发动新的袭击，沙特报告拦截 ABC新闻 - 突发新闻、最新新闻和视频 沙特阿拉伯表示，它拦截了伊朗支持的胡塞武装的导弹和无人机 CNBC 沙特防空系统在麦加附近拦截了胡塞武装的弹幕 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 6. [Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation - Reuters](https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0lFZzBBODd6NDh2OUEyNmMwbFUyalpDRFpwVkVRVkR2VzlOLWdTU1N1ZmhEaFBzaUFmWUVEMFBrdDFDMVF3WVlQWHh5VVFVd2R6LVM5b3VxakFlNVhwQlNwcHVhaHV0dDZuYjgzSU5qUTdtalpZd2tmQlFxN3ZtcmNpaTdvM3hCUlhMck5ubkphU25lT2dFU0ZvSDVXNEE0amJ1X3IwLU82a2M3TWROaU1SYWhhdHJuQmpLTzZtckhsaVdwODdaOTNaNkk?oc=5)
+### 9. [Trump's DOJ barrels into midterms with lawsuits, raids and arrests - Axios](https://news.google.com/rss/articles/CBMickFVX3lxTE9lNFgtVHBLYVNIT1FBSnJrYkRJTVRXcVY1N0R5WHJEb0FoZDRFaUxnSElqWG04dE9lODU2Ull6UlJLQnlfNnd4b0oxNXI0TnFNbm1nRVpPRkI0cDRyd3dKRlNScE9TUmZOdjVXLVFZdEdBUQ?oc=5)
 
-- Source / 来源: Reuters. Published: `2026-10-24T22:07:30+00:00`.
-- Keywords / 关键词: israel, operation, military, hebron, palestinians, displaced, around, begins, down, west
-- 中文关键词: 以色列、手术、军事、希伯伦、巴勒斯坦人、流离失所、大约、开始、向下、西方
+- Source / 来源: Axios. Published: `2026-10-25T20:30:35+00:00`.
+- Keywords / 关键词: doj, midterms, lawsuits, trump's, barrels, arrests, raids, axios, blanche, alaska
+- 中文关键词: 司法部、期中考试、诉讼、特朗普的、桶、逮捕、袭击、轴、布兰奇、阿拉斯加州
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Trump's DOJ barrels into midterms with lawsuits, raids and arrests Axios Blanche on Alaska suit: 'There could be a crime' Politico Trump’s Election Attacks Enter New Pre-emptive Phase The New York Times Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses NPR Blanche defends DoJ’s pre-emptive suit to block Alaska Senate results certification The Guardian
+- RSS 中文摘要: 特朗普的司法部通过诉讼、突袭和逮捕进入中期选举 阿克西奥斯·布兰奇就阿拉斯加诉讼：“可能构成犯罪” Politico 特朗普的选举攻击进入新的先发制人阶段 《纽约时报》 布兰奇为司法部阻止阿拉斯加参议院结果的诉讼辩护 NPR 布兰奇为司法部阻止阿拉斯加参议院结果认证的先发制人诉讼辩护 卫报
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: doj, midterms, lawsuits, trump's, and barrels. The available excerpt says: Trump's DOJ barrels into midterms with lawsuits, raids and arrests Axios Blanche on Alaska suit: 'There could be a crime' Politico Trump’s Election Attacks Enter New Pre-emptive Phase The New York Times Blanche defends DOJ lawsuit blocking Alaska Senate results if Republican loses NPR Blanche defends DoJ’s pre-emptive suit to block Alaska Senate results certification The Guardian Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：司法部、期中考试、诉讼、特朗普的、桶。RSS 中文摘要显示：特朗普的司法部通过诉讼、突袭和逮捕进入中期选举 阿克西奥斯·布兰奇就阿拉斯加诉讼：“可能构成犯罪” Politico 特朗普的选举攻击进入新的先发制人阶段 《纽约时报》 布兰奇为司法部阻止阿拉斯加参议院结果的诉讼辩护 NPR 布兰奇为司法部阻止阿拉斯加参议院结果认证的先发制人诉讼辩护 卫报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 10. [Ukrainian Attacks Kill 5 in Belgorod and Lipetsk, Hit Perm Industrial Plant - The Moscow Times](https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdVF0dmthTVNxcS04NVdHTTJQdWZsNVJjZUh2MVVGMDFSaEtaX3FNcElXdlY0UG03SVpJa01LUzFGSWFJWldrWkVEcjdFVFVTaGRMMEVfRnhCeE1qcjllT09Db0hKV0xoM19XY1l4X1doVGJSc1JGaVcxa0dSRGNaMGh5bWtSNGw4Ym81bFNNb0h2UG8tRGhxd3lxV2RBbmk1eEpDanAweUkzV0hqTEctcjl4MmxFNEZ6MldYOTg3Nk0?oc=5)
+
+- Source / 来源: The Moscow Times. Published: `2026-10-25T16:00:00+00:00`.
+- Keywords / 关键词: belgorod, plant, industrial, attacks, kill, ukrainian, lipetsk, moscow, perm, hit
+- 中文关键词: belgorod、设施、工业的、袭击、杀、乌克兰、利佩茨克、莫斯科、烫发、打
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation Reuters Israel Cracks Down in West Bank City After Deadly Attack The New York Times Days Before Israeli Election, Military Conducts Massive West Bank Operation U.S. News & World Report Israeli soldiers raze neighbourhood in Hebron, driving families from homes The Guardian Bulldozers tear down home as Israel cracks down in the West Bank NBC News
-- RSS 中文摘要: 以色列开始军事行动，约 1,200 名巴勒斯坦人在希伯伦流离失所 路透社 以色列在致命袭击后镇压约旦河西岸城市 《纽约时报》 以色列大选前几天，军方进行大规模西岸行动 美国新闻与世界报道 以色列士兵夷平希伯伦社区，将家庭赶出家园 卫报推土机推土机拆毁家园，以色列镇压约旦河西岸 NBC 新闻
+- RSS Excerpt / RSS 摘要: Ukrainian Attacks Kill 5 in Belgorod and Lipetsk, Hit Perm Industrial Plant The Moscow Times Four killed in two drone attacks in Russia's Belgorod region Reuters Ukraine-Russia war latest: Drone strikes kill three in Belgorod and injure five at Russian industrial plant The Independent Drones attack Voronezh: petrochemical enterprise and aviation plant targeted – photos, video Yahoo Smoke and Fires in Voronezh: Drone Hits 25-Story Business Center as 7 Fuel Tankers Burn in Russia Kyiv Post
+- RSS 中文摘要: 乌克兰袭击在别尔哥罗德和利佩茨克造成 5 人死亡，袭击彼尔姆工业工厂 《莫斯科时报》 俄罗斯别尔哥罗德地区发生两起无人机袭击事件，造成四人死亡 路透社 乌克兰-俄罗斯战争最新消息：无人机袭击别尔哥罗德三人，俄罗斯工业工厂五人受伤 独立无人机袭击沃罗涅日：石化企业和航空工厂成为目标 - 照片、视频 雅虎沃罗涅日烟雾和火灾：无人机袭击 25 层商业中心俄罗斯7辆油罐车被烧毁 基辅邮报
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: israel, operation, military, hebron, and palestinians. The available excerpt says: Around 1,200 Palestinians are displaced in Hebron as Israel begins military operation Reuters Israel Cracks Down in West Bank City After Deadly Attack The New York Times Days Before Israeli Election, Military Conducts Massive West Bank Operation U.S. News & World Report Israeli soldiers raze neighbourhood in Hebron, driving families from homes The Guardian Bulldozers tear down home as Israel cracks down in the West Bank NBC News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：以色列、手术、军事、希伯伦、巴勒斯坦人。RSS 中文摘要显示：以色列开始军事行动，约 1,200 名巴勒斯坦人在希伯伦流离失所 路透社 以色列在致命袭击后镇压约旦河西岸城市 《纽约时报》 以色列大选前几天，军方进行大规模西岸行动 美国新闻与世界报道 以色列士兵夷平希伯伦社区，将家庭赶出家园 卫报推土机推土机拆毁家园，以色列镇压约旦河西岸 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: belgorod, plant, industrial, attacks, and kill. The available excerpt says: Ukrainian Attacks Kill 5 in Belgorod and Lipetsk, Hit Perm Industrial Plant The Moscow Times Four killed in two drone attacks in Russia's Belgorod region Reuters Ukraine-Russia war latest: Drone strikes kill three in Belgorod and injure five at Russian industrial plant The Independent Drones attack Voronezh: petrochemical enterprise and aviation plant targeted – photos, video Yahoo Smoke and Fires in Voronezh: Drone Hits 25-Story Business Center as 7 Fuel Tankers Burn in Russia Kyiv Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：belgorod、设施、工业的、袭击、杀。RSS 中文摘要显示：乌克兰袭击在别尔哥罗德和利佩茨克造成 5 人死亡，袭击彼尔姆工业工厂 《莫斯科时报》 俄罗斯别尔哥罗德地区发生两起无人机袭击事件，造成四人死亡 路透社 乌克兰-俄罗斯战争最新消息：无人机袭击别尔哥罗德三人，俄罗斯工业工厂五人受伤 独立无人机袭击沃罗涅日：石化企业和航空工厂成为目标 - 照片、视频 雅虎沃罗涅日烟雾和火灾：无人机袭击 25 层商业中心俄罗斯7辆油罐车被烧毁 基辅邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 7. [11 people shot near Florida university stadium in Tallahassee - CNN](https://news.google.com/rss/articles/CBMif0FVX3lxTE9ncjRfWHlVVlZRMTVsN3MzenBBX3ZUZmVBdWxKQVJidVhpM0t4MWxSUlRLMjZhRGdVM3RoanktM2JUaU9yZzh3QW95WFdWd0FTQzFfSzFybzJPNnNfMHY3R1M4T1ZScFkyWHJsc1lzVjZFdHpOS2lYcy1aQWY0Wk0?oc=5)
-
-- Source / 来源: CNN. Published: `2026-10-25T04:51:10+00:00`.
-- Keywords / 关键词: tallahassee, people, shot, near, university, florida, stadium, shooting, eleven, famu
-- 中文关键词: 塔拉哈西、人们、射击、靠近、大学、佛罗里达、体育场、十一、法木
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: 11 people shot near Florida university stadium in Tallahassee CNN Eleven sustain gunshot wounds in shooting near Florida university The Guardian DEVELOPING: TPD says 11 people were shot near FAMU, including 6 juveniles WTXL ABC 27 Tallahassee News TPD: Police investigating shooting at Perry Street and Manatee Street WALB.com Eleven people shot in Tallahassee after FAMU homecoming game Tallahassee Democrat
-- RSS 中文摘要: 塔拉哈西佛罗里达大学体育场附近有 11 人中枪 CNN 佛罗里达大学附近发生枪击事件 11 人中枪受伤 《卫报》发展：TPD 称 FAMU 附近有 11 人中枪，其中包括 6 名青少年 WTXL ABC 27 塔拉哈西新闻 TPD：警方正在调查佩里街和海牛街枪击事件 WALB.com FAMU 返校赛后，塔拉哈西有 11 人中枪 塔拉哈西民主党
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: tallahassee, people, shot, near, and university. The available excerpt says: 11 people shot near Florida university stadium in Tallahassee CNN Eleven sustain gunshot wounds in shooting near Florida university The Guardian DEVELOPING: TPD says 11 people were shot near FAMU, including 6 juveniles WTXL ABC 27 Tallahassee News TPD: Police investigating shooting at Perry Street and Manatee Street WALB.com Eleven people shot in Tallahassee after FAMU homecoming game Tallahassee Democrat Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：塔拉哈西、人们、射击、靠近、大学。RSS 中文摘要显示：塔拉哈西佛罗里达大学体育场附近有 11 人中枪 CNN 佛罗里达大学附近发生枪击事件 11 人中枪受伤 《卫报》发展：TPD 称 FAMU 附近有 11 人中枪，其中包括 6 名青少年 WTXL ABC 27 塔拉哈西新闻 TPD：警方正在调查佩里街和海牛街枪击事件 WALB.com FAMU 返校赛后，塔拉哈西有 11 人中枪 塔拉哈西民主党 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 8. [Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections - Fox News](https://news.google.com/rss/articles/CBMimwFBVV95cUxPQ00wenlReXBCS29LaEZjOG9ibkJPOTlfRVlidFZGMTkwNzNIUDg3dXN1aUYtNk5QX0VLSUFpaXMyWmJ4TDR3T25FWlVodUdlMjlsZF9zcDVtMDFwYkE3QlJQRmRVMjlaM2FaWU5oaGJUX0gtWmZtRjJmQWpSc0FKTFJaU0h0ZnpvcWpXS1BLS1pZblZRNEd6OUFqaw?oc=5)
-
-- Source / 来源: Fox News. Published: `2026-10-25T01:58:17+00:00`.
-- Keywords / 关键词: georgia, ahead, weekend, trump, elections, michigan, midterm, fox, rally, perry
-- 中文关键词: 乔治亚州、前面、周末、特朗普、选举、密歇根州、期中考试、狐狸、集会、佩里
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections Fox News LIVE UPDATES | Speakers take the stage ahead of President Trump's address to voters at rally in Perry 13WMAZ UPDATED: Crowds build early ahead of President Trump's voter rally in Perry WGXA With turnout lagging, Republicans pull out all the stops in Georgia The Atlanta Journal-Constitution Jackson will skip this weekend’s Trump rally in Perry Georgia Recorder
-- RSS 中文摘要: 福克斯新闻实时更新 | 特朗普本周末在密歇根州佐治亚州参加 2026 年中期选举特朗普总统在佩里 13WMAZ 集会上向选民发表讲话之前，演讲者上台 更新：在特朗普总统在佩里 WGXA 举行选民集会之前，人群早早就聚集起来 由于投票率落后，共和党人在佐治亚州全力以赴 亚特兰大宪法报 杰克逊将缺席本周末在佩里举行的特朗普集会 佐治亚州录音机
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: georgia, ahead, weekend, trump, and elections. The available excerpt says: Trump in Georgia, Michigan this weekend ahead of 2026 midterm elections Fox News LIVE UPDATES | Speakers take the stage ahead of President Trump's address to voters at rally in Perry 13WMAZ UPDATED: Crowds build early ahead of President Trump's voter rally in Perry WGXA With turnout lagging, Republicans pull out all the stops in Georgia The Atlanta Journal-Constitution Jackson will skip this weekend’s Trump rally in Perry Georgia Recorder Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：乔治亚州、前面、周末、特朗普、选举。RSS 中文摘要显示：福克斯新闻实时更新 | 特朗普本周末在密歇根州佐治亚州参加 2026 年中期选举特朗普总统在佩里 13WMAZ 集会上向选民发表讲话之前，演讲者上台 更新：在特朗普总统在佩里 WGXA 举行选民集会之前，人群早早就聚集起来 由于投票率落后，共和党人在佐治亚州全力以赴 亚特兰大宪法报 杰克逊将缺席本周末在佩里举行的特朗普集会 佐治亚州录音机 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 9. [British police received allegations about Meghan’s father in 2019 but didn’t tell other forces - NBC News](https://news.google.com/rss/articles/CBMixAFBVV95cUxQeXluRV9ObUN2YkpaajJhaUx5WlBOYV9COUlERlhkcXNOdzJKTXlUYndZWklZYzRfc2U0NWF2M24yQVJZVDVheVZlenp4TGVpNlAwUTMxbEl6aUY3bzRhWXB0aWwzN2YzTEFGNl9nejhrOXMyZmp3WThpOTlJM0tRZEsyQ2tzMHNyUVY4RU5DSVZ4UHBPS05tOTB4TmxrRHBCcVdzVXhwVGFHZnV5Y1pUMUxkZTZqZFdLTkxUTW1ndHYyQXBC?oc=5)
-
-- Source / 来源: NBC News. Published: `2026-10-24T13:34:19+00:00`.
-- Keywords / 关键词: meghan, father, allegations, forces, other, received, british, police, didn, tell
-- 中文关键词: 梅根、父亲、指控、力量、其他、已收到、英国人、警察、没有、告诉
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: British police received allegations about Meghan’s father in 2019 but didn’t tell other forces NBC News Meghan broke contact with father in letter citing abuse claims BBC Meghan's father says he has paid for sex but denies child abuse claims Yahoo I know you are an abuser - What Meghan Markle told dad Thomas in last letter The Sun Met says it shared allegations about Meghan’s father with her but not other forces The Guardian
-- RSS 中文摘要: 英国警方在 2019 年收到了有关梅根父亲的指控，但没有告诉其他势力 NBC 新闻 梅根在信中以虐待指控为由，与父亲断绝了联系 BBC 梅根的父亲表示，他曾为性行为付过钱，但否认虐待儿童的指控 雅虎 我知道你是虐待者 - 梅根·马克尔在上一封信中告诉爸爸托马斯的内容 《太阳大都会报》表示，它与她分享了有关梅根父亲的指控，但没有与其他势力分享有关梅根父亲的指控 《卫报》
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: meghan, father, allegations, forces, and other. The available excerpt says: British police received allegations about Meghan’s father in 2019 but didn’t tell other forces NBC News Meghan broke contact with father in letter citing abuse claims BBC Meghan's father says he has paid for sex but denies child abuse claims Yahoo I know you are an abuser - What Meghan Markle told dad Thomas in last letter The Sun Met says it shared allegations about Meghan’s father with her but not other forces The Guardian Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：梅根、父亲、指控、力量、其他。RSS 中文摘要显示：英国警方在 2019 年收到了有关梅根父亲的指控，但没有告诉其他势力 NBC 新闻 梅根在信中以虐待指控为由，与父亲断绝了联系 BBC 梅根的父亲表示，他曾为性行为付过钱，但否认虐待儿童的指控 雅虎 我知道你是虐待者 - 梅根·马克尔在上一封信中告诉爸爸托马斯的内容 《太阳大都会报》表示，它与她分享了有关梅根父亲的指控，但没有与其他势力分享有关梅根父亲的指控 《卫报》 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 10. [In first midterm rallies, Obama assails Trump administration - The Washington Post](https://news.google.com/rss/articles/CBMiowFBVV95cUxQdEVqWEluckhVN3dXZHNsQTdIMmt1UEE5U3VUSVFSNXdGNlV6WE1SeFQyYW1oWlRTZTl2bngtUnRYeUIxeU9DalFqZ3ZLcnZsdUJMUHotSGlpaDV0Z19fXzFsd0QxSmtiLXZmWElBVFdKRmI4VWdwZDI5aWZtM0YxR3VLUnBVS29oR3Ntd3NJOEh3VmFhdDgxc3dYaDRnVEZnUlYw?oc=5)
-
-- Source / 来源: The Washington Post. Published: `2026-10-25T06:30:46+00:00`.
-- Keywords / 关键词: obama, trump, midterm, administration, washington, rallies, assails, first, democrats, attacks
-- 中文关键词: 奥巴马、特朗普、期中考试、行政、华盛顿、集会、攻击、第一的、民主党人、袭击
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: In first midterm rallies, Obama assails Trump administration The Washington Post Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail The New York Times Obama blasts Trump while campaigning for US midterms RTE.ie Obama attacks Trump as he campaigns for Democrats ahead of midterm elections BBC Obama slams Trump for years of ‘chaos and cruelty’ while stumping for Democrats in Michigan, Ohio CNN
-- RSS 中文摘要: 在第一次中期集会上，奥巴马攻击特朗普政府 《华盛顿邮报》 奥巴马在竞选活动中对特朗普和拉马斯瓦米发起猛烈攻击 《纽约时报》 奥巴马在为美国中期选举竞选时猛烈抨击特朗普
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: obama, trump, midterm, administration, and washington. The available excerpt says: In first midterm rallies, Obama assails Trump administration The Washington Post Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail The New York Times Obama blasts Trump while campaigning for US midterms RTE.ie Obama attacks Trump as he campaigns for Democrats ahead of midterm elections BBC Obama slams Trump for years of ‘chaos and cruelty’ while stumping for Democrats in Michigan, Ohio CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：奥巴马、特朗普、期中考试、行政、华盛顿。RSS 中文摘要显示：在第一次中期集会上，奥巴马攻击特朗普政府 《华盛顿邮报》 奥巴马在竞选活动中对特朗普和拉马斯瓦米发起猛烈攻击 《纽约时报》 奥巴马在为美国中期选举竞选时猛烈抨击特朗普 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
 
 
