@@ -10,41 +10,146 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-10-30T10:40:49+00:00` UTC.
+Generated at `2026-10-31T10:07:18+00:00` UTC.
 
-### 1. [Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies - NBC News](https://news.google.com/rss/articles/CBMixwFBVV95cUxPekM1SEphS1p0N2xOY0JlTXc1R3JReXQ0dXJRTXdVTnhKYkxaemJLdWhiTzRELUlIV1puYkhvU2wwUHB2RUVUTWtNaTUzUi1TT3REZzc0VUs2RW5zYVlDdFRKNXZkd05URTRWdkpmeXNFaVRnbFRhQTNEMTZfYTZWNnllRF9TaFZoZ09USkt5WWRGZlBmQ3JydkdnMjhhSnlWSlFnU0pVNUxwdGNjZkJCdHBxSjRVb0g4STBIWjd5WUYxUUNKb2R3?oc=5)
+### 1. [Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery - The New York Times](https://news.google.com/rss/articles/CBMilwFBVV95cUxOTG0wemhWcGFDLW5vYVN2ZFRxRl9ySDJMbm1WcmdRV3JsclNvVVdZMmp4T090NVZaWVBxUDY2ejFLWlI3aTZ3U2lXWVFFelB3SU04dVFHY0IzOElQaC1yWG1TRTJQVGt0MjNOZTI5M25UWXhCR2RIUVR5c1pWdnN5S3Jpd2kzSm9HX0hjemgtUVdXRGd5Y1hJ?oc=5)
 
-- Source / 来源: NBC News. Published: `2026-10-30T03:19:00+00:00`.
-- Keywords / 关键词: trump, rallies, kansas, cancels, weekend, iowa, tele-rallies, numerous, holding, favor
-- 中文关键词: 特朗普、集会、堪萨斯州、取消、周末、爱荷华州、电话集会、很多的、保持、青睐
+- Source / 来源: The New York Times. Published: `2026-10-31T03:39:18+00:00`.
+- Keywords / 关键词: minister, apology, slavery, prime, open, britain, formal, slave, trade, clickondetroit
+- 中文关键词: 部长、道歉、奴隶制、主要的、打开、英国、正式的、奴隶、贸易、底特律点击
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery The New York Times U.K. PM Andy Burnham open to apologizing for slave trade but rules out financial reparations NBC News UK prime minister signals the government will consider an apology for its role in the slave trade ClickOnDetroit | WDIV Local 4 British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian King visits Guyanese slave rebellion site on Caribbean tour BBC
+- RSS 中文摘要: 英国首相表示他愿意就奴隶制正式道歉 《纽约时报》 英国首相安迪·伯纳姆愿意就奴隶贸易道歉，但排除经济赔偿 NBC 新闻 英国首相表示政府将考虑就其在奴隶贸易中所扮演的角色道歉 ClickOnDetroit | WDIV 当地 4 英国人不能为奴隶制的错误付出代价 - 但我们必须面对我们复杂的历史 英国卫报之王在加勒比之旅中参观了圭亚那奴隶叛乱地点 BBC
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: minister, apology, slavery, prime, and open. The available excerpt says: Britain’s Prime Minister Says He’s Open to a Formal Apology for Slavery The New York Times U.K. PM Andy Burnham open to apologizing for slave trade but rules out financial reparations NBC News UK prime minister signals the government will consider an apology for its role in the slave trade ClickOnDetroit | WDIV Local 4 British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian King visits Guyanese slave rebellion site on Caribbean tour BBC Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：部长、道歉、奴隶制、主要的、打开。RSS 中文摘要显示：英国首相表示他愿意就奴隶制正式道歉 《纽约时报》 英国首相安迪·伯纳姆愿意就奴隶贸易道歉，但排除经济赔偿 NBC 新闻 英国首相表示政府将考虑就其在奴隶贸易中所扮演的角色道歉 ClickOnDetroit | WDIV 当地 4 英国人不能为奴隶制的错误付出代价 - 但我们必须面对我们复杂的历史 英国卫报之王在加勒比之旅中参观了圭亚那奴隶叛乱地点 BBC 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 2. [Alaska voters react to allegations of a spoiler in the U.S. Senate race - NPR](https://news.google.com/rss/articles/CBMitgFBVV95cUxPWTR6LXdURGtoZ3lKcmpkQVpNUlZGeDJibW9jRWVubkV0cWsyOGRyODNPWnAtb2lWMWlQMnota2lNblVvdTRlS2V2a2tVbnlSdUt0YzVHaFRCMHRCQTh1X21rTTgweE9WMHl2dTFCX01panFUUGc4MElZV1RzazByTTFRTlN5bVFUYkNhNFprc29TRUFDOVdlYmplcWxGWUozQm04cmR1X3U1OGVXOTktLUFCMDVKQQ?oc=5)
+
+- Source / 来源: NPR. Published: `2026-10-30T21:36:04+00:00`.
+- Keywords / 关键词: alaska, spoiler, senate, allegations, voters, react, race, election, uncomfortable, candidates
+- 中文关键词: 阿拉斯加州、剧透、参议院、指控、选民、反应、种族、选举、不舒服、候选人
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies NBC News Trump Cancels Rallies in Kansas and Iowa This Weekend The New York Times Catch up quickly: Trump rallies; Patrick Stewart; cannabis and sleep The Washington Post Trump, Vance scrap planned appearances in final stretch of midterm campaign CNBC Trump erupts over 'sick' question about canceled midterm rally in Kansas USA Today
-- RSS 中文摘要: 特朗普取消周末在爱荷华州和堪萨斯州的集会，转而举行多次电话集会 NBC 新闻 特朗普取消本周末在堪萨斯州和爱荷华州的集会 《纽约时报》 快点赶上：特朗普集会；帕特里克·斯图尔特；特朗普和万斯取消了中期竞选最后阶段的露面计划 CNBC 特朗普因取消堪萨斯州中期集会的“病态”问题而爆发
+- RSS Excerpt / RSS 摘要: Alaska voters react to allegations of a spoiler in the U.S. Senate race NPR Daniel J. Sullivan left his Alaska hometown before Senate election, sources say CBS News Dems' dire warnings about threats to democracy face an uncomfortable reckoning after Alaska election report Fox News Inside Democrats’ Secret Effort to Stack Alaska’s Ballot The New York Times Explainer: Is it legal to recruit spoiler candidates in US elections? Reuters
+- RSS 中文摘要: 阿拉斯加选民对美国参议院选举中破坏者的指控作出反应 NPR 丹尼尔·沙利文 (Daniel J. Sullivan) 在参议院选举前离开了阿拉斯加的家乡，消息人士称，哥伦比亚广播公司新闻 (CBS News) 民主党关于民主威胁的可怕警告在阿拉斯加选举报道后面临着令人不安的清算。路透社
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, rallies, kansas, cancels, and weekend. The available excerpt says: Trump cancels weekend rallies in Iowa and Kansas in favor of holding numerous tele-rallies NBC News Trump Cancels Rallies in Kansas and Iowa This Weekend The New York Times Catch up quickly: Trump rallies; Patrick Stewart; cannabis and sleep The Washington Post Trump, Vance scrap planned appearances in final stretch of midterm campaign CNBC Trump erupts over 'sick' question about canceled midterm rally in Kansas USA Today Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、集会、堪萨斯州、取消、周末。RSS 中文摘要显示：特朗普取消周末在爱荷华州和堪萨斯州的集会，转而举行多次电话集会 NBC 新闻 特朗普取消本周末在堪萨斯州和爱荷华州的集会 《纽约时报》 快点赶上：特朗普集会；帕特里克·斯图尔特；特朗普和万斯取消了中期竞选最后阶段的露面计划 CNBC 特朗普因取消堪萨斯州中期集会的“病态”问题而爆发 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: alaska, spoiler, senate, allegations, and voters. The available excerpt says: Alaska voters react to allegations of a spoiler in the U.S. Senate race NPR Daniel J. Sullivan left his Alaska hometown before Senate election, sources say CBS News Dems' dire warnings about threats to democracy face an uncomfortable reckoning after Alaska election report Fox News Inside Democrats’ Secret Effort to Stack Alaska’s Ballot The New York Times Explainer: Is it legal to recruit spoiler candidates in US elections? Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：阿拉斯加州、剧透、参议院、指控、选民。RSS 中文摘要显示：阿拉斯加选民对美国参议院选举中破坏者的指控作出反应 NPR 丹尼尔·沙利文 (Daniel J. Sullivan) 在参议院选举前离开了阿拉斯加的家乡，消息人士称，哥伦比亚广播公司新闻 (CBS News) 民主党关于民主威胁的可怕警告在阿拉斯加选举报道后面临着令人不安的清算。路透社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 2. [Israel’s final election results show neither Netanyahu nor rival can immediately form government - NBC News](https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzRienByTkQ5U2pCV25Jd09FREVxd05VLTZRSTY1TGVTY2dsYl9zOFRucG1xN0pnOHhhLXRObUFNbGp1My1DYXB3UnByT0g0QTBMTlZqU3d6U0JrNm80bTBwSHh5N1hKcjk3MDhCaWNyNzdIaGlUZWxEWWpnUFFVNS01ZzcxUFp1MVRmdUd4YmNaRWZLdFg0R0dkTlp3TDFGX1Z3LUpZQ2I3ZDJwQlhvSFJNeEpPaHR6SlE?oc=5)
+### 3. [El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up - The Washington Post](https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDhJcXQ4S2RFaUVya0s0c01sN3o2aWNKZ2F6UHUxc0RFckdDNThMSDI1UWtQdjlSNGk2ck5MOXZTdTBNYkVRYnN4enRvS2Q2Yk1zVTlSSWtmMXZrdE1kV1dwNjVrS013QmZCUng4cEE2RnVCOW9pMnViVFNId3NyTHdHQUVuWEJNOWg0YXlPWXY2Mm1nb2xIMUgxdTM1NXY2TFFEN1RvRmtVUk9Va29UeA?oc=5)
 
-- Source / 来源: NBC News. Published: `2026-10-30T01:42:00+00:00`.
-- Keywords / 关键词: election, results, israel, netanyahu, final, immediately, government, neither, rival, show
-- 中文关键词: 选举、结果、以色列、内塔尼亚胡、最终的、立即地、政府、两者都不、竞争对手、展示
+- Source / 来源: The Washington Post. Published: `2026-10-31T07:35:30+00:00`.
+- Keywords / 关键词: el-sayed, stevens, stay, away, unity, washington, democrats, attempt, blows, asks
+- 中文关键词: 埃尔赛义德、史蒂文斯、停留、离开、统一、华盛顿、民主党人、试图、打击、问
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Israel’s final election results show neither Netanyahu nor rival can immediately form government NBC News Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties Reuters Israel is in a political deadlock. What comes next? NPR What Israeli Election Results Reveal About the Electorate The New York Times Israel Election Count Completed: These Are the Final Results Haaretz
-- RSS 中文摘要: 以色列最终选举结果显示，内塔尼亚胡和竞争对手都无法立即组建政府 NBC 新闻 内塔尼亚胡面临失去权力的风险，加大了对以色列阿拉伯政党的攻击力度 路透社 以色列陷入政治僵局。接下来会发生什么？ NPR 以色列选举结果揭示了选民的情况 纽约时报 以色列选举计票已完成：这些是最终结果 国土报
+- RSS Excerpt / RSS 摘要: El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up The Washington Post Michigan Democratic unity teeters as Abdul El-Sayed tells primary rival to stay away from his events CNN Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed The New York Times El-Sayed campaign wants Stevens to stay away after day of back-and-forth sniping Politico Haley Stevens and Abdul El-Sayed clash over Israel ad ahead of planned rally together NBC News
+- RSS 中文摘要: 埃尔-赛义德要求史蒂文斯远离，因为民主党的团结尝试失败了 《华盛顿邮报》 阿卜杜勒·赛义德告诉主要竞争对手远离他的活动，密歇根州民主党团结摇摇欲坠 CNN 为什么海莉·史蒂文斯不能停止谈论阿卜杜勒·赛义德 《纽约时报》 埃尔·赛义德竞选团队希望史蒂文斯在经过一天的来回狙击后远离政治家 海莉·史蒂文斯和阿卜杜勒·赛义德在以色列广告上发生冲突团结起来 NBC 新闻
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: election, results, israel, netanyahu, and final. The available excerpt says: Israel’s final election results show neither Netanyahu nor rival can immediately form government NBC News Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties Reuters Israel is in a political deadlock. What comes next? NPR What Israeli Election Results Reveal About the Electorate The New York Times Israel Election Count Completed: These Are the Final Results Haaretz Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：选举、结果、以色列、内塔尼亚胡、最终的。RSS 中文摘要显示：以色列最终选举结果显示，内塔尼亚胡和竞争对手都无法立即组建政府 NBC 新闻 内塔尼亚胡面临失去权力的风险，加大了对以色列阿拉伯政党的攻击力度 路透社 以色列陷入政治僵局。接下来会发生什么？ NPR 以色列选举结果揭示了选民的情况 纽约时报 以色列选举计票已完成：这些是最终结果 国土报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: el-sayed, stevens, stay, away, and unity. The available excerpt says: El-Sayed asks Stevens to stay away as Democrats’ attempt at unity blows up The Washington Post Michigan Democratic unity teeters as Abdul El-Sayed tells primary rival to stay away from his events CNN Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed The New York Times El-Sayed campaign wants Stevens to stay away after day of back-and-forth sniping Politico Haley Stevens and Abdul El-Sayed clash over Israel ad ahead of planned rally together NBC News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：埃尔赛义德、史蒂文斯、停留、离开、统一。RSS 中文摘要显示：埃尔-赛义德要求史蒂文斯远离，因为民主党的团结尝试失败了 《华盛顿邮报》 阿卜杜勒·赛义德告诉主要竞争对手远离他的活动，密歇根州民主党团结摇摇欲坠 CNN 为什么海莉·史蒂文斯不能停止谈论阿卜杜勒·赛义德 《纽约时报》 埃尔·赛义德竞选团队希望史蒂文斯在经过一天的来回狙击后远离政治家 海莉·史蒂文斯和阿卜杜勒·赛义德在以色列广告上发生冲突团结起来 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 3. [Spain’s latest deadly train crash puts human error and systemic failure under scrutiny - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxObGkwSHI5NE1aaU1SekdVcF93SDdITGRHeEYxa1N6OC1oU2RpVXBuM2JiZWdpbUg2VDFBNW0tWGFfYW10ZnZjY0E5YlppQnpBbGtOd3ZSeVRfLWc0aTVRWGF4UTFldk9NSXp1Qk5lckdJa05abGJkYzF4a1FQVTd5UGoxTUVqUFJFQlVQc0htR1hHOTRWWVhyWGdXdFF3aU0?oc=5)
+### 4. [Family of real estate CEO wounded in violent Toronto home invasion, officials say; 3 suspects at large - CBS News](https://news.google.com/rss/articles/CBMiigFBVV95cUxQMzhWU0V6c2NuWWFXdjVvcFhNbGdJQkVlT0x6NGkyNldwcVVaSnVDbHpiV2JfRjdnNWlnNHVBTzFGUVZ5TzZUNWhaTVNhNmh4QlJFOVhVTmVFWnJVa2VDcnNEdU15dHFCSmt0ZWx1UzlQNkNsSUdfYXZvUndWMjZuTmlibWZOdUQ4dnc?oc=5)
 
-- Source / 来源: AP News. Published: `2026-10-30T05:03:00+00:00`.
+- Source / 来源: CBS News. Published: `2026-10-31T01:13:15+00:00`.
+- Keywords / 关键词: home, invasion, family, ceo, toronto, estate, real, officials, suspects, wounded
+- 中文关键词: 家、入侵、家庭、首席执行官、多伦多、财产、真实的、官员、嫌疑人、受伤的
+- Category / 分类: Public safety and society / 公共安全与社会
+- RSS Excerpt / RSS 摘要: Family of real estate CEO wounded in violent Toronto home invasion, officials say; 3 suspects at large CBS News Real estate CEO and family shot, attacked with hammer by masked intruders in home invasion robbery Fox Business Toronto family speaks out following ‘terrifying’ Bridle Path home invasion CTV News Manhunt under way after Toronto CEO and family violently attacked in home invasion BBC Real Estate CEO, His 2 Daughters and Wife Shot After Masked Men Invade Their Home People.com
+- RSS 中文摘要: 官员称，房地产首席执行官的家人在多伦多入室暴力事件中受伤；大型犯罪嫌疑人 CBS News 房地产首席执行官和家人在入室抢劫中被蒙面入侵者用锤子袭击 Fox Business 多伦多家庭在“可怕的”Bridle Path 入室盗窃事件后大声疾呼 CTV 新闻 多伦多首席执行官及其家人在入室盗窃中遭到暴力袭击后，正在进行搜捕 BBC 房地产首席执行官、他的 2 个女儿和妻子在蒙面男子入室抢劫后被枪杀 People.com
+- EN Summary: This story centers on harm to people, emergency response, or social disruption.
+- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
+- EN Detailed Reading: Key signals: home, invasion, family, ceo, and toronto. The available excerpt says: Family of real estate CEO wounded in violent Toronto home invasion, officials say; 3 suspects at large CBS News Real estate CEO and family shot, attacked with hammer by masked intruders in home invasion robbery Fox Business Toronto family speaks out following ‘terrifying’ Bridle Path home invasion CTV News Manhunt under way after Toronto CEO and family violently attacked in home invasion BBC Real Estate CEO, His 2 Daughters and Wife Shot After Masked Men Invade Their Home People.com Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
+- 中文详细解读: 关键词信号：家、入侵、家庭、首席执行官、多伦多。RSS 中文摘要显示：官员称，房地产首席执行官的家人在多伦多入室暴力事件中受伤；大型犯罪嫌疑人 CBS News 房地产首席执行官和家人在入室抢劫中被蒙面入侵者用锤子袭击 Fox Business 多伦多家庭在“可怕的”Bridle Path 入室盗窃事件后大声疾呼 CTV 新闻 多伦多首席执行官及其家人在入室盗窃中遭到暴力袭击后，正在进行搜捕 BBC 房地产首席执行官、他的 2 个女儿和妻子在蒙面男子入室抢劫后被枪杀 People.com 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
+- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
+- 后续关注: 官方调查；确认伤亡数字；预防措施
+
+### 5. [Oman rescues 25 from burning oil tanker in Strait of Hormuz - Al Jazeera](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSmtrMGdTY1l0TXhmX2xJcFdJRllzTXpsT0lSSFhhbWQ2Y3NPbUhLSTByYVdFaU1MdmJuVTA0UWRoNjF2TlBYWjBNWk1fYmhhV0dMRzg2b2RJblNabTVXREhvVkFXaFRtYzJ3T0ZaNU4zNWNkQ3ZRRVU2THhmeEE1OEJ6bE4zU3o0MXQtekFiNXg2andqVnFEWTFRLVhYX2xHVGp30gGoAUFVX3lxTE9GV3BYaG9nbDM0LWQyOWduOXZIeV9nWVl6NGR6cVlqLTB4cHdFWkV3U2NQTjRhNGpkSnF5QWQ4RFhVV0JvRTNVRUo4SmVWZHI1Vll3emlOTWRkQUd4bHdpNmZubGg4WEhRYzloYXNQUVZ4ZVFtTHVhbW9JMlNLOV9ncFRZNGlSdmVvWEhMTkN6emJ0QlEzYU13bzFqSHYwOHBDSHRUZUxjcw?oc=5)
+
+- Source / 来源: Al Jazeera. Published: `2026-10-31T04:11:38+00:00`.
+- Keywords / 关键词: hormuz, tanker, strait, rescues, burning, jazeera, oman, oil, tankers, mines
+- 中文关键词: 霍尔木兹、油船、海峡、营救、燃烧、半岛电视台、阿曼、石油、油轮、地雷
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Oman rescues 25 from burning oil tanker in Strait of Hormuz Al Jazeera Rare Speedboat Attack in Hormuz Ignites Tanker’s Engine Room Bloomberg Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms CNBC Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz Reuters Tanker Carrying 27 Indians Attacked With Limpet Mines In Strait Of Hormuz NDTV
+- RSS 中文摘要: 阿曼从霍尔木兹海峡燃烧的油轮中救出 25 人 半岛电视台 霍尔木兹罕见快艇袭击点燃油轮机舱 彭博社 伊朗声称，美国中期选举后，罢工担忧加剧，四艘油轮在霍尔木兹触雷 伊朗伊斯兰革命卫队海军称，四艘油轮在霍尔木兹海峡起火 路透社 载有 27 名印度人的油轮在霍尔木兹海峡遭到贝贝地雷袭击 NDTV
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: hormuz, tanker, strait, rescues, and burning. The available excerpt says: Oman rescues 25 from burning oil tanker in Strait of Hormuz Al Jazeera Rare Speedboat Attack in Hormuz Ignites Tanker’s Engine Room Bloomberg Iran claims four tankers struck mines in Hormuz as strike fears grow after U.S. midterms CNBC Iran's IRGC Navy says four tankers catch fire in Strait of Hormuz Reuters Tanker Carrying 27 Indians Attacked With Limpet Mines In Strait Of Hormuz NDTV Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：霍尔木兹、油船、海峡、营救、燃烧。RSS 中文摘要显示：阿曼从霍尔木兹海峡燃烧的油轮中救出 25 人 半岛电视台 霍尔木兹罕见快艇袭击点燃油轮机舱 彭博社 伊朗声称，美国中期选举后，罢工担忧加剧，四艘油轮在霍尔木兹触雷 伊朗伊斯兰革命卫队海军称，四艘油轮在霍尔木兹海峡起火 路透社 载有 27 名印度人的油轮在霍尔木兹海峡遭到贝贝地雷袭击 NDTV 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 6. [US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia - The Guardian](https://news.google.com/rss/articles/CBMizAFBVV95cUxQaENwN21qQkg0bzFXbGU4UXdDSi1pWXJMRjFfWFVoS1REb3BGUWFvMndKb2Y5M1FPbzM4d2M2NmloWVE1UjREOXc0aGFKYS1wa21DVDg1Q0I4NkpYc3NlNzU4elc5cFZmQnFQNi12VlNZMVU4TDFYX1dHREttTlBzb0tNaDhDS1Z0R2d1emw2NGU0QVpmaFJTOFBrZS00bTlwaEtQbjI5bTRUQlJ3aHFud0dxalhYanllYldueDJDZDNNa0YwSUU0QlQxX3A?oc=5)
+
+- Source / 来源: The Guardian. Published: `2026-10-31T02:55:00+00:00`.
+- Keywords / 关键词: g20, family, russia, australia, cancels, others, refuse, appear, photo, ministers
+- 中文关键词: 二十国集团、家庭、俄罗斯、澳大利亚、取消、其他的、拒绝、出现、照片、部长
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia The Guardian As Lavrov Returns To G20, Ukraine, Middle East Highlight Western Divisions Radio Free Europe/Radio Liberty G20 'family photo' cancelled after protests over presence of Russian minister BBC G20 foreign ministers skip photo-op amid objections over Russia Reuters WATCH: Rubio welcomes G20 foreign ministers to Atlanta at 'critical moment' PBS
+- RSS 中文摘要: 澳大利亚、英国和其他国家拒绝与俄罗斯一起出现后，美国取消了G20“全家福” 《卫报》拉夫罗夫重返G20、乌克兰、中东聚焦西方分歧 自由欧洲电台/自由电台 抗议俄罗斯外长出席后取消了G20“全家福” BBC G20外长因俄罗斯反对而跳过合影 路透社观察：卢比奥欢迎G20外长在“关键时刻”来到亚特兰大 PBS
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: g20, family, russia, australia, and cancels. The available excerpt says: US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia The Guardian As Lavrov Returns To G20, Ukraine, Middle East Highlight Western Divisions Radio Free Europe/Radio Liberty G20 'family photo' cancelled after protests over presence of Russian minister BBC G20 foreign ministers skip photo-op amid objections over Russia Reuters WATCH: Rubio welcomes G20 foreign ministers to Atlanta at 'critical moment' PBS Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：二十国集团、家庭、俄罗斯、澳大利亚、取消。RSS 中文摘要显示：澳大利亚、英国和其他国家拒绝与俄罗斯一起出现后，美国取消了G20“全家福” 《卫报》拉夫罗夫重返G20、乌克兰、中东聚焦西方分歧 自由欧洲电台/自由电台 抗议俄罗斯外长出席后取消了G20“全家福” BBC G20外长因俄罗斯反对而跳过合影 路透社观察：卢比奥欢迎G20外长在“关键时刻”来到亚特兰大 PBS 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [Court Rejects Latest Trump Effort to Impound California Ballots - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE15elg4SmJRb1ZtQVdYbGlOVjFveW14Rm5sSXZNa2VSVHRBcUxvLTVIa2xaNVlZSXdMYlppYnNpMjF0SDZjc0FaUjQ3d09qZ3liVWU4UVRpVVM0UmtvWHplbGpJaUtqUUlrbEs5bFBlTlZfQnJuekE?oc=5)
+
+- Source / 来源: The New York Times. Published: `2026-10-31T09:52:00+00:00`.
+- Keywords / 关键词: california, trump, rejects, impound, ballots, latest, effort, court, officials, election
+- 中文关键词: 加利福尼亚州、特朗普、拒绝、扣押、选票、最新的、努力、法庭、官员、选举
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Court Rejects Latest Trump Effort to Impound California Ballots The New York Times Judge imposes sweeping emergency order halting DOJ pressure campaign on election officials across the country CNN Judge orders Trump administration to hand over list of alleged noncitizen voters NBC News DOJ subpoenas California election officials as part of ballooning voter fraud probes San Francisco Chronicle Judge orders DOJ to stop threatening to prosecute election officials Yahoo
+- RSS 中文摘要: 法院驳回特朗普扣押加州选票的最新努力 《纽约时报》法官下达全面紧急命令，停止司法部向全国各地的选举官员施压 CNN 法官命令特朗普政府交出所谓的非公民选民名单 NBC 新闻 司法部向加州选举官员发出传票，作为不断扩大的选民欺诈调查的一部分 《旧金山纪事报》法官命令司法部停止威胁起诉选举官员 雅虎
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: california, trump, rejects, impound, and ballots. The available excerpt says: Court Rejects Latest Trump Effort to Impound California Ballots The New York Times Judge imposes sweeping emergency order halting DOJ pressure campaign on election officials across the country CNN Judge orders Trump administration to hand over list of alleged noncitizen voters NBC News DOJ subpoenas California election officials as part of ballooning voter fraud probes San Francisco Chronicle Judge orders DOJ to stop threatening to prosecute election officials Yahoo Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：加利福尼亚州、特朗普、拒绝、扣押、选票。RSS 中文摘要显示：法院驳回特朗普扣押加州选票的最新努力 《纽约时报》法官下达全面紧急命令，停止司法部向全国各地的选举官员施压 CNN 法官命令特朗普政府交出所谓的非公民选民名单 NBC 新闻 司法部向加州选举官员发出传票，作为不断扩大的选民欺诈调查的一部分 《旧金山纪事报》法官命令司法部停止威胁起诉选举官员 雅虎 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 8. [US cancels G20 photo after EU diplomats object to Russia's Lavrov - Euronews.com](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTk5FZmxldWlmV0ExYjJnT21sU3VSOE9EVldUNjB2eElURGFaQ1ZLZWdnbEdMcEdkUVJuQVlBYmlSOU1OS19TWFc3MDdIb0RoUzc5dG9uZTFvRGNDRXJQejhIWE9pYzlqR2FsNnRBQ3dXYU1jZ3lacE1OR1FsMzJWWGl5a1BwT0JDNjNEenFmODhDQzZadGdQQUktWHc2bW9ob21IM2dYbkpYZw?oc=5)
+
+- Source / 来源: Euronews.com. Published: `2026-10-30T17:03:13+00:00`.
+- Keywords / 关键词: g20, cancels, lavrov, photo, diplomats, russia's, euronews, object, com, family
+- 中文关键词: 二十国集团、取消、拉夫罗夫、照片、外交官、俄罗斯的、欧洲新闻报、目的、com、家庭
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: US cancels G20 photo after EU diplomats object to Russia's Lavrov Euronews.com US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia The Guardian As Lavrov Returns To G20, Ukraine, Middle East Highlight Western Divisions Radio Free Europe/Radio Liberty G20 'family photo' cancelled after protests over presence of Russian minister BBC G20 foreign ministers skip photo-op amid objections over Russia Reuters
+- RSS 中文摘要: 欧盟外交官反对俄罗斯拉夫罗夫后，美国取消了G20照片 Euronews.com 在澳大利亚、英国和其他国家拒绝与俄罗斯一起出现后，美国取消了G20“全家福”
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: g20, cancels, lavrov, photo, and diplomats. The available excerpt says: US cancels G20 photo after EU diplomats object to Russia's Lavrov Euronews.com US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia The Guardian As Lavrov Returns To G20, Ukraine, Middle East Highlight Western Divisions Radio Free Europe/Radio Liberty G20 'family photo' cancelled after protests over presence of Russian minister BBC G20 foreign ministers skip photo-op amid objections over Russia Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：二十国集团、取消、拉夫罗夫、照片、外交官。RSS 中文摘要显示：欧盟外交官反对俄罗斯拉夫罗夫后，美国取消了G20照片 Euronews.com 在澳大利亚、英国和其他国家拒绝与俄罗斯一起出现后，美国取消了G20“全家福” 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 9. [Video shows ICE agent pointing handgun in face of North Hollywood bystander - Los Angeles Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVmtMVm5HQnhoQnl6VzQtZTFWSEVDRzEzdkdHb2dodXhZVVk0dTg4em5BTmFSYWdONXJqNlk0eHR2dFZqLUlPMjBZT0RKUmdLTkVBOFZWbFdrXzhJTWtaWWt3TzF4bXdQTGlDenVuc3VsOFZYaVdneVhLWEJaMmdyXzZxTTRVYUdmUENNS2pGX0s3Ni1WcHNtQVZxdVI1RVBpNzhjTGNUbWhMZDJZVjNJUmRLYmxkTVlFLW1lZEhTS0l5UkU?oc=5)
+
+- Source / 来源: Los Angeles Times. Published: `2026-10-31T01:59:06+00:00`.
+- Keywords / 关键词: video, ice, hollywood, bystander, agent, north, angeles, shows, los, pointing
+- 中文关键词: 视频、冰、好莱坞、旁观者、代理人、北、安吉利斯、节目、洛斯、指点
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Video shows ICE agent pointing handgun in face of North Hollywood bystander Los Angeles Times ICE agent points gun at bystander’s face in North Hollywood, video shows KTLA Video appears to show ICE agent pointing gun at bystander in North Hollywood NBC Los Angeles ICE agent appears to point gun at neighbor during tense North Hollywood arrest caught on video ABC7 Los Angeles ICE violently takes man into custody in NoHo, points gun at bystander, video shows Yahoo
+- RSS 中文摘要: 视频显示 ICE 特工用手枪指着北好莱坞旁观者的脸 洛杉矶时报 ICE 特工在北好莱坞用枪指着旁观者的脸，视频显示 KTLA 视频似乎显示 ICE 特工在北好莱坞用枪指着旁观者的脸 NBC 洛杉矶 视频显示 ABC7 洛杉矶 ICE 在 NoHo 暴力逮捕一名男子，用枪指着旁观者，视频显示雅虎
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: video, ice, hollywood, bystander, and agent. The available excerpt says: Video shows ICE agent pointing handgun in face of North Hollywood bystander Los Angeles Times ICE agent points gun at bystander’s face in North Hollywood, video shows KTLA Video appears to show ICE agent pointing gun at bystander in North Hollywood NBC Los Angeles ICE agent appears to point gun at neighbor during tense North Hollywood arrest caught on video ABC7 Los Angeles ICE violently takes man into custody in NoHo, points gun at bystander, video shows Yahoo Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：视频、冰、好莱坞、旁观者、代理人。RSS 中文摘要显示：视频显示 ICE 特工用手枪指着北好莱坞旁观者的脸 洛杉矶时报 ICE 特工在北好莱坞用枪指着旁观者的脸，视频显示 KTLA 视频似乎显示 ICE 特工在北好莱坞用枪指着旁观者的脸 NBC 洛杉矶 视频显示 ABC7 洛杉矶 ICE 在 NoHo 暴力逮捕一名男子，用枪指着旁观者，视频显示雅虎 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 10. [Spain’s latest deadly train crash puts human error and systemic failure under scrutiny - AP News](https://news.google.com/rss/articles/CBMinwFBVV95cUxObGkwSHI5NE1aaU1SekdVcF93SDdITGRHeEYxa1N6OC1oU2RpVXBuM2JiZWdpbUg2VDFBNW0tWGFfYW10ZnZjY0E5YlppQnpBbGtOd3ZSeVRfLWc0aTVRWGF4UTFldk9NSXp1Qk5lckdJa05abGJkYzF4a1FQVTd5UGoxTUVqUFJFQlVQc0htR1hHOTRWWVhyWGdXdFF3aU0?oc=5)
+
+- Source / 来源: AP News. Published: `2026-10-30T18:53:00+00:00`.
 - Keywords / 关键词: systemic, scrutiny, failure, latest, deadly, spain, train, crash, human, error
 - 中文关键词: 系统性的、审查、失败、最新的、致命、西班牙、火车、碰撞、人类、错误
 - Category / 分类: Technology / 科技
@@ -56,111 +161,6 @@ Generated at `2026-10-30T10:40:49+00:00` UTC.
 - 中文详细解读: 关键词信号：系统性的、审查、失败、最新的、致命。RSS 中文摘要显示：西班牙最近发生的致命火车事故使人为错误和系统故障受到审查 美联社新闻 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
 - EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
 - 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 4. [Israel election results: How to break the deadlock - CNN](https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRW9WX3Z5cmdXMnlQR0Q2Smx5SFlQWWFJZHN4Um44Yk5iVm9OZlB4VG44YzZWUVUzYk1VSzJISHdjeE1wTWJQYlpiSkp3M1AzeXhzY0YtSFlaSDhWY0xNOXBlY3ktVTk5S1RwR0N4elpSVmFpenQ3aVVIblNza044MUR2Ti1MRzN6YVlJ?oc=5)
-
-- Source / 来源: CNN. Published: `2026-10-29T23:27:46+00:00`.
-- Keywords / 关键词: election, results, israel, deadlock, break, electorate, netanyahu, political, completed, israel's
-- 中文关键词: 选举、结果、以色列、僵局、休息、选民、内塔尼亚胡、政治的、完全的、以色列的
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Israel election results: How to break the deadlock CNN Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties Reuters Israel is in a political deadlock. What comes next? NPR What Israeli Election Results Reveal About the Electorate The New York Times Israel Election Count Completed: These Are the Final Results Haaretz
-- RSS 中文摘要: 以色列选举结果：如何打破僵局 CNN 内塔尼亚胡面临失去权力的风险，加大对以色列阿拉伯政党的攻击力度 路透社 以色列陷入政治僵局。接下来会发生什么？ NPR 以色列选举结果揭示了选民的情况 纽约时报 以色列选举计票已完成：这些是最终结果 国土报
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: election, results, israel, deadlock, and break. The available excerpt says: Israel election results: How to break the deadlock CNN Netanyahu, at risk of losing power, steps up attacks on Israel's Arab parties Reuters Israel is in a political deadlock. What comes next? NPR What Israeli Election Results Reveal About the Electorate The New York Times Israel Election Count Completed: These Are the Final Results Haaretz Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：选举、结果、以色列、僵局、休息。RSS 中文摘要显示：以色列选举结果：如何打破僵局 CNN 内塔尼亚胡面临失去权力的风险，加大对以色列阿拉伯政党的攻击力度 路透社 以色列陷入政治僵局。接下来会发生什么？ NPR 以色列选举结果揭示了选民的情况 纽约时报 以色列选举计票已完成：这些是最终结果 国土报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 5. [Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump - WSJ](https://news.google.com/rss/articles/CBMirAFBVV95cUxOaUxidnBpVnk4eUFpanJoNTlqNS1FUGxkeGl2QVVSc2d0ZU5rRXVDRUF6NXhfRFQwRl83dlZWM19YZzRBM1VOQ0Z6NEZ5emZibm1TTGgya1ZPRXB6YjFPSGstdUh2ZDJidXZfX01PZTMyV0tNd25zc2oySFVEdjdnN0RBYXg5RERSVXFkVlh6ZVBEQmlWRnFBdThiU2trTGI2UjBrNXdxajVHZTZI?oc=5)
-
-- Source / 来源: WSJ. Published: `2026-10-30T08:14:00+00:00`.
-- Keywords / 关键词: refinery, oil, russian, ukraine, defying, ending, pause, trump, hits, wsj
-- 中文关键词: 炼油厂、石油、俄罗斯、乌克兰、反抗、结束、暂停、特朗普、点击数、华尔街日报
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump WSJ Ukrainian Drones Hit Russian Military Food Supplier, Oil Refinery in Overnight Attacks Kyiv Post Drones attack oil refinery in Russia's Novokuibyshevsk – photos and videos Українська правда Drones strike Russian oil refinery and military canning plant, media report Ukrinform Russian oil refinery suffers major drone attack POLITICO.eu
-- RSS 中文摘要: 乌克兰袭击俄罗斯炼油厂，结束暂停并挑战特朗普 华尔街日报 乌克兰无人机在一夜之间袭击了俄罗斯军用食品供应商和炼油厂 基辅邮报 无人机袭击了俄罗斯新伊比雪夫斯克的炼油厂 - 照片和视频 Українська правда 无人机袭击了俄罗斯炼油厂和军用罐头厂，媒体报道 Ukrinform 俄罗斯炼油厂遭受重大无人机袭击欧盟政治网
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: refinery, oil, russian, ukraine, and defying. The available excerpt says: Ukraine Hits Russian Oil Refinery, Ending Pause and Defying Trump WSJ Ukrainian Drones Hit Russian Military Food Supplier, Oil Refinery in Overnight Attacks Kyiv Post Drones attack oil refinery in Russia's Novokuibyshevsk – photos and videos Українська правда Drones strike Russian oil refinery and military canning plant, media report Ukrinform Russian oil refinery suffers major drone attack POLITICO.eu Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：炼油厂、石油、俄罗斯、乌克兰、反抗。RSS 中文摘要显示：乌克兰袭击俄罗斯炼油厂，结束暂停并挑战特朗普 华尔街日报 乌克兰无人机在一夜之间袭击了俄罗斯军用食品供应商和炼油厂 基辅邮报 无人机袭击了俄罗斯新伊比雪夫斯克的炼油厂 - 照片和视频 Українська правда 无人机袭击了俄罗斯炼油厂和军用罐头厂，媒体报道 Ukrinform 俄罗斯炼油厂遭受重大无人机袭击欧盟政治网 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 6. [2 Helicopters Collide Midair in Oregon, Killing All 3 Aboard - The New York Times](https://news.google.com/rss/articles/CBMidkFVX3lxTE9vX1FYc0xoYS1qTVdBYWN6OFVmQlAzZVp1eWd6cHhqeUFlTjAweEFUQmthNVpFZUs3U0tRQWtNbEhwN1E2V2dyaGt2Q0xkbG5lS2xsRnVNSHlGNERkOUJKYzlocjM2Y1VqT0JhZ1VmcGJ3cTJOT1E?oc=5)
-
-- Source / 来源: The New York Times. Published: `2026-10-30T04:39:53+00:00`.
-- Keywords / 关键词: helicopters, midair, oregon, collide, killing, airport, aboard, near, all, mcminnville
-- 中文关键词: 直升机、半空中、俄勒冈州、碰撞、造成死亡、飞机场、船上、靠近、全部、麦克明维尔
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: 2 Helicopters Collide Midair in Oregon, Killing All 3 Aboard The New York Times 3 people killed in crash between 2 helicopters near McMinnville airport KPTV 3 dead after 2 helicopters crash near Oregon airport WOODTV.com No survivors in midair collision of two helicopters near McMinnville Airport KATU Helicopter crash near McMinnville Airport causes closure of OR 223 west of Dayton KGW
-- RSS 中文摘要: 俄勒冈州两架直升机在空中相撞，机上 3 人全部遇难 《纽约时报》 麦克明维尔机场附近两架直升机相撞，造成 3 人死亡 KPTV 俄勒冈机场附近两架直升机相撞，造成 3 人死亡 WOODTV.com 麦克明维尔机场附近两架直升机相撞，无人生还 KATU 麦克明维尔机场附近的直升机坠毁导致代顿 KGW 以西的 OR 223 航班关闭
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: helicopters, midair, oregon, collide, and killing. The available excerpt says: 2 Helicopters Collide Midair in Oregon, Killing All 3 Aboard The New York Times 3 people killed in crash between 2 helicopters near McMinnville airport KPTV 3 dead after 2 helicopters crash near Oregon airport WOODTV.com No survivors in midair collision of two helicopters near McMinnville Airport KATU Helicopter crash near McMinnville Airport causes closure of OR 223 west of Dayton KGW Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：直升机、半空中、俄勒冈州、碰撞、造成死亡。RSS 中文摘要显示：俄勒冈州两架直升机在空中相撞，机上 3 人全部遇难 《纽约时报》 麦克明维尔机场附近两架直升机相撞，造成 3 人死亡 KPTV 俄勒冈机场附近两架直升机相撞，造成 3 人死亡 WOODTV.com 麦克明维尔机场附近两架直升机相撞，无人生还 KATU 麦克明维尔机场附近的直升机坠毁导致代顿 KGW 以西的 OR 223 航班关闭 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 7. [French centrists' feuding increases odds of Le Pen-Melenchon runoff - Reuters](https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWphYWlpaktfNXNkUmRqTzg2Ml95cjdWWVBaVFdFZWgxLTI5SUttWjdNM2JPR1VmMHdsbFh0enpOc2lNazdOaVo3cjJfZi1ITXd2UEpKaGxxU2tLXzJ0WjJ1VVV6MDRkdnNQN3hfNkduMzFlSloyemdXcWFKdWtXUXc2UDM0enFfR245SDNZdFo2RHpuVDNVWlVWTFlzckZhTE9ycC01MTY3SEc2anNkbGxR?oc=5)
-
-- Source / 来源: Reuters. Published: `2026-10-30T07:55:49+00:00`.
-- Keywords / 关键词: french, pen-melenchon, centrists, increases, feuding, runoff, odds, poll, election, run-off
-- 中文关键词: 法语、彭梅朗雄、中间派、增加、争斗、径流、赔率、轮询、选举
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: French centrists' feuding increases odds of Le Pen-Melenchon runoff Reuters Le Pen widens poll lead as Mélenchon closes in on run-off spot RFI French protests hand Melenchon election boost The Telegraph Latest poll predicts far-right vs far-left run-off for 2027 French presidential election connexionfrance Former French PM Philippe falls to 15% in poll — Cyprus Mail UA.NEWS
-- RSS 中文摘要: 法国中间派的不和增加了勒庞与梅朗雄决选的可能性 路透 勒庞扩大民调领先优势，梅朗雄逼近决胜点 RFI 法国抗议活动推动梅朗雄选情提振 《电讯报》最新民调预测 2027 年法国总统选举极右翼与极左翼决选 connexionfrance 法国前总理菲利普在民意调查中跌至 15% — 塞浦路斯邮报 UA.NEWS
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: french, pen-melenchon, centrists, increases, and feuding. The available excerpt says: French centrists' feuding increases odds of Le Pen-Melenchon runoff Reuters Le Pen widens poll lead as Mélenchon closes in on run-off spot RFI French protests hand Melenchon election boost The Telegraph Latest poll predicts far-right vs far-left run-off for 2027 French presidential election connexionfrance Former French PM Philippe falls to 15% in poll — Cyprus Mail UA.NEWS Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：法语、彭梅朗雄、中间派、增加、争斗。RSS 中文摘要显示：法国中间派的不和增加了勒庞与梅朗雄决选的可能性 路透 勒庞扩大民调领先优势，梅朗雄逼近决胜点 RFI 法国抗议活动推动梅朗雄选情提振 《电讯报》最新民调预测 2027 年法国总统选举极右翼与极左翼决选 connexionfrance 法国前总理菲利普在民意调查中跌至 15% — 塞浦路斯邮报 UA.NEWS 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 8. [Vivek Ramaswamy's ad featuring Amy Acton's mother stops airing in Ohio - The Columbus Dispatch](https://news.google.com/rss/articles/CBMipwFBVV95cUxQUVFnby10M2I2ekM2N2RiT2tQMHNQVUVJYnctN0x3bVIzalJ0X25UQm1QSTZ2Tk1sV2lNampVVlZuc2FHeHRJN3hNenBuRFZZM2hhaFZuMlNldkNrbWpXWWFPTk1WZ0lycHc4NWRfQlVMU2dVc3lPVExSVE83YzdMa3lWelZqQ2VpUUlxa3oxTUtEOFQzSGVDell2UVVROVNiMGV0bUE1SQ?oc=5)
-
-- Source / 来源: The Columbus Dispatch. Published: `2026-10-30T03:23:00+00:00`.
-- Keywords / 关键词: mother, featuring, vivek, amy, ramaswamy's, columbus, dispatch, acton's, airing, stops
-- 中文关键词: 母亲、特色、维维克、艾米、拉马斯瓦米的、哥伦布、派遣、阿克顿的、播出、停止
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Vivek Ramaswamy's ad featuring Amy Acton's mother stops airing in Ohio The Columbus Dispatch A rare red line in deeply cynical times The Guardian ‘Readers Want Us to Stand for Something’ Columbia Journalism Review Vivek Ramaswamy’s ad using Amy Acton’s estranged mother has ended its TV run NBC News Ramaswamy takes down explosive ad featuring his opponent’s mother The Washington Post
-- RSS 中文摘要: 维韦克·拉马斯瓦米 (Vivek Ramaswamy) 以艾米·阿克顿 (Amy Acton) 的母亲为主角的广告在俄亥俄州停止播出 《哥伦布快报》 在极度愤世嫉俗的时代划出罕见的红线 《卫报》“读者希望我们代表某种东西” 哥伦比亚新​​闻评论 维韦克·拉马斯瓦米 (Vivek Ramaswamy) 以艾米·阿克顿 (Amy Acton) 关系疏远的母亲为主角的广告已结束电视播出 NBC 新闻 拉马斯瓦米 (Ramaswamy) 撤下以对手的母亲为主角的爆炸性广告 《华盛顿邮报》
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: mother, featuring, vivek, amy, and ramaswamy's. The available excerpt says: Vivek Ramaswamy's ad featuring Amy Acton's mother stops airing in Ohio The Columbus Dispatch A rare red line in deeply cynical times The Guardian ‘Readers Want Us to Stand for Something’ Columbia Journalism Review Vivek Ramaswamy’s ad using Amy Acton’s estranged mother has ended its TV run NBC News Ramaswamy takes down explosive ad featuring his opponent’s mother The Washington Post Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：母亲、特色、维维克、艾米、拉马斯瓦米的。RSS 中文摘要显示：维韦克·拉马斯瓦米 (Vivek Ramaswamy) 以艾米·阿克顿 (Amy Acton) 的母亲为主角的广告在俄亥俄州停止播出 《哥伦布快报》 在极度愤世嫉俗的时代划出罕见的红线 《卫报》“读者希望我们代表某种东西” 哥伦比亚新​​闻评论 维韦克·拉马斯瓦米 (Vivek Ramaswamy) 以艾米·阿克顿 (Amy Acton) 关系疏远的母亲为主角的广告已结束电视播出 NBC 新闻 拉马斯瓦米 (Ramaswamy) 撤下以对手的母亲为主角的爆炸性广告 《华盛顿邮报》 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 9. [DOJ contends Democrats misled court on Alaska Senate race - Politico](https://news.google.com/rss/articles/CBMidEFVX3lxTE1yWGRwY0JrNDZEMU1uQzBnY2NZWWU0NUNhbnVabUV6bGkzR05ab2VvTmtoQ0tlODJxQ0VZXzh1bXB4MVFVNWJhdUpHRmlOd3RjNHFPdDhwLWtzR1UwVHdzalJacERnNkRFZFlReGc2N0lfMjVZ?oc=5)
-
-- Source / 来源: Politico. Published: `2026-10-30T05:03:00+00:00`.
-- Keywords / 关键词: alaska, democrats, doj, contends, politico, misled, senate, court, race, midterms
-- 中文关键词: 阿拉斯加州、民主党人、司法部、争辩、政治报、误导、参议院、法庭、种族、期中考试
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: DOJ contends Democrats misled court on Alaska Senate race Politico Midterm Elections Live Updates: Justice Dept. Subpoenas Democrats Over Allegations of Ballot Stacking in Alaska The New York Times Midterms live updates: Trump cancels weekend rallies in red states in final stretch ahead of midterms CNN DOJ seeks to wipe out bids to dismiss Alaska election case after amending lawsuit Democracy Docket Alaska's "double-Dan" fight spirals into chaos Axios
-- RSS 中文摘要: 司法部认为民主党在阿拉斯加参议院竞选中误导了法院 Politico 中期选举实时更新：司法部就阿拉斯加选票堆积指控向民主党发出传票 《纽约时报》中期选举实时更新：特朗普取消了中期选举前最后阶段在红色州的周末集会 CNN 司法部在修改诉讼后寻求取消驳回阿拉斯加选举案的提议 民主案卷阿拉斯加“双丹”之争陷入混乱 Axios
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: alaska, democrats, doj, contends, and politico. The available excerpt says: DOJ contends Democrats misled court on Alaska Senate race Politico Midterm Elections Live Updates: Justice Dept. Subpoenas Democrats Over Allegations of Ballot Stacking in Alaska The New York Times Midterms live updates: Trump cancels weekend rallies in red states in final stretch ahead of midterms CNN DOJ seeks to wipe out bids to dismiss Alaska election case after amending lawsuit Democracy Docket Alaska's "double-Dan" fight spirals into chaos Axios Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：阿拉斯加州、民主党人、司法部、争辩、政治报。RSS 中文摘要显示：司法部认为民主党在阿拉斯加参议院竞选中误导了法院 Politico 中期选举实时更新：司法部就阿拉斯加选票堆积指控向民主党发出传票 《纽约时报》中期选举实时更新：特朗普取消了中期选举前最后阶段在红色州的周末集会 CNN 司法部在修改诉讼后寻求取消驳回阿拉斯加选举案的提议 民主案卷阿拉斯加“双丹”之争陷入混乱 Axios 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 10. [Copper thieves arrested over Plaka gas explosion that killed six - eKathimerini.com](https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaHBQMk5fNm9MdllSQ3psV1QyVk0wNnBfcHVKVktCUENfeVcyQV92TjF2VDJsNkJsYmI3R1c4ZTN3R1l1bXpZWTQtMTNaZEVTak9WM2VUaV9jSHgxYzJWODZ3Y2VQZ1V2Qm9ENjlwU21SSnhHOEhoN1dTUXVYRk84ZnNtaEhLM3dPZGFrLUZtZE12Uzc2UXZYUWl2ZDY3V3I2WWlBY0FmS1FrVjA?oc=5)
-
-- Source / 来源: eKathimerini.com. Published: `2026-10-29T22:37:35+00:00`.
-- Keywords / 关键词: explosion, killed, six, arrested, plaka, com, ekathimerini, thieves, copper, gas
-- 中文关键词: 爆炸、死亡、六、被捕、盘子、com、埃卡蒂梅里尼、小偷、铜、气体
-- Category / 分类: Public safety and society / 公共安全与社会
-- RSS Excerpt / RSS 摘要: Copper thieves arrested over Plaka gas explosion that killed six eKathimerini.com Greece arrests three over explosion that killed six people in Athens Reuters Vdekja e tre shqiptarëve në Athinë nga shembja e banesës, shkak vjedhja e tubave të gazit Reporteri.net Three Face Felony Charges in Fatal Athens Explosion tovima.com Three arrested over Plaka explosion that killed six Neos Kosmos
-- RSS 中文摘要: 铜盗贼因普拉卡煤气爆炸被捕，造成六人死亡 eKathimerini.com 希腊因爆炸造成六人死亡而逮捕三人 路透社 雅典三名阿尔巴尼亚人因煤气管道失窃而因公寓倒塌而死亡 Reporteri.net 雅典致命爆炸中三人面临重罪指控 tovima.com 三人因普拉卡爆炸造成六人死亡而被捕
-- EN Summary: This story centers on harm to people, emergency response, or social disruption.
-- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
-- EN Detailed Reading: Key signals: explosion, killed, six, arrested, and plaka. The available excerpt says: Copper thieves arrested over Plaka gas explosion that killed six eKathimerini.com Greece arrests three over explosion that killed six people in Athens Reuters Vdekja e tre shqiptarëve në Athinë nga shembja e banesës, shkak vjedhja e tubave të gazit Reporteri.net Three Face Felony Charges in Fatal Athens Explosion tovima.com Three arrested over Plaka explosion that killed six Neos Kosmos Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
-- 中文详细解读: 关键词信号：爆炸、死亡、六、被捕、盘子。RSS 中文摘要显示：铜盗贼因普拉卡煤气爆炸被捕，造成六人死亡 eKathimerini.com 希腊因爆炸造成六人死亡而逮捕三人 路透社 雅典三名阿尔巴尼亚人因煤气管道失窃而因公寓倒塌而死亡 Reporteri.net 雅典致命爆炸中三人面临重罪指控 tovima.com 三人因普拉卡爆炸造成六人死亡而被捕 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
-- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
-- 后续关注: 官方调查；确认伤亡数字；预防措施
 
 
 
