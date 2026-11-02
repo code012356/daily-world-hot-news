@@ -1,250 +1,92 @@
 {
-  "generated_at": "2026-11-01T10:58:48+00:00",
+  "generated_at": "2026-11-02T11:56:47+00:00",
   "timezone": "UTC",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "Germany's Gen Z protests disrupted by violence on Saturday - DW.com",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeFdoSi1BdFlySVFyNDZpaUxfUk1acTVjcU1HdEFFZDI5MTZXRXZrdENyY054Y1VKQXZPNnNIRTdvSHZRNG5XMWJWRTMxczNoeDhvU0R3aXJ5VFc5N3g3SFd0WGpwUkRuLU11bkJLb0JQSl9yYXRDaGZlM29IN0N0b21aLTBWa1BNT05DZVprYUdYb0FLOWVUTw?oc=5",
-      "published_at": "2026-11-01T04:55:46+00:00",
-      "description": "Germany's Gen Z protests disrupted by violence on Saturday DW.com Shops looted as German cost of living protests turn violent BBC Photos: Youth-led rallies sweep Germany Al Jazeera Protests spread to Germany as hundreds of thousands march again in France CNN Rioters loot stores in Germany as Gen Z-led protests turn violent The Independent",
-      "description_zh": "周六，德国 Z 世代抗议活动遭到暴力破坏 DW.com 德国生活成本抗议活动演变成暴力，商店被抢劫 BBC 照片：青年领导的集会席卷德国",
+      "title": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’ endorsement of Mike Rogers - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWkVWSDRzT3NLanRjaHlWUzMxU0hXTWhfUG9tZldaX3RweVBlY0xROGpiOWo3R25NWlNpaXF0cWdLaU5nX1VlNVpWUllmeGZZcVIwQnA3SlpqTi1BRjBWTWtqQWJiejRIbExmNWthdUtPNmU4S0w4T1hqcmxuSjVwQmVhRENnNl93TVRDOEZ0NTAzZnhfTEE?oc=5",
+      "published_at": "2026-11-02T11:01:00+00:00",
+      "description": "‘A despicable betrayal’: Democrats incensed by Haley Stevens’ endorsement of Mike Rogers The Guardian Haley Stevens defends endorsement switch to Republican Mike Rogers over Democrat Abdul El-Sayed BBC How an attempt at Democratic unity in Michigan imploded CNN Republicans, Democrats set midterm closing arguments as Michigan endorsement roils Senate race Reuters Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan The New York Times",
+      "description_zh": "“卑鄙的背叛”：海莉·史蒂文斯对迈克·罗杰斯的支持激怒了民主党人 《卫报》海莉·史蒂文斯为转而支持共和党人阿卜杜勒·赛义德而辩护",
       "keywords": [
-        "protests",
-        "gen",
-        "germany's",
-        "disrupted",
-        "violence",
-        "saturday",
-        "com",
-        "germany",
-        "violent",
-        "turn"
+        "endorsement",
+        "stevens",
+        "democrats",
+        "rogers",
+        "haley",
+        "mike",
+        "despicable",
+        "betrayal",
+        "incensed",
+        "michigan"
       ],
       "keywords_zh": [
-        "抗议",
-        "根",
-        "德国的",
-        "被扰乱的",
-        "暴力",
-        "周六",
-        "com",
-        "德国",
-        "转动"
+        "代言",
+        "史蒂文斯",
+        "民主党人",
+        "罗杰斯",
+        "海利",
+        "麦克风",
+        "卑鄙",
+        "背叛",
+        "激怒了",
+        "密歇根州"
       ],
       "category": {
-        "en": "Technology",
-        "zh": "科技"
+        "en": "Economy and markets",
+        "zh": "经济与市场"
       },
       "interpretation": {
-        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
-        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: protests, gen, germany's, disrupted, and violence. The available excerpt says: Germany's Gen Z protests disrupted by violence on Saturday DW.com Shops looted as German cost of living protests turn violent BBC Photos: Youth-led rallies sweep Germany Al Jazeera Protests spread to Germany as hundreds of thousands march again in France CNN Rioters loot stores in Germany as Gen Z-led protests turn violent The Independent Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：抗议、根、德国的、被扰乱的、暴力。RSS 中文摘要显示：周六，德国 Z 世代抗议活动遭到暴力破坏 DW.com 德国生活成本抗议活动演变成暴力，商店被抢劫 BBC 照片：青年领导的集会席卷德国 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "summary_en": "This story is tied to business conditions, financial expectations, or the cost of goods and capital.",
+        "summary_zh": "这条新闻与商业环境、金融预期或商品与资金成本相关。",
+        "detailed_en": "Key signals: endorsement, stevens, democrats, rogers, and haley. The available excerpt says: ‘A despicable betrayal’: Democrats incensed by Haley Stevens’ endorsement of Mike Rogers The Guardian Haley Stevens defends endorsement switch to Republican Mike Rogers over Democrat Abdul El-Sayed BBC How an attempt at Democratic unity in Michigan imploded CNN Republicans, Democrats set midterm closing arguments as Michigan endorsement roils Senate race Reuters Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan The New York Times Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.",
+        "detailed_zh": "关键词信号：代言、史蒂文斯、民主党人、罗杰斯、海利。RSS 中文摘要显示：“卑鄙的背叛”：海莉·史蒂文斯对迈克·罗杰斯的支持激怒了民主党人 《卫报》海莉·史蒂文斯为转而支持共和党人阿卜杜勒·赛义德而辩护 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。",
         "what_to_watch_en": [
-          "regulatory reaction",
-          "enterprise adoption",
-          "security or privacy consequences"
+          "price movements",
+          "company and government guidance",
+          "second-round supply-chain effects"
         ],
         "what_to_watch_zh": [
-          "监管反应",
-          "企业采用情况",
-          "安全或隐私后果"
+          "价格变化",
+          "企业与政府指引",
+          "供应链二次影响"
         ]
       }
     },
     {
       "rank": 2,
-      "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible' - PBS",
-      "source": "PBS",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRVBtYkpCQVRWUnFLWEtrM1d5U1VYam1NS28tSlN5U05veXlOMEFvVnNGaFh2UlZOcnlxNk9tcnRzQTl6R3FYMmVZUDJZdmF3SUZROUxhYnJKTUpXaTZzczZsek5xWmhDM2U2MVQzWUlLQ0NJV3o5ZFVCVFFVTGZtVWdVZkF0WXl6blZRR0tLY2xCc2xVR29pemZJZmpUbXY3dTRjZU1aQjdKUHVfYk1vM3l4MDVua3ZOcjlWeGZPSUlqZnVOSmUzdnI5ONIB0AFBVV95cUxNNTFHWW9CSGlUalpqWC1TZlhXLVlITDlDSDBLV0pUSUU0ZGpLb2ptdENIQlNXdFg3UFZ1d0ZEcHZBbHNuT0d2djkwcWRoaS11RGJBQXN0YzFFYmF6X25STzRoRFR3c3ptRXBiX0p4bWF4Tkt3VnlPNWFNVG5VTllNREhpR1U0M01OSXdJU19qLVU4QkRtSjBUYldlSXlZVS1RR1R5RlM5OWdyR1NpUmprMEpRWFlmcHBaaV9sbGgyZ1hrT1hzY2JOamZ4SHBkRHpv?oc=5",
-      "published_at": "2026-10-31T23:22:00+00:00",
-      "description": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible' PBS Inside the Times’s Decisions on the Alaska Senate Race Story The New York Times Trump claims 'voter fraud' in election race where two candidates share same name Sky News PACs spends millions to promote fringe candidates, attack incumbents CNN Sen. Dan S. Sullivan’s X account temporarily suspended on concern it was fake The Washington Post",
-      "description_zh": "阿拉斯加州律师表示，特朗普要求搁置参议院选票的要求“根本不可能” PBS Inside the Times 关于阿拉斯加参议院竞选故事的决定 《纽约时报》 特朗普声称，两名候选人同名的选举中存在“选民欺诈” 天空新闻 PAC 花费数百万美元来宣传边缘候选人，攻击现任者 CNN 参议员丹·S·沙利文 (Dan S. Sullivan) 的 X 账户因担心是假的而被暂时停用 《华盛顿邮报》",
+      "title": "Iranians have left Doha talks, draft proposal for US deal being circulated, official says - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOLXhRTFk2aHFYY3VOMWFGdmFySFR5MTNxeWRRU1ZQM3RaWjg4ZFZlOTJHNDZjYmdCVjBOX0RweVAyWEI4T2dZMVFSbUt4bTc4NGlibnlTaDh2TUNydEdOQjZJSmt3RnRIbk1LNVJ4SlNkR0M3QWs3NnZwQ0JlMW5Ud0FaN29PaGcwdk1CbTZ1UUhjYkg5XzZwVmdwWGNnRnladzZVUEhBeTZScEZIMl9YZ0hUT01GcDdkMXFwcXF0Q3hkTEluSnpnb3F5RFA?oc=5",
+      "published_at": "2026-11-02T10:41:24+00:00",
+      "description": "Iranians have left Doha talks, draft proposal for US deal being circulated, official says Reuters Iran war live: Tehran says Hormuz ‘security restored’ if US agrees to plan Al Jazeera Iran has a 2-day plan to reopen Strait, resume nuclear talks with US, and other Mideast news AP News Iran, Qatari mediators hold third day of talks to end U.S.-Iran war CNBC Live Updates: Iran says \"ball is in the U.S. court\" on deal to end war as Trump keeps his intentions veiled CBS News",
+      "description_zh": "伊朗人已离开多哈谈判，美国协议草案正在分发，官员称路透社伊朗战争直播：德黑兰表示，如果美国同意计划，霍尔木兹“安全恢复”半岛电视台伊朗有一个为期两天的计划，重新开放海峡，恢复与美国的核谈判，以及其他中东新闻 美联社新闻 伊朗，卡塔尔调解人举行第三天结束美伊战争 CNBC实时更新：伊朗表示，关于结束战争的协议“球在美国法庭”特朗普隐瞒自己的意图 CBS 新闻",
       "keywords": [
-        "alaska",
-        "senate",
-        "trump",
-        "meritless",
-        "attorneys",
-        "possible",
-        "ballots",
-        "demand",
-        "aside",
-        "even"
+        "talks",
+        "deal",
+        "iran",
+        "circulated",
+        "iranians",
+        "proposal",
+        "official",
+        "draft",
+        "being",
+        "left"
       ],
       "keywords_zh": [
-        "阿拉斯加州",
-        "参议院",
-        "特朗普",
-        "无功德的",
-        "律师",
-        "可能的",
-        "选票",
-        "要求",
-        "放在一边",
-        "甚至"
-      ],
-      "category": {
-        "en": "Politics and governance",
-        "zh": "政治与治理"
-      },
-      "interpretation": {
-        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
-        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: alaska, senate, trump, meritless, and attorneys. The available excerpt says: Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible' PBS Inside the Times’s Decisions on the Alaska Senate Race Story The New York Times Trump claims 'voter fraud' in election race where two candidates share same name Sky News PACs spends millions to promote fringe candidates, attack incumbents CNN Sen. Dan S. Sullivan’s X account temporarily suspended on concern it was fake The Washington Post Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：阿拉斯加州、参议院、特朗普、无功德的、律师。RSS 中文摘要显示：阿拉斯加州律师表示，特朗普要求搁置参议院选票的要求“根本不可能” PBS Inside the Times 关于阿拉斯加参议院竞选故事的决定 《纽约时报》 特朗普声称，两名候选人同名的选举中存在“选民欺诈” 天空新闻 PAC 花费数百万美元来宣传边缘候选人，攻击现任者 CNN 参议员丹·S·沙利文 (Dan S. Sullivan) 的 X 账户因担心是假的而被暂时停用 《华盛顿邮报》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
-        "what_to_watch_en": [
-          "polling or vote margins",
-          "party reactions",
-          "policy promises after the result"
-        ],
-        "what_to_watch_zh": [
-          "民调或票差",
-          "党派反应",
-          "结果后的政策承诺"
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "title": "Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’ - The Guardian",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWm04dm4wZHg1NWdqT0g1dnBWbEV3cUFVblU4WUZldWRoNXNpclRFclNIcmY5UlhPMGNwamFuRi0teGkwczVGN25sZ1JMTlA1bk1SUTI5cWZYdnpGTGVmQW9NeGFXeTdpUVlJNUNmX3Fwb3NiUV9nQmpGVTBGWEZYVnlhalhaNkwtV0xJQ2JzbjRPd3BoT2lYLTFYVFNxbC1S?oc=5",
-      "published_at": "2026-10-31T23:58:00+00:00",
-      "description": "Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’ The Guardian Midterm elections latest: Trump weighs in on Michigan Democratic rift between Stevens and El-Sayed CNN US Senate candidate El-Sayed wants Democratic rival to stay away, source says Reuters Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed The Intercept Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed The New York Times",
-      "description_zh": "海莉·史蒂文斯建议远离阿卜杜勒·赛义德竞选活动，以限制“分心” 《卫报》中期选举最新消息：特朗普介入密歇根州民主党与史蒂文斯和艾尔·赛义德之间的分歧 CNN 美国参议院候选人艾尔·赛义德希望民主党竞争对手远离，消息来源称路透社 中间派民主党宁愿失去参议院也不愿与艾尔·赛义德一起获胜 The Intercept 为什么海莉·史蒂文斯不能停止谈论阿卜杜勒·赛义德 《纽约时报》",
-      "keywords": [
-        "el-sayed",
-        "stevens",
-        "haley",
-        "abdul",
-        "stay",
-        "away",
-        "distractions",
-        "campaign",
-        "advised",
-        "events"
-      ],
-      "keywords_zh": [
-        "埃尔赛义德",
-        "史蒂文斯",
-        "海利",
-        "阿卜杜勒",
-        "停留",
-        "离开",
-        "干扰",
-        "活动",
-        "建议",
-        "事件"
-      ],
-      "category": {
-        "en": "Politics and governance",
-        "zh": "政治与治理"
-      },
-      "interpretation": {
-        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
-        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: el-sayed, stevens, haley, abdul, and stay. The available excerpt says: Haley Stevens advised to stay away from Abdul El-Sayed campaign events to limit ‘distractions’ The Guardian Midterm elections latest: Trump weighs in on Michigan Democratic rift between Stevens and El-Sayed CNN US Senate candidate El-Sayed wants Democratic rival to stay away, source says Reuters Centrist Democrats Would Rather Lose the Senate Than Win With El-Sayed The Intercept Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed The New York Times Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：埃尔赛义德、史蒂文斯、海利、阿卜杜勒、停留。RSS 中文摘要显示：海莉·史蒂文斯建议远离阿卜杜勒·赛义德竞选活动，以限制“分心” 《卫报》中期选举最新消息：特朗普介入密歇根州民主党与史蒂文斯和艾尔·赛义德之间的分歧 CNN 美国参议院候选人艾尔·赛义德希望民主党竞争对手远离，消息来源称路透社 中间派民主党宁愿失去参议院也不愿与艾尔·赛义德一起获胜 The Intercept 为什么海莉·史蒂文斯不能停止谈论阿卜杜勒·赛义德 《纽约时报》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
-        "what_to_watch_en": [
-          "polling or vote margins",
-          "party reactions",
-          "policy promises after the result"
-        ],
-        "what_to_watch_zh": [
-          "民调或票差",
-          "党派反应",
-          "结果后的政策承诺"
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fdHdybEcyVUp1Mkhoa2FDdndrNDNhXzhRNU9DaXdaalBfbVljanZQREMyYkNEY2E2SmEyNGlhQVJKS2tlT21FZjRHXzQ2RU9rMkNGeXgxVm1IYkE?oc=5",
-      "published_at": "2026-10-31T22:56:15+00:00",
-      "description": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour BBC UK prime minister signals the government will consider an apology for its role in the slave trade ABC News - Breaking News, Latest News and Videos Palace reveals King Charles's plans for slavery issue response amid growing calls for apology Yahoo British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian 'PM lets down the King' and 'Kenny's secret night at Maya's' BBC",
-      "description_zh": "国王在加勒比之旅最后一站安提瓜岛发表英联邦演讲时谈到奴隶制问题 BBC 英国首相表示政府将考虑为其在奴隶贸易中所扮演的角色道歉 ABC 新闻 - 突发新闻、最新新闻和视频 在要求道歉的呼声日益高涨之际，王宫透露查尔斯国王应对奴隶制问题的计划 雅虎 英国人民不能为奴隶制的错误付出代价，但我们必须面对我们复杂的历史 《卫报》“首相让国王失望了”和“肯尼的秘密”玛雅人的 BBC 之夜",
-      "keywords": [
-        "slavery",
-        "king",
-        "commonwealth",
-        "caribbean",
-        "address",
-        "antigua",
-        "during",
-        "speech",
-        "final",
-        "tour"
-      ],
-      "keywords_zh": [
-        "奴隶制",
-        "国王",
-        "联邦",
-        "加勒比海",
-        "地址",
-        "安提瓜岛",
-        "期间",
-        "演讲",
-        "最终的",
-        "旅游"
-      ],
-      "category": {
-        "en": "Politics and governance",
-        "zh": "政治与治理"
-      },
-      "interpretation": {
-        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
-        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: slavery, king, commonwealth, caribbean, and address. The available excerpt says: King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour BBC UK prime minister signals the government will consider an apology for its role in the slave trade ABC News - Breaking News, Latest News and Videos Palace reveals King Charles's plans for slavery issue response amid growing calls for apology Yahoo British people can’t be made to pay for the wrongs of slavery – but we must confront our complicated history The Guardian 'PM lets down the King' and 'Kenny's secret night at Maya's' BBC Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：奴隶制、国王、联邦、加勒比海、地址。RSS 中文摘要显示：国王在加勒比之旅最后一站安提瓜岛发表英联邦演讲时谈到奴隶制问题 BBC 英国首相表示政府将考虑为其在奴隶贸易中所扮演的角色道歉 ABC 新闻 - 突发新闻、最新新闻和视频 在要求道歉的呼声日益高涨之际，王宫透露查尔斯国王应对奴隶制问题的计划 雅虎 英国人民不能为奴隶制的错误付出代价，但我们必须面对我们复杂的历史 《卫报》“首相让国王失望了”和“肯尼的秘密”玛雅人的 BBC 之夜 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
-        "what_to_watch_en": [
-          "polling or vote margins",
-          "party reactions",
-          "policy promises after the result"
-        ],
-        "what_to_watch_zh": [
-          "民调或票差",
-          "党派反应",
-          "结果后的政策承诺"
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "title": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu - Al Jazeera",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUERhVWJoQkxxNnNJMTAweURfZC1paFdKUDhIZFVBSGNjVGJqLUt1OFRiSnFwR0VkSDZjZE9UV3dRaGRCV0dUSENJZUVNdnBVNnJBUU53dFBsSy1wd0tzdG1OaG1WZi1kc3dmS0FJNG9wM3QtLWttR3JhVkRBWHBLaTlRRXR6TlV6U2hYZnMyMlRLUTkxX1M3Ri1vb1VZbmZZUVVVeHJyeXoySFNaTjNvVkN30gG3AUFVX3lxTE5KdFhzaWRtcWozRDhSYVp2LTJsLU1zeEpBMERRd2w2dFlEZzh3MU9uRFUxUFd0UUl0WnpsQkhTZ05sMEhMaUZZeE1uT19kVTZwNEpMcmptOVN2emtwb0hySlVzcVVSQS1DWEc2amE5OHpERURhRTJ3Rk1teklYVnBzSTFONGotVWZhSlZfRDUtOTJhb0U5OVFMRXlHUWcxc0d3a1AtelJNM3p3T1pMNVRhUlhxTDZORQ?oc=5",
-      "published_at": "2026-11-01T02:08:37+00:00",
-      "description": "Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu Al Jazeera The Bursting of the Tel Aviv Bubble The Atlantic Netanyahu’s Bid to Stay in Power Will Test His Political Savvy The New York Times Eisenkot vows to swiftly utilize Knesset majority ‘against Oct. 7 government’ The Times of Israel Joint List, Ra'am to back Gadi Eisenkot for premiership as Isaac Herzog opens negotiations The Jerusalem Post",
-      "description_zh": "以色列数千人集会，敦促“犹太阿拉伯”联盟推翻内塔尼亚胡 半岛电视台 特拉维夫泡沫破裂 大西洋月刊 内塔尼亚胡保住权力将考验他的政治悟性 《纽约时报》艾森科特誓言将迅速利用议会多数“反对 10 月 7 日政府” 《以色列时报》联合名单，拉姆支持加迪·艾森科特担任总理艾萨克·赫尔佐格开始谈判 耶路撒冷邮报",
-      "keywords": [
-        "netanyahu",
-        "israel",
-        "jewish-arab",
-        "thousands",
-        "coalition",
-        "jazeera",
-        "urging",
-        "rally",
-        "oust",
-        "eisenkot"
-      ],
-      "keywords_zh": [
-        "内塔尼亚胡",
-        "以色列",
-        "犹太阿拉伯人",
-        "数千",
-        "联盟",
-        "半岛电视台",
-        "催促",
-        "集会",
-        "驱逐",
-        "睾丸"
+        "会谈",
+        "交易",
+        "伊朗",
+        "流传的",
+        "伊朗人",
+        "提议",
+        "官方的",
+        "草稿",
+        "存在",
+        "左边"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -253,8 +95,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: netanyahu, israel, jewish-arab, thousands, and coalition. The available excerpt says: Thousands rally in Israel urging ‘Jewish-Arab’ coalition to oust Netanyahu Al Jazeera The Bursting of the Tel Aviv Bubble The Atlantic Netanyahu’s Bid to Stay in Power Will Test His Political Savvy The New York Times Eisenkot vows to swiftly utilize Knesset majority ‘against Oct. 7 government’ The Times of Israel Joint List, Ra'am to back Gadi Eisenkot for premiership as Isaac Herzog opens negotiations The Jerusalem Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：内塔尼亚胡、以色列、犹太阿拉伯人、数千、联盟。RSS 中文摘要显示：以色列数千人集会，敦促“犹太阿拉伯”联盟推翻内塔尼亚胡 半岛电视台 特拉维夫泡沫破裂 大西洋月刊 内塔尼亚胡保住权力将考验他的政治悟性 《纽约时报》艾森科特誓言将迅速利用议会多数“反对 10 月 7 日政府” 《以色列时报》联合名单，拉姆支持加迪·艾森科特担任总理艾萨克·赫尔佐格开始谈判 耶路撒冷邮报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: talks, deal, iran, circulated, and iranians. The available excerpt says: Iranians have left Doha talks, draft proposal for US deal being circulated, official says Reuters Iran war live: Tehran says Hormuz ‘security restored’ if US agrees to plan Al Jazeera Iran has a 2-day plan to reopen Strait, resume nuclear talks with US, and other Mideast news AP News Iran, Qatari mediators hold third day of talks to end U.S.-Iran war CNBC Live Updates: Iran says \"ball is in the U.S. court\" on deal to end war as Trump keeps his intentions veiled CBS News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：会谈、交易、伊朗、流传的、伊朗人。RSS 中文摘要显示：伊朗人已离开多哈谈判，美国协议草案正在分发，官员称路透社伊朗战争直播：德黑兰表示，如果美国同意计划，霍尔木兹“安全恢复”半岛电视台伊朗有一个为期两天的计划，重新开放海峡，恢复与美国的核谈判，以及其他中东新闻 美联社新闻 伊朗，卡塔尔调解人举行第三天结束美伊战争 CNBC实时更新：伊朗表示，关于结束战争的协议“球在美国法庭”特朗普隐瞒自己的意图 CBS 新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -268,36 +110,195 @@
       }
     },
     {
-      "rank": 6,
-      "title": "D.C., Virginia sue to block Trump's 250-foot arch - Axios",
-      "source": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE16YVpuTWNiWEYwWGlYNURlVk5ZYVlIMFZkMkUtaUI3eUJKM1ROWU1OanVvcnFmOEJFeUZ4T3Z3VXZESVhZYWQxUVRacWtHT2NZaXV6ejZhRXVQdEc5OHREeEdINFFBZw?oc=5",
-      "published_at": "2026-11-01T00:44:51+00:00",
-      "description": "D.C., Virginia sue to block Trump's 250-foot arch Axios DOJ attorneys struggle to explain how Trump's Triumphal Arch would protect national security WUSA9 D.C. and Virginia sue to block Trump’s proposed triumphal arch The Washington Post Virginia and D.C. sue to stop proposed Trump arch NBC News Trump’s triumphal arch faces more opposition, with judge asking if desire is to ‘bedazzle’ DC CNN",
-      "description_zh": "华盛顿特区和弗吉尼亚州提起诉讼，要求阻止特朗普建造 250 英尺的凯旋门 Axios 司法部律师难以解释特朗普的凯旋门将如何保护国家安全 WUSA9 华盛顿特区和弗吉尼亚州提起诉讼，要求阻止特朗普提议的凯旋门 华盛顿邮报 弗吉尼亚州和华盛顿特区提起诉讼，要求阻止特朗普提议的凯旋门 NBC 新闻 特朗普的凯旋门面临更多反对，法官询问是否希望“迷惑”华盛顿特区 CNN",
+      "rank": 3,
+      "title": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends - UN News",
+      "source": "UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9nenpISU9MMmhGbEhJUHZWZEFDQkhFLXE5OHRGNGFYdm9vY0M5S2ZpckZZeGl4RndJVTE0b0ZMQlA2aGtGdkdPNjRBRE5BV2F2eTFxcHlUcw?oc=5",
+      "published_at": "2026-11-02T10:40:44+00:00",
+      "description": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends UN News UN's peacekeeping mission in disputed Western Sahara ends after 35 years NPR UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says Reuters Why is Morocco celebrating the defeat of a UN resolution on Western Sahara? Al Jazeera Rival US and Russia resolutions on disputed Western Sahara are defeated in UN Security Council AP News",
+      "description_zh": "西撒哈拉：随着西撒哈拉特派团任务结束，联合国“随时准备”继续支持和平努力 联合国新闻 联合国在有争议的西撒哈拉的维和任务在 35 年后结束 NPR 联合国在西撒哈拉的维和任务在 35 年后结束，联合国秘书长表示 路透社 为什么摩洛哥庆祝联合国西撒哈拉决议的失败？半岛电视台 美国和俄罗斯关于西撒哈拉争议的决议在联合国安理会被否决 美联社新闻",
       "keywords": [
-        "arch",
-        "virginia",
-        "sue",
-        "trump's",
-        "block",
-        "axios",
-        "foot",
-        "triumphal",
-        "trump",
-        "proposed"
+        "western",
+        "sahara",
+        "mission",
+        "ends",
+        "supporting",
+        "efforts",
+        "minurso",
+        "stands",
+        "ready",
+        "peace"
       ],
       "keywords_zh": [
-        "拱",
-        "弗吉尼亚州",
-        "起诉",
-        "特朗普的",
-        "堵塞",
-        "轴",
-        "脚",
-        "胜利的",
-        "特朗普",
-        "建议的"
+        "西",
+        "撒哈拉",
+        "使命",
+        "结束",
+        "支持",
+        "努力",
+        "西撒特派团",
+        "看台",
+        "准备好",
+        "和平"
+      ],
+      "category": {
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
+      },
+      "interpretation": {
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: western, sahara, mission, ends, and supporting. The available excerpt says: Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends UN News UN's peacekeeping mission in disputed Western Sahara ends after 35 years NPR UN peacekeeping mission in Western Sahara ends after 35 years, UN chief says Reuters Why is Morocco celebrating the defeat of a UN resolution on Western Sahara? Al Jazeera Rival US and Russia resolutions on disputed Western Sahara are defeated in UN Security Council AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：西、撒哈拉、使命、结束、支持。RSS 中文摘要显示：西撒哈拉：随着西撒哈拉特派团任务结束，联合国“随时准备”继续支持和平努力 联合国新闻 联合国在有争议的西撒哈拉的维和任务在 35 年后结束 NPR 联合国在西撒哈拉的维和任务在 35 年后结束，联合国秘书长表示 路透社 为什么摩洛哥庆祝联合国西撒哈拉决议的失败？半岛电视台 美国和俄罗斯关于西撒哈拉争议的决议在联合国安理会被否决 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "what_to_watch_en": [
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
+        ],
+        "what_to_watch_zh": [
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "title": "Nine killed in fiery Florida Learjet crash in West Palm Beach County - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vUlJzX2dBUVVoZDFRak1IOFF4aW12bTZoSi1HeTdOY0FyTWp2M0pHTmtMRVh3SlIzUXFsNWhrWlR5dG1vUUJmaWRNYW43aTVGbC1BWG8xdF9hY1k?oc=5",
+      "published_at": "2026-11-02T09:10:19+00:00",
+      "description": "Nine killed in fiery Florida Learjet crash in West Palm Beach County BBC Why Do Pilots Say ‘Mayday’? The Story Behind the Distress Call The New York Times 9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida NPR Business jet crashes in Florida, killing all nine on board The Washington Post Palm Beach plane had ‘incredibly fast’ descent before fiery crash. What happened? Miami Herald",
+      "description_zh": "佛罗里达州里尔喷气式飞机在西棕榈滩县坠毁，九人丧生 BBC 为什么飞行员说“求救”？求救电话背后的故事 《纽约时报》 一架喷气式飞机在南佛罗里达州繁忙的道路附近急速俯冲并爆发成火球，造成 9 人死亡 NPR 商务飞机在佛罗里达州坠毁，机上 9 人全部遇难。 《华盛顿邮报》棕榈滩飞机在坠机前以“令人难以置信的快速”下降。发生了什么？迈阿密先驱报",
+      "keywords": [
+        "florida",
+        "fiery",
+        "crash",
+        "beach",
+        "nine",
+        "palm",
+        "learjet",
+        "killed",
+        "county",
+        "west"
+      ],
+      "keywords_zh": [
+        "佛罗里达",
+        "火热",
+        "碰撞",
+        "海滩",
+        "九",
+        "棕榈",
+        "学习",
+        "死亡",
+        "县",
+        "西方"
+      ],
+      "category": {
+        "en": "Technology",
+        "zh": "科技"
+      },
+      "interpretation": {
+        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
+        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
+        "detailed_en": "Key signals: florida, fiery, crash, beach, and nine. The available excerpt says: Nine killed in fiery Florida Learjet crash in West Palm Beach County BBC Why Do Pilots Say ‘Mayday’? The Story Behind the Distress Call The New York Times 9 dead as jet nosedives and erupts into fireball near busy roadway in South Florida NPR Business jet crashes in Florida, killing all nine on board The Washington Post Palm Beach plane had ‘incredibly fast’ descent before fiery crash. What happened? Miami Herald Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：佛罗里达、火热、碰撞、海滩、九。RSS 中文摘要显示：佛罗里达州里尔喷气式飞机在西棕榈滩县坠毁，九人丧生 BBC 为什么飞行员说“求救”？求救电话背后的故事 《纽约时报》 一架喷气式飞机在南佛罗里达州繁忙的道路附近急速俯冲并爆发成火球，造成 9 人死亡 NPR 商务飞机在佛罗里达州坠毁，机上 9 人全部遇难。 《华盛顿邮报》棕榈滩飞机在坠机前以“令人难以置信的快速”下降。发生了什么？迈阿密先驱报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "what_to_watch_en": [
+          "regulatory reaction",
+          "enterprise adoption",
+          "security or privacy consequences"
+        ],
+        "what_to_watch_zh": [
+          "监管反应",
+          "企业采用情况",
+          "安全或隐私后果"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUlJJZ3ZjWHRZWEIzODdjQTdqQ01oZWFzWG9ZbEdVMzUwV2N0Tk5Gd3QtVlpvOFhCZkR4VWZ4N0NjRmpHV2RZb3I5bnZrMEJxUTZPUWh6cU9tZnU2TnlDcEhnUTR3Z01BS3p6X1hNOVVodzByeHlJOXRqSzVSUjdmWGRhbm1SR0xTdFZHOEgwMzNUY2dNNTU5amVSWk0?oc=5",
+      "published_at": "2026-11-02T10:05:00+00:00",
+      "description": "King Charles Meets Both Joy and Criticism on Caribbean Tour The New York Times Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? | Raoul de Jong The Guardian The UK’s stance on its role in the slave trade is shifting, but reparations remain off the table AP News UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations Reuters Burnham open to slavery payouts The Telegraph",
+      "description_zh": "查尔斯国王在加勒比海之旅中既高兴又受到批评 《纽约时报》给查尔斯国王的备忘录：如果荷兰国王可以为奴隶制道歉，为什么你不能？ |拉乌尔·德容 《卫报》 英国对其在奴隶贸易中所扮演角色的立场正在发生转变，但赔偿问题仍未讨论 美联社新闻 英国首相伯纳姆表示，他对就奴隶制问题正式道歉“持开放态度”，但排除了赔偿的可能性 路透 伯纳姆对奴隶制赔偿持开放态度",
+      "keywords": [
+        "king",
+        "charles",
+        "criticism",
+        "caribbean",
+        "meets",
+        "both",
+        "tour",
+        "joy",
+        "slavery",
+        "reparations"
+      ],
+      "keywords_zh": [
+        "国王",
+        "查尔斯",
+        "批评",
+        "加勒比海",
+        "遇见",
+        "两个都",
+        "旅游",
+        "喜悦",
+        "奴隶制",
+        "赔偿"
+      ],
+      "category": {
+        "en": "Economy and markets",
+        "zh": "经济与市场"
+      },
+      "interpretation": {
+        "summary_en": "This story is tied to business conditions, financial expectations, or the cost of goods and capital.",
+        "summary_zh": "这条新闻与商业环境、金融预期或商品与资金成本相关。",
+        "detailed_en": "Key signals: king, charles, criticism, caribbean, and meets. The available excerpt says: King Charles Meets Both Joy and Criticism on Caribbean Tour The New York Times Memo to King Charles: if the Dutch king can apologise for slavery, why can’t you? | Raoul de Jong The Guardian The UK’s stance on its role in the slave trade is shifting, but reparations remain off the table AP News UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations Reuters Burnham open to slavery payouts The Telegraph Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.",
+        "detailed_zh": "关键词信号：国王、查尔斯、批评、加勒比海、遇见。RSS 中文摘要显示：查尔斯国王在加勒比海之旅中既高兴又受到批评 《纽约时报》给查尔斯国王的备忘录：如果荷兰国王可以为奴隶制道歉，为什么你不能？ |拉乌尔·德容 《卫报》 英国对其在奴隶贸易中所扮演角色的立场正在发生转变，但赔偿问题仍未讨论 美联社新闻 英国首相伯纳姆表示，他对就奴隶制问题正式道歉“持开放态度”，但排除了赔偿的可能性 路透 伯纳姆对奴隶制赔偿持开放态度 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。",
+        "what_to_watch_en": [
+          "price movements",
+          "company and government guidance",
+          "second-round supply-chain effects"
+        ],
+        "what_to_watch_zh": [
+          "价格变化",
+          "企业与政府指引",
+          "供应链二次影响"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "title": "Judge tosses DOJ’s attempt to delay Alaska’s Senate results if Republican loses - The Washington Post",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb01VY1hzaERwaUN0dGt1enZaNTROVmE5N3ZYMmNjeTgycGhTOFN2NFZHR2NHMkdwTGswMEtGNWxjMlFrNEVMajNWVDBuV1pYWW5mV09DVW5FeHJ5akZXdXFFRlVRWG5kTVNYMGtLZDhwWDNkQkRBdk9zaDR1QW1Relh3ejMzRWtjQncyczAwbVFlN0kyNlpPejAwS1RfczVoclg3X3ZJcmF1T0NVUFNja0otcC1KOEh4NDg5Ul96TXRMMHM?oc=5",
+      "published_at": "2026-11-02T04:22:05+00:00",
+      "description": "Judge tosses DOJ’s attempt to delay Alaska’s Senate results if Republican loses The Washington Post Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses The Guardian Midterm Elections Live Updates: Stevens Splits With El-Sayed to Endorse Republican in Michigan Senate Race The New York Times An unfolding disaster in Alaska could cost Democrats the Senate The Economist US judge dismisses Trump election lawsuit in Alaska Reuters",
+      "description_zh": "如果共和党失败，法官将驳回司法部推迟阿拉斯加州参议院选举结果的企图 《华盛顿邮报》法官驳回特朗普在共和党失败的情况下阻止阿拉斯加州参议院选举结果的企图 《卫报》中期选举实时更新：史蒂文斯与埃尔赛义德在密歇根州参议院竞选中支持共和党 《纽约时报》 阿拉斯加正在发生的灾难可能会让民主党失去参议院 《经济学人》美国法官驳回特朗普在阿拉斯加的选举诉讼 路透社",
+      "keywords": [
+        "alaska",
+        "senate",
+        "republican",
+        "judge",
+        "attempt",
+        "results",
+        "loses",
+        "washington",
+        "tosses",
+        "delay"
+      ],
+      "keywords_zh": [
+        "阿拉斯加州",
+        "参议院",
+        "共和党人",
+        "法官",
+        "试图",
+        "结果",
+        "失去",
+        "华盛顿",
+        "抛掷",
+        "延迟"
       ],
       "category": {
         "en": "Politics and governance",
@@ -306,8 +307,8 @@
       "interpretation": {
         "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
         "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
-        "detailed_en": "Key signals: arch, virginia, sue, trump's, and block. The available excerpt says: D.C., Virginia sue to block Trump's 250-foot arch Axios DOJ attorneys struggle to explain how Trump's Triumphal Arch would protect national security WUSA9 D.C. and Virginia sue to block Trump’s proposed triumphal arch The Washington Post Virginia and D.C. sue to stop proposed Trump arch NBC News Trump’s triumphal arch faces more opposition, with judge asking if desire is to ‘bedazzle’ DC CNN Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
-        "detailed_zh": "关键词信号：拱、弗吉尼亚州、起诉、特朗普的、堵塞。RSS 中文摘要显示：华盛顿特区和弗吉尼亚州提起诉讼，要求阻止特朗普建造 250 英尺的凯旋门 Axios 司法部律师难以解释特朗普的凯旋门将如何保护国家安全 WUSA9 华盛顿特区和弗吉尼亚州提起诉讼，要求阻止特朗普提议的凯旋门 华盛顿邮报 弗吉尼亚州和华盛顿特区提起诉讼，要求阻止特朗普提议的凯旋门 NBC 新闻 特朗普的凯旋门面临更多反对，法官询问是否希望“迷惑”华盛顿特区 CNN 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "detailed_en": "Key signals: alaska, senate, republican, judge, and attempt. The available excerpt says: Judge tosses DOJ’s attempt to delay Alaska’s Senate results if Republican loses The Washington Post Judge dismisses Trump attempt to block Alaska Senate race results if Republican loses The Guardian Midterm Elections Live Updates: Stevens Splits With El-Sayed to Endorse Republican in Michigan Senate Race The New York Times An unfolding disaster in Alaska could cost Democrats the Senate The Economist US judge dismisses Trump election lawsuit in Alaska Reuters Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：阿拉斯加州、参议院、共和党人、法官、试图。RSS 中文摘要显示：如果共和党失败，法官将驳回司法部推迟阿拉斯加州参议院选举结果的企图 《华盛顿邮报》法官驳回特朗普在共和党失败的情况下阻止阿拉斯加州参议院选举结果的企图 《卫报》中期选举实时更新：史蒂文斯与埃尔赛义德在密歇根州参议院竞选中支持共和党 《纽约时报》 阿拉斯加正在发生的灾难可能会让民主党失去参议院 《经济学人》美国法官驳回特朗普在阿拉斯加的选举诉讼 路透社 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
           "polling or vote margins",
           "party reactions",
@@ -322,35 +323,35 @@
     },
     {
       "rank": 7,
-      "title": "Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news - AP News",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5",
-      "published_at": "2026-10-31T22:25:00+00:00",
-      "description": "Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News Iran war live: ‘Killing ground’ awaits invading foreign forces, says Tehran Al Jazeera Iran army: Potential war could be 'longer than previous conflict,' Trump won't dictate its duration The Times of Israel Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News",
-      "description_zh": "伊朗领导人表示，对袭击的反应将没有“地理限制”，以及其他中东新闻 美联社新闻 伊朗战争直播：德黑兰半岛电视台称，“杀戮场”等待着外国军队入侵 伊朗军队：潜在的战争可能“比以前的冲突更长”，特朗普不会决定其持续时间 以色列时报 伊朗最高领导人下令对美国的任何袭击做出“最大限度”反应 Axios 实时更新：伊朗最高领导人警告美国和以色列反对新的袭击 哥伦比亚广播公司新闻",
+      "title": "Ukraine and Russia air raid apps hacked to send fake radiation alerts - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1URnRWSXh1UnA2ckptNEdJd2VGVVU4N2FKYUxjanpWWVpsRDRUVWNpYXFtV3JFSWdlLUdwUVdWVXgzd09UTjRuQ2ljcnIySF9lWjhEbVFpSks1MHM?oc=5",
+      "published_at": "2026-11-02T07:03:42+00:00",
+      "description": "Ukraine and Russia air raid apps hacked to send fake radiation alerts BBC Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps CNN Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps CNBC Ukraine says public air raid alert app sent false alerts after being hacked Reuters Ukraine and Russia both report cyberattacks on emergency apps AP News",
+      "description_zh": "乌克兰和俄罗斯空袭应用程序被黑客入侵，发送虚假辐射警报 BBC 被黑客入侵的俄罗斯和乌克兰紧急应用程序上发布了虚假核攻击警告 CNN 莫斯科、基辅报道了针对紧急应用程序的单独网络攻击，乌克兰出现虚假核警告 CNBC 乌克兰称公共空袭警报应用程序在被黑客攻击后发送了虚假警报 路透社 乌克兰和俄罗斯都报告了针对紧急应用程序的网络攻击 美联社新闻",
       "keywords": [
-        "iran's",
-        "leader",
-        "response",
-        "attack",
-        "geographic",
-        "mideast",
-        "limits",
-        "would",
-        "other",
-        "supreme"
+        "ukraine",
+        "apps",
+        "hacked",
+        "fake",
+        "russia",
+        "alerts",
+        "raid",
+        "air",
+        "radiation",
+        "send"
       ],
       "keywords_zh": [
-        "伊朗的",
-        "领导者",
-        "回复",
+        "乌克兰",
+        "应用程序",
+        "被黑客入侵",
+        "伪造的",
+        "俄罗斯",
+        "警报",
         "袭击",
-        "地理的",
-        "中东",
-        "限制",
-        "会",
-        "其他",
-        "最高"
+        "空气",
+        "辐射",
+        "发送"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -359,8 +360,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: iran's, leader, response, attack, and geographic. The available excerpt says: Iran's leader says response to attack would have no 'geographic limits,' and other Mideast news AP News Iran war live: ‘Killing ground’ awaits invading foreign forces, says Tehran Al Jazeera Iran army: Potential war could be 'longer than previous conflict,' Trump won't dictate its duration The Times of Israel Iran's supreme leader orders \"maximum\" response to any U.S. attack Axios Live Updates: Iran's supreme leader warns U.S., Israel against new attacks CBS News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：伊朗的、领导者、回复、袭击、地理的。RSS 中文摘要显示：伊朗领导人表示，对袭击的反应将没有“地理限制”，以及其他中东新闻 美联社新闻 伊朗战争直播：德黑兰半岛电视台称，“杀戮场”等待着外国军队入侵 伊朗军队：潜在的战争可能“比以前的冲突更长”，特朗普不会决定其持续时间 以色列时报 伊朗最高领导人下令对美国的任何袭击做出“最大限度”反应 Axios 实时更新：伊朗最高领导人警告美国和以色列反对新的袭击 哥伦比亚广播公司新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: ukraine, apps, hacked, fake, and russia. The available excerpt says: Ukraine and Russia air raid apps hacked to send fake radiation alerts BBC Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps CNN Fake nuclear warnings in Ukraine as Moscow, Kyiv report separate cyberattacks on emergency apps CNBC Ukraine says public air raid alert app sent false alerts after being hacked Reuters Ukraine and Russia both report cyberattacks on emergency apps AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：乌克兰、应用程序、被黑客入侵、伪造的、俄罗斯。RSS 中文摘要显示：乌克兰和俄罗斯空袭应用程序被黑客入侵，发送虚假辐射警报 BBC 被黑客入侵的俄罗斯和乌克兰紧急应用程序上发布了虚假核攻击警告 CNN 莫斯科、基辅报道了针对紧急应用程序的单独网络攻击，乌克兰出现虚假核警告 CNBC 乌克兰称公共空袭警报应用程序在被黑客攻击后发送了虚假警报 路透社 乌克兰和俄罗斯都报告了针对紧急应用程序的网络攻击 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -375,140 +376,141 @@
     },
     {
       "rank": 8,
-      "title": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOY3pGaWMxUS02OEZNWmQzeWQtOTBpT1dWcjJDVmNfOTFRcnNGNU1ZdC03cGVla0FKYUlsVUloTzZkVm85N3haajBCMG4xSXBkTk4wNjJvWWxHcWJNQko0MGpkWkpPSTNCRVJwM1A1Z0dMU2FkT3FZMmJnZXd3bnZIaEpn?oc=5",
-      "published_at": "2026-10-31T21:43:34+00:00",
-      "description": "‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories The New York Times Russian Offensive Campaign Assessment, October 31, 2026 Institute for the Study of War Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire CNN Evacuees from Russian-occupied Oleshky arrive in Ukraine via Belarus Al Jazeera Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory DW.com",
-      "description_zh": "“我们来自地狱”：乌克兰城市的撤离人员讲述生存故事 《纽约时报》俄罗斯进攻战役评估，2026 年 10 月 31 日 战争研究所 1,711 天后重聚：奥列什基撤离人员在梅拉尼娅·特朗普斡旋的停火协议下返回乌克兰 CNN 从俄罗斯占领的奥列什基撤离人员经白俄罗斯抵达乌克兰 半岛电视台 乌克兰新闻：撤离人员从俄罗斯占领的奥列什基出发抵达基辅控制区 DW.com",
+      "title": "Spain train crash: US, Japan and Canada citizens among dead, authorities say - The Guardian",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWEVBY3BEb2x0LUlFU085SndVRmNFMGhrc0NGeFRWX1ROdTdXbzEzRUdWRVhxTnk0QVBfTlBGRGloWjVqVGp3QlBrQklOSTVsNGZOb0w5b3RTSUpybUZsYko1WFRldGV2cXJmTjBwNlZOb1ZlZzRZRjNDUmt6M0hxQV9pRlZtWWNnc3B2SVU0c2taUFlKNV9Yag?oc=5",
+      "published_at": "2026-11-02T01:52:38+00:00",
+      "description": "Spain train crash: US, Japan and Canada citizens among dead, authorities say The Guardian Cambridge scientist dies in Spanish train crash BBC High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year AP News 4 Americans among 69 people killed in train crash in Spain, officials say CBS News Did one person cause the Spain train crash? It shouldn’t be possible The Times",
+      "description_zh": "西班牙火车相撞事故：当局称美国、日本和加拿大公民死亡泰晤士报：这应该是不可能的",
       "keywords": [
-        "evacuees",
-        "ukrainian",
-        "survival",
-        "stories",
-        "coming",
-        "hell",
-        "city",
-        "tell",
-        "oleshky",
-        "ukraine"
+        "train",
+        "crash",
+        "spain",
+        "say",
+        "authorities",
+        "citizens",
+        "canada",
+        "japan",
+        "dead",
+        "high-speed"
       ],
       "keywords_zh": [
-        "撤离者",
-        "乌克兰",
-        "生存",
-        "故事",
-        "未来",
-        "地狱",
-        "城市",
-        "告诉",
-        "奥列什基"
+        "火车",
+        "碰撞",
+        "西班牙",
+        "说",
+        "当局",
+        "公民",
+        "加拿大",
+        "日本",
+        "死亡",
+        "高速"
       ],
       "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
+        "en": "Technology",
+        "zh": "科技"
       },
       "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: evacuees, ukrainian, survival, stories, and coming. The available excerpt says: ‘We Are Coming From Hell’: A Ukrainian City’s Evacuees Tell Survival Stories The New York Times Russian Offensive Campaign Assessment, October 31, 2026 Institute for the Study of War Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire CNN Evacuees from Russian-occupied Oleshky arrive in Ukraine via Belarus Al Jazeera Ukraine news: Evacuees from Russian-occupied Oleshky reach Kyiv-controlled territory DW.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：撤离者、乌克兰、生存、故事、未来。RSS 中文摘要显示：“我们来自地狱”：乌克兰城市的撤离人员讲述生存故事 《纽约时报》俄罗斯进攻战役评估，2026 年 10 月 31 日 战争研究所 1,711 天后重聚：奥列什基撤离人员在梅拉尼娅·特朗普斡旋的停火协议下返回乌克兰 CNN 从俄罗斯占领的奥列什基撤离人员经白俄罗斯抵达乌克兰 半岛电视台 乌克兰新闻：撤离人员从俄罗斯占领的奥列什基出发抵达基辅控制区 DW.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
+        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
+        "detailed_en": "Key signals: train, crash, spain, say, and authorities. The available excerpt says: Spain train crash: US, Japan and Canada citizens among dead, authorities say The Guardian Cambridge scientist dies in Spanish train crash BBC High-speed train collision kills at least 68 in Spain’s 2nd deadly rail crash this year AP News 4 Americans among 69 people killed in train crash in Spain, officials say CBS News Did one person cause the Spain train crash? It shouldn’t be possible The Times Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：火车、碰撞、西班牙、说、当局。RSS 中文摘要显示：西班牙火车相撞事故：当局称美国、日本和加拿大公民死亡泰晤士报：这应该是不可能的 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
         "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
+          "regulatory reaction",
+          "enterprise adoption",
+          "security or privacy consequences"
         ],
         "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
+          "监管反应",
+          "企业采用情况",
+          "安全或隐私后果"
         ]
       }
     },
     {
       "rank": 9,
-      "title": "Putin’s potential G20 comeback risks normalizing Russian war crimes, says Kallas - POLITICO.eu",
-      "source": "POLITICO.eu",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaEs1ajFpODhZaHlxdzNCbUFIeGRmUDlZV0hXZEVtZkNpUGxmU0RYaXZIQnBMcXY2bjhiTzl0bkdodk5XRjBGVHdmbUV1SFJyWXZ2OVlGNmthOFVHc3VVelNZMkZoN3VxV25JZGxJWmlramQxTDRzSUEzM0NZRVZNVldxTEVDbjdCRFZabjNMWktSMXVjd25hQThqVEZHeWI5NlZUS0ZKVmVQTnc?oc=5",
-      "published_at": "2026-10-31T16:41:00+00:00",
-      "description": "Putin’s potential G20 comeback risks normalizing Russian war crimes, says Kallas POLITICO.eu US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia The Guardian Secretary of State Marco Rubio at a Press Availability U.S. Department of State (.gov) G20 foreign ministers end Atlanta meeting without consensus on key issues AP News EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes Bloomberg",
-      "description_zh": "卡拉斯表示，普京潜在的 G20 复出有可能使俄罗斯战争罪行正常化 政治网 政治网 欧盟 在澳大利亚、英国和其他国家拒绝与俄罗斯一起出现后，美国取消了 G20“全家福” 英国卫报国务卿马可·卢比奥在新闻发布会上 美国国务院 (.gov) G20 外长结束亚特兰大会议，但未就关键问题达成共识 美联社新闻 欧盟的卡拉斯表示，在 G20 上接待普京可能会使战争罪行正常化 彭博社",
+      "title": "South Africa's splintering vote sets up multi-party battle for cities - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGpUWXpzRUoxQXdGVm00OGhlVF9hZ2FSLU1MeEVxeGtxRnYyak10QTJBMUw4ak1yRUlRX1pjZDNmbjVTcWlYcHBfVmJKbUYxejloTEc3MWhCZ1FsSmpjN21jbEdHamlxUjBRSV9rMUdYbW5NUEhhQnB4OHVUc0FXVVdCZjl5V3FHUkV4cWxfVHE4V0VKdThhb3dNUlNoMU9lYk42X3Qtd3FZNUM2cGVjTkFnTQ?oc=5",
+      "published_at": "2026-11-02T07:02:00+00:00",
+      "description": "South Africa's splintering vote sets up multi-party battle for cities Reuters South Africans to vote in key local elections seen as a tough test for ruling ANC AP News Crumbling Johannesburg leaves ANC facing day of reckoning The Telegraph The top four parties’ final campaign pitches Daily Maverick South Africa’s Low-Key Municipal Polls Pose Risks for Investors Bloomberg",
+      "description_zh": "南非选票分​​裂引发多党争夺城市 路透社 南非人将在关键地方选举中投票，这被视为对非洲人国民大会执政的严峻考验 美联社新闻 摇摇欲坠的约翰内斯堡使非洲人国民大会面临清算日 每日电讯报 四大政党的最后竞选宣传 每日特立独行 南非低调的市政民意调查给​​投资者带来风险 彭博社",
       "keywords": [
-        "g20",
-        "crimes",
-        "kallas",
-        "putin",
-        "war",
-        "normalizing",
-        "potential",
-        "comeback",
-        "politico",
-        "russian"
+        "south",
+        "vote",
+        "splintering",
+        "multi-party",
+        "africa's",
+        "battle",
+        "cities",
+        "sets",
+        "anc",
+        "johannesburg"
       ],
       "keywords_zh": [
-        "二十国集团",
-        "犯罪",
-        "被称为",
-        "普京",
-        "战争",
-        "正常化",
-        "潜在的",
-        "卷土重来",
-        "政治报",
-        "俄罗斯"
+        "南",
+        "投票",
+        "分裂",
+        "多方",
+        "非洲的",
+        "战斗",
+        "城市",
+        "套",
+        "ANC",
+        "约翰内斯堡"
       ],
       "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
+        "en": "Politics and governance",
+        "zh": "政治与治理"
       },
       "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: g20, crimes, kallas, putin, and war. The available excerpt says: Putin’s potential G20 comeback risks normalizing Russian war crimes, says Kallas POLITICO.eu US cancels G20 ‘family photo’ after Australia, UK and others refuse to appear with Russia The Guardian Secretary of State Marco Rubio at a Press Availability U.S. Department of State (.gov) G20 foreign ministers end Atlanta meeting without consensus on key issues AP News EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes Bloomberg Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：二十国集团、犯罪、被称为、普京、战争。RSS 中文摘要显示：卡拉斯表示，普京潜在的 G20 复出有可能使俄罗斯战争罪行正常化 政治网 政治网 欧盟 在澳大利亚、英国和其他国家拒绝与俄罗斯一起出现后，美国取消了 G20“全家福” 英国卫报国务卿马可·卢比奥在新闻发布会上 美国国务院 (.gov) G20 外长结束亚特兰大会议，但未就关键问题达成共识 美联社新闻 欧盟的卡拉斯表示，在 G20 上接待普京可能会使战争罪行正常化 彭博社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: south, vote, splintering, multi-party, and africa's. The available excerpt says: South Africa's splintering vote sets up multi-party battle for cities Reuters South Africans to vote in key local elections seen as a tough test for ruling ANC AP News Crumbling Johannesburg leaves ANC facing day of reckoning The Telegraph The top four parties’ final campaign pitches Daily Maverick South Africa’s Low-Key Municipal Polls Pose Risks for Investors Bloomberg Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：南、投票、分裂、多方、非洲的。RSS 中文摘要显示：南非选票分​​裂引发多党争夺城市 路透社 南非人将在关键地方选举中投票，这被视为对非洲人国民大会执政的严峻考验 美联社新闻 摇摇欲坠的约翰内斯堡使非洲人国民大会面临清算日 每日电讯报 四大政党的最后竞选宣传 每日特立独行 南非低调的市政民意调查给​​投资者带来风险 彭博社 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
         ],
         "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
         ]
       }
     },
     {
       "rank": 10,
-      "title": "DOJ dangles legal threats over state election officials days before the midterms - Politico",
-      "source": "Politico",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRmRiaWxsQ0JrQW5NeWxsMWFoVHJNaWE2TzlwVVBBN2lFRXFvR0lON1gwRlRQOG1OSTdVVE00UzJJUkl5NThnc25mRWUwSHFkaDhNaXpEMEUtQ29HMFp3ejdrQk1kN3JBVG5ybGgtQkVPMEEtZHlYY0pyQzQ0UVBNSU1CenNPcEpicmQ0TlEzNA?oc=5",
-      "published_at": "2026-10-30T21:30:00+00:00",
-      "description": "DOJ dangles legal threats over state election officials days before the midterms Politico Trump administration retools its battle over elections to keep fights alive after Election Day The Washington Post DOJ warns state election officials they could face jail time if they fail to preserve records ABC News - Breaking News, Latest News and Videos Oregon’s secretary of state pushes back on DOJ election warning, adds a spelling lesson OregonLive.com Politics, norms and the DOJ's unprecedented pre-election headlines NPR",
-      "description_zh": "司法部在中期选举前几天对州选举官员发出法律威胁 《政治》杂志 特朗普政府重新调整其选举斗争，以在选举日后维持斗争继续进行 《华盛顿邮报》 司法部警告州选举官员，如果他们未能保留记录，他们可能会面临牢狱之灾NPR 选举前的头条新闻",
+      "title": "Flash flooding triggers evacuations in Southwest and dire warning for Colorado spa town - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDh4NktGVGxZOF80aEhPdnUtRmdDb0VFOWxTSEh4NTNkRFlyTTdzUWkwd3lfenZ4cVp3bFptRE5qVGloSU00OGs4SldjZHlvZjBLNVp0allfNE1KZmU3dGpoQ3pxNElSa1JpLXgzZzA1NkFJMExnVktzVzdDLUFSNUhrVFJORVMzS1VtMjZqZ0NpRnNnakFIem9wbG9rMmpoNEJaMHNwcFZwVk8wWVI4dUZ1dVg0bVdT?oc=5",
+      "published_at": "2026-11-02T06:02:00+00:00",
+      "description": "Flash flooding triggers evacuations in Southwest and dire warning for Colorado spa town AP News Active flooding evacuations across Arizona: Here’s who’s impacted AZ Family Flooding in Parts of Arizona and Colorado Prompts Evacuation Orders The New York Times Flash flood warning issued for Maricopa County as more weather pushes through Valley KTAR News 92.3 FM Flash flooding triggers evacuations in Southwest and a dire warning for Colorado spa town WBAL-TV",
+      "description_zh": "山洪暴发引发西南地区疏散，并对科罗拉多温泉小镇发出可怕警告 美联社新闻 亚利桑那州各地正在积极进行洪水疏散：以下是受影响的人员 亚利桑那州和科罗拉多州部分地区的家庭洪水引发疏散令 《纽约时报》 随着更多天气影响山谷，马里科帕县发出山洪暴发警告 KTAR News 92.3 FM 山洪暴发引发西南地区疏散，并对科罗拉多温泉小镇发出可怕警告WBAL-TV",
       "keywords": [
-        "election",
-        "state",
-        "doj",
-        "officials",
-        "midterms",
-        "politico",
-        "dangles",
-        "threats",
-        "before",
-        "legal"
+        "flooding",
+        "evacuations",
+        "colorado",
+        "warning",
+        "flash",
+        "southwest",
+        "triggers",
+        "dire",
+        "town",
+        "spa"
       ],
       "keywords_zh": [
-        "选举",
-        "状态",
-        "司法部",
-        "官员",
-        "期中考试",
-        "政治报",
-        "悬垂的",
-        "威胁",
-        "前",
-        "合法的"
+        "洪水",
+        "疏散",
+        "科罗拉多州",
+        "警告",
+        "闪光",
+        "西南",
+        "触发器",
+        "可怕的",
+        "镇",
+        "温泉"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -517,8 +519,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: election, state, doj, officials, and midterms. The available excerpt says: DOJ dangles legal threats over state election officials days before the midterms Politico Trump administration retools its battle over elections to keep fights alive after Election Day The Washington Post DOJ warns state election officials they could face jail time if they fail to preserve records ABC News - Breaking News, Latest News and Videos Oregon’s secretary of state pushes back on DOJ election warning, adds a spelling lesson OregonLive.com Politics, norms and the DOJ's unprecedented pre-election headlines NPR Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：选举、状态、司法部、官员、期中考试。RSS 中文摘要显示：司法部在中期选举前几天对州选举官员发出法律威胁 《政治》杂志 特朗普政府重新调整其选举斗争，以在选举日后维持斗争继续进行 《华盛顿邮报》 司法部警告州选举官员，如果他们未能保留记录，他们可能会面临牢狱之灾NPR 选举前的头条新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: flooding, evacuations, colorado, warning, and flash. The available excerpt says: Flash flooding triggers evacuations in Southwest and dire warning for Colorado spa town AP News Active flooding evacuations across Arizona: Here’s who’s impacted AZ Family Flooding in Parts of Arizona and Colorado Prompts Evacuation Orders The New York Times Flash flood warning issued for Maricopa County as more weather pushes through Valley KTAR News 92.3 FM Flash flooding triggers evacuations in Southwest and a dire warning for Colorado spa town WBAL-TV Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：洪水、疏散、科罗拉多州、警告、闪光。RSS 中文摘要显示：山洪暴发引发西南地区疏散，并对科罗拉多温泉小镇发出可怕警告 美联社新闻 亚利桑那州各地正在积极进行洪水疏散：以下是受影响的人员 亚利桑那州和科罗拉多州部分地区的家庭洪水引发疏散令 《纽约时报》 随着更多天气影响山谷，马里科帕县发出山洪暴发警告 KTAR News 92.3 FM 山洪暴发引发西南地区疏散，并对科罗拉多温泉小镇发出可怕警告WBAL-TV 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
