@@ -10,155 +10,155 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-11-11T11:38:36+00:00` UTC.
+Generated at `2026-11-12T12:05:17+00:00` UTC.
 
-### 1. [From the Vatican to Chiclayo, Peru: the pope of the trenches returns to his adopted homeland - CNN](https://news.google.com/rss/articles/CBMiekFVX3lxTE1YV3VUUkVzaERUZmhYZ183Y1V6MHRROE1IOUVzd3hQMHBfM2plSW45RGNYS0xQMWpvU0pTd3pMV0NtbDNUZ3dQR1hVSGJQZnY3WEx5bEtUZTUzaHVsaEVvMXlpWUtld09ZN01BWW53blZBZWcteEl0T1ZB?oc=5)
+### 1. [Brooklyn building collapse live updates: Dangerous search for survivors continues in NYC - CNN](https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZkdYZk4zZ1NacXpLb25ncXd1WXJTX3c5aFlhM2lGYzRoSjFiZTlVeTItS0ZPSUwwOTJkdk1XaUxCYU5QbGpVTXN1YUpVUjIwT1FJNWhMdEJIUV8xTERyYmFzTFZLVDVBaUZRc2sydHpxWVNobG9qS2tGcGhxWHc?oc=5)
 
-- Source / 来源: CNN. Published: `2026-11-11T10:00:15+00:00`.
-- Keywords / 关键词: pope, peru, returns, chiclayo, trenches, homeland, vatican, adopted, his, leo
-- 中文关键词: 教皇、秘鲁、回报、奇克拉约、战壕、家园、教廷、通过、他的、狮子座
-- Category / 分类: Economy and markets / 经济与市场
-- RSS Excerpt / RSS 摘要: From the Vatican to Chiclayo, Peru: the pope of the trenches returns to his adopted homeland CNN Pope Returns to Peru, Where Evangelicals Challenge Catholic Dominance The New York Times Peru puts Pope closer to heaven for monumental welcome home The Times Larger-than-life Leo statue awaits the pope on Peru’s Pacific coast Reuters A Kansas artist is drawing Pope Leo’s face in Peruvian soil Aleteia EN
-- RSS 中文摘要: 从梵蒂冈到秘鲁奇克拉约：战壕里的教皇返回他的故乡 CNN 教皇返回秘鲁，福音派挑战天主教的统治地位 《纽约时报》秘鲁让教皇离天堂更近，以纪念性的方式欢迎他回家 《泰晤士报》 具有传奇色彩的利奥雕像在秘鲁太平洋海岸等待教皇 路透社 一位堪萨斯州艺术家正在秘鲁土地上绘制教皇利奥的脸 Aleteia EN
-- EN Summary: This story is tied to business conditions, financial expectations, or the cost of goods and capital.
-- 中文概要: 这条新闻与商业环境、金融预期或商品与资金成本相关。
-- EN Detailed Reading: Key signals: pope, peru, returns, chiclayo, and trenches. The available excerpt says: From the Vatican to Chiclayo, Peru: the pope of the trenches returns to his adopted homeland CNN Pope Returns to Peru, Where Evangelicals Challenge Catholic Dominance The New York Times Peru puts Pope closer to heaven for monumental welcome home The Times Larger-than-life Leo statue awaits the pope on Peru’s Pacific coast Reuters A Kansas artist is drawing Pope Leo’s face in Peruvian soil Aleteia EN Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
-- 中文详细解读: 关键词信号：教皇、秘鲁、回报、奇克拉约、战壕。RSS 中文摘要显示：从梵蒂冈到秘鲁奇克拉约：战壕里的教皇返回他的故乡 CNN 教皇返回秘鲁，福音派挑战天主教的统治地位 《纽约时报》秘鲁让教皇离天堂更近，以纪念性的方式欢迎他回家 《泰晤士报》 具有传奇色彩的利奥雕像在秘鲁太平洋海岸等待教皇 路透社 一位堪萨斯州艺术家正在秘鲁土地上绘制教皇利奥的脸 Aleteia EN 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
-- EN What to watch: price movements; company and government guidance; second-round supply-chain effects
-- 后续关注: 价格变化；企业与政府指引；供应链二次影响
-
-### 2. [Hegseth Impeachment Effort Is Derailed by House Republicans - The New York Times](https://news.google.com/rss/articles/CBMifkFVX3lxTFA3aFh0N1I3eXV5VHBNTkx3MEhtTnRKSmNtZXFNaVI3a0V5SUF2T2VfaC1SRnp0Uk5xOWt4Y0hZajRjTHp0bGhKS3RVbFd0b2pPaTJzT0JtbDhGVUc0V2FDTGFiZS1HaFFOdG5IejdJTUlMTGZlUExfZDEyc2c0dw?oc=5)
-
-- Source / 来源: The New York Times. Published: `2026-11-11T07:32:00+00:00`.
-- Keywords / 关键词: hegseth, impeachment, house, republicans, effort, derailed, impeach, voting, resolution, democrats
-- 中文关键词: 赫格斯、弹劾、房子、共和党人、努力、出轨的、劾、表决、解决、民主党人
-- Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: Hegseth Impeachment Effort Is Derailed by House Republicans The New York Times Did Democrats save Pete Hegseth from impeachment? Al Jazeera House blocks Massie's effort to impeach Hegseth, voting to kill resolution CBS News House Democrat says traffic incident prevented her and others from voting on Hegseth impeachment The Hill GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live The Guardian
-- RSS 中文摘要: 众议院共和党人阻止了赫格斯的弹劾努力 《纽约时报》 民主党人使皮特·赫格斯免于弹劾吗？半岛电视台众议院阻止马西弹劾赫格斯的努力，投票否决决议 哥伦比亚广播公司新闻 众议院民主党人表示，交通事故阻止了她和其他人对赫格斯的弹劾投票 希尔共和党称“正在下沉的船”，因为共和党人阻止弹劾赫格斯的努力 – 美国政治直播 卫报
-- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
-- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: hegseth, impeachment, house, republicans, and effort. The available excerpt says: Hegseth Impeachment Effort Is Derailed by House Republicans The New York Times Did Democrats save Pete Hegseth from impeachment? Al Jazeera House blocks Massie's effort to impeach Hegseth, voting to kill resolution CBS News House Democrat says traffic incident prevented her and others from voting on Hegseth impeachment The Hill GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live The Guardian Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：赫格斯、弹劾、房子、共和党人、努力。RSS 中文摘要显示：众议院共和党人阻止了赫格斯的弹劾努力 《纽约时报》 民主党人使皮特·赫格斯免于弹劾吗？半岛电视台众议院阻止马西弹劾赫格斯的努力，投票否决决议 哥伦比亚广播公司新闻 众议院民主党人表示，交通事故阻止了她和其他人对赫格斯的弹劾投票 希尔共和党称“正在下沉的船”，因为共和党人阻止弹劾赫格斯的努力 – 美国政治直播 卫报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
-- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
-- 后续关注: 监管反应；企业采用情况；安全或隐私后果
-
-### 3. [Spain’s first general strike in 14 years brings clashing social and political desires to the fore - AP News](https://news.google.com/rss/articles/CBMipwFBVV95cUxNQlZ0c3o4SEdVYWN6SGE2YW45M0xMVUlhNUJlMlo0QnZxMVB1UEdWOVZBOU9qcG9SSUlFSmtOa2F5MFJoQ0hPVEp0SVJ3NzJDV2FfcWtKV040dzUxRExKd2Y0bzRXNUViQzRvaDJBbGdfeW9FaTJyRnkyX1V3SU40Zms3TzhrUDR3dFdzc0J4S3ZqWkJIVUNUZVlfX3FjUy1EV19Wd3dMZw?oc=5)
-
-- Source / 来源: AP News. Published: `2026-11-11T10:31:00+00:00`.
-- Keywords / 关键词: strike, spain, general, first, years, political, clashing, desires, brings, social
-- 中文关键词: 袭击、西班牙、一般的、第一的、年、政治的、冲突、欲望、带来、社会的
-- Category / 分类: Economy and markets / 经济与市场
-- RSS Excerpt / RSS 摘要: Spain’s first general strike in 14 years brings clashing social and political desires to the fore AP News Workers across Spain stage first general strike in 14 years as anger rages over housing Reuters Spain’s Main Unions Hold Nationwide Strike Over Housing Costs Bloomberg.com Which European country loses the most money when workers strike? Euronews.com Spain braces for nationwide strike as anger over housing, costs boils over Al Jazeera
-- RSS 中文摘要: 西班牙14年来的首次大罢工使社会和政治愿望的冲突凸显出来 美联社新闻 由于对住房问题的愤怒，西班牙各地的工人举行了14年来的首次大罢工 路透 西班牙主要工会就住房成本举行全国性罢工 Bloomberg.com 哪个欧洲国家在工人罢工时损失最多？ Euronews.com 西班牙准备举行全国性罢工，因为对住房和成本的愤怒在半岛电视台上沸腾
-- EN Summary: This story is tied to business conditions, financial expectations, or the cost of goods and capital.
-- 中文概要: 这条新闻与商业环境、金融预期或商品与资金成本相关。
-- EN Detailed Reading: Key signals: strike, spain, general, first, and years. The available excerpt says: Spain’s first general strike in 14 years brings clashing social and political desires to the fore AP News Workers across Spain stage first general strike in 14 years as anger rages over housing Reuters Spain’s Main Unions Hold Nationwide Strike Over Housing Costs Bloomberg.com Which European country loses the most money when workers strike? Euronews.com Spain braces for nationwide strike as anger over housing, costs boils over Al Jazeera Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
-- 中文详细解读: 关键词信号：袭击、西班牙、一般的、第一的、年。RSS 中文摘要显示：西班牙14年来的首次大罢工使社会和政治愿望的冲突凸显出来 美联社新闻 由于对住房问题的愤怒，西班牙各地的工人举行了14年来的首次大罢工 路透 西班牙主要工会就住房成本举行全国性罢工 Bloomberg.com 哪个欧洲国家在工人罢工时损失最多？ Euronews.com 西班牙准备举行全国性罢工，因为对住房和成本的愤怒在半岛电视台上沸腾 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
-- EN What to watch: price movements; company and government guidance; second-round supply-chain effects
-- 后续关注: 价格变化；企业与政府指引；供应链二次影响
-
-### 4. [U.S. charges 3 men with plotting multiple terrorist attacks, including planned attack against U.K. air base - NBC News](https://news.google.com/rss/articles/CBMixAFBVV95cUxPMGpFT3ZMTTJqRHNqMGVLcmxwcjYwdV9mNlN2UEcwR1d3c1RNNmRzVElJSFBvbVV5VDlJOHMzWU1tMG93UkstS3VzeGZOX2JHbjBSTDRtODBXZ2F2TGRVRzNzY2tNV0kyWWxVSGR2NjNTTHBRaV90Y0xzYlBzb3VHNjV0ZFR0NHpNc3A3b0NMc3VFNl8tTjc5X2cwRXJIdFhrb09zcjdoRjdtbWlldURlYlBLRk1BMENaNFRGblg1Ylk0NnRz?oc=5)
-
-- Source / 来源: NBC News. Published: `2026-11-11T01:22:00+00:00`.
-- Keywords / 关键词: attacks, including, plotting, attack, base, terrorist, multiple, charges, planned, men
-- 中文关键词: 袭击、包括、绘图、根据、恐怖分子、多种的、收费、计划、男人
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: U.S. charges 3 men with plotting multiple terrorist attacks, including planned attack against U.K. air base NBC News Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says BBC Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets NPR Failed Plot to Attack U.K. Was Directed From New York Jail, U.S. Says The New York Times Iranian operative used coded messages on NY jail call to direct failed UK terror plot CNN
-- RSS 中文摘要: 美国指控 3 名男子策划多起恐怖袭击，包括计划袭击英国空军基地 NBC 新闻 美国表示，BBC 伊朗支持的三名嫌疑人策划了包括英国皇家空军费尔福德事件在内的袭击事件 伊朗支持的三人被指控策划袭击美国喷气式飞机所在的英国基地 NPR 袭击英国的阴谋失败，美国称纽约时报伊朗特工在纽约监狱电话中使用了编码信息指挥未遂的英国恐怖阴谋 CNN
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: attacks, including, plotting, attack, and base. The available excerpt says: U.S. charges 3 men with plotting multiple terrorist attacks, including planned attack against U.K. air base NBC News Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says BBC Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets NPR Failed Plot to Attack U.K. Was Directed From New York Jail, U.S. Says The New York Times Iranian operative used coded messages on NY jail call to direct failed UK terror plot CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：袭击、包括、绘图、根据、恐怖分子。RSS 中文摘要显示：美国指控 3 名男子策划多起恐怖袭击，包括计划袭击英国空军基地 NBC 新闻 美国表示，BBC 伊朗支持的三名嫌疑人策划了包括英国皇家空军费尔福德事件在内的袭击事件 伊朗支持的三人被指控策划袭击美国喷气式飞机所在的英国基地 NPR 袭击英国的阴谋失败，美国称纽约时报伊朗特工在纽约监狱电话中使用了编码信息指挥未遂的英国恐怖阴谋 CNN 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 5. [4 Bears Captured, Killed After Deadly Attack in Canada - Newser](https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0Eyd2g0WC1XejYtZGFKQVB6T254WkdPWDNyQldBMWNxckhRNDdrYWJHUUpHNExzSGc1bHN2VWdGZkRjSXp0M2FJTmNUTjdnQmpRQmk2ZG5PUmQzMlZSQll3eVdsRWx6UlBkVFJMOWRMbHpuM2ZVenBTdTllMXJ5Q2JYeks2VHdBelMwSWlfYzhzUDlQNkd1NXRn?oc=5)
-
-- Source / 来源: Newser. Published: `2026-11-11T00:49:00+00:00`.
-- Keywords / 关键词: bears, attack, canada, killed, deadly, captured, newser, predatory, involved, daughter
-- 中文关键词: 熊、袭击、加拿大、死亡、致命、被捕获、新闻报道、掠夺性的、涉及、女儿
+- Source / 来源: CNN. Published: `2026-11-12T10:48:00+00:00`.
+- Keywords / 关键词: building, brooklyn, collapse, survivors, search, nyc, dangerous, continues, updates, live
+- 中文关键词: 建筑、布鲁克林、坍塌、幸存者、搜索、纽约、危险的、继续、更新、居住
 - Category / 分类: Public safety and society / 公共安全与社会
-- RSS Excerpt / RSS 摘要: 4 Bears Captured, Killed After Deadly Attack in Canada Newser Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers The New York Times Mama grizzly bear and her 3 cubs killed woman and daughter in Canada, DNA confirms: "Predatory behavior" CBS News Canada: 4 bears put down after killing mother, daughter DW.com Fatal B.C. attack involved 4 bears displaying ‘predatory behaviour,’ officials say Global News
-- RSS 中文摘要: 加拿大致命袭击后 4 只熊被捕并被杀害 新闻 加拿大当局杀死了 4 只参与徒步旅行者致命袭击的熊 《纽约时报》 灰熊妈妈和她的 3 只幼崽在加拿大杀死了一名妇女和女儿，DNA 证实：“掠夺性行为” 哥伦比亚广播公司新闻加拿大：4 只熊在杀害母女后被处决 DW.com BC 致命事件官员称，袭击涉及 4 只熊，表现出“掠夺行为” 全球新闻
+- RSS Excerpt / RSS 摘要: Brooklyn building collapse live updates: Dangerous search for survivors continues in NYC CNN Brooklyn building collapse: Pregnant woman rescued from rubble ABC7 New York NYC building collapse: Third body recovered as first responders search for survivors Fox News Brooklyn Building Collapses, Killing 1 and Injuring Others in Flatbush, NY The New York Times Brooklyn building collapse: At least 5 dead and 17 injured as rescuers search for survivors; pregnant woman pulled from rubble Yahoo
+- RSS 中文摘要: 布鲁克林大楼倒塌现场更新：纽约市仍在危险地搜寻幸存者 CNN 布鲁克林大楼倒塌：孕妇从废墟中被救出 ABC7 纽约 纽约市大楼倒塌：急救人员在搜寻幸存者时已找到第三具尸体 福克斯新闻 布鲁克林大楼倒塌，纽约弗拉特布什市造成 1 人死亡、1 人受伤 《纽约时报》 布鲁克林大楼倒塌：救援人员在搜寻幸存者时，至少 5 人死亡、17 人受伤；孕妇从废墟中被救出 雅虎
 - EN Summary: This story centers on harm to people, emergency response, or social disruption.
 - 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
-- EN Detailed Reading: Key signals: bears, attack, canada, killed, and deadly. The available excerpt says: 4 Bears Captured, Killed After Deadly Attack in Canada Newser Canadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers The New York Times Mama grizzly bear and her 3 cubs killed woman and daughter in Canada, DNA confirms: "Predatory behavior" CBS News Canada: 4 bears put down after killing mother, daughter DW.com Fatal B.C. attack involved 4 bears displaying ‘predatory behaviour,’ officials say Global News Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
-- 中文详细解读: 关键词信号：熊、袭击、加拿大、死亡、致命。RSS 中文摘要显示：加拿大致命袭击后 4 只熊被捕并被杀害 新闻 加拿大当局杀死了 4 只参与徒步旅行者致命袭击的熊 《纽约时报》 灰熊妈妈和她的 3 只幼崽在加拿大杀死了一名妇女和女儿，DNA 证实：“掠夺性行为” 哥伦比亚广播公司新闻加拿大：4 只熊在杀害母女后被处决 DW.com BC 致命事件官员称，袭击涉及 4 只熊，表现出“掠夺行为” 全球新闻 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
+- EN Detailed Reading: Key signals: building, brooklyn, collapse, survivors, and search. The available excerpt says: Brooklyn building collapse live updates: Dangerous search for survivors continues in NYC CNN Brooklyn building collapse: Pregnant woman rescued from rubble ABC7 New York NYC building collapse: Third body recovered as first responders search for survivors Fox News Brooklyn Building Collapses, Killing 1 and Injuring Others in Flatbush, NY The New York Times Brooklyn building collapse: At least 5 dead and 17 injured as rescuers search for survivors; pregnant woman pulled from rubble Yahoo Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
+- 中文详细解读: 关键词信号：建筑、布鲁克林、坍塌、幸存者、搜索。RSS 中文摘要显示：布鲁克林大楼倒塌现场更新：纽约市仍在危险地搜寻幸存者 CNN 布鲁克林大楼倒塌：孕妇从废墟中被救出 ABC7 纽约 纽约市大楼倒塌：急救人员在搜寻幸存者时已找到第三具尸体 福克斯新闻 布鲁克林大楼倒塌，纽约弗拉特布什市造成 1 人死亡、1 人受伤 《纽约时报》 布鲁克林大楼倒塌：救援人员在搜寻幸存者时，至少 5 人死亡、17 人受伤；孕妇从废墟中被救出 雅虎 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
 - EN What to watch: official investigation; confirmed casualty numbers; prevention measures
 - 后续关注: 官方调查；确认伤亡数字；预防措施
 
-### 6. [Jim Jordan picked as new minority leader for House GOP - Roll Call](https://news.google.com/rss/articles/CBMifEFVX3lxTE9lWU1BLThydUxVby1QRGJQS0pXSzBfSnR4X0FBVUw2bG8yZHU5d25QVlhmN1dTdUp1ZnQ0Tk5qMXlTdW4xd2tDbmUtQlUtaktCZ0R4LXRZNHQtNjkxNjJnWUFrZHYzQTJVcEJ1Mkk5NVdMSGNxTEpYQTVxZzE?oc=5)
+### 2. [Ukraine peace talks: Jared Kushner and Steve Witkoff arrive in Russia for meeting with Putin - DW.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHg4ZG1SOVY2OEJGVzQzSDFfaDlFMGdzdXY3Rkl4ejZ4WkUwOERVbkIwVW9iaVZuUHlvS3NHX1RnUEdqQjlxd3ZFNDlYLUdrTGFVYWZMQmZQTmVnR292ejQ4N05mSjJ1U25VcFRoeUdfYmV3RVo0aFFGWXB3aVMyUm9YSHZNUlA1a3NjYkRQdXg3bWo4TzVqa1g0STE5enk3M2NF?oc=5)
 
-- Source / 来源: Roll Call. Published: `2026-11-10T23:16:50+00:00`.
-- Keywords / 关键词: jordan, jim, leader, house, minority, picked, roll, call, gop, republicans
-- 中文关键词: 约旦、吉姆、领导者、房子、少数民族、挑选的、卷、称呼、共和党、共和党人
+- Source / 来源: DW.com. Published: `2026-11-12T09:49:41+00:00`.
+- Keywords / 关键词: talks, ukraine, putin, kushner, witkoff, meeting, arrive, russia, peace, jared
+- 中文关键词: 会谈、乌克兰、普京、库什纳、威特科夫、会议、到达、俄罗斯、和平、贾里德
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Ukraine peace talks: Jared Kushner and Steve Witkoff arrive in Russia for meeting with Putin DW.com Witkoff and Kushner arrive in Moscow for Ukraine talks with Putin CNN Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks Reuters ‘The only way to get this done’: Why the US wants Europe at Ukraine talks next time POLITICO.eu US envoys in Moscow for meeting with Putin following talks in Abu Dhabi AP News
+- RSS 中文摘要: 乌克兰和平谈判：贾里德·库什纳和史蒂夫·维特科夫抵达俄罗斯与普京会面 DW.com 维特科夫和库什纳抵达莫斯科与普京进行会谈 CNN 俄罗斯、乌克兰就囚犯交换达成协议，美国称缺乏信任阻碍了谈判 路透“实现这一目标的唯一途径”：为什么美国希望欧洲下次参加乌克兰会谈 POLITICO.eu 美国特使在阿布扎比会谈后在莫斯科与普京会面 美联社新闻
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: talks, ukraine, putin, kushner, and witkoff. The available excerpt says: Ukraine peace talks: Jared Kushner and Steve Witkoff arrive in Russia for meeting with Putin DW.com Witkoff and Kushner arrive in Moscow for Ukraine talks with Putin CNN Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks Reuters ‘The only way to get this done’: Why the US wants Europe at Ukraine talks next time POLITICO.eu US envoys in Moscow for meeting with Putin following talks in Abu Dhabi AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：会谈、乌克兰、普京、库什纳、威特科夫。RSS 中文摘要显示：乌克兰和平谈判：贾里德·库什纳和史蒂夫·维特科夫抵达俄罗斯与普京会面 DW.com 维特科夫和库什纳抵达莫斯科与普京进行会谈 CNN 俄罗斯、乌克兰就囚犯交换达成协议，美国称缺乏信任阻碍了谈判 路透“实现这一目标的唯一途径”：为什么美国希望欧洲下次参加乌克兰会谈 POLITICO.eu 美国特使在阿布扎比会谈后在莫斯科与普京会面 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 3. [Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say - The New York Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWJsX09iak1JNmhabW1OdjdOVW84Yk5iYVI0YmJJeEE1LTc0YTAyamNncXpSbHNGT1ZNOGlNWFotMDNybEo4Uk9oVmVzeEpzdnBsWWxrb3pPbldXQmhMQWd3T3pHd2lGN0xqVVhwSjlBWEwwRXR2U0FLOXZmdTZBWC05Vmx4RVc4ek53ZnBqQ1BBRUlyNWc?oc=5)
+
+- Source / 来源: The New York Times. Published: `2026-11-12T08:23:00+00:00`.
+- Keywords / 关键词: kills, gaza, hospital, strike, say, rescuers, injures, israeli, palestinians, airstrike
+- 中文关键词: 造成死亡、加沙、医院、袭击、说、救援人员、伤害、以色列、巴勒斯坦人、空袭
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say The New York Times Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others The Guardian Iran war live: IRGC to lift missile output; Israel kills 6 in Gaza hospital Al Jazeera Israeli strike on Gaza hospital kills six Palestinians, health ministry says BBC Israeli fire kills seven, including a father and son, in Gaza, medics say Reuters
+- RSS 中文摘要: 救援人员称对加沙医院的袭击造成至少 6 人死亡、20 人受伤 《纽约时报》 以色列对加沙纳赛尔医院的空袭造成外科医生和其他五人死亡 卫报 伊朗战争直播：伊朗革命卫队取消导弹输出；以色列在加沙医院造成 6 人死亡 医务人员称，以色列对加沙医院的袭击造成六名巴勒斯坦人死亡，卫生部称，以色列火灾造成加沙七人死亡，其中包括一对父子 路透社
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: kills, gaza, hospital, strike, and say. The available excerpt says: Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say The New York Times Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others The Guardian Iran war live: IRGC to lift missile output; Israel kills 6 in Gaza hospital Al Jazeera Israeli strike on Gaza hospital kills six Palestinians, health ministry says BBC Israeli fire kills seven, including a father and son, in Gaza, medics say Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：造成死亡、加沙、医院、袭击、说。RSS 中文摘要显示：救援人员称对加沙医院的袭击造成至少 6 人死亡、20 人受伤 《纽约时报》 以色列对加沙纳赛尔医院的空袭造成外科医生和其他五人死亡 卫报 伊朗战争直播：伊朗革命卫队取消导弹输出；以色列在加沙医院造成 6 人死亡 医务人员称，以色列对加沙医院的袭击造成六名巴勒斯坦人死亡，卫生部称，以色列火灾造成加沙七人死亡，其中包括一对父子 路透社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 4. [Scott Colom, a Democrat, Wins Mississippi Senate Election - The New York Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRTNHZFFRdHFUWjJ5Yk4xZGNtemYyR3B3UENkcHE3NG5TOUo3ai0ydnFGQ2k5YU1IbkNLdG4tNHR4dTZES01xQVlrMHN2YUdVUVJoQzNEcFdzN3N2Q1d0Z0lwZE1sM2I0dGFZY250Zk91QUtjczEtS1dsQTh0YjJ5MmpxZkltaGU0R2J3MXpqSzMxdw?oc=5)
+
+- Source / 来源: The New York Times. Published: `2026-11-12T07:12:00+00:00`.
+- Keywords / 关键词: scott, mississippi, colom, senate, democrat, wins, election, historic, democrats, deep-red
+- 中文关键词: 斯科特、密西西比州、鸽子、参议院、民主党人、获胜、选举、历史性、深红色
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Jim Jordan picked as new minority leader for House GOP Roll Call Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders The New York Times Jordan looks to move Republicans beyond midterm rout The Hill Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks The Guardian House Republicans elect Rep. Jim Jordan as their next leader following election losses NBC News
-- RSS 中文摘要: 吉姆·乔丹 (Jim Jordan) 被选为众议院共和党点名的新少数党领袖选择乔丹和图恩作为领导人 《纽约时报》 乔丹希望让共和党摆脱中期溃败 国会山 谁是吉姆·乔丹？好斗的特朗普理论家将领导日渐衰落的共和党队伍 《卫报》众议院共和党人在选举失败后选举众议员吉姆·乔丹为下一任领导人 NBC 新闻
+- RSS Excerpt / RSS 摘要: Scott Colom, a Democrat, Wins Mississippi Senate Election The New York Times Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years BBC From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid Axios Scott Colom Wins Mississippi Senate Seat in Historic Victory WSJ How Scott Colom won deep-red Mississippi with little help from Democrats The Guardian
+- RSS 中文摘要: 民主党人斯科特·科罗姆 (Scott Colom) 赢得密西西比州参议院选举 《纽约时报》 民主党人斯科特·科罗姆 (Scott Colom) 创造历史，密西西比州选出 150 年来第一位黑人参议员 BBC 从埃米特·蒂尔 (Emmett Till) 到罗伯特·约翰逊 (Robert Johnson)，三角洲为斯科特·科罗姆 (Scott Colom) 历史性的参议院竞选提供动力 Axios 斯科特·科罗姆 (Scott Colom) 在历史性胜利中赢得密西西比州参议院席位 华尔街日报 斯科特·科罗姆 (Scott Colom) 如何在民主党的帮助下赢得深红色密西西比州守护者
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: jordan, jim, leader, house, and minority. The available excerpt says: Jim Jordan picked as new minority leader for House GOP Roll Call Stung by Losses, G.O.P. Chooses Jordan and Thune as Leaders The New York Times Jordan looks to move Republicans beyond midterm rout The Hill Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks The Guardian House Republicans elect Rep. Jim Jordan as their next leader following election losses NBC News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：约旦、吉姆、领导者、房子、少数民族。RSS 中文摘要显示：吉姆·乔丹 (Jim Jordan) 被选为众议院共和党点名的新少数党领袖选择乔丹和图恩作为领导人 《纽约时报》 乔丹希望让共和党摆脱中期溃败 国会山 谁是吉姆·乔丹？好斗的特朗普理论家将领导日渐衰落的共和党队伍 《卫报》众议院共和党人在选举失败后选举众议员吉姆·乔丹为下一任领导人 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: scott, mississippi, colom, senate, and democrat. The available excerpt says: Scott Colom, a Democrat, Wins Mississippi Senate Election The New York Times Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years BBC From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid Axios Scott Colom Wins Mississippi Senate Seat in Historic Victory WSJ How Scott Colom won deep-red Mississippi with little help from Democrats The Guardian Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：斯科特、密西西比州、鸽子、参议院、民主党人。RSS 中文摘要显示：民主党人斯科特·科罗姆 (Scott Colom) 赢得密西西比州参议院选举 《纽约时报》 民主党人斯科特·科罗姆 (Scott Colom) 创造历史，密西西比州选出 150 年来第一位黑人参议员 BBC 从埃米特·蒂尔 (Emmett Till) 到罗伯特·约翰逊 (Robert Johnson)，三角洲为斯科特·科罗姆 (Scott Colom) 历史性的参议院竞选提供动力 Axios 斯科特·科罗姆 (Scott Colom) 在历史性胜利中赢得密西西比州参议院席位 华尔街日报 斯科特·科罗姆 (Scott Colom) 如何在民主党的帮助下赢得深红色密西西比州守护者 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 7. [Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement - The New York Times](https://news.google.com/rss/articles/CBMimgFBVV95cUxNOHJfTXVYZlRMcmFrTlhwc3AxeU9uOGFXUUZoSkZQVVhRTGRJUkZTcEEwM1lMMVhpWUdZM1hSekpyRG9oYUhoM3ZEcFlqMDdfZGcyMUE4NHlSSUpuMXR0VEtfRkhIYTlHRExaM0l4M3JLREZ2QWJVbWEzNkczdGRiS3ZYRXRhWnRPaU92cUJhQnplMjdHc0ZjdGpB?oc=5)
+### 5. [A missing teen is found alive after 6 days in the Australian woodlands - The Seattle Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUVlWZXNxOXdOWTd1TWJjM2pvZDhpOEp6RG9KaHNzc2xmNHlJU0llbnNWaG5Yc3JoZzJTN3JTdnJLVHp3ZU9aUDktYnNpLWhDal8tejdJQ3VYSlFUdFprb1o0cnNIM2xwa1BQTS1LeXBKbm9YdmI3UjhreFlLRWoyR2F6LTV0VWp1Y3J2bFJJNkkyZHhSOE5TQmY2Mk5nbFMtQVNOdGJnOHRQZw?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-11-11T09:18:47+00:00`.
-- Keywords / 关键词: mismanagement, economic, lebanon, faces, years, war, catastrophe, demokratis, crisis
-- 中文关键词: 管理不善、经济的、黎巴嫩、面孔、年、战争、灾难、民主的、危机
+- Source / 来源: The Seattle Times. Published: `2026-11-12T04:20:04+00:00`.
+- Keywords / 关键词: days, australian, missing, alive, teen, found, woodlands, seattle, six, wilderness
+- 中文关键词: 天、澳大利亚人、丢失的、活、青少年、成立、林地、西雅图、六、荒野
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: A missing teen is found alive after 6 days in the Australian woodlands The Seattle Times Australian teen missing in bush for six days rescued alive BBC Boy found alive after 6 days lost in Australian wilderness: "He's grounded for life" CBS News Teen survives on chips and creek water during six days lost in remote wilderness SMH.com.au ‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland The Guardian
+- RSS 中文摘要: 一名失踪青少年在澳大利亚林地中失踪 6 天后被发现生还 《西雅图时报》 一名在丛林中失踪六天的澳大利亚青少年被生还者获救 BBC 男孩在澳大利亚荒野中失踪 6 天后被发现生还：“他被终身禁足” CBS 新闻 一名青少年在偏远荒野中失踪 6 天，靠薯片和溪水幸存 SMH.com.au “他再也不会离开家了”：母亲与在维多利亚丛林失踪六天的儿子团聚 卫报
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: days, australian, missing, alive, and teen. The available excerpt says: A missing teen is found alive after 6 days in the Australian woodlands The Seattle Times Australian teen missing in bush for six days rescued alive BBC Boy found alive after 6 days lost in Australian wilderness: "He's grounded for life" CBS News Teen survives on chips and creek water during six days lost in remote wilderness SMH.com.au ‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland The Guardian Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：天、澳大利亚人、丢失的、活、青少年。RSS 中文摘要显示：一名失踪青少年在澳大利亚林地中失踪 6 天后被发现生还 《西雅图时报》 一名在丛林中失踪六天的澳大利亚青少年被生还者获救 BBC 男孩在澳大利亚荒野中失踪 6 天后被发现生还：“他被终身禁足” CBS 新闻 一名青少年在偏远荒野中失踪 6 天，靠薯片和溪水幸存 SMH.com.au “他再也不会离开家了”：母亲与在维多利亚丛林失踪六天的儿子团聚 卫报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 6. [OSU abuse survivors blast Jim Jordan’s election as House minority leader - NBC News](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNTlEaVFRcHdmNnh3Y1RQdDlOUTJqa1hPb1Q1cjJTdHh0cEdQd01DNndMb2NDeXFiTUtWcWp0NlFldVB3NENEdmRhYVVjcEpnaTJRLUVkbHVIQ3h2MHNVcktibV9nbnBRZ29tY1MzajduVkpXUjgxZWN5LXZyRFhsVXVRSWpRM1Fjd29pVERzcTc2UmI3TkF3bllZeFBrckx0dk05bmt4LU5EbWRTeXlocmxlUDc2Q2c?oc=5)
+
+- Source / 来源: NBC News. Published: `2026-11-12T00:20:00+00:00`.
+- Keywords / 关键词: jordan, jim, leader, house, survivors, election, minority, abuse, blast, osu
+- 中文关键词: 约旦、吉姆、领导者、房子、幸存者、选举、少数民族、虐待、爆炸、奥苏
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: OSU abuse survivors blast Jim Jordan’s election as House minority leader NBC News Jim Jordan’s win throws the future of the Freedom Caucus into question Politico With Jim Jordan as leader, House Republicans signal they're ready to fight CBS News Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight Fox News Opinion | Jim Jordan offers Republicans more of what doesn’t work MS NOW
+- RSS 中文摘要: 俄勒冈州立大学虐待幸存者抨击吉姆·乔丹当选众议院少数党领袖 NBC 新闻 吉姆·乔丹的胜利使自由核心小组的未来受到质疑 Politico 随着吉姆·乔丹担任领导人，众议院共和党人表示他们已准备好与哥伦比亚广播公司新闻 哥伦比亚广播公司新闻 吉姆·乔丹赢得众议院领导权斗争后，长期共和党领导人面临不确定的未来 福克斯新闻观点 |吉姆乔丹向共和党人提供了更多现在不起作用的东西
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: jordan, jim, leader, house, and survivors. The available excerpt says: OSU abuse survivors blast Jim Jordan’s election as House minority leader NBC News Jim Jordan’s win throws the future of the Freedom Caucus into question Politico With Jim Jordan as leader, House Republicans signal they're ready to fight CBS News Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight Fox News Opinion | Jim Jordan offers Republicans more of what doesn’t work MS NOW Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：约旦、吉姆、领导者、房子、幸存者。RSS 中文摘要显示：俄勒冈州立大学虐待幸存者抨击吉姆·乔丹当选众议院少数党领袖 NBC 新闻 吉姆·乔丹的胜利使自由核心小组的未来受到质疑 Politico 随着吉姆·乔丹担任领导人，众议院共和党人表示他们已准备好与哥伦比亚广播公司新闻 哥伦比亚广播公司新闻 吉姆·乔丹赢得众议院领导权斗争后，长期共和党领导人面临不确定的未来 福克斯新闻观点 |吉姆乔丹向共和党人提供了更多现在不起作用的东西 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 7. [Mammoth crowds greet Pope Leo on return to Peru, his adopted homeland - The Washington Post](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUpuTEFWN2VuSlF3TnN5Z2MyeUg4dmt5WmVYNHBIUjJLMDNaMnh2OXVibjZUT3BGZmtXT1lTSnFhX1M4dU8wYVpsNi1XX3Y5SXRObkkxSmdCQU53OFMtTkxVcTBIVEo1UE5RUHZmVnpCNV9FblhuM3QxdlVILS1pWWJ2dzEzYmRLMUoybmpneFlPeW1YYUE?oc=5)
+
+- Source / 来源: The Washington Post. Published: `2026-11-12T11:32:47+00:00`.
+- Keywords / 关键词: pope, peru, leo, his, homeland, return, washington, mammoth, adopted, crowds
+- 中文关键词: 教皇、秘鲁、狮子座、他的、家园、返回、华盛顿、长毛象、通过、人群
+- Category / 分类: Economy and markets / 经济与市场
+- RSS Excerpt / RSS 摘要: Mammoth crowds greet Pope Leo on return to Peru, his adopted homeland The Washington Post Pope Leo XIV Goes Home to Peru, Meeting Ghosts of His Past The New York Times Matvei Michkov didn't ask Flyers for trade, Rick Tocchet says ESPN Peruvian homecoming: Pope Leo welcomed by record crowd on return to the country that shaped his path to the papacy CNN Pope in Peru: ‘Distance does not necessarily diminish love for one’s homeland’ Vatican News
+- RSS 中文摘要: 大批群众迎接利奥教皇返回他的祖国秘鲁 《华盛顿邮报》 教宗利奥十四世回到秘鲁，会见他过去的鬼魂 《纽约时报》 马特维·米奇科夫没有要求传单进行贸易，里克·托切特说 ESPN 秘鲁返校节：利奥教皇回到秘鲁，受到创纪录的人群欢迎，这塑造了他成为教皇的道路 CNN 秘鲁：“距离不一定会减少对祖国的热爱” 梵蒂冈新闻
+- EN Summary: This story is tied to business conditions, financial expectations, or the cost of goods and capital.
+- 中文概要: 这条新闻与商业环境、金融预期或商品与资金成本相关。
+- EN Detailed Reading: Key signals: pope, peru, leo, his, and homeland. The available excerpt says: Mammoth crowds greet Pope Leo on return to Peru, his adopted homeland The Washington Post Pope Leo XIV Goes Home to Peru, Meeting Ghosts of His Past The New York Times Matvei Michkov didn't ask Flyers for trade, Rick Tocchet says ESPN Peruvian homecoming: Pope Leo welcomed by record crowd on return to the country that shaped his path to the papacy CNN Pope in Peru: ‘Distance does not necessarily diminish love for one’s homeland’ Vatican News Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
+- 中文详细解读: 关键词信号：教皇、秘鲁、狮子座、他的、家园。RSS 中文摘要显示：大批群众迎接利奥教皇返回他的祖国秘鲁 《华盛顿邮报》 教宗利奥十四世回到秘鲁，会见他过去的鬼魂 《纽约时报》 马特维·米奇科夫没有要求传单进行贸易，里克·托切特说 ESPN 秘鲁返校节：利奥教皇回到秘鲁，受到创纪录的人群欢迎，这塑造了他成为教皇的道路 CNN 秘鲁：“距离不一定会减少对祖国的热爱” 梵蒂冈新闻 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
+- EN What to watch: price movements; company and government guidance; second-round supply-chain effects
+- 后续关注: 价格变化；企业与政府指引；供应链二次影响
+
+### 8. [Democratic lawmakers apologize after absences on Hegseth vote - The Washington Post](https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVpnSzRWYjNuTzdjclRyZUpOZTd0d0V4UVF3NDZXMC14cFBxVG1QZndoYVZaNW1ZWmx2TWQ5azFqYnBkbjJ3d01CdXBOczY5dlB3R3N6d01Db3paMUV3d3NWbEJEckY0ekszUnJsSlNPbDRkb2dqbVRneEpWOHUwa3FUVUNFb1M1MVROdVpuTFN3NzFXUnc5amN4QWRBek9VYzNXTXlmU3NmQnk4U2dF?oc=5)
+
+- Source / 来源: The Washington Post. Published: `2026-11-12T06:37:02+00:00`.
+- Keywords / 关键词: hegseth, vote, democratic, washington, lawmakers, apologize, absences, impeachment, democrats, congressional
+- 中文关键词: 赫格斯、投票、民主的、华盛顿、立法者、道歉、缺勤、弹劾、民主党人、国会的
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement The New York Times Lebanon Faces Economic Crisis After War and Years of Mismanagement Demokratis.co.id
-- RSS 中文摘要: 黎巴嫩在战后和多年管理不善面临经济“灾难” 《纽约时报》 黎巴嫩在战后和多年管理不善面临经济危机 Demokratis.co.id
+- RSS Excerpt / RSS 摘要: Democratic lawmakers apologize after absences on Hegseth vote The Washington Post Democrats Face Backlash After Missing Hegseth Impeachment Vote The New York Times Pete Hegseth’s impeachment: How each House member voted CNN Thomas Massie's congressional career might be ending. His clashes with Trump aren't. Axios Hegseth survives the battle. Democrats aren’t done with the war. The Hill
+- RSS 中文摘要: 民主党议员在缺席赫格斯投票后道歉 《华盛顿邮报》民主党在缺席赫格斯弹劾投票后面临强烈反对 《纽约时报》皮特·赫格斯的弹劾：每位众议院议员如何投票 CNN 托马斯·马西的国会生涯可能会结束。他与特朗普的冲突并非如此。阿克西奥斯·赫格斯在战斗中幸存。民主党人还没有结束战争。山丘
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: mismanagement, economic, lebanon, faces, and years. The available excerpt says: Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement The New York Times Lebanon Faces Economic Crisis After War and Years of Mismanagement Demokratis.co.id Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：管理不善、经济的、黎巴嫩、面孔、年。RSS 中文摘要显示：黎巴嫩在战后和多年管理不善面临经济“灾难” 《纽约时报》 黎巴嫩在战后和多年管理不善面临经济危机 Demokratis.co.id 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: hegseth, vote, democratic, washington, and lawmakers. The available excerpt says: Democratic lawmakers apologize after absences on Hegseth vote The Washington Post Democrats Face Backlash After Missing Hegseth Impeachment Vote The New York Times Pete Hegseth’s impeachment: How each House member voted CNN Thomas Massie's congressional career might be ending. His clashes with Trump aren't. Axios Hegseth survives the battle. Democrats aren’t done with the war. The Hill Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：赫格斯、投票、民主的、华盛顿、立法者。RSS 中文摘要显示：民主党议员在缺席赫格斯投票后道歉 《华盛顿邮报》民主党在缺席赫格斯弹劾投票后面临强烈反对 《纽约时报》皮特·赫格斯的弹劾：每位众议院议员如何投票 CNN 托马斯·马西的国会生涯可能会结束。他与特朗普的冲突并非如此。阿克西奥斯·赫格斯在战斗中幸存。民主党人还没有结束战争。山丘 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 8. [3 dead after car crashes into street vendors, pedestrians near Metro station in North Hollywood - ABC7 Los Angeles](https://news.google.com/rss/articles/CBMihgFBVV95cUxNelpUMUFXNGVnOUFVeVhGdWdWd21ya1daVmY4V00yNm9FLU9ha3ByR1VzQWxKMHg2bFpacGZYaTRHN3JpR044azJIellPRjlaZ01fMkNfSEtNX1dHRHhwVFJYYkttRVVnSnVDVUNsV19meFFYc2x4aXFRbU4zYzg0OGxtcFgwQdIBiwFBVV95cUxNTHFpQnZoamE0TFBMS0R0V1JIcHRVRVBFenF1X0ZjUnBPT3NQSTk0aGk2QUU1ZG44c1UydjBfS2lFSksxejlSbEJPUVNoSE8zd0YySWVWMGhJeWticlhGblZBeERFMFRCY2VBX2tJd2dFcWpXLWlkSGo0eTZIVjBpdmJ5WC1USTRzaUhN?oc=5)
+### 9. [Famed ship SS United States sunk off coast of Florida - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ielVtR0tBWXI4cTlYTnRZM3pmbW9EVXVUdGtSVUdSN2tib2ZOamc2NTN5UWEzRUZtTklwTEpBQnp3WHcyWXJDdEVMWDl2akpycVRwT3ZEejZ2RTg?oc=5)
 
-- Source / 来源: ABC7 Los Angeles. Published: `2026-11-11T04:54:48+00:00`.
-- Keywords / 关键词: hollywood, north, dead, pedestrians, station, angeles, metro, los, crashes, vendors
-- 中文关键词: 好莱坞、北、死亡、行人、车站、安吉利斯、地铁、洛斯、崩溃、供应商
-- Category / 分类: Public safety and society / 公共安全与社会
-- RSS Excerpt / RSS 摘要: 3 dead after car crashes into street vendors, pedestrians near Metro station in North Hollywood ABC7 Los Angeles 3 women dead, 3 others critically injured in North Hollywood Metro Station crash KTLA Minivan crashes into people outside Los Angeles metro station, killing 3 KSAT At least 3 people dead after vehicle strikes pedestrians in North Hollywood, officials say CNN 3 dead, at least 3 injured after vehicle strikes pedestrians in North Hollywood NBC Los Angeles
-- RSS 中文摘要: 北好莱坞地铁站附近汽车撞上街头小贩和行人，造成 3 人死亡 ABC7 洛杉矶 北好莱坞地铁站撞车事故中，3 名妇女死亡，另外 3 人重伤 KTLA 小型货车在洛杉矶地铁站外撞向行人，导致 3 人死亡 KSAT 官员称，北好莱坞车辆撞上行人，造成至少 3 人死亡 CNN 北好莱坞车辆撞上行人，造成 3 人死亡，至少 3 人受伤 NBC Los Angeles
-- EN Summary: This story centers on harm to people, emergency response, or social disruption.
-- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
-- EN Detailed Reading: Key signals: hollywood, north, dead, pedestrians, and station. The available excerpt says: 3 dead after car crashes into street vendors, pedestrians near Metro station in North Hollywood ABC7 Los Angeles 3 women dead, 3 others critically injured in North Hollywood Metro Station crash KTLA Minivan crashes into people outside Los Angeles metro station, killing 3 KSAT At least 3 people dead after vehicle strikes pedestrians in North Hollywood, officials say CNN 3 dead, at least 3 injured after vehicle strikes pedestrians in North Hollywood NBC Los Angeles Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
-- 中文详细解读: 关键词信号：好莱坞、北、死亡、行人、车站。RSS 中文摘要显示：北好莱坞地铁站附近汽车撞上街头小贩和行人，造成 3 人死亡 ABC7 洛杉矶 北好莱坞地铁站撞车事故中，3 名妇女死亡，另外 3 人重伤 KTLA 小型货车在洛杉矶地铁站外撞向行人，导致 3 人死亡 KSAT 官员称，北好莱坞车辆撞上行人，造成至少 3 人死亡 CNN 北好莱坞车辆撞上行人，造成 3 人死亡，至少 3 人受伤 NBC Los Angeles 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
-- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
-- 后续关注: 官方调查；确认伤亡数字；预防措施
+- Source / 来源: BBC. Published: `2026-11-12T04:03:13+00:00`.
+- Keywords / 关键词: united, states, florida, ship, sunk, famed, coast, artificial, reef, largest
+- 中文关键词: 团结的、州、佛罗里达、船、沉没、著名的、海岸、人造的、礁、最大的
+- Category / 分类: Global affairs / 全球事务
+- RSS Excerpt / RSS 摘要: Famed ship SS United States sunk off coast of Florida BBC Historic US ocean liner sinks near Florida to become world’s largest artificial reef The Guardian SS United States, long docked in Philly, goes under the waves Axios World's fastest ocean liner is sunk to break another record: largest artificial reef NPR SS United States updates: Ship completes final voyage, sinks to gulf floor to become artificial reef 6abc Philadelphia
+- RSS 中文摘要: 著名船舶 SS United States 在佛罗里达海岸沉没 BBC 历史悠久的美国远洋客轮在佛罗里达州附近沉没，成为世界上最大的人工鱼礁 长期停靠在费城的卫报 SS United States 沉没在海浪中 Axios 世界上最快的远洋客轮沉没，打破另一项记录：最大的人工鱼礁 NPR SS United States 更新：船舶完成最后一次航行，沉入湾底成为人工鱼礁 6abc 费城
+- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
+- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
+- EN Detailed Reading: Key signals: united, states, florida, ship, and sunk. The available excerpt says: Famed ship SS United States sunk off coast of Florida BBC Historic US ocean liner sinks near Florida to become world’s largest artificial reef The Guardian SS United States, long docked in Philly, goes under the waves Axios World's fastest ocean liner is sunk to break another record: largest artificial reef NPR SS United States updates: Ship completes final voyage, sinks to gulf floor to become artificial reef 6abc Philadelphia Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
+- 中文详细解读: 关键词信号：团结的、州、佛罗里达、船、沉没。RSS 中文摘要显示：著名船舶 SS United States 在佛罗里达海岸沉没 BBC 历史悠久的美国远洋客轮在佛罗里达州附近沉没，成为世界上最大的人工鱼礁 长期停靠在费城的卫报 SS United States 沉没在海浪中 Axios 世界上最快的远洋客轮沉没，打破另一项记录：最大的人工鱼礁 NPR SS United States 更新：船舶完成最后一次航行，沉入湾底成为人工鱼礁 6abc 费城 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
+- EN What to watch: follow-up reporting; official statements; regional or market reaction
+- 后续关注: 后续报道；官方声明；地区或市场反应
 
-### 9. [Israel’s newly elected parliament is already moving against Netanyahu - The Washington Post](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcFlseGxLdmpRQjNQS1g3U1h1Q3I2X0dsUElDbnM2cnZYeVVRd201YWU1Rk01eTlzUzR0ZHhOYmZzLXBKeU9YbUJlZm92b2x0c1VNalJqZTFfY05xYUszTFc1VEJZYlJzYlZZSDhFZEdSeEp3SndpSUNNcEloOC1qRlliVnAtQWdGOFpjY0s4NnFPbnI4ZHhMeS0xZkw1SnFjV25GQ2d6ckxFNE9idXA1S2FHcXJqTnhW?oc=5)
+### 10. [Iran attacks shipping navigation systems on Oman's Didamar island, sources say - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFB3XzM5cVFXcFdvTWhfdVJSY21DLVNHRE81YXh1Ykt3MlY0M29GY05FbFEwd2hMT3lTR1duaVV6UGdac003SWM2cTJpb1FqX2UzdnZqNW5YSEpEOGd2dmZ2VW5XOTZzcGlSNGl5dENGNFQ4c2JGYU9yaXV2RU84QXVRQVVtR3EtYmpaNXRKM3d2ZHJVdzlzOWxrMktEVVZYZzJVeVVzcmtMM0JLYmxsZVQ5YlRWN2tRd0UyM2dUXy04eW5PWlE?oc=5)
 
-- Source / 来源: The Washington Post. Published: `2026-11-11T07:36:13+00:00`.
-- Keywords / 关键词: parliament, israel, netanyahu, washington, elected, already, moving, newly, opposition, anti-netanyahu
-- 中文关键词: 议会、以色列、内塔尼亚胡、华盛顿、当选、已经、移动、新、反对、反内塔尼亚胡
+- Source / 来源: Reuters. Published: `2026-11-11T17:59:02+00:00`.
+- Keywords / 关键词: oman's, island, iran, navigation, shipping, attacks, systems, didamar, sources, say
+- 中文关键词: 阿曼的、岛、伊朗、导航、船运、袭击、系统、迪达马尔、来源、说
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Israel’s newly elected parliament is already moving against Netanyahu The Washington Post Netanyahu fights to stay relevant as Israel’s opposition closes in Al Jazeera Knesset to approve powerful Arrangements Committee, giving control of parliamentary agenda to anti-Netanyahu bloc The Times of Israel Israel's parliament sworn in as Eisenkot tries to forge a government Reuters Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament The New York Times
-- RSS 中文摘要: 以色列新当选的议会已经开始反对内塔尼亚胡 《华盛顿邮报》 以色列反对派在半岛电视台闭幕以批准强大的安排委员会，将议会议程控制权交给反内塔尼亚胡集团 华盛顿邮报 以色列议会宣誓就职，艾森科特试图组建政府 路透社 以色列反对派推动 10 月 7 日在新议会第一次会议上进行质询 纽约时报
+- RSS Excerpt / RSS 摘要: Iran attacks shipping navigation systems on Oman's Didamar island, sources say Reuters Tankers burn in the Middle East despite hopes for de-escalation Reuters Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops Fox News IRGC Reports Tanker Explosion in Hormuz Strait تسنیم Uncertainty Surrounds Possible Attack on Oman's Strait of Hormuz Lighthouse The Maritime Executive
+- RSS 中文摘要: 消息人士称，伊朗袭击了阿曼迪达马尔岛的航运导航系统 路透社 伊朗在霍尔木兹岛升级，声称对阿曼岛屿的袭击被“敌人”用于美国军事行动 福克斯新闻 IRGC 报道霍尔木兹海峡油轮爆炸
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: parliament, israel, netanyahu, washington, and elected. The available excerpt says: Israel’s newly elected parliament is already moving against Netanyahu The Washington Post Netanyahu fights to stay relevant as Israel’s opposition closes in Al Jazeera Knesset to approve powerful Arrangements Committee, giving control of parliamentary agenda to anti-Netanyahu bloc The Times of Israel Israel's parliament sworn in as Eisenkot tries to forge a government Reuters Israeli Opposition Pushes for Oct. 7 Inquiry at First Session of New Parliament The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：议会、以色列、内塔尼亚胡、华盛顿、当选。RSS 中文摘要显示：以色列新当选的议会已经开始反对内塔尼亚胡 《华盛顿邮报》 以色列反对派在半岛电视台闭幕以批准强大的安排委员会，将议会议程控制权交给反内塔尼亚胡集团 华盛顿邮报 以色列议会宣誓就职，艾森科特试图组建政府 路透社 以色列反对派推动 10 月 7 日在新议会第一次会议上进行质询 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 10. [Twice-deported illegal immigrant ID’d as United flier accused of bomb, hijack threat — and was sprung by judge after ICE bust - New York Post](https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQkgyVkZiZFBweV9TbTFFRm84Y3NXeEVwNXhtTWlXUkxzN3g0RzdCZmpTeGFlSmJqOTVhMXdoVExuS1BjWEI1YUlQb3ZiMDZ0SkUwS1paNU1qc3lKTS1HTVJWc2VrRkRXZGtMUVRfU1NCSTU2WE1xMkZ5REtIYThUMGVNeWJZWW5fa0hCU3RYTUtVS25hMl9uS0xiYmhNVWtreXRJSzRlZ0VYeU9tcUVrbWR5NzVuNDZKSnZKOGs4UFhsbVFwMmlaOXpxX3BuQVM4S1A3VlYwZmhfYllZUEw4d3d1STQ4S3Q1aHpCZGkzNGNBZkdTZ0ZF?oc=5)
-
-- Source / 来源: New York Post. Published: `2026-11-11T03:00:26+00:00`.
-- Keywords / 关键词: bomb, accused, immigrant, united, threat, twice-deported, illegal, hijack, sprung, flier
-- 中文关键词: 炸弹、被告、移民、团结的、威胁、两次被驱逐出境、非法的、劫持、弹起的、传单
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Twice-deported illegal immigrant ID’d as United flier accused of bomb, hijack threat — and was sprung by judge after ICE bust New York Post Man arrested after alleged bomb threat on United flight to New Orleans, deputies say FOX 8 Local First DHS: Honduran immigrant living in Bronx accused of bomb threat on Newark flight ABC7 Chicago Twice-deported illegal immigrant accused of trying to storm United cockpit, threatening bomb: DHS Fox News Man accused of claiming he had bomb on plane arrested at New Orleans airport WWLTV.com
-- RSS 中文摘要: 两次被驱逐出境的非法移民身份为美联航飞行员，被指控炸弹、劫持威胁 - 并在 ICE 破获后被法官逮捕 纽约邮报男子因涉嫌在飞往新奥尔良的美联航航班上受到炸弹威胁而被捕，代表们称福克斯 8 本地第一国土安全部：居住在布朗克斯的洪都拉斯移民被指控在纽瓦克 ABC7 航班上炸弹威胁芝加哥两次被驱逐的非法移民被指控试图冲进美联航驾驶舱，威胁炸弹：国土安全部福克斯新闻人被指控声称自己在飞机上携带炸弹的人在新奥尔良机场被捕 WWLTV.com
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: bomb, accused, immigrant, united, and threat. The available excerpt says: Twice-deported illegal immigrant ID’d as United flier accused of bomb, hijack threat — and was sprung by judge after ICE bust New York Post Man arrested after alleged bomb threat on United flight to New Orleans, deputies say FOX 8 Local First DHS: Honduran immigrant living in Bronx accused of bomb threat on Newark flight ABC7 Chicago Twice-deported illegal immigrant accused of trying to storm United cockpit, threatening bomb: DHS Fox News Man accused of claiming he had bomb on plane arrested at New Orleans airport WWLTV.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：炸弹、被告、移民、团结的、威胁。RSS 中文摘要显示：两次被驱逐出境的非法移民身份为美联航飞行员，被指控炸弹、劫持威胁 - 并在 ICE 破获后被法官逮捕 纽约邮报男子因涉嫌在飞往新奥尔良的美联航航班上受到炸弹威胁而被捕，代表们称福克斯 8 本地第一国土安全部：居住在布朗克斯的洪都拉斯移民被指控在纽瓦克 ABC7 航班上炸弹威胁芝加哥两次被驱逐的非法移民被指控试图冲进美联航驾驶舱，威胁炸弹：国土安全部福克斯新闻人被指控声称自己在飞机上携带炸弹的人在新奥尔良机场被捕 WWLTV.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: oman's, island, iran, navigation, and shipping. The available excerpt says: Iran attacks shipping navigation systems on Oman's Didamar island, sources say Reuters Tankers burn in the Middle East despite hopes for de-escalation Reuters Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops Fox News IRGC Reports Tanker Explosion in Hormuz Strait تسنیم Uncertainty Surrounds Possible Attack on Oman's Strait of Hormuz Lighthouse The Maritime Executive Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：阿曼的、岛、伊朗、导航、船运。RSS 中文摘要显示：消息人士称，伊朗袭击了阿曼迪达马尔岛的航运导航系统 路透社 伊朗在霍尔木兹岛升级，声称对阿曼岛屿的袭击被“敌人”用于美国军事行动 福克斯新闻 IRGC 报道霍尔木兹海峡油轮爆炸 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
