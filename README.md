@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-11-12T12:05:17+00:00` UTC.
+Generated at `2026-11-13T11:47:50+00:00` UTC.
 
-### 1. [Brooklyn building collapse live updates: Dangerous search for survivors continues in NYC - CNN](https://news.google.com/rss/articles/CBMif0FVX3lxTE9RZkdYZk4zZ1NacXpLb25ncXd1WXJTX3c5aFlhM2lGYzRoSjFiZTlVeTItS0ZPSUwwOTJkdk1XaUxCYU5QbGpVTXN1YUpVUjIwT1FJNWhMdEJIUV8xTERyYmFzTFZLVDVBaUZRc2sydHpxWVNobG9qS2tGcGhxWHc?oc=5)
+### 1. [Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HY0g2NTA4UDg1bGFHUXhyZkJCeGJsYXdGeVFFWXNBWHlSNGlDYzVXQkw5YkxheFhEbG1jNGRpXzVVeThsMkJYWENEQ3ZtNi1SZkZfT0RZWnNrckE?oc=5)
 
-- Source / 来源: CNN. Published: `2026-11-12T10:48:00+00:00`.
-- Keywords / 关键词: building, brooklyn, collapse, survivors, search, nyc, dangerous, continues, updates, live
-- 中文关键词: 建筑、布鲁克林、坍塌、幸存者、搜索、纽约、危险的、继续、更新、居住
-- Category / 分类: Public safety and society / 公共安全与社会
-- RSS Excerpt / RSS 摘要: Brooklyn building collapse live updates: Dangerous search for survivors continues in NYC CNN Brooklyn building collapse: Pregnant woman rescued from rubble ABC7 New York NYC building collapse: Third body recovered as first responders search for survivors Fox News Brooklyn Building Collapses, Killing 1 and Injuring Others in Flatbush, NY The New York Times Brooklyn building collapse: At least 5 dead and 17 injured as rescuers search for survivors; pregnant woman pulled from rubble Yahoo
-- RSS 中文摘要: 布鲁克林大楼倒塌现场更新：纽约市仍在危险地搜寻幸存者 CNN 布鲁克林大楼倒塌：孕妇从废墟中被救出 ABC7 纽约 纽约市大楼倒塌：急救人员在搜寻幸存者时已找到第三具尸体 福克斯新闻 布鲁克林大楼倒塌，纽约弗拉特布什市造成 1 人死亡、1 人受伤 《纽约时报》 布鲁克林大楼倒塌：救援人员在搜寻幸存者时，至少 5 人死亡、17 人受伤；孕妇从废墟中被救出 雅虎
-- EN Summary: This story centers on harm to people, emergency response, or social disruption.
-- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
-- EN Detailed Reading: Key signals: building, brooklyn, collapse, survivors, and search. The available excerpt says: Brooklyn building collapse live updates: Dangerous search for survivors continues in NYC CNN Brooklyn building collapse: Pregnant woman rescued from rubble ABC7 New York NYC building collapse: Third body recovered as first responders search for survivors Fox News Brooklyn Building Collapses, Killing 1 and Injuring Others in Flatbush, NY The New York Times Brooklyn building collapse: At least 5 dead and 17 injured as rescuers search for survivors; pregnant woman pulled from rubble Yahoo Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
-- 中文详细解读: 关键词信号：建筑、布鲁克林、坍塌、幸存者、搜索。RSS 中文摘要显示：布鲁克林大楼倒塌现场更新：纽约市仍在危险地搜寻幸存者 CNN 布鲁克林大楼倒塌：孕妇从废墟中被救出 ABC7 纽约 纽约市大楼倒塌：急救人员在搜寻幸存者时已找到第三具尸体 福克斯新闻 布鲁克林大楼倒塌，纽约弗拉特布什市造成 1 人死亡、1 人受伤 《纽约时报》 布鲁克林大楼倒塌：救援人员在搜寻幸存者时，至少 5 人死亡、17 人受伤；孕妇从废墟中被救出 雅虎 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
-- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
-- 后续关注: 官方调查；确认伤亡数字；预防措施
-
-### 2. [Ukraine peace talks: Jared Kushner and Steve Witkoff arrive in Russia for meeting with Putin - DW.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxQNHg4ZG1SOVY2OEJGVzQzSDFfaDlFMGdzdXY3Rkl4ejZ4WkUwOERVbkIwVW9iaVZuUHlvS3NHX1RnUEdqQjlxd3ZFNDlYLUdrTGFVYWZMQmZQTmVnR292ejQ4N05mSjJ1U25VcFRoeUdfYmV3RVo0aFFGWXB3aVMyUm9YSHZNUlA1a3NjYkRQdXg3bWo4TzVqa1g0STE5enk3M2NF?oc=5)
-
-- Source / 来源: DW.com. Published: `2026-11-12T09:49:41+00:00`.
-- Keywords / 关键词: talks, ukraine, putin, kushner, witkoff, meeting, arrive, russia, peace, jared
-- 中文关键词: 会谈、乌克兰、普京、库什纳、威特科夫、会议、到达、俄罗斯、和平、贾里德
+- Source / 来源: BBC. Published: `2026-11-13T03:57:01+00:00`.
+- Keywords / 关键词: testify, alleged, ex-nvidia, summoned, congress, chinese, lutnick, jensen, before, affair
+- 中文关键词: 作证、据称、英伟达、被召唤、国会、中国、卢特尼克、詹森、前、事务
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Ukraine peace talks: Jared Kushner and Steve Witkoff arrive in Russia for meeting with Putin DW.com Witkoff and Kushner arrive in Moscow for Ukraine talks with Putin CNN Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks Reuters ‘The only way to get this done’: Why the US wants Europe at Ukraine talks next time POLITICO.eu US envoys in Moscow for meeting with Putin following talks in Abu Dhabi AP News
-- RSS 中文摘要: 乌克兰和平谈判：贾里德·库什纳和史蒂夫·维特科夫抵达俄罗斯与普京会面 DW.com 维特科夫和库什纳抵达莫斯科与普京进行会谈 CNN 俄罗斯、乌克兰就囚犯交换达成协议，美国称缺乏信任阻碍了谈判 路透“实现这一目标的唯一途径”：为什么美国希望欧洲下次参加乌克兰会谈 POLITICO.eu 美国特使在阿布扎比会谈后在莫斯科与普京会面 美联社新闻
+- RSS Excerpt / RSS 摘要: Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy BBC Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew The New York Times Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales CNBC Lutnick’s longtime friendship with Trump may not save him Politico Nvidia scandal: Howard Lutnick under pressure over alleged lack of action The Guardian
+- RSS 中文摘要: 英伟达前首席执行官黄仁勋被传唤到国会就与涉嫌中国间谍的事件作证 BBC 霍华德·卢特尼克 (Howard Lutnick) 对英伟达采取了更温和的态度，因为要求加强控制的呼声越来越高 《纽约时报》 英伟达丑闻吸引了商务部长卢特尼克，据报道，他同意就中国芯片销售问题作证 CNBC 卢特尼克与特朗普的长期友谊可能无法挽救他的政治政治 英伟达丑闻：霍华德·卢特尼克因涉嫌缺乏行动而面临压力 《卫报》
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: talks, ukraine, putin, kushner, and witkoff. The available excerpt says: Ukraine peace talks: Jared Kushner and Steve Witkoff arrive in Russia for meeting with Putin DW.com Witkoff and Kushner arrive in Moscow for Ukraine talks with Putin CNN Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks Reuters ‘The only way to get this done’: Why the US wants Europe at Ukraine talks next time POLITICO.eu US envoys in Moscow for meeting with Putin following talks in Abu Dhabi AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：会谈、乌克兰、普京、库什纳、威特科夫。RSS 中文摘要显示：乌克兰和平谈判：贾里德·库什纳和史蒂夫·维特科夫抵达俄罗斯与普京会面 DW.com 维特科夫和库什纳抵达莫斯科与普京进行会谈 CNN 俄罗斯、乌克兰就囚犯交换达成协议，美国称缺乏信任阻碍了谈判 路透“实现这一目标的唯一途径”：为什么美国希望欧洲下次参加乌克兰会谈 POLITICO.eu 美国特使在阿布扎比会谈后在莫斯科与普京会面 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: testify, alleged, ex-nvidia, summoned, and congress. The available excerpt says: Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy BBC Howard Lutnick Took Softer Line on Nvidia as Calls for Tougher Controls Grew The New York Times Nvidia scandal draws in Commerce Secretary Lutnick, who reportedly agrees to testify about China chip sales CNBC Lutnick’s longtime friendship with Trump may not save him Politico Nvidia scandal: Howard Lutnick under pressure over alleged lack of action The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：作证、据称、英伟达、被召唤、国会。RSS 中文摘要显示：英伟达前首席执行官黄仁勋被传唤到国会就与涉嫌中国间谍的事件作证 BBC 霍华德·卢特尼克 (Howard Lutnick) 对英伟达采取了更温和的态度，因为要求加强控制的呼声越来越高 《纽约时报》 英伟达丑闻吸引了商务部长卢特尼克，据报道，他同意就中国芯片销售问题作证 CNBC 卢特尼克与特朗普的长期友谊可能无法挽救他的政治政治 英伟达丑闻：霍华德·卢特尼克因涉嫌缺乏行动而面临压力 《卫报》 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 3. [Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say - The New York Times](https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWJsX09iak1JNmhabW1OdjdOVW84Yk5iYVI0YmJJeEE1LTc0YTAyamNncXpSbHNGT1ZNOGlNWFotMDNybEo4Uk9oVmVzeEpzdnBsWWxrb3pPbldXQmhMQWd3T3pHd2lGN0xqVVhwSjlBWEwwRXR2U0FLOXZmdTZBWC05Vmx4RVc4ek53ZnBqQ1BBRUlyNWc?oc=5)
+### 2. [US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin - AP News](https://news.google.com/rss/articles/CBMiogFBVV95cUxOTFZuQ05KbXhLT294akRzMl9XWE5rUmRhV01fSDY4VVF6dnNaZVlCUzdCd1I2TnI0azFRT1VHcW1hVm9oMWhUNTZaVUc0QjNVNkNseGxYTGU3RmpSWXppTVZ4TzVRWEpxdE1tOVc3NDJYdFZmdWhoeFBvSXc4MXV4N0JUSW95SzlZalpwcERuU3hRNHpSbVBwNXl1Y19kUDU1d2c?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-11-12T08:23:00+00:00`.
-- Keywords / 关键词: kills, gaza, hospital, strike, say, rescuers, injures, israeli, palestinians, airstrike
-- 中文关键词: 造成死亡、加沙、医院、袭击、说、救援人员、伤害、以色列、巴勒斯坦人、空袭
+- Source / 来源: AP News. Published: `2026-11-13T02:09:00+00:00`.
+- Keywords / 关键词: putin, talks, ukraine, moscow, zelenskyy, envoys, dublin, meet, then, see
+- 中文关键词: 普京、会谈、乌克兰、莫斯科、泽连斯基、特使、都柏林、见面、然后、看
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say The New York Times Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others The Guardian Iran war live: IRGC to lift missile output; Israel kills 6 in Gaza hospital Al Jazeera Israeli strike on Gaza hospital kills six Palestinians, health ministry says BBC Israeli fire kills seven, including a father and son, in Gaza, medics say Reuters
-- RSS 中文摘要: 救援人员称对加沙医院的袭击造成至少 6 人死亡、20 人受伤 《纽约时报》 以色列对加沙纳赛尔医院的空袭造成外科医生和其他五人死亡 卫报 伊朗战争直播：伊朗革命卫队取消导弹输出；以色列在加沙医院造成 6 人死亡 医务人员称，以色列对加沙医院的袭击造成六名巴勒斯坦人死亡，卫生部称，以色列火灾造成加沙七人死亡，其中包括一对父子 路透社
+- RSS Excerpt / RSS 摘要: US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin AP News Kushner says Europe to join next Ukraine talks after meeting Putin and Zelensky CNN Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks BBC Putin’s chief negotiator vows to return ‘every inch of Russian land’ in Ukraine Atlantic Council In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks The New York Times
+- RSS 中文摘要: 美国特使在莫斯科就乌克兰谈判与普京会面，然后在都柏林会见泽伦斯基 美联社新闻 库什纳表示，欧洲将在与普京和泽伦斯基会面后参加下一次乌克兰谈判 CNN 泽伦斯基欢迎美国将欧洲带入俄罗斯-乌克兰和谈 BBC 普京首席谈判代表誓言归还乌克兰大西洋理事会的“每一寸俄罗斯土地” 在莫斯科，维特科夫和库什纳要求普京将欧洲纳入和平谈判 纽约时报
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: kills, gaza, hospital, strike, and say. The available excerpt says: Strike on Gaza Hospital Kills at Least 6 and Injures 20, Rescuers Say The New York Times Israeli airstrike on Nasser hospital in Gaza kills surgeon and five others The Guardian Iran war live: IRGC to lift missile output; Israel kills 6 in Gaza hospital Al Jazeera Israeli strike on Gaza hospital kills six Palestinians, health ministry says BBC Israeli fire kills seven, including a father and son, in Gaza, medics say Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：造成死亡、加沙、医院、袭击、说。RSS 中文摘要显示：救援人员称对加沙医院的袭击造成至少 6 人死亡、20 人受伤 《纽约时报》 以色列对加沙纳赛尔医院的空袭造成外科医生和其他五人死亡 卫报 伊朗战争直播：伊朗革命卫队取消导弹输出；以色列在加沙医院造成 6 人死亡 医务人员称，以色列对加沙医院的袭击造成六名巴勒斯坦人死亡，卫生部称，以色列火灾造成加沙七人死亡，其中包括一对父子 路透社 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: putin, talks, ukraine, moscow, and zelenskyy. The available excerpt says: US envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin AP News Kushner says Europe to join next Ukraine talks after meeting Putin and Zelensky CNN Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks BBC Putin’s chief negotiator vows to return ‘every inch of Russian land’ in Ukraine Atlantic Council In Moscow, Witkoff and Kushner Ask Putin to Include Europe in Peace Talks The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：普京、会谈、乌克兰、莫斯科、泽连斯基。RSS 中文摘要显示：美国特使在莫斯科就乌克兰谈判与普京会面，然后在都柏林会见泽伦斯基 美联社新闻 库什纳表示，欧洲将在与普京和泽伦斯基会面后参加下一次乌克兰谈判 CNN 泽伦斯基欢迎美国将欧洲带入俄罗斯-乌克兰和谈 BBC 普京首席谈判代表誓言归还乌克兰大西洋理事会的“每一寸俄罗斯土地” 在莫斯科，维特科夫和库什纳要求普京将欧洲纳入和平谈判 纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 4. [Scott Colom, a Democrat, Wins Mississippi Senate Election - The New York Times](https://news.google.com/rss/articles/CBMikgFBVV95cUxPRTNHZFFRdHFUWjJ5Yk4xZGNtemYyR3B3UENkcHE3NG5TOUo3ai0ydnFGQ2k5YU1IbkNLdG4tNHR4dTZES01xQVlrMHN2YUdVUVJoQzNEcFdzN3N2Q1d0Z0lwZE1sM2I0dGFZY250Zk91QUtjczEtS1dsQTh0YjJ5MmpxZkltaGU0R2J3MXpqSzMxdw?oc=5)
+### 3. [Van Hollen will challenge Schumer to lead Senate Democrats - The Washington Post](https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3dSbVNOOUpYWjVLWGNhdGtVWUNFd0NiMTZRbS1KSWdkdS1hUGFiVnJXcTBNV3FYZVFqZWsyWllIU3dGZjB6ODZoMC1sZFJiOGZlM2lDWlBvMlV2ZVN6MTNmVWdfQXdlWWlPR09KQTVhUVVGN0hLcExyOUl3Q0VPcGFGZjdvc0E1RDE4bkJKOUppU2ZWZHVaaVZDMmZxaVQ5QnhnNA?oc=5)
 
-- Source / 来源: The New York Times. Published: `2026-11-12T07:12:00+00:00`.
-- Keywords / 关键词: scott, mississippi, colom, senate, democrat, wins, election, historic, democrats, deep-red
-- 中文关键词: 斯科特、密西西比州、鸽子、参议院、民主党人、获胜、选举、历史性、深红色
+- Source / 来源: The Washington Post. Published: `2026-11-13T07:56:00+00:00`.
+- Keywords / 关键词: hollen, senate, van, democrats, schumer, challenge, lead, washington, chris, post-election
+- 中文关键词: 跑步、参议院、货车、民主党人、舒默、挑战、带领、华盛顿、克里斯、选举后
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Scott Colom, a Democrat, Wins Mississippi Senate Election The New York Times Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years BBC From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid Axios Scott Colom Wins Mississippi Senate Seat in Historic Victory WSJ How Scott Colom won deep-red Mississippi with little help from Democrats The Guardian
-- RSS 中文摘要: 民主党人斯科特·科罗姆 (Scott Colom) 赢得密西西比州参议院选举 《纽约时报》 民主党人斯科特·科罗姆 (Scott Colom) 创造历史，密西西比州选出 150 年来第一位黑人参议员 BBC 从埃米特·蒂尔 (Emmett Till) 到罗伯特·约翰逊 (Robert Johnson)，三角洲为斯科特·科罗姆 (Scott Colom) 历史性的参议院竞选提供动力 Axios 斯科特·科罗姆 (Scott Colom) 在历史性胜利中赢得密西西比州参议院席位 华尔街日报 斯科特·科罗姆 (Scott Colom) 如何在民主党的帮助下赢得深红色密西西比州守护者
+- RSS Excerpt / RSS 摘要: Van Hollen will challenge Schumer to lead Senate Democrats The Washington Post Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader The New York Times Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live The Guardian Senate leadership showdown could fracture Democratic post-election unity CNN Chris Van Hollen launches bid to lead Democrats in US Senate Al Jazeera
+- RSS 中文摘要: 范霍伦将挑战舒默领导参议院民主党人 《华盛顿邮报》克里斯·范霍伦将挑战查克·舒默担任参议院多数党领袖 《纽约时报》范霍伦瞄准舒默，因为民主党在中期选举后面临首次重大考验 - 美国政治直播 卫报参议院领导层摊牌可能会破坏民主党选后团结 CNN 克里斯·范霍伦发起在美国参议院领导民主党的努力
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: scott, mississippi, colom, senate, and democrat. The available excerpt says: Scott Colom, a Democrat, Wins Mississippi Senate Election The New York Times Democrat Scott Colom makes history as Mississippi elects first black senator in 150 years BBC From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid Axios Scott Colom Wins Mississippi Senate Seat in Historic Victory WSJ How Scott Colom won deep-red Mississippi with little help from Democrats The Guardian Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：斯科特、密西西比州、鸽子、参议院、民主党人。RSS 中文摘要显示：民主党人斯科特·科罗姆 (Scott Colom) 赢得密西西比州参议院选举 《纽约时报》 民主党人斯科特·科罗姆 (Scott Colom) 创造历史，密西西比州选出 150 年来第一位黑人参议员 BBC 从埃米特·蒂尔 (Emmett Till) 到罗伯特·约翰逊 (Robert Johnson)，三角洲为斯科特·科罗姆 (Scott Colom) 历史性的参议院竞选提供动力 Axios 斯科特·科罗姆 (Scott Colom) 在历史性胜利中赢得密西西比州参议院席位 华尔街日报 斯科特·科罗姆 (Scott Colom) 如何在民主党的帮助下赢得深红色密西西比州守护者 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: hollen, senate, van, democrats, and schumer. The available excerpt says: Van Hollen will challenge Schumer to lead Senate Democrats The Washington Post Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader The New York Times Van Hollen takes aim at Schumer as Democrats face first big test after midterms – US politics live The Guardian Senate leadership showdown could fracture Democratic post-election unity CNN Chris Van Hollen launches bid to lead Democrats in US Senate Al Jazeera Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：跑步、参议院、货车、民主党人、舒默。RSS 中文摘要显示：范霍伦将挑战舒默领导参议院民主党人 《华盛顿邮报》克里斯·范霍伦将挑战查克·舒默担任参议院多数党领袖 《纽约时报》范霍伦瞄准舒默，因为民主党在中期选举后面临首次重大考验 - 美国政治直播 卫报参议院领导层摊牌可能会破坏民主党选后团结 CNN 克里斯·范霍伦发起在美国参议院领导民主党的努力 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 5. [A missing teen is found alive after 6 days in the Australian woodlands - The Seattle Times](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUVlWZXNxOXdOWTd1TWJjM2pvZDhpOEp6RG9KaHNzc2xmNHlJU0llbnNWaG5Yc3JoZzJTN3JTdnJLVHp3ZU9aUDktYnNpLWhDal8tejdJQ3VYSlFUdFprb1o0cnNIM2xwa1BQTS1LeXBKbm9YdmI3UjhreFlLRWoyR2F6LTV0VWp1Y3J2bFJJNkkyZHhSOE5TQmY2Mk5nbFMtQVNOdGJnOHRQZw?oc=5)
+### 4. [US Army officer involved in alleged Russian spying scheme identified: Reports - The Hill](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEw1Z2g3UFNXUThRcHRlYmcySkpxLWlLNG1aOGdOandjNDdwVnBHOFEtblZTaFpmWXp0RWZYUndrTk1kdTRYLTJYRXE5TmF0RlJxcHkyZW5UZjk1djNWMHhYLXg1ZmxicU1kc3lYdmFJNnBRdGRXcnRFNkxyUHhKZkZvZVJhSUd4VGJvRVJkd9IBlAFBVV95cUxQeEZTZEFQMkR6M2ZVSXhIOUdKbmVRRnNraG5iM1M2ekRuMlBCRUdFNE9vUkFLSzFHV1c5ZGppWjJqYnBHaWE1cTBYeTdYSmUwczFGemdiOXNubGlSUXcxWDMwYXVKN01TMjAzSHFManVnTFFaMnZuSXFRR1Y4aThobEthN1k4OXhfS09pM1NqTW5mMWxM?oc=5)
 
-- Source / 来源: The Seattle Times. Published: `2026-11-12T04:20:04+00:00`.
-- Keywords / 关键词: days, australian, missing, alive, teen, found, woodlands, seattle, six, wilderness
-- 中文关键词: 天、澳大利亚人、丢失的、活、青少年、成立、林地、西雅图、六、荒野
+- Source / 来源: The Hill. Published: `2026-11-13T00:39:00+00:00`.
+- Keywords / 关键词: army, officer, spying, identified, alleged, russian, involved, scheme, hill, russia
+- 中文关键词: 军队、官、间谍活动、已确定、据称、俄罗斯、涉及、方案、爬坡道
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: US Army officer involved in alleged Russian spying scheme identified: Reports The Hill Exclusive | U.S. Army Officer Identified After U.K. Sting for Alleged Russian Spying WSJ American soldier arrested on suspicion of spying for Russia CNBC Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran The New York Times Russia's 'spy' in U.S. Army seized in UK as its Sahel ally Mali keeps French 'spy' out for 20 years after presidential pardon Business Insider Africa
+- RSS 中文摘要: 涉嫌参与俄罗斯间谍计划的美国陆军军官已被确认：《国会山报》独家报道英国因涉嫌从事间谍活动而被诱骗的美国陆军军官身份被确认 华尔街日报 美国士兵因涉嫌为俄罗斯从事间谍活动而被捕 CNBC 被指控试图为俄罗斯从事间谍活动的陆军军官是阿富汗战争老兵 《纽约时报》 俄罗斯在美国陆军中的“间谍”在其萨赫勒盟友马里在总统赦免后将法国“间谍”拒之门外20年
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: army, officer, spying, identified, and alleged. The available excerpt says: US Army officer involved in alleged Russian spying scheme identified: Reports The Hill Exclusive | U.S. Army Officer Identified After U.K. Sting for Alleged Russian Spying WSJ American soldier arrested on suspicion of spying for Russia CNBC Army Officer Accused of Trying to Spy for Russia Is Afghan War Veteran The New York Times Russia's 'spy' in U.S. Army seized in UK as its Sahel ally Mali keeps French 'spy' out for 20 years after presidential pardon Business Insider Africa Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：军队、官、间谍活动、已确定、据称。RSS 中文摘要显示：涉嫌参与俄罗斯间谍计划的美国陆军军官已被确认：《国会山报》独家报道英国因涉嫌从事间谍活动而被诱骗的美国陆军军官身份被确认 华尔街日报 美国士兵因涉嫌为俄罗斯从事间谍活动而被捕 CNBC 被指控试图为俄罗斯从事间谍活动的陆军军官是阿富汗战争老兵 《纽约时报》 俄罗斯在美国陆军中的“间谍”在其萨赫勒盟友马里在总统赦免后将法国“间谍”拒之门外20年 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 5. [China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5)
+
+- Source / 来源: Reuters. Published: `2026-11-13T04:05:00+00:00`.
+- Keywords / 关键词: taiwan, china, drills, say, intimidation, unannounced, officials, pacific, stages, silent
+- 中文关键词: 台湾、中国、演习、说、恐吓、未宣布的、官员、太平洋、阶段、沉默的
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say Reuters G7 foreign ministers say China’s actions east of Taiwan threaten stability Taipei Times China & Taiwan Update, November 6, 2026 Institute for the Study of War Fault Lines – China’s navy, Marines in Manila, PNG’s LNG The Strategist | ASPI's analysis and commentary site Analysis: China's Naval Drills Suggest Preparation to Isolate Taiwan The Maritime Executive
+- RSS 中文摘要: 官员称，中国在太平洋地区举行未经宣布的演习，“无声恐吓”台湾ASPI 分析评论网站分析：中国海军演习暗示准备孤立台湾 海事局
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: taiwan, china, drills, say, and intimidation. The available excerpt says: China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say Reuters G7 foreign ministers say China’s actions east of Taiwan threaten stability Taipei Times China & Taiwan Update, November 6, 2026 Institute for the Study of War Fault Lines – China’s navy, Marines in Manila, PNG’s LNG The Strategist | ASPI's analysis and commentary site Analysis: China's Naval Drills Suggest Preparation to Isolate Taiwan The Maritime Executive Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：台湾、中国、演习、说、恐吓。RSS 中文摘要显示：官员称，中国在太平洋地区举行未经宣布的演习，“无声恐吓”台湾ASPI 分析评论网站分析：中国海军演习暗示准备孤立台湾 海事局 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 6. [From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid - Axios](https://news.google.com/rss/articles/CBMihwFBVV95cUxObXZqdjdQX19QMzJCTFBtZng5Z0IxZDBiNGpWR05VSU9vMEpadWJfUjgwQVo5SEs4SXhrZTd5TkZTZ2xBWkxHWm43LVpUMEcyMXhKci1BajRZOVB5Zzhvb0VpOUN5VTZidm4xOFkwanRpMC15Uy02T05oejVtQVQxQVQwNktXN0E?oc=5)
+
+- Source / 来源: Axios. Published: `2026-11-12T19:14:02+00:00`.
+- Keywords / 关键词: scott, historic, mississippi, johnson, powered, colom's, emmett, robert, senate, delta
+- 中文关键词: 斯科特、历史性、密西西比州、约翰逊、供电的、科洛姆的、埃米特、罗伯特、参议院、三角洲
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid Axios Meet the 27-year old behind the protein ad that helped flip Mississippi Politico Seth Meyers Is Excited by Scott Colom’s Historic Win in Mississippi The New York Times Before Scott Colom, these two men were the last black US senators from Mississippi BBC Mississippi’s first Black senator since Reconstruction is making a statement. Just look at his sweatshirts AP News
+- RSS 中文摘要: 从埃米特·蒂尔到罗伯特·约翰逊，三角洲为斯科特·科罗姆历史性的参议院竞选提供了动力 Axios 认识一下帮助翻转密西西比州的蛋白质广告背后的 27 岁年轻人 塞斯·迈耶斯对斯科特·科罗姆在密西西比州的历史性胜利感到兴奋 《纽约时报》 在斯科特·科罗姆之前，这两个人是自密西西比州 BBC 密西西比州第一位黑人参议员以来最后一批来自密西西比州的黑人美国参议员重建正在发表声明。看看他的运动衫就知道了 美联社新闻
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: scott, historic, mississippi, johnson, and powered. The available excerpt says: From Emmett Till to Robert Johnson, the Delta powered Scott Colom's historic Senate bid Axios Meet the 27-year old behind the protein ad that helped flip Mississippi Politico Seth Meyers Is Excited by Scott Colom’s Historic Win in Mississippi The New York Times Before Scott Colom, these two men were the last black US senators from Mississippi BBC Mississippi’s first Black senator since Reconstruction is making a statement. Just look at his sweatshirts AP News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：斯科特、历史性、密西西比州、约翰逊、供电的。RSS 中文摘要显示：从埃米特·蒂尔到罗伯特·约翰逊，三角洲为斯科特·科罗姆历史性的参议院竞选提供了动力 Axios 认识一下帮助翻转密西西比州的蛋白质广告背后的 27 岁年轻人 塞斯·迈耶斯对斯科特·科罗姆在密西西比州的历史性胜利感到兴奋 《纽约时报》 在斯科特·科罗姆之前，这两个人是自密西西比州 BBC 密西西比州第一位黑人参议员以来最后一批来自密西西比州的黑人美国参议员重建正在发表声明。看看他的运动衫就知道了 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 7. [Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version - WSJ](https://news.google.com/rss/articles/CBMiqAFBVV95cUxPamFEUnFZRDE2MFE3WEZFN0NXeWR2ay00NHZ1a2JoN0MyNTFXNjZ0M1JUU3RpSE91RE5Fd3hJUmNHMmk5YVlDNVpwVy1BUjFoQ1BtRjhRZEE3RzJsY2NLYjExR3MzRHNBd1NoclJ2MEJybkxvcVo4N0FaU2hoUzdxNW5yVUEwZzVQYkJHNDZNbGQ2ajBGTG5wdWM3TU9wazVJTVNVLTZ0Y28?oc=5)
+
+- Source / 来源: WSJ. Published: `2026-11-13T09:43:00+00:00`.
+- Keywords / 关键词: korea, north, flag, soviet-era, ditching, remakes, version, jong, kim, wsj
+- 中文关键词: 韩国、北、旗帜、苏联时代、开沟、翻拍、版本、琼、金、华尔街日报
 - Category / 分类: Technology / 科技
-- RSS Excerpt / RSS 摘要: A missing teen is found alive after 6 days in the Australian woodlands The Seattle Times Australian teen missing in bush for six days rescued alive BBC Boy found alive after 6 days lost in Australian wilderness: "He's grounded for life" CBS News Teen survives on chips and creek water during six days lost in remote wilderness SMH.com.au ‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland The Guardian
-- RSS 中文摘要: 一名失踪青少年在澳大利亚林地中失踪 6 天后被发现生还 《西雅图时报》 一名在丛林中失踪六天的澳大利亚青少年被生还者获救 BBC 男孩在澳大利亚荒野中失踪 6 天后被发现生还：“他被终身禁足” CBS 新闻 一名青少年在偏远荒野中失踪 6 天，靠薯片和溪水幸存 SMH.com.au “他再也不会离开家了”：母亲与在维多利亚丛林失踪六天的儿子团聚 卫报
+- RSS Excerpt / RSS 摘要: Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version WSJ North Korea unveils revised constitution reflecting 'two hostile states' policy Korea JoongAng Daily North Korea modifies national flag in break with decades-old design NK News North Korea posts revised constitution dropping reunification goal upi It was found on the 13th that North Korea changed the aspect ratio of its flag, "Ingong (Hongram Fiv.. 매일경제
+- RSS 中文摘要: 金正恩重塑朝鲜国旗，放弃​​苏联时代版本 《华尔街日报》 朝鲜公布修改宪法，反映“两个敌对国家”政策 韩国《中央日报》 朝鲜修改国旗，打破几十年前的设计 朝鲜新闻 朝鲜发布修改宪法，放弃统一目标 upi 13日发现，朝鲜改变了国旗的长宽比，“仁宫（洪拉姆五.. 매일경제）”
 - EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
 - 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
-- EN Detailed Reading: Key signals: days, australian, missing, alive, and teen. The available excerpt says: A missing teen is found alive after 6 days in the Australian woodlands The Seattle Times Australian teen missing in bush for six days rescued alive BBC Boy found alive after 6 days lost in Australian wilderness: "He's grounded for life" CBS News Teen survives on chips and creek water during six days lost in remote wilderness SMH.com.au ‘He is never leaving the house again’: mother reunites with son missing for six days in Victorian bushland The Guardian Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
-- 中文详细解读: 关键词信号：天、澳大利亚人、丢失的、活、青少年。RSS 中文摘要显示：一名失踪青少年在澳大利亚林地中失踪 6 天后被发现生还 《西雅图时报》 一名在丛林中失踪六天的澳大利亚青少年被生还者获救 BBC 男孩在澳大利亚荒野中失踪 6 天后被发现生还：“他被终身禁足” CBS 新闻 一名青少年在偏远荒野中失踪 6 天，靠薯片和溪水幸存 SMH.com.au “他再也不会离开家了”：母亲与在维多利亚丛林失踪六天的儿子团聚 卫报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN Detailed Reading: Key signals: korea, north, flag, soviet-era, and ditching. The available excerpt says: Kim Jong Un Remakes North Korea’s Flag, Ditching Soviet-Era Version WSJ North Korea unveils revised constitution reflecting 'two hostile states' policy Korea JoongAng Daily North Korea modifies national flag in break with decades-old design NK News North Korea posts revised constitution dropping reunification goal upi It was found on the 13th that North Korea changed the aspect ratio of its flag, "Ingong (Hongram Fiv.. 매일경제 Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：韩国、北、旗帜、苏联时代、开沟。RSS 中文摘要显示：金正恩重塑朝鲜国旗，放弃​​苏联时代版本 《华尔街日报》 朝鲜公布修改宪法，反映“两个敌对国家”政策 韩国《中央日报》 朝鲜修改国旗，打破几十年前的设计 朝鲜新闻 朝鲜发布修改宪法，放弃统一目标 upi 13日发现，朝鲜改变了国旗的长宽比，“仁宫（洪拉姆五.. 매일경제）” 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
 - EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
 - 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
-### 6. [OSU abuse survivors blast Jim Jordan’s election as House minority leader - NBC News](https://news.google.com/rss/articles/CBMitwFBVV95cUxPNTlEaVFRcHdmNnh3Y1RQdDlOUTJqa1hPb1Q1cjJTdHh0cEdQd01DNndMb2NDeXFiTUtWcWp0NlFldVB3NENEdmRhYVVjcEpnaTJRLUVkbHVIQ3h2MHNVcktibV9nbnBRZ29tY1MzajduVkpXUjgxZWN5LXZyRFhsVXVRSWpRM1Fjd29pVERzcTc2UmI3TkF3bllZeFBrckx0dk05bmt4LU5EbWRTeXlocmxlUDc2Q2c?oc=5)
+### 8. [Cindy Holscher wins in Kansas, holding governor’s office for Democrats - NPR](https://news.google.com/rss/articles/CBMijwFBVV95cUxQblNkYWQtS3otVHhSOEhKODE5NjZPWGlYc0JfLV8tRno3RDNWWVJ6enp4UGpCMkRYVGxNLWZJZ2Roa3JXQWRJX0xoMW1McW5MSy10NXlNQ3g1Y09rWWFjRlZWSnhKdTNPaW14ZmNMRWhiaWpzU2szVTc2aFNyT1VYVmRlbHVPRlo2QTdNbVhKaw?oc=5)
 
-- Source / 来源: NBC News. Published: `2026-11-12T00:20:00+00:00`.
-- Keywords / 关键词: jordan, jim, leader, house, survivors, election, minority, abuse, blast, osu
-- 中文关键词: 约旦、吉姆、领导者、房子、幸存者、选举、少数民族、虐待、爆炸、奥苏
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: OSU abuse survivors blast Jim Jordan’s election as House minority leader NBC News Jim Jordan’s win throws the future of the Freedom Caucus into question Politico With Jim Jordan as leader, House Republicans signal they're ready to fight CBS News Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight Fox News Opinion | Jim Jordan offers Republicans more of what doesn’t work MS NOW
-- RSS 中文摘要: 俄勒冈州立大学虐待幸存者抨击吉姆·乔丹当选众议院少数党领袖 NBC 新闻 吉姆·乔丹的胜利使自由核心小组的未来受到质疑 Politico 随着吉姆·乔丹担任领导人，众议院共和党人表示他们已准备好与哥伦比亚广播公司新闻 哥伦比亚广播公司新闻 吉姆·乔丹赢得众议院领导权斗争后，长期共和党领导人面临不确定的未来 福克斯新闻观点 |吉姆乔丹向共和党人提供了更多现在不起作用的东西
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: jordan, jim, leader, house, and survivors. The available excerpt says: OSU abuse survivors blast Jim Jordan’s election as House minority leader NBC News Jim Jordan’s win throws the future of the Freedom Caucus into question Politico With Jim Jordan as leader, House Republicans signal they're ready to fight CBS News Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight Fox News Opinion | Jim Jordan offers Republicans more of what doesn’t work MS NOW Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：约旦、吉姆、领导者、房子、幸存者。RSS 中文摘要显示：俄勒冈州立大学虐待幸存者抨击吉姆·乔丹当选众议院少数党领袖 NBC 新闻 吉姆·乔丹的胜利使自由核心小组的未来受到质疑 Politico 随着吉姆·乔丹担任领导人，众议院共和党人表示他们已准备好与哥伦比亚广播公司新闻 哥伦比亚广播公司新闻 吉姆·乔丹赢得众议院领导权斗争后，长期共和党领导人面临不确定的未来 福克斯新闻观点 |吉姆乔丹向共和党人提供了更多现在不起作用的东西 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 7. [Mammoth crowds greet Pope Leo on return to Peru, his adopted homeland - The Washington Post](https://news.google.com/rss/articles/CBMilgFBVV95cUxOeUpuTEFWN2VuSlF3TnN5Z2MyeUg4dmt5WmVYNHBIUjJLMDNaMnh2OXVibjZUT3BGZmtXT1lTSnFhX1M4dU8wYVpsNi1XX3Y5SXRObkkxSmdCQU53OFMtTkxVcTBIVEo1UE5RUHZmVnpCNV9FblhuM3QxdlVILS1pWWJ2dzEzYmRLMUoybmpneFlPeW1YYUE?oc=5)
-
-- Source / 来源: The Washington Post. Published: `2026-11-12T11:32:47+00:00`.
-- Keywords / 关键词: pope, peru, leo, his, homeland, return, washington, mammoth, adopted, crowds
-- 中文关键词: 教皇、秘鲁、狮子座、他的、家园、返回、华盛顿、长毛象、通过、人群
-- Category / 分类: Economy and markets / 经济与市场
-- RSS Excerpt / RSS 摘要: Mammoth crowds greet Pope Leo on return to Peru, his adopted homeland The Washington Post Pope Leo XIV Goes Home to Peru, Meeting Ghosts of His Past The New York Times Matvei Michkov didn't ask Flyers for trade, Rick Tocchet says ESPN Peruvian homecoming: Pope Leo welcomed by record crowd on return to the country that shaped his path to the papacy CNN Pope in Peru: ‘Distance does not necessarily diminish love for one’s homeland’ Vatican News
-- RSS 中文摘要: 大批群众迎接利奥教皇返回他的祖国秘鲁 《华盛顿邮报》 教宗利奥十四世回到秘鲁，会见他过去的鬼魂 《纽约时报》 马特维·米奇科夫没有要求传单进行贸易，里克·托切特说 ESPN 秘鲁返校节：利奥教皇回到秘鲁，受到创纪录的人群欢迎，这塑造了他成为教皇的道路 CNN 秘鲁：“距离不一定会减少对祖国的热爱” 梵蒂冈新闻
-- EN Summary: This story is tied to business conditions, financial expectations, or the cost of goods and capital.
-- 中文概要: 这条新闻与商业环境、金融预期或商品与资金成本相关。
-- EN Detailed Reading: Key signals: pope, peru, leo, his, and homeland. The available excerpt says: Mammoth crowds greet Pope Leo on return to Peru, his adopted homeland The Washington Post Pope Leo XIV Goes Home to Peru, Meeting Ghosts of His Past The New York Times Matvei Michkov didn't ask Flyers for trade, Rick Tocchet says ESPN Peruvian homecoming: Pope Leo welcomed by record crowd on return to the country that shaped his path to the papacy CNN Pope in Peru: ‘Distance does not necessarily diminish love for one’s homeland’ Vatican News Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.
-- 中文详细解读: 关键词信号：教皇、秘鲁、狮子座、他的、家园。RSS 中文摘要显示：大批群众迎接利奥教皇返回他的祖国秘鲁 《华盛顿邮报》 教宗利奥十四世回到秘鲁，会见他过去的鬼魂 《纽约时报》 马特维·米奇科夫没有要求传单进行贸易，里克·托切特说 ESPN 秘鲁返校节：利奥教皇回到秘鲁，受到创纪录的人群欢迎，这塑造了他成为教皇的道路 CNN 秘鲁：“距离不一定会减少对祖国的热爱” 梵蒂冈新闻 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。
-- EN What to watch: price movements; company and government guidance; second-round supply-chain effects
-- 后续关注: 价格变化；企业与政府指引；供应链二次影响
-
-### 8. [Democratic lawmakers apologize after absences on Hegseth vote - The Washington Post](https://news.google.com/rss/articles/CBMirwFBVV95cUxQYVpnSzRWYjNuTzdjclRyZUpOZTd0d0V4UVF3NDZXMC14cFBxVG1QZndoYVZaNW1ZWmx2TWQ5azFqYnBkbjJ3d01CdXBOczY5dlB3R3N6d01Db3paMUV3d3NWbEJEckY0ekszUnJsSlNPbDRkb2dqbVRneEpWOHUwa3FUVUNFb1M1MVROdVpuTFN3NzFXUnc5amN4QWRBek9VYzNXTXlmU3NmQnk4U2dF?oc=5)
-
-- Source / 来源: The Washington Post. Published: `2026-11-12T06:37:02+00:00`.
-- Keywords / 关键词: hegseth, vote, democratic, washington, lawmakers, apologize, absences, impeachment, democrats, congressional
-- 中文关键词: 赫格斯、投票、民主的、华盛顿、立法者、道歉、缺勤、弹劾、民主党人、国会的
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Democratic lawmakers apologize after absences on Hegseth vote The Washington Post Democrats Face Backlash After Missing Hegseth Impeachment Vote The New York Times Pete Hegseth’s impeachment: How each House member voted CNN Thomas Massie's congressional career might be ending. His clashes with Trump aren't. Axios Hegseth survives the battle. Democrats aren’t done with the war. The Hill
-- RSS 中文摘要: 民主党议员在缺席赫格斯投票后道歉 《华盛顿邮报》民主党在缺席赫格斯弹劾投票后面临强烈反对 《纽约时报》皮特·赫格斯的弹劾：每位众议院议员如何投票 CNN 托马斯·马西的国会生涯可能会结束。他与特朗普的冲突并非如此。阿克西奥斯·赫格斯在战斗中幸存。民主党人还没有结束战争。山丘
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: hegseth, vote, democratic, washington, and lawmakers. The available excerpt says: Democratic lawmakers apologize after absences on Hegseth vote The Washington Post Democrats Face Backlash After Missing Hegseth Impeachment Vote The New York Times Pete Hegseth’s impeachment: How each House member voted CNN Thomas Massie's congressional career might be ending. His clashes with Trump aren't. Axios Hegseth survives the battle. Democrats aren’t done with the war. The Hill Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：赫格斯、投票、民主的、华盛顿、立法者。RSS 中文摘要显示：民主党议员在缺席赫格斯投票后道歉 《华盛顿邮报》民主党在缺席赫格斯弹劾投票后面临强烈反对 《纽约时报》皮特·赫格斯的弹劾：每位众议院议员如何投票 CNN 托马斯·马西的国会生涯可能会结束。他与特朗普的冲突并非如此。阿克西奥斯·赫格斯在战斗中幸存。民主党人还没有结束战争。山丘 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 9. [Famed ship SS United States sunk off coast of Florida - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ielVtR0tBWXI4cTlYTnRZM3pmbW9EVXVUdGtSVUdSN2tib2ZOamc2NTN5UWEzRUZtTklwTEpBQnp3WHcyWXJDdEVMWDl2akpycVRwT3ZEejZ2RTg?oc=5)
-
-- Source / 来源: BBC. Published: `2026-11-12T04:03:13+00:00`.
-- Keywords / 关键词: united, states, florida, ship, sunk, famed, coast, artificial, reef, largest
-- 中文关键词: 团结的、州、佛罗里达、船、沉没、著名的、海岸、人造的、礁、最大的
+- Source / 来源: NPR. Published: `2026-11-12T23:36:19+00:00`.
+- Keywords / 关键词: democrats, holscher, governor, holding, kansas, office, cindy, wins, perspectives, headlines
+- 中文关键词: 民主党人、霍尔舍尔、州长、保持、堪萨斯州、办公室、辛迪、获胜、观点、头条新闻
 - Category / 分类: Global affairs / 全球事务
-- RSS Excerpt / RSS 摘要: Famed ship SS United States sunk off coast of Florida BBC Historic US ocean liner sinks near Florida to become world’s largest artificial reef The Guardian SS United States, long docked in Philly, goes under the waves Axios World's fastest ocean liner is sunk to break another record: largest artificial reef NPR SS United States updates: Ship completes final voyage, sinks to gulf floor to become artificial reef 6abc Philadelphia
-- RSS 中文摘要: 著名船舶 SS United States 在佛罗里达海岸沉没 BBC 历史悠久的美国远洋客轮在佛罗里达州附近沉没，成为世界上最大的人工鱼礁 长期停靠在费城的卫报 SS United States 沉没在海浪中 Axios 世界上最快的远洋客轮沉没，打破另一项记录：最大的人工鱼礁 NPR SS United States 更新：船舶完成最后一次航行，沉入湾底成为人工鱼礁 6abc 费城
+- RSS Excerpt / RSS 摘要: Cindy Holscher wins in Kansas, holding governor’s office for Democrats NPR See more headlines & perspectives on Google News
+- RSS 中文摘要: 辛迪·霍尔舍 (Cindy Holscher) 在堪萨斯州获胜，代表民主党担任州长职位 NPR 在 Google 新闻上查看更多头条新闻和观点
 - EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
 - 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
-- EN Detailed Reading: Key signals: united, states, florida, ship, and sunk. The available excerpt says: Famed ship SS United States sunk off coast of Florida BBC Historic US ocean liner sinks near Florida to become world’s largest artificial reef The Guardian SS United States, long docked in Philly, goes under the waves Axios World's fastest ocean liner is sunk to break another record: largest artificial reef NPR SS United States updates: Ship completes final voyage, sinks to gulf floor to become artificial reef 6abc Philadelphia Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文详细解读: 关键词信号：团结的、州、佛罗里达、船、沉没。RSS 中文摘要显示：著名船舶 SS United States 在佛罗里达海岸沉没 BBC 历史悠久的美国远洋客轮在佛罗里达州附近沉没，成为世界上最大的人工鱼礁 长期停靠在费城的卫报 SS United States 沉没在海浪中 Axios 世界上最快的远洋客轮沉没，打破另一项记录：最大的人工鱼礁 NPR SS United States 更新：船舶完成最后一次航行，沉入湾底成为人工鱼礁 6abc 费城 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
+- EN Detailed Reading: Key signals: democrats, holscher, governor, holding, and kansas. The available excerpt says: Cindy Holscher wins in Kansas, holding governor’s office for Democrats NPR See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
+- 中文详细解读: 关键词信号：民主党人、霍尔舍尔、州长、保持、堪萨斯州。RSS 中文摘要显示：辛迪·霍尔舍 (Cindy Holscher) 在堪萨斯州获胜，代表民主党担任州长职位 NPR 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
 - EN What to watch: follow-up reporting; official statements; regional or market reaction
 - 后续关注: 后续报道；官方声明；地区或市场反应
 
-### 10. [Iran attacks shipping navigation systems on Oman's Didamar island, sources say - Reuters](https://news.google.com/rss/articles/CBMixgFBVV95cUxQMFB3XzM5cVFXcFdvTWhfdVJSY21DLVNHRE81YXh1Ykt3MlY0M29GY05FbFEwd2hMT3lTR1duaVV6UGdac003SWM2cTJpb1FqX2UzdnZqNW5YSEpEOGd2dmZ2VW5XOTZzcGlSNGl5dENGNFQ4c2JGYU9yaXV2RU84QXVRQVVtR3EtYmpaNXRKM3d2ZHJVdzlzOWxrMktEVVZYZzJVeVVzcmtMM0JLYmxsZVQ5YlRWN2tRd0UyM2dUXy04eW5PWlE?oc=5)
+### 9. [Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be. - The New York Times](https://news.google.com/rss/articles/CBMif0FVX3lxTE01VXZrMFNxczltNWtwdzY4TlktcEc0WkQ4dEV6cGRTeXktVGpRQXg4UGlsT1dJUlFfOG5tQThqLVhDYjZyQ3FjSU1TUm5Ma1FnOVRnVWpVbFlDNUxldFlpUlYtdHpiQWVHdE52cWF4b3pqcDJJcFhROWRVR3JBQzg?oc=5)
 
-- Source / 来源: Reuters. Published: `2026-11-11T17:59:02+00:00`.
-- Keywords / 关键词: oman's, island, iran, navigation, shipping, attacks, systems, didamar, sources, say
-- 中文关键词: 阿曼的、岛、伊朗、导航、船运、袭击、系统、迪达马尔、来源、说
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Iran attacks shipping navigation systems on Oman's Didamar island, sources say Reuters Tankers burn in the Middle East despite hopes for de-escalation Reuters Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops Fox News IRGC Reports Tanker Explosion in Hormuz Strait تسنیم Uncertainty Surrounds Possible Attack on Oman's Strait of Hormuz Lighthouse The Maritime Executive
-- RSS 中文摘要: 消息人士称，伊朗袭击了阿曼迪达马尔岛的航运导航系统 路透社 伊朗在霍尔木兹岛升级，声称对阿曼岛屿的袭击被“敌人”用于美国军事行动 福克斯新闻 IRGC 报道霍尔木兹海峡油轮爆炸
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: oman's, island, iran, navigation, and shipping. The available excerpt says: Iran attacks shipping navigation systems on Oman's Didamar island, sources say Reuters Tankers burn in the Middle East despite hopes for de-escalation Reuters Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops Fox News IRGC Reports Tanker Explosion in Hormuz Strait تسنیم Uncertainty Surrounds Possible Attack on Oman's Strait of Hormuz Lighthouse The Maritime Executive Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：阿曼的、岛、伊朗、导航、船运。RSS 中文摘要显示：消息人士称，伊朗袭击了阿曼迪达马尔岛的航运导航系统 路透社 伊朗在霍尔木兹岛升级，声称对阿曼岛屿的袭击被“敌人”用于美国军事行动 福克斯新闻 IRGC 报道霍尔木兹海峡油轮爆炸 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+- Source / 来源: The New York Times. Published: `2026-11-13T10:01:42+00:00`.
+- Keywords / 关键词: get, career, study, ahead, hard, used
+- 中文关键词: 得到、职业、学习、前面、难的、用过的
+- Category / 分类: Global affairs / 全球事务
+- RSS Excerpt / RSS 摘要: Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be. The New York Times
+- RSS 中文摘要: 努力学习、就业并取得进步？它不再是以前的样子了。纽约时报
+- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
+- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
+- EN Detailed Reading: Key signals: get, career, study, ahead, and hard. The available excerpt says: Study Hard, Get a Career and Get Ahead? It’s Not What It Used to Be. The New York Times Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
+- 中文详细解读: 关键词信号：得到、职业、学习、前面、难的。RSS 中文摘要显示：努力学习、就业并取得进步？它不再是以前的样子了。纽约时报 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
+- EN What to watch: follow-up reporting; official statements; regional or market reaction
+- 后续关注: 后续报道；官方声明；地区或市场反应
+
+### 10. [These two voter turnout trends explain what happened across the South in the election - NPR](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFl2ZFdwSDlhZGl1dFhoNjU4Q3Yxd0MwZklwcWhRNWpOYkZROUtxVF9DdGI2eTFtX1ZFVzYyS2NwRnhQOXdlb1kzcXZRMU8xRWRiRV84b3VpT2lnTEpyR2hmUGNvSlRNbjJOY2xQbmxHTjZYMmVkVWloaElmNkNFRlB4M0JzekEw?oc=5)
+
+- Source / 来源: NPR. Published: `2026-11-13T10:00:00+00:00`.
+- Keywords / 关键词: south, happened, election, turnout, explain, trends, across, these, voter, two
+- 中文关键词: 南、发生了、选举、结果发现、解释、趋势、穿过、这些、选民、二
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: These two voter turnout trends explain what happened across the South in the election NPR Democrats Won the South, Now Their Challenge Is to Keep It Bloomberg.com A Southern Tectonic Shift The American Prospect Voters are sending senators back to DC with the most mixed-party delegations in 8 years | CNN Politics CNN Are Democrats’ Stunning Midterm Upsets in Deep-Red States a Blip—or Is Their Map Expanding? Time Magazine
+- RSS 中文摘要: 这两种选民投票率趋势解释了整个南方在选举中发生的情况 NPR 民主党赢得了南方，现在他们的挑战是保持它 Bloomberg.com 南方的结构性转变 美国前景选民将参议员带回华盛顿特区，其代表团数量是 8 年来最多的CNN 政治 CNN 民主党在深红色州的中期选举令人震惊，这只是昙花一现，还是他们的版图正在扩大？时代杂志
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: south, happened, election, turnout, and explain. The available excerpt says: These two voter turnout trends explain what happened across the South in the election NPR Democrats Won the South, Now Their Challenge Is to Keep It Bloomberg.com A Southern Tectonic Shift The American Prospect Voters are sending senators back to DC with the most mixed-party delegations in 8 years | CNN Politics CNN Are Democrats’ Stunning Midterm Upsets in Deep-Red States a Blip—or Is Their Map Expanding? Time Magazine Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：南、发生了、选举、结果发现、解释。RSS 中文摘要显示：这两种选民投票率趋势解释了整个南方在选举中发生的情况 NPR 民主党赢得了南方，现在他们的挑战是保持它 Bloomberg.com 南方的结构性转变 美国前景选民将参议员带回华盛顿特区，其代表团数量是 8 年来最多的CNN 政治 CNN 民主党在深红色州的中期选举令人震惊，这只是昙花一现，还是他们的版图正在扩大？时代杂志 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
 
 
