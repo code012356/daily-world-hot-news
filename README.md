@@ -10,157 +10,157 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-11-14T11:09:03+00:00` UTC.
+Generated at `2026-11-15T11:42:48+00:00` UTC.
 
-### 1. [Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says - AP News](https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUd4MWZqTjdxYkRUaW55bWxuNy1BX1FaZVNYZHRtNEg4NWdzTENNMlVLOUt6QlptMzd1cUtLanJ0U1pPNVVrbjZDRXo0UWszZjV6d09hRy1GaUFFWE9PUmtzRnFxOUxJdW1OTy0zT21LbnU3RGlhQUUtNHlnRW9nUjhJRmQ0QUFDME9oelNZTVQ?oc=5)
+### 1. [Trump Administration Can’t Close D.C. Golf Course for Now, Judge Rules - WSJ](https://news.google.com/rss/articles/CBMisgFBVV95cUxOYkVMNjVRckJySmpBWXRobFFXaW55UVRnLW4yOUJBRFdxVVJ1QV9TVUo4Y0xJMjBadnFwb09MWlZiZnotaWZ6UFRubkxnRkhUTklkeml0TUM0Q19QVURwbVJfeUxnZHVoZGp2cjBDdUVIMDB4R2loWEs5b1k1ZXhCMTN6SkQ4MXB6eUxrUVQzYTBPaVpJTzdKeHdpYmZ4UDJpM1FkbTVXOVN5S3RQbS1Oc2RB?oc=5)
 
-- Source / 来源: AP News. Published: `2026-11-14T07:56:00+00:00`.
-- Keywords / 关键词: trump, putin, meeting, joint, white, house, plan, unprecedented, sidelines, apec
-- 中文关键词: 特朗普、普京、会议、联合的、白色的、房子、计划、空前的、场边、亚太经合组织
+- Source / 来源: WSJ. Published: `2026-11-15T02:53:00+00:00`.
+- Keywords / 关键词: judge, course, trump, golf, close, administration, rules, wsj, blocks, temporarily
+- 中文关键词: judge、course、特朗普、golf、close、administration、rules、wsj、blocks、temporarily
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Trump Administration Can’t Close D.C. Golf Course for Now, Judge Rules WSJ US judge blocks Trump’s plan to renovate historic DC golf course The Guardian Judge temporarily blocks Trump’s plan to redevelop East Potomac golf course in D.C. NBC News Judge temporarily blocks Trump from closing Washington DC golf course for renovation BBC The government says it will close a beloved D.C. park Sunday. Will a judge step in? NPR
+- RSS 中文摘要: Trump Administration Can’t Close D.C. Golf Course for Now, Judge Rules WSJ US judge blocks Trump’s plan to renovate historic DC golf course The Guardian Judge temporarily blocks Trump’s plan to redevelop East Potomac golf course in D.C. NBC News Judge temporarily blocks Trump from closing Washington DC golf course for renovation BBC The government says it will close a beloved D.C. park Sunday. Will a judge step in? NPR
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: judge, course, trump, golf, and close. The available excerpt says: Trump Administration Can’t Close D.C. Golf Course for Now, Judge Rules WSJ US judge blocks Trump’s plan to renovate historic DC golf course The Guardian Judge temporarily blocks Trump’s plan to redevelop East Potomac golf course in D.C. NBC News Judge temporarily blocks Trump from closing Washington DC golf course for renovation BBC The government says it will close a beloved D.C. park Sunday. Will a judge step in? NPR Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：judge、course、特朗普、golf、close。RSS 中文摘要显示：Trump Administration Can’t Close D.C. Golf Course for Now, Judge Rules WSJ US judge blocks Trump’s plan to renovate historic DC golf course The Guardian Judge temporarily blocks Trump’s plan to redevelop East Potomac golf course in D.C. NBC News Judge temporarily blocks Trump from closing Washington DC golf course for renovation BBC The government says it will close a beloved D.C. park Sunday. Will a judge step in? NPR 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 2. [US has floated Ukraine ceding Donbas for Nato membership, Zelensky says - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Sc2FZdms0a2VhSnZ3bHhCakcwcnl4SWhTWi1HaDJUdmZXdzVKTmtocFp0aFRYQk9VYllVZ1Uzdkp5OV9Ic2l5NmtUUXU4WVBaNFpMdDVselhoS2c?oc=5)
+
+- Source / 来源: BBC. Published: `2026-11-14T22:37:25+00:00`.
+- Keywords / 关键词: nato, membership, floated, ukraine, donbas, zelensky, ceding, zelenskyy, russia, exchanging
+- 中文关键词: nato、membership、floated、乌克兰、donbas、zelensky、ceding、zelenskyy、俄罗斯、exchanging
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says AP News Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN Trump, Putin and Xi Jinping expected to meet in first-ever trilateral of its kind, officials say CBS News Trump, Putin and Xi plan historic joint meeting in China next week, White House says BBC South Korea should not fear China's rise, foreign minister says Reuters
-- RSS 中文摘要: 特朗普、习近平和普京计划在亚太经合组织会议期间举行史无前例的联席会议，白宫称美联社新闻 特朗普将与中国习近平和俄罗斯普京就核不扩散问题进行历史性的三边会谈 CNN 特朗普、普京和习近平预计将举行历史性的首次三边会晤，官员称哥伦比亚广播公司新闻 特朗普、普京和习近平计划下周在中国举行历史性联席会议，白宫称 BBC 韩国外交部长称不应担心中国崛起 路透
+- RSS Excerpt / RSS 摘要: US has floated Ukraine ceding Donbas for Nato membership, Zelensky says BBC U.S. floated exchanging Ukrainian territory for NATO membership, Zelenksyy says CBS News Zelenskyy says a new European security framework floated by U.S. could benefit Putin PBS Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says The Guardian Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? Al Jazeera
+- RSS 中文摘要: US has floated Ukraine ceding Donbas for Nato membership, Zelensky says BBC U.S. floated exchanging Ukrainian territory for NATO membership, Zelenksyy says CBS News Zelenskyy says a new European security framework floated by U.S. could benefit Putin PBS Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says The Guardian Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? Al Jazeera
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, putin, meeting, joint, and white. The available excerpt says: Trump, Xi and Putin plan an unprecedented joint meeting on the sidelines of APEC, White House says AP News Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN Trump, Putin and Xi Jinping expected to meet in first-ever trilateral of its kind, officials say CBS News Trump, Putin and Xi plan historic joint meeting in China next week, White House says BBC South Korea should not fear China's rise, foreign minister says Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、普京、会议、联合的、白色的。RSS 中文摘要显示：特朗普、习近平和普京计划在亚太经合组织会议期间举行史无前例的联席会议，白宫称美联社新闻 特朗普将与中国习近平和俄罗斯普京就核不扩散问题进行历史性的三边会谈 CNN 特朗普、普京和习近平预计将举行历史性的首次三边会晤，官员称哥伦比亚广播公司新闻 特朗普、普京和习近平计划下周在中国举行历史性联席会议，白宫称 BBC 韩国外交部长称不应担心中国崛起 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: nato, membership, floated, ukraine, and donbas. The available excerpt says: US has floated Ukraine ceding Donbas for Nato membership, Zelensky says BBC U.S. floated exchanging Ukrainian territory for NATO membership, Zelenksyy says CBS News Zelenskyy says a new European security framework floated by U.S. could benefit Putin PBS Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says The Guardian Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：nato、membership、floated、乌克兰、donbas。RSS 中文摘要显示：US has floated Ukraine ceding Donbas for Nato membership, Zelensky says BBC U.S. floated exchanging Ukrainian territory for NATO membership, Zelenksyy says CBS News Zelenskyy says a new European security framework floated by U.S. could benefit Putin PBS Ukraine war briefing: US proposes Kyiv cede land to Russia for Nato membership, Zelenskyy says The Guardian Give Donbas, take NATO seat: Could new US pitch work for Ukraine, Russia? Al Jazeera 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 2. [Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race - NBC News](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnkyYjBoWS1aV2dpOEZsWm1Rak9SZkVUaEllQVMwai02UlpnYWZ4bzlfckdiaXFEYVhXUEEtSkNVdVhJaFU1T0dIWGhiSk5Kb2ViV2laSC1PbUdrazBiWW5tWmdUajJsSVM3a3FNb1FZa3h1LTdZankxRVpJZkh5eFVMYkpwNUZnZTBQQWZfMWpoclhBSGZScFF1THZRS0hPbVc3X0k2Zmh0dHU3UFR4Q0VaLUFiaW8?oc=5)
+### 3. [Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business - The New York Times](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNmlDTE1xbEwwa3NwamwyY09wSXoyaE1UZ2prNXJ3OHItZGZlTkdneDB5RjRtRGQwal8tWERrRUhxSGJFa3F1SkFIV2ZpdHd1MWFqZDV1R0ZweHlWbXB4TW56UDBuaUdRYWhzZndoc3R1a0RscWxSZTRoSUlYMDI2TGxEeC1TTUF1bFJoZ1lwOHYxcERFRkUwa01ETFpJNF9LT3p3R1Yybmk5aDUtWDJ3M3NUZWpESnVJU1RGZ25Hdnl0d1U?oc=5)
 
-- Source / 来源: NBC News. Published: `2026-11-14T05:05:00+00:00`.
-- Keywords / 关键词: alaska, democrat, governor, race, kreiss-tomkins, jonathan, wins, nbc, gubernatorial, shellacking
-- 中文关键词: 阿拉斯加州、民主党人、州长、种族、左汤姆金、乔纳森、获胜、全国广播公司、州长的、剥壳
-- Category / 分类: Global affairs / 全球事务
-- RSS Excerpt / RSS 摘要: Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race NBC News A Democrat Wins the Alaska Governor’s Race for the First Time Since 1998 The New York Times Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican NPR Democrats pick up win in Alaska governor’s race after midterms shellacking for GOP CNN Democrat Jonathan Kreiss-Tomkins flips Alaska’s gubernatorial seat Politico
-- RSS 中文摘要: 民主党人乔纳森·克雷斯·汤姆金斯 (Jonathan Kreiss-Tomkins) 赢得阿拉斯加州州长竞选 NBC 新闻 民主党人自 1998 年以来首次赢得阿拉斯加州州长竞选 《纽约时报》 民主党人乔纳森·克雷斯·汤姆金斯 (Jonathan Kreiss-Tomkins) 赢得阿拉斯加州州长竞选，取代共和党 NPR 民主党在中期选举中击败共和党后，在阿拉斯加州州长竞选中取得胜利 CNN 民主党人乔纳森·克雷斯·汤姆金斯 (Jonathan Kreiss-Tomkins) 翻转阿拉斯加州政治州长席位
-- EN Summary: This story is drawing attention because it may signal a broader public concern or changing global trend.
-- 中文概要: 这条新闻受到关注，可能说明某个公共议题或全球趋势正在变化。
-- EN Detailed Reading: Key signals: alaska, democrat, governor, race, and kreiss-tomkins. The available excerpt says: Democrat Jonathan Kreiss-Tomkins wins the Alaska governor’s race NBC News A Democrat Wins the Alaska Governor’s Race for the First Time Since 1998 The New York Times Democrat Jonathan Kreiss-Tomkins wins race for Alaska governor, replaces a Republican NPR Democrats pick up win in Alaska governor’s race after midterms shellacking for GOP CNN Democrat Jonathan Kreiss-Tomkins flips Alaska’s gubernatorial seat Politico Read together with the source and timing, the story appears important because Its importance depends on whether it develops into policy action, market reaction, diplomatic response, or wider social debate.
-- 中文详细解读: 关键词信号：阿拉斯加州、民主党人、州长、种族、左汤姆金。RSS 中文摘要显示：民主党人乔纳森·克雷斯·汤姆金斯 (Jonathan Kreiss-Tomkins) 赢得阿拉斯加州州长竞选 NBC 新闻 民主党人自 1998 年以来首次赢得阿拉斯加州州长竞选 《纽约时报》 民主党人乔纳森·克雷斯·汤姆金斯 (Jonathan Kreiss-Tomkins) 赢得阿拉斯加州州长竞选，取代共和党 NPR 民主党在中期选举中击败共和党后，在阿拉斯加州州长竞选中取得胜利 CNN 民主党人乔纳森·克雷斯·汤姆金斯 (Jonathan Kreiss-Tomkins) 翻转阿拉斯加州政治州长席位 结合来源与发布时间看，这条新闻值得关注，因为它的重要性取决于后续是否演变为政策行动、市场反应、外交回应或更广泛的社会讨论。
-- EN What to watch: follow-up reporting; official statements; regional or market reaction
-- 后续关注: 后续报道；官方声明；地区或市场反应
+- Source / 来源: The New York Times. Published: `2026-11-15T10:02:04+00:00`.
+- Keywords / 关键词: lutnick, chip, business, overlap, pushed, weaken, family, rules, his, commerce
+- 中文关键词: lutnick、chip、business、overlap、pushed、weaken、family、rules、his、commerce
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business The New York Times Lutnick under fire: How Trump’s Commerce Secretary cultivated Nvidia’s CEO while chip controls slipped CNN The Jensen Huang scandal reaches Donald Trump’s cabinet The Economist Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China CNBC MAGA turns on Lutnick amid China spy scandal Axios
+- RSS 中文摘要: Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business The New York Times Lutnick under fire: How Trump’s Commerce Secretary cultivated Nvidia’s CEO while chip controls slipped CNN The Jensen Huang scandal reaches Donald Trump’s cabinet The Economist Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China CNBC MAGA turns on Lutnick amid China spy scandal Axios
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: lutnick, chip, business, overlap, and pushed. The available excerpt says: Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business The New York Times Lutnick under fire: How Trump’s Commerce Secretary cultivated Nvidia’s CEO while chip controls slipped CNN The Jensen Huang scandal reaches Donald Trump’s cabinet The Economist Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China CNBC MAGA turns on Lutnick amid China spy scandal Axios Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：lutnick、chip、business、overlap、pushed。RSS 中文摘要显示：Lutnick Pushed to Weaken Chip Rules That Overlap With His Family Business The New York Times Lutnick under fire: How Trump’s Commerce Secretary cultivated Nvidia’s CEO while chip controls slipped CNN The Jensen Huang scandal reaches Donald Trump’s cabinet The Economist Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China CNBC MAGA turns on Lutnick amid China spy scandal Axios 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 3. ['Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTE14bmJSeXZjVmZQcm1sZkRQQmlCa2hPYUlhbEN2UzFnN184RzZTWEk2ZEM1OXR6ZTFOTWpaU21QOGVMX3UtZUZ6RGFLTGdlOF9TNVJrWFBuZXF2WEk?oc=5)
+### 4. [Fifth Canadian soldier dies of injuries from military training fire - NBC News](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbXVic0tteXJQZFNLYUpUUDBUcnFSS2p4Z1lSbW04ZXljajhyVjRuTXNib0dvanhZMWxyUlFudTlZcXdGUkxKYkdKRHk5QWRwRWN2TjZ3bXRsTTZ4clhqSGwwLWhBZHRaZ0l4aHBld2swV255Y1VYZVVQSkprdXh2WEQ2Ny1laXA2aFdLTUlLTnZXY3pQOVRjaEVuUmpsUDNuUDQ0cXVuNDJvSHc?oc=5)
 
-- Source / 来源: BBC. Published: `2026-11-13T23:40:45+00:00`.
-- Keywords / 关键词: orleans, ship, miracle, cruise, collision, all, mississippi, passengers, rescued, tanker
-- 中文关键词: 奥尔良、船、奇迹、巡航、碰撞、全部、密西西比州、乘客、获救、油船
-- Category / 分类: Public safety and society / 公共安全与社会
-- RSS Excerpt / RSS 摘要: 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision BBC Breaking News: Miracle on the Mississippi: All accounted for after tanker collides with cruise ship WDSU Wild scene unfolds on New Orleans riverfront as rescuers, witnesses react to ship collision NOLA.com ‘Miracle on the Mississippi’: No fatalities after tanker crashes into river cruiser near Port of New Orleans FOX 8 Live WVUE Tanker “lost control” before colliding with river cruise ship near Port of New Orleans, mayor says CNN
-- RSS 中文摘要: “密西西比河奇迹”——新奥尔良游轮相撞后所有乘客均获救 BBC 突发新闻：密西西比河奇迹：油轮与 WDSU 游轮相撞后，所有乘客全部遇难 新奥尔良河滨救援人员、目击者对船舶相撞事件做出反应 NOLA.com “密西西比河奇迹”：油轮在新奥尔良港附近撞上游轮后，无人死亡 FOX 8市长称，新奥尔良港附近的 WVUE 油轮在与内河游轮相撞前“失去控制”
-- EN Summary: This story centers on harm to people, emergency response, or social disruption.
-- 中文概要: 这条新闻聚焦人员伤亡、应急处置或社会秩序冲击。
-- EN Detailed Reading: Key signals: orleans, ship, miracle, cruise, and collision. The available excerpt says: 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision BBC Breaking News: Miracle on the Mississippi: All accounted for after tanker collides with cruise ship WDSU Wild scene unfolds on New Orleans riverfront as rescuers, witnesses react to ship collision NOLA.com ‘Miracle on the Mississippi’: No fatalities after tanker crashes into river cruiser near Port of New Orleans FOX 8 Live WVUE Tanker “lost control” before colliding with river cruise ship near Port of New Orleans, mayor says CNN Read together with the source and timing, the story appears important because The key question is whether authorities can identify causes, prevent recurrence, and support affected communities.
-- 中文详细解读: 关键词信号：奥尔良、船、奇迹、巡航、碰撞。RSS 中文摘要显示：“密西西比河奇迹”——新奥尔良游轮相撞后所有乘客均获救 BBC 突发新闻：密西西比河奇迹：油轮与 WDSU 游轮相撞后，所有乘客全部遇难 新奥尔良河滨救援人员、目击者对船舶相撞事件做出反应 NOLA.com “密西西比河奇迹”：油轮在新奥尔良港附近撞上游轮后，无人死亡 FOX 8市长称，新奥尔良港附近的 WVUE 油轮在与内河游轮相撞前“失去控制” 结合来源与发布时间看，这条新闻值得关注，因为关键问题在于相关部门能否查明原因、防止复发，并支持受影响群体。
-- EN What to watch: official investigation; confirmed casualty numbers; prevention measures
-- 后续关注: 官方调查；确认伤亡数字；预防措施
+- Source / 来源: NBC News. Published: `2026-11-15T01:52:00+00:00`.
+- Keywords / 关键词: soldier, fire, canadian, fifth, dies, injuries, military, training, nbc, wainwright
+- 中文关键词: soldier、fire、canadian、fifth、dies、injuries、军事、training、nbc、wainwright
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Fifth Canadian soldier dies of injuries from military training fire NBC News Fifth Canadian soldier dies from injuries caused by large fire at military base BBC Another soldier from CFB Wainwright fire dead: DND CBC Fifth Canadian soldier has died after fire in Wainwright, CAF says Global News 5th Canadian soldier dies weeks after fire on grenade launcher range CBS News
+- RSS 中文摘要: Fifth Canadian soldier dies of injuries from military training fire NBC News Fifth Canadian soldier dies from injuries caused by large fire at military base BBC Another soldier from CFB Wainwright fire dead: DND CBC Fifth Canadian soldier has died after fire in Wainwright, CAF says Global News 5th Canadian soldier dies weeks after fire on grenade launcher range CBS News
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: soldier, fire, canadian, fifth, and dies. The available excerpt says: Fifth Canadian soldier dies of injuries from military training fire NBC News Fifth Canadian soldier dies from injuries caused by large fire at military base BBC Another soldier from CFB Wainwright fire dead: DND CBC Fifth Canadian soldier has died after fire in Wainwright, CAF says Global News 5th Canadian soldier dies weeks after fire on grenade launcher range CBS News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：soldier、fire、canadian、fifth、dies。RSS 中文摘要显示：Fifth Canadian soldier dies of injuries from military training fire NBC News Fifth Canadian soldier dies from injuries caused by large fire at military base BBC Another soldier from CFB Wainwright fire dead: DND CBC Fifth Canadian soldier has died after fire in Wainwright, CAF says Global News 5th Canadian soldier dies weeks after fire on grenade launcher range CBS News 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 4. [Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5)
+### 5. [Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes - San Francisco Chronicle](https://news.google.com/rss/articles/CBMikwFBVV95cUxPSUN0VnhBOExPSVlzSGp1d3N6ZDVobVZXY3p1cVB3UEl4RU42aFVjQnBoWnBBLW1scDZoc1pRd3RvdnlFWEw1dlNuVGVxZlZfWWJ4ank3YzNpWnRwTVh3SjBuZlJWNjU4U19fejJCMEpIR3NMZnJ6RXVxNC05VjI2VUFtNzNCTEY1ZWpVc1dpMlpEYzA?oc=5)
+
+- Source / 来源: San Francisco Chronicle. Published: `2026-11-14T23:33:06+00:00`.
+- Keywords / 关键词: waves, dangerous, francisco, chronicle, threaten, biggest, streets, decade, video, flood
+- 中文关键词: waves、dangerous、francisco、chronicle、threaten、biggest、streets、decade、video、flood
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes San Francisco Chronicle California’s battered beaches are getting giant waves The Washington Post Evacuation warning issued, roads and beaches close as towering waves take aim Local News Matters The Surf’s Way, Way Up as Huge Waves Pound the California Coast The New York Times PHOTOS: Huge waves batter Monterey County coast Monterey Herald
+- RSS 中文摘要: Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes San Francisco Chronicle California’s battered beaches are getting giant waves The Washington Post Evacuation warning issued, roads and beaches close as towering waves take aim Local News Matters The Surf’s Way, Way Up as Huge Waves Pound the California Coast The New York Times PHOTOS: Huge waves batter Monterey County coast Monterey Herald
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: waves, dangerous, francisco, chronicle, and threaten. The available excerpt says: Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes San Francisco Chronicle California’s battered beaches are getting giant waves The Washington Post Evacuation warning issued, roads and beaches close as towering waves take aim Local News Matters The Surf’s Way, Way Up as Huge Waves Pound the California Coast The New York Times PHOTOS: Huge waves batter Monterey County coast Monterey Herald Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：waves、dangerous、francisco、chronicle、threaten。RSS 中文摘要显示：Video: Dangerous waves, biggest in a decade, flood Bay Area streets and threaten homes San Francisco Chronicle California’s battered beaches are getting giant waves The Washington Post Evacuation warning issued, roads and beaches close as towering waves take aim Local News Matters The Surf’s Way, Way Up as Huge Waves Pound the California Coast The New York Times PHOTOS: Huge waves batter Monterey County coast Monterey Herald 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 6. [Trump, Putin and Xi Jinping expected to meet in first-ever trilateral of its kind, officials say - CBS News](https://news.google.com/rss/articles/CBMiigFBVV95cUxOdHZwdDRwcjhOU2d0Z3Iwa3hzOENQN0VFMDZDbGtaSmU5LUtqYURrdUJuMkFBRWJsekdpaGIxWmxuX1h5dzRadUt1TnFOVXUtdWFfZVoxTjJtd0ZrdE9feGtFUUZzb3gwUGxTR19iZWVWcU4xUjM3eFRDU1NZQjAwMXh4M1RlaWxSU0E?oc=5)
+
+- Source / 来源: CBS News. Published: `2026-11-14T10:59:00+00:00`.
+- Keywords / 关键词: putin, trump, meet, first-ever, trilateral, officials, expected, jinping, kind, say
+- 中文关键词: putin、特朗普、meet、first-ever、trilateral、officials、expected、jinping、kind、say
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Trump, Putin and Xi Jinping expected to meet in first-ever trilateral of its kind, officials say CBS News Albanese stands by Ukraine but won't rule out photo with Putin ABC News & Headlines – Australian Broadcasting Corporation South Korea should not fear China's rise, foreign minister says Reuters Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda The New York Times Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? The Guardian
+- RSS 中文摘要: Trump, Putin and Xi Jinping expected to meet in first-ever trilateral of its kind, officials say CBS News Albanese stands by Ukraine but won't rule out photo with Putin ABC News & Headlines – Australian Broadcasting Corporation South Korea should not fear China's rise, foreign minister says Reuters Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda The New York Times Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? The Guardian
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: putin, trump, meet, first-ever, and trilateral. The available excerpt says: Trump, Putin and Xi Jinping expected to meet in first-ever trilateral of its kind, officials say CBS News Albanese stands by Ukraine but won't rule out photo with Putin ABC News & Headlines – Australian Broadcasting Corporation South Korea should not fear China's rise, foreign minister says Reuters Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda The New York Times Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：putin、特朗普、meet、first-ever、trilateral。RSS 中文摘要显示：Trump, Putin and Xi Jinping expected to meet in first-ever trilateral of its kind, officials say CBS News Albanese stands by Ukraine but won't rule out photo with Putin ABC News & Headlines – Australian Broadcasting Corporation South Korea should not fear China's rise, foreign minister says Reuters Trump to Meet With Putin and Xi in China, With Nuclear Proliferation on the Agenda The New York Times Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? The Guardian 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 7. [US now focused on 'facilitating direct engagement' between Russia, Europe, Kushner says after Ukraine peace talks - The Kyiv Independent](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDRmZTUzNjBjeGFLSUE5N0ZjSnJmOXNpV1QtOTNaUUdEdVdOd0xQZnB6TjlHZ3h1WWJvQktCSWF6cVZjakFnTEhScmZrcnpNTlVBZTVZQzRjVzM2T0RqM0djVnVEOVNoWnlMRTJ6ZThFVjBkdHFhRnFPWEdBbi1lT1V2dEdpMFpib19fOFZYakVDc3dUNEpnOFFZVHZkRzUtVjRzSktyMWhaRl9uSVhBQlRLc0RSMGFDd252MDRWcE9acWlIMy00bWxNTVRkT0RuZHBrQw?oc=5)
+
+- Source / 来源: The Kyiv Independent. Published: `2026-11-14T21:58:47+00:00`.
+- Keywords / 关键词: ukraine, kushner, russia, talks, facilitating, between, direct, europe, peace, engagement
+- 中文关键词: 乌克兰、kushner、俄罗斯、talks、facilitating、between、direct、europe、peace、engagement
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: US now focused on 'facilitating direct engagement' between Russia, Europe, Kushner says after Ukraine peace talks The Kyiv Independent U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says CBS News Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns The Guardian The dangers of revising Europe's security architecture DW.com US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine Al Jazeera
+- RSS 中文摘要: US now focused on 'facilitating direct engagement' between Russia, Europe, Kushner says after Ukraine peace talks The Kyiv Independent U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says CBS News Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns The Guardian The dangers of revising Europe's security architecture DW.com US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine Al Jazeera
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: ukraine, kushner, russia, talks, and facilitating. The available excerpt says: US now focused on 'facilitating direct engagement' between Russia, Europe, Kushner says after Ukraine peace talks The Kyiv Independent U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says CBS News Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns The Guardian The dangers of revising Europe's security architecture DW.com US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine Al Jazeera Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：乌克兰、kushner、俄罗斯、talks、facilitating。RSS 中文摘要显示：US now focused on 'facilitating direct engagement' between Russia, Europe, Kushner says after Ukraine peace talks The Kyiv Independent U.S. facilitating direct engagement between Europe and Russia amid push for peace in Ukraine, Kushner says CBS News Russia is ‘setting traps’ in Ukraine talks, EU foreign policy chief warns The Guardian The dangers of revising Europe's security architecture DW.com US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine Al Jazeera 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 8. [How the White House plans to put Democrats on defense on oversight - Politico](https://news.google.com/rss/articles/CBMihgFBVV95cUxOWG5qV0tWaHlXWDZ5dmJXM1Z1ZWxYZmg2UGV4aElsOGRUaUJON1lEUXJZekZEbWhzMGtSUkc5aE1TNGp3WXJWZ1h5a29XYU9VdEdXa0N0Q1lJLTNVVEhpa3NqYkwyTFo0cVVmLUJYa081N2RtaHJGNWg5NkxXcS1iRzZXNElXdw?oc=5)
+
+- Source / 来源: Politico. Published: `2026-11-14T19:17:00+00:00`.
+- Keywords / 关键词: white, house, democrats, oversight, plans, politico, defense, put, trump, investigations
+- 中文关键词: white、house、democrats、oversight、plans、politico、defense、put、特朗普、investigations
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: How the White House plans to put Democrats on defense on oversight Politico As Congress Plans Investigations, White House Prepares Ferocious Response The New York Times Of course Trump wants to criminalize congressional oversight | Opinion USA Today Trump’s White House Lawyer on Subpoena Compliance: ‘It Depends’ Bloomberg.com The Trump team’s hypocrisy reaches new levels with warning letter to Democrats CNN
+- RSS 中文摘要: How the White House plans to put Democrats on defense on oversight Politico As Congress Plans Investigations, White House Prepares Ferocious Response The New York Times Of course Trump wants to criminalize congressional oversight | Opinion USA Today Trump’s White House Lawyer on Subpoena Compliance: ‘It Depends’ Bloomberg.com The Trump team’s hypocrisy reaches new levels with warning letter to Democrats CNN
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: white, house, democrats, oversight, and plans. The available excerpt says: How the White House plans to put Democrats on defense on oversight Politico As Congress Plans Investigations, White House Prepares Ferocious Response The New York Times Of course Trump wants to criminalize congressional oversight | Opinion USA Today Trump’s White House Lawyer on Subpoena Compliance: ‘It Depends’ Bloomberg.com The Trump team’s hypocrisy reaches new levels with warning letter to Democrats CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：white、house、democrats、oversight、plans。RSS 中文摘要显示：How the White House plans to put Democrats on defense on oversight Politico As Congress Plans Investigations, White House Prepares Ferocious Response The New York Times Of course Trump wants to criminalize congressional oversight | Opinion USA Today Trump’s White House Lawyer on Subpoena Compliance: ‘It Depends’ Bloomberg.com The Trump team’s hypocrisy reaches new levels with warning letter to Democrats CNN 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 9. [Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally - WSJ](https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3lsWFRDVTFjbUZFVHdTWkVtWklneU0tUGk0bmdSQUh1dlg0NTg5MXFMREhEOURUTC0zeEJyUUtPTmh6TGNPem92V3pWeUlLUkVKelRuY0VhaWUzaHgySnMtaG4wZmRUUDBQVmx4T18wd2tkVW1wMUppTmFscWlKT0NiaERXYkpPcElwTnNjZFVWWTg?oc=5)
+
+- Source / 来源: WSJ. Published: `2026-11-15T08:03:00+00:00`.
+- Keywords / 关键词: bahrain, iran, targets, attacks, resuming, ally, wsj, live, gulf, targeted
+- 中文关键词: bahrain、伊朗、targets、袭击、resuming、ally、wsj、live、gulf、targeted
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally WSJ Iran war live: Bahrain targeted as Gulf nations warned against US support Al Jazeera Live Updates: Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets CBS News Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live The Guardian Iran targets US military site in Gulf for first time in two months as hopes for a deal fade CNN
+- RSS 中文摘要: Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally WSJ Iran war live: Bahrain targeted as Gulf nations warned against US support Al Jazeera Live Updates: Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets CBS News Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live The Guardian Iran targets US military site in Gulf for first time in two months as hopes for a deal fade CNN
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: bahrain, iran, targets, attacks, and resuming. The available excerpt says: Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally WSJ Iran war live: Bahrain targeted as Gulf nations warned against US support Al Jazeera Live Updates: Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets CBS News Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live The Guardian Iran targets US military site in Gulf for first time in two months as hopes for a deal fade CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：bahrain、伊朗、targets、袭击、resuming。RSS 中文摘要显示：Iran Targets Bahrain Again After Resuming Attacks on U.S. Ally WSJ Iran war live: Bahrain targeted as Gulf nations warned against US support Al Jazeera Live Updates: Bahrain says it intercepted Iranian attacks after Tehran claims it targeted U.S. assets CBS News Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live The Guardian Iran targets US military site in Gulf for first time in two months as hopes for a deal fade CNN 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 10. [Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ - NBC News](https://news.google.com/rss/articles/CBMiowFBVV95cUxPcmRuVUtqVTM1UWNwZFByUGI0M0VOdDN6NVhTV0ZPUWxGYVBybHJPTVAzZzJBYnNxUWwzREFWZDN5Q2FPSzZ3VmN0dE5ETTRYTUVDdkNQTFotTlIxTlBvRkN5VTVwQ21nQnNhMkhnQjRHdnFXa2xGano1NHUyTlJBTXFRaFpybFRLUmNGSm1IU2c0Nk81dElMcU5WMS1BQmpJSUR3?oc=5)
 
 - Source / 来源: NBC News. Published: `2026-11-13T22:52:34+00:00`.
-- Keywords / 关键词: pope, leo, chiclayo, emotional, diocese, return, his, beloved, makes, nbc
-- 中文关键词: 教皇、狮子座、奇克拉约、情绪化的、教区、返回、他的、心爱、使、全国广播公司
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Day Three in Peru: Pope Leo returns to Chiclayo, his former diocese Vatican News In Chiclayo, Pope calls on local clergy to reject clericalism, warns students against soulless tech OSV News Pope Leo XIV denounces 'machismo' and demands women be protected in an emotional return to Peru AP News
-- RSS 中文摘要: 教皇利奥 (Pope Leo) 满怀情感地重返他“心爱的奇克拉约教区” NBC新闻 超过 150 万人在秘鲁北部欢迎教皇利奥十四世 华盛顿邮报 秘鲁第三天：教皇利奥 (Pope Leo) 回到他的前教区奇克拉约 (Chiclayo) 梵蒂冈新闻 在奇克拉约，教皇呼吁当地神职人员拒绝教权主义，警告学生反对毫无灵魂的科技 OSV 新闻 教皇利奥十四世 (Pope Leo XIV) 谴责“大男子主义”，并要求保护妇女情感回归秘鲁 美联社新闻
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: pope, leo, chiclayo, emotional, and diocese. The available excerpt says: Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Day Three in Peru: Pope Leo returns to Chiclayo, his former diocese Vatican News In Chiclayo, Pope calls on local clergy to reject clericalism, warns students against soulless tech OSV News Pope Leo XIV denounces 'machismo' and demands women be protected in an emotional return to Peru AP News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：教皇、狮子座、奇克拉约、情绪化的、教区。RSS 中文摘要显示：教皇利奥 (Pope Leo) 满怀情感地重返他“心爱的奇克拉约教区” NBC新闻 超过 150 万人在秘鲁北部欢迎教皇利奥十四世 华盛顿邮报 秘鲁第三天：教皇利奥 (Pope Leo) 回到他的前教区奇克拉约 (Chiclayo) 梵蒂冈新闻 在奇克拉约，教皇呼吁当地神职人员拒绝教权主义，警告学生反对毫无灵魂的科技 OSV 新闻 教皇利奥十四世 (Pope Leo XIV) 谴责“大男子主义”，并要求保护妇女情感回归秘鲁 美联社新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 5. [Trump Administration Delays Enforcement of Medicaid Work Requirement - The New York Times](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZXhQWVFoSHVHNFR4ZURLdnJrdVFiQlY5bFlHMGRqZDNqMkRVTUdaRTJlLVhPVEtHTTRoZWIxN0VCRWNpdGY4WmJ6Ty0yQlBQRURPX25QYWNzT3FGX3VwTThLX1ozQW5BTExtbXhLWGFXdnJiX2NqQmVMeU1hVlZ5bTZHQzA0OWJ4YUU4?oc=5)
-
-- Source / 来源: The New York Times. Published: `2026-11-13T23:10:21+00:00`.
-- Keywords / 关键词: administration, enforcement, requirement, medicaid, delays, trump, work, perspectives, headlines, google
-- 中文关键词: 行政、执行、要求、医疗补助、延误、特朗普、工作、观点、头条新闻、谷歌
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Trump Administration Delays Enforcement of Medicaid Work Requirement The New York Times See more headlines & perspectives on Google News
-- RSS 中文摘要: 特朗普政府推迟执行医疗补助工作要求 《纽约时报》 在 Google 新闻上查看更多头条新闻和观点
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: administration, enforcement, requirement, medicaid, and delays. The available excerpt says: Trump Administration Delays Enforcement of Medicaid Work Requirement The New York Times See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：行政、执行、要求、医疗补助、延误。RSS 中文摘要显示：特朗普政府推迟执行医疗补助工作要求 《纽约时报》 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 6. [BBC undercover reporter is offered fake art and awards for talent visa - BBC](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBhQy1yV204b21oU05GS1ItTWJWU1dpV01uenZ1bGszc3RCbTE1Z29CVW92Z2wxbVBZWHIwY3QxMnAtYlE2UkVLc2xXMElDY2h0S1hBemhMdG8?oc=5)
-
-- Source / 来源: BBC. Published: `2026-11-13T14:45:19+00:00`.
-- Keywords / 关键词: offered, fake, visa, talent, art, undercover, reporter, awards, artist, fraud
-- 中文关键词: 提供、伪造的、签证、天赋、艺术、秘密、记者、奖项、艺术家、欺诈罪
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: BBC undercover reporter is offered fake art and awards for talent visa BBC Art Visa Fraud: The London Firm Selling Invented Artist Careers Artlyst Fake UK Artist Visas Are Being Offered for $132,000, New Investigation Finds ARTnews.com UK: Allegations of fraud arise on 'Global Talent Visa' route InfoMigrants Migrants offered £100,000 fake portfolios to cheat fast-track UK visa scheme in major immigration scandal NewsCord
-- RSS 中文摘要: BBC卧底记者获得假艺术和人才签证奖励 BBC艺术签证欺诈：伦敦公司出售发明艺术家职业Artlyst假英国艺术家签证价格为132,000美元，新调查发现ARTnews.com英国：“全球人才签证”路线上出现欺诈指控 InfoMigrants Migrants提供了10万英镑的假作品集以欺骗重大移民丑闻中的英国快速签证计划 NewsCord
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: offered, fake, visa, talent, and art. The available excerpt says: BBC undercover reporter is offered fake art and awards for talent visa BBC Art Visa Fraud: The London Firm Selling Invented Artist Careers Artlyst Fake UK Artist Visas Are Being Offered for $132,000, New Investigation Finds ARTnews.com UK: Allegations of fraud arise on 'Global Talent Visa' route InfoMigrants Migrants offered £100,000 fake portfolios to cheat fast-track UK visa scheme in major immigration scandal NewsCord Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：提供、伪造的、签证、天赋、艺术。RSS 中文摘要显示：BBC卧底记者获得假艺术和人才签证奖励 BBC艺术签证欺诈：伦敦公司出售发明艺术家职业Artlyst假英国艺术家签证价格为132,000美元，新调查发现ARTnews.com英国：“全球人才签证”路线上出现欺诈指控 InfoMigrants Migrants提供了10万英镑的假作品集以欺骗重大移民丑闻中的英国快速签证计划 NewsCord 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 7. [Europeans decide on thorny question of who will speak for bloc in Ukraine talks - The Washington Post](https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnZWRTRleUVRbFBSU05GSWVvc0tDSGsxOTEwN0hqLXZEVUhpcXNxeGU4dXhlU0F0Q2xLUU1UeHdwYjJRWFVUOHE2YlBQZUFkYjVqWHdEazgzNTBlQXdJN0lEZ3FXU0pXZWhLNGUwSTYtcDU2aV9FUV83QURBQjdEOUZIN19kSlpSQzJTNWRQMU82SGI0RzdreUlrLTlXd3FFY0EzRWtMdEZUaF9mbmt5WTFmV1ZjUQ?oc=5)
-
-- Source / 来源: The Washington Post. Published: `2026-11-14T03:36:57+00:00`.
-- Keywords / 关键词: talks, ukraine, speak, washington, europeans, question, decide, thorny, europe, bloc
-- 中文关键词: 会谈、乌克兰、说话、华盛顿、欧洲人、问题、决定、棘手的、欧洲、集团
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Europeans decide on thorny question of who will speak for bloc in Ukraine talks The Washington Post Europe Agrees on a Team to Represent It in Talks With Russia The New York Times EU settles on five-nation group to speak for Europe at Ukraine peace talks Reuters Why Europe failed to find a superhero to take on Putin POLITICO.eu Ukraine updates: Europe to send united front to potential peace talks DW.com
-- RSS 中文摘要: 欧洲人决定谁将在乌克兰谈判中代表欧盟这一棘手问题 《华盛顿邮报》 欧洲同意组建一个团队在与俄罗斯的谈判中代表它 《纽约时报》 欧盟决定由五国集团在乌克兰和平谈判中代表欧洲发言 路透 为何欧洲未能找到一位超​​级英雄来对抗普京 POLITICO.eu 乌克兰更新：欧洲将派遣统一战线参加潜在的和平谈判 DW.com
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: talks, ukraine, speak, washington, and europeans. The available excerpt says: Europeans decide on thorny question of who will speak for bloc in Ukraine talks The Washington Post Europe Agrees on a Team to Represent It in Talks With Russia The New York Times EU settles on five-nation group to speak for Europe at Ukraine peace talks Reuters Why Europe failed to find a superhero to take on Putin POLITICO.eu Ukraine updates: Europe to send united front to potential peace talks DW.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：会谈、乌克兰、说话、华盛顿、欧洲人。RSS 中文摘要显示：欧洲人决定谁将在乌克兰谈判中代表欧盟这一棘手问题 《华盛顿邮报》 欧洲同意组建一个团队在与俄罗斯的谈判中代表它 《纽约时报》 欧盟决定由五国集团在乌克兰和平谈判中代表欧洲发言 路透 为何欧洲未能找到一位超​​级英雄来对抗普京 POLITICO.eu 乌克兰更新：欧洲将派遣统一战线参加潜在的和平谈判 DW.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 8. [Trump, Xi and Putin to meet Thursday, discuss nukes - Politico](https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzZVbHFZa2NPRXFKZld5dVRCeDUyVFVFdmlaRURQVlFDQ0VxSjhWSC1aVm1zX3ExckJzaFM1dEIydUREa1FoMl8tM3h0RHpWQkFvNEptbjI3TmFNMDN6NGZfYUZHT3d1YzFMenZuYTBqMVQ2U1lkVEJfcktMa1ZIZ21EdG10bmJGZ3RsSk1MSmgyd1NNQTV0RnpyekVHY3VM?oc=5)
-
-- Source / 来源: Politico. Published: `2026-11-14T01:41:00+00:00`.
-- Keywords / 关键词: trump, putin, meet, thursday, politico, discuss, nukes, historic, meeting, china
-- 中文关键词: 特朗普、普京、见面、周四、政治报、讨论、核武器、历史性、会议、中国
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump, Xi and Putin to meet Thursday, discuss nukes Politico Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN Trump, Xi and Putin to hold unprecedented meeting, White House says Sky News Trump, Putin and Xi plan historic joint meeting in China next week, White House says BBC South Korea should not fear China's rise, foreign minister says Reuters
-- RSS 中文摘要: 特朗普、习近平和普京将于周四会面，讨论核武器问题 特朗普将与中国习近平和俄罗斯普京就核不扩散问题举行历史性三边会谈 CNN 特朗普、习近平和普京将举行史无前例的会晤，白宫称天空新闻 特朗普、普京和习近平计划下周在中国举行历史性联席会议，白宫表示 BBC 外交部长表示，韩国不应担心中国崛起 路透
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, putin, meet, thursday, and politico. The available excerpt says: Trump, Xi and Putin to meet Thursday, discuss nukes Politico Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation CNN Trump, Xi and Putin to hold unprecedented meeting, White House says Sky News Trump, Putin and Xi plan historic joint meeting in China next week, White House says BBC South Korea should not fear China's rise, foreign minister says Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、普京、见面、周四、政治报。RSS 中文摘要显示：特朗普、习近平和普京将于周四会面，讨论核武器问题 特朗普将与中国习近平和俄罗斯普京就核不扩散问题举行历史性三边会谈 CNN 特朗普、习近平和普京将举行史无前例的会晤，白宫称天空新闻 特朗普、普京和习近平计划下周在中国举行历史性联席会议，白宫表示 BBC 外交部长表示，韩国不应担心中国崛起 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 9. [The senators who could join Van Hollen's insurgency against Schumer - Axios](https://news.google.com/rss/articles/CBMigAFBVV95cUxNN29nRGQzaUpnSEZkcU9kN2piX09RT2dncVdmM2Y4TkNiaWFKZHcxSEVzUm1lRjlFWER5d01DMGZMNnhVdXJ4VDE4Y1VKaUpiQmZZSUlodVhmZlk1bFFQakk1cjcxY3NVdXZKdDVPdmZJLWZNbkRPODhmaFZOaWtieA?oc=5)
-
-- Source / 来源: Axios. Published: `2026-11-14T04:50:40+00:00`.
-- Keywords / 关键词: van, schumer, insurgency, senators, hollen's, hollen, axios, join, senate, democrats
-- 中文关键词: 货车、舒默、叛乱、参议员、霍伦的、跑步、轴、加入、参议院、民主党人
-- Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: The senators who could join Van Hollen's insurgency against Schumer Axios Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader The New York Times Van Hollen says Democrats must ‘meet this moment’ in first appearance since challenging Schumer CNN Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid The Hill ‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight Politico
-- RSS 中文摘要: 可能加入范霍伦反对舒默 Axios 的叛乱的参议员 克里斯·范霍伦 (Chris Van Hollen) 将挑战查克·舒默 (Chuck Schumer) 竞选参议院多数党领袖 《纽约时报》范霍伦 (Van Hollen) 表示，自挑战舒默以来，民主党人必须在第一次露面时“迎接这个时刻” CNN 范霍伦 (Van Hollen) 呼吁废除参议院阻挠，排除 2028 年入主白宫的可能性政治报
-- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
-- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: van, schumer, insurgency, senators, and hollen's. The available excerpt says: The senators who could join Van Hollen's insurgency against Schumer Axios Chris Van Hollen Set to Challenge Chuck Schumer for Senate Majority Leader The New York Times Van Hollen says Democrats must ‘meet this moment’ in first appearance since challenging Schumer CNN Van Hollen calls to abolish Senate filibuster, rules out 2028 White House bid The Hill ‘A long conversation’: Senate Democrats gird for protracted Schumer-Van Hollen fight Politico Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：货车、舒默、叛乱、参议员、霍伦的。RSS 中文摘要显示：可能加入范霍伦反对舒默 Axios 的叛乱的参议员 克里斯·范霍伦 (Chris Van Hollen) 将挑战查克·舒默 (Chuck Schumer) 竞选参议院多数党领袖 《纽约时报》范霍伦 (Van Hollen) 表示，自挑战舒默以来，民主党人必须在第一次露面时“迎接这个时刻” CNN 范霍伦 (Van Hollen) 呼吁废除参议院阻挠，排除 2028 年入主白宫的可能性政治报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
-- EN What to watch: polling or vote margins; party reactions; policy promises after the result
-- 后续关注: 民调或票差；党派反应；结果后的政策承诺
-
-### 10. [UN climate summit pushes electrification goal as groups call for mining safeguards - AP News](https://news.google.com/rss/articles/CBMivAFBVV95cUxOTXlUSWVwbVZ3UkJ4dERlR1FpSXZ3WmZEN2ljSnotaS1HNE1CS19CZ0lLZ0hXa3l1SEotV01uWWRRNVBQSi1ybmxVSE4yN2tYZkwyRTg1VGhOTWxCeUdlMU9vNDhxdGdCZFIzLUhCb19LMEtFZ0VTSm94TlVuMVc1T0k1TGU2LVZCN0dNdUJZcnBCWl9YTXIxTzBmbTRNRXY5Z24wcXJ6bWlrLVhsYUNpMlh3ODI2WnU0WUZtOA?oc=5)
-
-- Source / 来源: AP News. Published: `2026-11-13T02:03:00+00:00`.
-- Keywords / 关键词: climate, electrification, safeguards, summit, pushes, groups, mining, goal, call, chief
-- 中文关键词: 气候、电气化、保障措施、首脑、推动、团体、矿业、目标、称呼、首席
-- Category / 分类: Climate, environment, and safety / 气候、环境与安全
-- RSS Excerpt / RSS 摘要: UN climate summit pushes electrification goal as groups call for mining safeguards AP News ‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech The Guardian Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks The New York Times UN chief urges drastic emissions cuts as COP31 wrestles with fossil fuels Reuters The incredible incoherence of COP Financial Times
-- RSS 中文摘要: 联合国气候峰会推动电气化目标，团体呼吁采取采矿保障措施 美联社新闻 联合国秘书长在告别演说中告诉第 31 届缔约方大会：“你无法在燃烧的星球上建立和平” 《卫报》气候科学报告的时机在联合国会谈中引发热议 《纽约时报》 联合国秘书长在 COP31 与化石燃料角力之际敦促大幅削减排放 路透社 COP31 令人难以置信的不连贯性
-- EN Summary: This story concerns environmental risk, infrastructure safety, or public emergency response.
-- 中文概要: 这条新闻关系到环境风险、基础设施安全或公共应急响应。
-- EN Detailed Reading: Key signals: climate, electrification, safeguards, summit, and pushes. The available excerpt says: UN climate summit pushes electrification goal as groups call for mining safeguards AP News ‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech The Guardian Timing of Climate Science Reports Ignites a Hot Fight at U.N. Talks The New York Times UN chief urges drastic emissions cuts as COP31 wrestles with fossil fuels Reuters The incredible incoherence of COP Financial Times Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.
-- 中文详细解读: 关键词信号：气候、电气化、保障措施、首脑、推动。RSS 中文摘要显示：联合国气候峰会推动电气化目标，团体呼吁采取采矿保障措施 美联社新闻 联合国秘书长在告别演说中告诉第 31 届缔约方大会：“你无法在燃烧的星球上建立和平” 《卫报》气候科学报告的时机在联合国会谈中引发热议 《纽约时报》 联合国秘书长在 COP31 与化石燃料角力之际敦促大幅削减排放 路透社 COP31 令人难以置信的不连贯性 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。
-- EN What to watch: damage assessment; public safety advisories; policy or infrastructure reviews
-- 后续关注: 损害评估；公共安全提示；政策或基础设施复盘
+- Keywords / 关键词: pope, leo, chiclayo, his, emotional, beloved, diocese, return, makes, nbc
+- 中文关键词: pope、leo、chiclayo、his、emotional、beloved、diocese、return、makes、nbc
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News Pope Leo speaks of community 'suffering' on visit to remote Andes town BBC More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Pope Leo entrusts Chiclayo and his papal ministry to Mary at coronation ceremony OSV News Pope Leo in Zaña: Continue passing on the faith to your children Vatican News
+- RSS 中文摘要: Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News Pope Leo speaks of community 'suffering' on visit to remote Andes town BBC More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Pope Leo entrusts Chiclayo and his papal ministry to Mary at coronation ceremony OSV News Pope Leo in Zaña: Continue passing on the faith to your children Vatican News
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: pope, leo, chiclayo, his, and emotional. The available excerpt says: Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News Pope Leo speaks of community 'suffering' on visit to remote Andes town BBC More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Pope Leo entrusts Chiclayo and his papal ministry to Mary at coronation ceremony OSV News Pope Leo in Zaña: Continue passing on the faith to your children Vatican News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：pope、leo、chiclayo、his、emotional。RSS 中文摘要显示：Pope Leo makes emotional return to his ‘beloved diocese of Chiclayo’ NBC News Pope Leo speaks of community 'suffering' on visit to remote Andes town BBC More than 1.5 million people welcome Pope Leo XIV in northern Peru The Washington Post Pope Leo entrusts Chiclayo and his papal ministry to Mary at coronation ceremony OSV News Pope Leo in Zaña: Continue passing on the faith to your children Vatican News 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
 
 
 
