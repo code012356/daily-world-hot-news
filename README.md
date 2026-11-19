@@ -10,155 +10,155 @@ The workflow uses public RSS feeds, writes the latest result to `data/latest.jso
 
 ## Latest Top 10 / 最新前十热点
 
-Generated at `2026-11-18T12:33:56+00:00` UTC.
+Generated at `2026-11-19T12:24:22+00:00` UTC.
 
-### 1. [Iran widens Gulf attacks, targeting US air base in Kuwait and sites in Bahrain - AP News](https://news.google.com/rss/articles/CBMimwFBVV95cUxQVkpMQk5Ha1FZNG45Vmt6WWxWeUtMS3lSU0hON0F0b0ItSHlWY0NnUHFyQ1JTWFBPSWViZTFVZHpKNWI3V3R1TjM0b25HWTNEZGZ2Q1ItZG5hdXNGcG03M3FjZlJKNmE5SC1lYTJERmRETERvdGJOUGlsMG9pQjVVU2dEWkJxOEY2eXJYd1RtVmNlN2pIcGlLcHJlaw?oc=5)
+### 1. [Live: Trump, Xi and Putin hold unprecedented trilateral talks, with Ukraine and nuclear arms in focus - Reuters](https://news.google.com/rss/articles/CBMipgFBVV95cUxQU0pSb0VvY25yd01hM3ZGMUdoQ1hJdUVhejAzZlRia095MWtkelVYaGlOZkwxTS0tdGwxQjUxYk82S2gwVFg2Y1RxYXg0SkplUE1CZmZJUlJjbTNNLVRzWk5IT3V5M09lVnRqYTZ0SE5ldGlGSXpLV21JZVBOUFhNdC02RDFpcUx2dlIzOTBoU0UwRkIyU29JdnZ2MlVNc2MwR1lQOTlB?oc=5)
 
-- Source / 来源: AP News. Published: `2026-11-18T11:33:00+00:00`.
-- Keywords / 关键词: iran, attacks, kuwait, gulf, bahrain, widens, targeting, sites, base, air
-- 中文关键词: 伊朗、袭击、科威特、海湾、巴林、扩大、瞄准、站点、根据、空气
+- Source / 来源: Reuters. Published: `2026-11-19T11:52:00+00:00`.
+- Keywords / 关键词: trump, putin, trilateral, nuclear, talks, unprecedented, ukraine, focus, live, hold
+- 中文关键词: 特朗普、普京、三边的、核、会谈、空前的、乌克兰、重点、居住、抓住
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Iran widens Gulf attacks, targeting US air base in Kuwait and sites in Bahrain AP News Iran war live: Gulf states condemn Iranian attacks on Kuwait and Bahrain Al Jazeera Fighting escalates in Iran ahead of Trump’s summit with Russia, China CBS News Iran widens Gulf attacks after US strikes missile launch site CNN Iran fires at Kuwait after US strike on Iranian island Reuters
-- RSS 中文摘要: 伊朗扩大对海湾地区的袭击，瞄准美国在科威特的空军基地和巴林的地点 美联社新闻 伊朗战争直播：海湾国家谴责伊朗对科威特和巴林的袭击
+- RSS Excerpt / RSS 摘要: Live: Trump, Xi and Putin hold unprecedented trilateral talks, with Ukraine and nuclear arms in focus Reuters Trump, Xi and Putin sit down for a rare three-way meeting in China CBS News Trump, Xi, Putin take aim at International Criminal Court in trilateral summit Politico China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear AP News Trump holds historic talks with ‘friends’ Xi and Putin CNN
+- RSS 中文摘要: 直播：特朗普、习近平和普京举行史无前例的三边会谈，重点关注乌克兰和核武器 路透 特朗普、习近平和普京在中国举行罕见的三方会晤 CBS 新闻 特朗普、习近平和普京在三边峰会上瞄准国际刑事法院 政治 中国和俄罗斯表示，他们和美国就联合国改革、增加燃料供应、核问题对话达成一致 美联社新闻 特朗普与“朋友”习近平和普京举行历史性会谈 CNN
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, attacks, kuwait, gulf, and bahrain. The available excerpt says: Iran widens Gulf attacks, targeting US air base in Kuwait and sites in Bahrain AP News Iran war live: Gulf states condemn Iranian attacks on Kuwait and Bahrain Al Jazeera Fighting escalates in Iran ahead of Trump’s summit with Russia, China CBS News Iran widens Gulf attacks after US strikes missile launch site CNN Iran fires at Kuwait after US strike on Iranian island Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、袭击、科威特、海湾、巴林。RSS 中文摘要显示：伊朗扩大对海湾地区的袭击，瞄准美国在科威特的空军基地和巴林的地点 美联社新闻 伊朗战争直播：海湾国家谴责伊朗对科威特和巴林的袭击 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: trump, putin, trilateral, nuclear, and talks. The available excerpt says: Live: Trump, Xi and Putin hold unprecedented trilateral talks, with Ukraine and nuclear arms in focus Reuters Trump, Xi and Putin sit down for a rare three-way meeting in China CBS News Trump, Xi, Putin take aim at International Criminal Court in trilateral summit Politico China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear AP News Trump holds historic talks with ‘friends’ Xi and Putin CNN Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：特朗普、普京、三边的、核、会谈。RSS 中文摘要显示：直播：特朗普、习近平和普京举行史无前例的三边会谈，重点关注乌克兰和核武器 路透 特朗普、习近平和普京在中国举行罕见的三方会晤 CBS 新闻 特朗普、习近平和普京在三边峰会上瞄准国际刑事法院 政治 中国和俄罗斯表示，他们和美国就联合国改革、增加燃料供应、核问题对话达成一致 美联社新闻 特朗普与“朋友”习近平和普京举行历史性会谈 CNN 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 2. [Mary Peltola flips Alaska seat, giving Democrats a 56-44 edge in Senate - The Washington Post](https://news.google.com/rss/articles/CBMivgFBVV95cUxPOHlDZmRXbTJwaXgzUUlqOEx1X1VjN2ZQTlNjeEYxZ29MTGtmYnFnVExyS1NKOHlYbDFHamoxUkVtaDNpSzJkRHhySzBEQkpnWXF5LU90YlBReTVQcXdJYXVaZVR1ZnFtb1M0UHJzUVpNcTFmNFdzR092NXl3LTRTQ2d1bHFXZWQ1MHBINk5YOXFqYkI4S3hZUXdkdnY2TC1ySDd6ZmNWb2xKdUlsWHVXR1hGZ0ViOGM0WVMtTE5R?oc=5)
+### 2. [Trump, Xi and Putin sit down for a rare three-way meeting in China - CBS News](https://news.google.com/rss/articles/CBMib0FVX3lxTE05RFI1UXR5alZLUGZrOEVjR1RnR3FxOTVqU3hYRTFiRkU2UXF2bjFMRmFUN2dDeXlfUWt3REJvY242b2l4bFh5ZHoxT04tUjhFRzR2MF9mbC1WVTBNeG0zSU9LN3pNdHRnT0dYTW9WWQ?oc=5)
 
-- Source / 来源: The Washington Post. Published: `2026-11-18T10:52:34+00:00`.
-- Keywords / 关键词: peltola, alaska, senate, democrats, mary, seat, washington, giving, flips, edge
-- 中文关键词: 耕地、阿拉斯加州、参议院、民主党人、玛丽、座位、华盛顿、给予、翻转、边缘
+- Source / 来源: CBS News. Published: `2026-11-19T11:21:27+00:00`.
+- Keywords / 关键词: trump, putin, meeting, china, three-way, down, rare, sit, cbs, international
+- 中文关键词: 特朗普、普京、会议、中国、三路、向下、稀有的、坐、哥伦比亚广播公司、国际的
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Trump, Xi and Putin sit down for a rare three-way meeting in China CBS News Trump, Xi, Putin take aim at International Criminal Court in trilateral summit Politico China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear AP News Trump holds historic talks with ‘friends’ Xi and Putin CNN Trump, Putin and Xi release 'peace declaration' following unprecedented meeting BBC
+- RSS 中文摘要: 特朗普、习近平和普京在中国进行罕见的三方会晤 CBS 新闻 特朗普、习近平和普京在三边峰会上瞄准国际刑事法院 政治 中国和俄罗斯表示，他们和美国就联合国改革、增加燃料供应、核对话达成一致 美联社新闻 特朗普与“朋友”习近平和普京举行历史性会谈 CNN 特朗普、普京和习近平在史无前例的会晤后发布“和平宣言” BBC
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: trump, putin, meeting, china, and three-way. The available excerpt says: Trump, Xi and Putin sit down for a rare three-way meeting in China CBS News Trump, Xi, Putin take aim at International Criminal Court in trilateral summit Politico China and Russia say they and US agree on UN reforms, boosting fuel supplies, dialogue on nuclear AP News Trump holds historic talks with ‘friends’ Xi and Putin CNN Trump, Putin and Xi release 'peace declaration' following unprecedented meeting BBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：特朗普、普京、会议、中国、三路。RSS 中文摘要显示：特朗普、习近平和普京在中国进行罕见的三方会晤 CBS 新闻 特朗普、习近平和普京在三边峰会上瞄准国际刑事法院 政治 中国和俄罗斯表示，他们和美国就联合国改革、增加燃料供应、核对话达成一致 美联社新闻 特朗普与“朋友”习近平和普京举行历史性会谈 CNN 特朗普、普京和习近平在史无前例的会晤后发布“和平宣言” BBC 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 3. [World Court finds Myanmar forces killed thousands of Rohingya, ruling ongoing - Reuters](https://news.google.com/rss/articles/CBMixwFBVV95cUxQSnpTTEM4UUNIZi1KbDViNGdmVlV2MTgxSUVGWjdra045RXVoZWhYbnNGcUFob1d1OUljd01LNGo1NGV5UDN6emRwVlZ2R0dtamU5RFo0SVBVSmVGR1MyUF9aSmlqZVRST0V2eE5vVGE1QS1sb2oyV05VVWF5T25XQ1lBVjhhN1FRV2VHMFVKak00TkluZzdrbzk0Q1BXOENRbjNHLXE1S3F6LWpYeHlXOVk0QWhpcE1vY1pObkxpT1FNV2xYSkZr?oc=5)
+
+- Source / 来源: Reuters. Published: `2026-11-19T09:47:34+00:00`.
+- Keywords / 关键词: myanmar, rohingya, killed, ruling, court, finds, thousands, genocide, ongoing, forces
+- 中文关键词: 缅甸、罗兴亚人、死亡、裁决、法庭、发现、数千、种族灭绝、正在进行的、力量
+- Category / 分类: Technology / 科技
+- RSS Excerpt / RSS 摘要: World Court finds Myanmar forces killed thousands of Rohingya, ruling ongoing Reuters UN top court finds Myanmar guilty of committing genocide against Rohingya minority CNN ICJ: Myanmar committed genocide against Rohingya DW.com A Village Burned, Its People Killed or Exiled. Was It Genocide? The New York Times Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling The Guardian
+- RSS 中文摘要: 世界法院裁定缅甸军队杀害了数千名罗兴亚人，裁决仍在进行中 路透社 联合国最高法院裁定缅甸对罗兴亚少数民族实施种族灭绝罪 CNN ICJ：缅甸对罗兴亚人实施种族灭绝 DW.com 一个村庄被烧毁，其人民被杀害或流放。这是种族灭绝吗？ 《纽约时报》 缅甸种族灭绝案裁决后，人们越来越担心美国将制裁诺贝尔奖获得者法官
+- EN Summary: This story reflects a change in technology, digital infrastructure, platform power, or data risk.
+- 中文概要: 这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。
+- EN Detailed Reading: Key signals: myanmar, rohingya, killed, ruling, and court. The available excerpt says: World Court finds Myanmar forces killed thousands of Rohingya, ruling ongoing Reuters UN top court finds Myanmar guilty of committing genocide against Rohingya minority CNN ICJ: Myanmar committed genocide against Rohingya DW.com A Village Burned, Its People Killed or Exiled. Was It Genocide? The New York Times Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling The Guardian Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.
+- 中文详细解读: 关键词信号：缅甸、罗兴亚人、死亡、裁决、法庭。RSS 中文摘要显示：世界法院裁定缅甸军队杀害了数千名罗兴亚人，裁决仍在进行中 路透社 联合国最高法院裁定缅甸对罗兴亚少数民族实施种族灭绝罪 CNN ICJ：缅甸对罗兴亚人实施种族灭绝 DW.com 一个村庄被烧毁，其人民被杀害或流放。这是种族灭绝吗？ 《纽约时报》 缅甸种族灭绝案裁决后，人们越来越担心美国将制裁诺贝尔奖获得者法官 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。
+- EN What to watch: regulatory reaction; enterprise adoption; security or privacy consequences
+- 后续关注: 监管反应；企业采用情况；安全或隐私后果
+
+### 4. [L.A. County issues evacuation warnings as storm nears; snow, flooding expected - Los Angeles Times](https://news.google.com/rss/articles/CBMixAFBVV95cUxNVjdLRXlKbC1xa25oMHVFSkdiTTNOLU5Ua3VyNnVrY1pZWl94NlI1WnJfZUlEN2daeXlOMFM4OWR3M2ZJV0JKMUZsaWdnbGF3OGN2Q3JSU09EM0prQXRXM0Fwc0hNeGN5Sms2ZXIxclFqd2x1Z0JlWFpEVURxZVlYZnpGMk9sME56bDNTQzdUMks4N3lXZER2VTViaGdqODhYU09senExaWNqQWl1VGl4SUEtVzJMdTE4SlBhOVI0T29EN0Fu?oc=5)
+
+- Source / 来源: Los Angeles Times. Published: `2026-11-19T04:39:35+00:00`.
+- Keywords / 关键词: storm, angeles, los, evacuation, warnings, snow, flooding, expected, county, issues
+- 中文关键词: 风暴、安吉利斯、洛斯、疏散、警告、雪、洪水、预期的、县、问题
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: L.A. County issues evacuation warnings as storm nears; snow, flooding expected Los Angeles Times Southern California is about to get drenched. Here’s when the heaviest rain arrives KTLA SoCal storm timeline: First atmospheric river of season brings heavy rain, flood risk FOX 11 Los Angeles California Faces Flood Risks and Heavy Snow From Pacific Storm Bloomberg Evacuation warnings issued for some SoCal burn scar areas ahead of storm ABC7 Los Angeles
+- RSS 中文摘要: 随着风暴临近，洛杉矶县发布疏散警告；预计降雪、洪水 洛杉矶时报 南加州即将被淋湿。以下是最强降雨到达 KTLA 南加州风暴时间表： 本季第一条大气河流带来大雨和洪水风险 FOX 11 洛杉矶 加州面临太平洋风暴彭博社带来的洪水风险和大雪 风暴 ABC7 洛杉矶之前，向南加州一些烧伤疤痕地区发出疏散警告
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: storm, angeles, los, evacuation, and warnings. The available excerpt says: L.A. County issues evacuation warnings as storm nears; snow, flooding expected Los Angeles Times Southern California is about to get drenched. Here’s when the heaviest rain arrives KTLA SoCal storm timeline: First atmospheric river of season brings heavy rain, flood risk FOX 11 Los Angeles California Faces Flood Risks and Heavy Snow From Pacific Storm Bloomberg Evacuation warnings issued for some SoCal burn scar areas ahead of storm ABC7 Los Angeles Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：风暴、安吉利斯、洛斯、疏散、警告。RSS 中文摘要显示：随着风暴临近，洛杉矶县发布疏散警告；预计降雪、洪水 洛杉矶时报 南加州即将被淋湿。以下是最强降雨到达 KTLA 南加州风暴时间表： 本季第一条大气河流带来大雨和洪水风险 FOX 11 洛杉矶 加州面临太平洋风暴彭博社带来的洪水风险和大雪 风暴 ABC7 洛杉矶之前，向南加州一些烧伤疤痕地区发出疏散警告 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 5. [Taiwan eyeing US-China-Russia talks - Taipei Times](https://news.google.com/rss/articles/CBMieEFVX3lxTE93X2RrcW94LXo3eVhHMUhuTjJfZ0RKX0NfbndydW1zanlCdkRPX1h1OHVrZ01kbDAxNUt5aXZRQXQzVXJwSTNuMGFhNnQtbnlRcko5Nk5feVpJWE40dGJtME40R0RUemVxVEYyTXJvVHB6U2J1bjFsMg?oc=5)
+
+- Source / 来源: Taipei Times. Published: `2026-11-19T08:30:15+00:00`.
+- Keywords / 关键词: taiwan, us-china-russia, talks, eyeing, taipei, apec, summit, trump, china-hosted, differences
+- 中文关键词: 台湾、美国-中国-俄罗斯、会谈、盯视、类型、亚太经合组织、首脑、特朗普、中国主办、差异
+- Category / 分类: Geopolitics and security / 地缘政治与安全
+- RSS Excerpt / RSS 摘要: Taiwan eyeing US-China-Russia talks Taipei Times Taiwan in 'close contact' with US ahead of US-China-Russia talks at APEC Reuters Xi tells Trump to ‘do the right thing’ on Taiwan; urges two sides to manage differences South China Morning Post Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit AP News Taiwan’s APEC envoy says he will speak with other members at China-hosted summit Taylorville Daily News
+- RSS 中文摘要: 台湾关注美中俄会谈 台北时报 台湾在亚太经合组织美中俄会谈前与美国“密切接触” 路透社 习近平告诉特朗普在台湾问题上“做正确的事”；敦促双方管控分歧 南华早报 当习近平和特朗普在 APEC 峰会上第三次会面时，台湾可能退居二线 美联社新闻 台湾 APEC 特使表示，他将在中国主办的峰会上与其他成员交谈 泰勒维尔每日新闻
+- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
+- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
+- EN Detailed Reading: Key signals: taiwan, us-china-russia, talks, eyeing, and taipei. The available excerpt says: Taiwan eyeing US-China-Russia talks Taipei Times Taiwan in 'close contact' with US ahead of US-China-Russia talks at APEC Reuters Xi tells Trump to ‘do the right thing’ on Taiwan; urges two sides to manage differences South China Morning Post Taiwan may take a backseat when Xi and Trump meet for a third time at an APEC summit AP News Taiwan’s APEC envoy says he will speak with other members at China-hosted summit Taylorville Daily News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：台湾、美国-中国-俄罗斯、会谈、盯视、类型。RSS 中文摘要显示：台湾关注美中俄会谈 台北时报 台湾在亚太经合组织美中俄会谈前与美国“密切接触” 路透社 习近平告诉特朗普在台湾问题上“做正确的事”；敦促双方管控分歧 南华早报 当习近平和特朗普在 APEC 峰会上第三次会面时，台湾可能退居二线 美联社新闻 台湾 APEC 特使表示，他将在中国主办的峰会上与其他成员交谈 泰勒维尔每日新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
+- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
+
+### 6. [Democrats flipped 9 U.S. Senate seats — the most in almost 70 years - PBS](https://news.google.com/rss/articles/CBMiowFBVV95cUxPdmV2SmVvV1YzVTZpQW5ZbHNhZjQ1blUwWUJQamJsRDVFcmh4aDkxd1RIVmtnZ2FvNzZHdXpqMGFTX09fcTExcVg4LU1KckNvaUJsWGZWLW9ybnJEUzI0ejZCYzlNbVdJaXcwOERoRDRoNUFSdHpMeDQ4Wkl1WURzUk9wRlJkQ09jQm9KSVRSQURYMkVFYUpWY1FUMFBsbUNkM0VN0gGoAUFVX3lxTFB3VURjSDZpYzlUZ2JUUldDb1ZFQWV1MzJtUkM3YkdKRDFhTy1yUDg2RjBhUWR6bU96Z3ZzZFFKT3RLdDVpRW84RGtaeEJWclE3b19LVE9kUUpveENNMHk2VGxUdkF1a0lXUWJEeUhUN0dMUXJ5al8tTnpnTTNVTVpIVGlKaVpJMV8zNXN5Yk5rTDV2SGtKT19QNFhyNVdtU1FSbEJqWHV5eA?oc=5)
+
+- Source / 来源: PBS. Published: `2026-11-18T22:11:08+00:00`.
+- Keywords / 关键词: senate, democrats, seats, flipped, almost, years, most, pbs, alaska, peltola
+- 中文关键词: 参议院、民主党人、座位、翻转、几乎、年、最多、PBS、阿拉斯加州、耕地
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: Mary Peltola flips Alaska seat, giving Democrats a 56-44 edge in Senate The Washington Post Democrat Mary Peltola unseats Republican in Alaska Senate race BBC Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live The Guardian Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska The New York Times Peltola wins Alaska 2026 Senate election, CBS News projects, flipping seat for Democrats CBS News
-- RSS 中文摘要: 玛丽·佩尔托拉 (Mary Peltola) 翻转阿拉斯加州席位，让民主党在参议院以 56-44 领先 《华盛顿邮报》民主党人玛丽·佩尔托拉 (Mary Peltola) 在阿拉斯加参议员竞选中击败共和党人 BBC 佩尔托拉 (BBC Peltola) 的阿拉斯加赢得“给全美国的一份礼物”，舒默说 – 美国政治直播 卫报民主党在玛丽·佩尔托拉 (Mary Peltola) 赢得阿拉斯加后声称获得 56 个参议院席位 《纽约时报》 佩尔托拉 (Peltola) 赢得阿拉斯加 2026 年参议院选举，哥伦比亚广播公司 (CBS) 新闻报道，哥伦比亚广播公司新闻 (CBS News) 为民主党翻转席位
+- RSS Excerpt / RSS 摘要: Democrats flipped 9 U.S. Senate seats — the most in almost 70 years PBS Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats CNN Peltola win doesn’t end DOJ scrutiny of Alaska Senate race, officials say The Washington Post Democrats flipped 9 US Senate seats — the most in almost 70 years AP News Trump bet everything on Alaska. He lost Democracy Docket
+- RSS 中文摘要: 民主党翻转了 9 个美国参议院席位，这是近 70 年来最多的一次 PBS 玛丽·佩尔托拉 (Mary Peltola) 在阿拉斯加州参议员竞选中击败了现任共和党人丹·沙利文 (Dan Sullivan)，为民主党赢得了 56 个席位 CNN 佩尔托拉的胜利并不会结束司法部对阿拉斯加参议院竞选的审查，官员们表示《华盛顿邮报》民主党翻转了 9 个美国参议院席位，是近 70 年来最多的一次 美联社新闻 特朗普把一切赌注押在了阿拉斯加州。他失去了民主案卷
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: peltola, alaska, senate, democrats, and mary. The available excerpt says: Mary Peltola flips Alaska seat, giving Democrats a 56-44 edge in Senate The Washington Post Democrat Mary Peltola unseats Republican in Alaska Senate race BBC Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live The Guardian Democrats Claim 56 Senate Seats After Mary Peltola Wins in Alaska The New York Times Peltola wins Alaska 2026 Senate election, CBS News projects, flipping seat for Democrats CBS News Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：耕地、阿拉斯加州、参议院、民主党人、玛丽。RSS 中文摘要显示：玛丽·佩尔托拉 (Mary Peltola) 翻转阿拉斯加州席位，让民主党在参议院以 56-44 领先 《华盛顿邮报》民主党人玛丽·佩尔托拉 (Mary Peltola) 在阿拉斯加参议员竞选中击败共和党人 BBC 佩尔托拉 (BBC Peltola) 的阿拉斯加赢得“给全美国的一份礼物”，舒默说 – 美国政治直播 卫报民主党在玛丽·佩尔托拉 (Mary Peltola) 赢得阿拉斯加后声称获得 56 个参议院席位 《纽约时报》 佩尔托拉 (Peltola) 赢得阿拉斯加 2026 年参议院选举，哥伦比亚广播公司 (CBS) 新闻报道，哥伦比亚广播公司新闻 (CBS News) 为民主党翻转席位 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: senate, democrats, seats, flipped, and almost. The available excerpt says: Democrats flipped 9 U.S. Senate seats — the most in almost 70 years PBS Mary Peltola ousts incumbent Republican Dan Sullivan in Alaska Senate race, giving Democrats 56 seats CNN Peltola win doesn’t end DOJ scrutiny of Alaska Senate race, officials say The Washington Post Democrats flipped 9 US Senate seats — the most in almost 70 years AP News Trump bet everything on Alaska. He lost Democracy Docket Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：参议院、民主党人、座位、翻转、几乎。RSS 中文摘要显示：民主党翻转了 9 个美国参议院席位，这是近 70 年来最多的一次 PBS 玛丽·佩尔托拉 (Mary Peltola) 在阿拉斯加州参议员竞选中击败了现任共和党人丹·沙利文 (Dan Sullivan)，为民主党赢得了 56 个席位 CNN 佩尔托拉的胜利并不会结束司法部对阿拉斯加参议院竞选的审查，官员们表示《华盛顿邮报》民主党翻转了 9 个美国参议院席位，是近 70 年来最多的一次 美联社新闻 特朗普把一切赌注押在了阿拉斯加州。他失去了民主案卷 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 3. [APEC summit latest: Xi breaks precedent by meeting Trump on arrival in China - CNN](https://news.google.com/rss/articles/CBMihgFBVV95cUxOZ25JQjBlM1VSNTUtOE5XcGJSU05pOThhUDRZTVdwUWZEYXdTcDNYYnNDcDRMazdqMUxHV0Z3WHlMem5DNklqVnhvOTlDOGJnYVp1eWdkN3RKUFZhNzI0Q0VIMW5sUUpaT2Vnc0xoRTVYZ0NWWjNWUnF2SGc2S1A4TDkzSENTZw?oc=5)
+### 7. [Google declines UK request for Russell Brand YouTube video to be removed, sources say - BBC](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPOHNOaU1hbXVNaGdvSnRFLVlvUFVPdzQ5NmIyRXZLS1dXSFc3VnB0d3BCM1dxOU52Z09WREt4dXhPcG5TVmE3V2pDRUpUc01QQmkyLU4xbERMc28?oc=5)
 
-- Source / 来源: CNN. Published: `2026-11-18T12:12:00+00:00`.
-- Keywords / 关键词: trump, china, summit, meeting, breaks, apec, precedent, arrival, latest, putin
-- 中文关键词: 特朗普、中国、首脑、会议、休息、亚太经合组织、先例、到达、最新的、普京
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: APEC summit latest: Xi breaks precedent by meeting Trump on arrival in China CNN Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi Reuters Former U.S. ambassador on Trump's joint summit with leaders of China and Russia NPR Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech The Guardian Xi Jinping breaks protocol to greet and hug Trump at China airport Axios
-- RSS 中文摘要: APEC峰会最新消息：习近平打破先例，在抵达中国时会见特朗普 CNN 俄罗斯普京表示，他预计与特朗普和习近平会面会“带来巨大的潜在好处” 路透社 美国前大使谈特朗普与中俄领导人的联合峰会 NPR 亚太经合组织峰会直播：习近平欢迎特朗普访华，普京称欧洲在演讲中“羞辱性拒绝” 卫报 习近平打破礼仪在中国机场迎接并拥抱特朗普 Axios
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, china, summit, meeting, and breaks. The available excerpt says: APEC summit latest: Xi breaks precedent by meeting Trump on arrival in China CNN Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi Reuters Former U.S. ambassador on Trump's joint summit with leaders of China and Russia NPR Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech The Guardian Xi Jinping breaks protocol to greet and hug Trump at China airport Axios Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、中国、首脑、会议、休息。RSS 中文摘要显示：APEC峰会最新消息：习近平打破先例，在抵达中国时会见特朗普 CNN 俄罗斯普京表示，他预计与特朗普和习近平会面会“带来巨大的潜在好处” 路透社 美国前大使谈特朗普与中俄领导人的联合峰会 NPR 亚太经合组织峰会直播：习近平欢迎特朗普访华，普京称欧洲在演讲中“羞辱性拒绝” 卫报 习近平打破礼仪在中国机场迎接并拥抱特朗普 Axios 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 4. [In Choosing Shenzhen for Trump-Putin Summit, Xi Shows Off His Tech Ambitions - WSJ](https://news.google.com/rss/articles/CBMitwFBVV95cUxNMlVwaHVnajBHRVg0bWVmMEVSOUM5Q2VTZGFMSXcwNUlwTWhkczZFd1ZZc19hUldpbWtuc1ltdW10cGcySFdqSGVScUt1ZG95NWgyOWREeGsxal9zTzloMWJUa2JvQ2lLa2p1NGpsNkhzZ1hGdU1ZSHUzS3M3bFNoNG1TX2IyeTZZOTNJbE5TSjVPV2FxYU1Ba2Z1WXpWejhILWdpSjVtZGo0UXhwWXVBNU5jUkF3SXM?oc=5)
-
-- Source / 来源: WSJ. Published: `2026-11-18T12:07:00+00:00`.
-- Keywords / 关键词: trump-putin, ambitions, choosing, shenzhen, summit, shows, tech, his, wsj, western
-- 中文关键词: 特朗普-普京、野心、选择、深圳、首脑、节目、科技、他的、华尔街日报、西
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: In Choosing Shenzhen for Trump-Putin Summit, Xi Shows Off His Tech Ambitions WSJ Xi criticizes Western ‘protectionism’ and calls for freer trade Yahoo Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China Reuters ‘We Simply Cannot Trust This Belligerent Neighbor’ The Atlantic Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment? The New York Times
-- RSS 中文摘要: 习近平选择深圳举办特朗普-普京峰会，展示了他的科技野心 《华尔街日报》 习近平批评西方“保护主义”并呼吁自由贸易 雅虎 习近平、普京在特朗普登陆中国时抨击西方“保护主义”和制裁 路透“我们根本不能信任这个好战的邻居” 《大西洋月刊》 间谍丑闻、贸易摩擦和意外客人会毁掉习近平的重要时刻吗？纽约时报
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump-putin, ambitions, choosing, shenzhen, and summit. The available excerpt says: In Choosing Shenzhen for Trump-Putin Summit, Xi Shows Off His Tech Ambitions WSJ Xi criticizes Western ‘protectionism’ and calls for freer trade Yahoo Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China Reuters ‘We Simply Cannot Trust This Belligerent Neighbor’ The Atlantic Will a Spy Scandal, Trade Friction and a Surprise Guest Ruin Xi’s Big Moment? The New York Times Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普-普京、野心、选择、深圳、首脑。RSS 中文摘要显示：习近平选择深圳举办特朗普-普京峰会，展示了他的科技野心 《华尔街日报》 习近平批评西方“保护主义”并呼吁自由贸易 雅虎 习近平、普京在特朗普登陆中国时抨击西方“保护主义”和制裁 路透“我们根本不能信任这个好战的邻居” 《大西洋月刊》 间谍丑闻、贸易摩擦和意外客人会毁掉习近平的重要时刻吗？纽约时报 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 5. [ADNOC Ship Attacked in Hormuz as Maritime Security Risks Rise - Crude Oil Prices Today | OilPrice.com](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS2w1akt2LTU0RWNLZ0Utc1QtM1lfV2pMR3M3QnU1RmRZRHpVNXFpSFJDc29VUWxQdTdndmV0eDRrZ1JaVXBuQ241ZEpxYzkxM2hlYkx5YW95UzdhY0VWN2c3R1pXMFM3WF81NGh3dUZIQzBiZFJuV1plbXpaTjV0Y1lpYVgxeVJ0dU0wWVUxaXlGUFJnLTMtZ0F6eVV0NW1UVzJKSDlCeG5oemVzQmQzTjVxalFxNDVI0gG-AUFVX3lxTE9aUEhIZFZhXzhoaEIta0ZqUmJ3cUxaT0RFMGFYMS0zTjdENWJYaW03VlFRYWhwaTZmNExTYWp2RGxUOEpiUU9aZDFab0JaQ2xEck9lOXZocGR5YmRSNTRON2FKWDVDLUgzNnZtV0tOWER6czlQNmlidklkaHpKT0E1ZkpoMVNVeThOZnN3OExteDV5TjRRLTFKdV84WDR1eTBYdG5RNkF1Vkl5bk9ObzliWXowOTFXMVlPZE5SdHc?oc=5)
-
-- Source / 来源: Crude Oil Prices Today | OilPrice.com. Published: `2026-11-18T10:00:00+00:00`.
-- Keywords / 关键词: hormuz, adnoc, oil, ship, attacked, maritime, security, oilprice, prices, risks
-- 中文关键词: 霍尔木兹、阿德诺克、石油、船、受到攻击、海上、安全、石油价格、价格、风险
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: ADNOC Ship Attacked in Hormuz as Maritime Security Risks Rise Crude Oil Prices Today | OilPrice.com UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz Reuters UAE state oil firm says one person missing after ship hit in Hormuz The Times of Israel UKMTO: Oil tanker hit by missile in Hormuz strait Breakingthenews.net Adnoc tanker struck a second time in Strait of Hormuz TradeWinds News
-- RSS 中文摘要: 由于海事安全风险今日原油价格上涨，阿布扎比国家石油公司船只在霍尔木兹遭到袭击| OilPrice.com 阿联酋 ADNOC L&S 表示，其船只在霍尔木兹海峡遭到袭击后，一名船员失踪 路透社 阿联酋国家石油公司称，船只在霍尔木兹海峡遭到袭击后，一名船员失踪 以色列时报 UKMTO：油轮在霍尔木兹海峡遭到导弹袭击 Breakingthenews.net Adnoc 油轮在霍尔木兹海峡第二次遭到袭击 TradeWinds 新闻
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: hormuz, adnoc, oil, ship, and attacked. The available excerpt says: ADNOC Ship Attacked in Hormuz as Maritime Security Risks Rise Crude Oil Prices Today | OilPrice.com UAE's ADNOC L&S says one crew member missing after attack on its vessel in Hormuz Reuters UAE state oil firm says one person missing after ship hit in Hormuz The Times of Israel UKMTO: Oil tanker hit by missile in Hormuz strait Breakingthenews.net Adnoc tanker struck a second time in Strait of Hormuz TradeWinds News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：霍尔木兹、阿德诺克、石油、船、受到攻击。RSS 中文摘要显示：由于海事安全风险今日原油价格上涨，阿布扎比国家石油公司船只在霍尔木兹遭到袭击| OilPrice.com 阿联酋 ADNOC L&S 表示，其船只在霍尔木兹海峡遭到袭击后，一名船员失踪 路透社 阿联酋国家石油公司称，船只在霍尔木兹海峡遭到袭击后，一名船员失踪 以色列时报 UKMTO：油轮在霍尔木兹海峡遭到导弹袭击 Breakingthenews.net Adnoc 油轮在霍尔木兹海峡第二次遭到袭击 TradeWinds 新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 6. [Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait - WSJ](https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGVKcXlHY1EycS1qaFBrcVduLWwzS1B4RmhJeDg5eFlxR0FIeVNFclFqZVczdXFBVGVLa0xpcHZXZkVWa3JEeHJxVXA5YWxVa3YtejhlaHd1T1JmWDd1NHp3V1E1SEdsS0tkOEc2bVpZNER2elNveGdNTk9xanNjSDZZM2NwSXhULUVPSk84TW1JRFJUbkRRZVBYN2JHd0NnQkYxN0hhVDhVaVYzUEtlTGUwUUpuZw?oc=5)
-
-- Source / 来源: WSJ. Published: `2026-11-18T04:36:00+00:00`.
-- Keywords / 关键词: iran, kuwait, attacks, bahrain, escalating, further, strait, fight, wsj, iranian
-- 中文关键词: 伊朗、科威特、袭击、巴林、不断升级、更远、海峡、斗争、华尔街日报、伊朗的
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait WSJ Iran war live: Gulf states condemn Iranian attacks on Kuwait and Bahrain Al Jazeera Fighting escalates in Iran ahead of Trump’s summit with Russia, China CBS News US carries out ‘self-defense’ strikes on Iranian missile launch site CNN Iran fires at Kuwait after US strike on Iranian island Reuters
-- RSS 中文摘要: 伊朗袭击科威特和巴林，海峡战事进一步升级 华尔街日报 伊朗战争直播：海湾国家谴责伊朗对科威特和巴林的袭击
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: iran, kuwait, attacks, bahrain, and escalating. The available excerpt says: Iran Attacks Kuwait and Bahrain, Further Escalating Fight Over Strait WSJ Iran war live: Gulf states condemn Iranian attacks on Kuwait and Bahrain Al Jazeera Fighting escalates in Iran ahead of Trump’s summit with Russia, China CBS News US carries out ‘self-defense’ strikes on Iranian missile launch site CNN Iran fires at Kuwait after US strike on Iranian island Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：伊朗、科威特、袭击、巴林、不断升级。RSS 中文摘要显示：伊朗袭击科威特和巴林，海峡战事进一步升级 华尔街日报 伊朗战争直播：海湾国家谴责伊朗对科威特和巴林的袭击 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 7. [Trump arrives just as Southeast Asian summit is ending, but still looms over talks - The Washington Post](https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzNpMHl4YWlFZVFsYW1qNFZmcEVyV2p5QnNiRzczWlhBa1QxZ2lYV1p2c1gwRUp2VzNaNjl6WkU3Y2tENnJ3N0hRMlhkRHd0cGNGc21vU3hiRlVyZFNBV2JzYUU1UV9lUVJkWWhfVEZRVmJrQWRMY3h5NHhqZDJRYW1aa3otdEhXT25XOHg3M2cwRmt5SzdCNXRrcXVreGJHZF8tRVQ3Ul96dE5GY1k5Mw?oc=5)
-
-- Source / 来源: The Washington Post. Published: `2026-11-18T01:36:17+00:00`.
-- Keywords / 关键词: trump, washington, summit, talks, southeast, arrives, ending, asian, still, looms
-- 中文关键词: 特朗普、华盛顿、首脑、会谈、东南、到达、结束、亚洲人、仍然、织机
-- Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Trump arrives just as Southeast Asian summit is ending, but still looms over talks The Washington Post Trump Will Miss Most of the ASEAN Summit The New York Times Trump lauds defence alliance with Philippines ahead of China talks Reuters Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank CNBC In Manila, Trump praises Marcos family, 40 years after dictator was deposed The Washington Post
-- RSS 中文摘要: 特朗普抵达时正值东南亚峰会即将结束，但谈判仍笼罩在华盛顿邮报特朗普将缺席东盟峰会的大部分时间《纽约时报》特朗普在中国会谈之前赞扬与菲律宾的防务联盟路透社特朗普已抵达亚洲。以下是他对伊朗和德意志银行的评价 在独裁者被废黜 40 年后，特朗普在马尼拉赞扬马科斯家族
-- EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
-- 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, washington, summit, talks, and southeast. The available excerpt says: Trump arrives just as Southeast Asian summit is ending, but still looms over talks The Washington Post Trump Will Miss Most of the ASEAN Summit The New York Times Trump lauds defence alliance with Philippines ahead of China talks Reuters Trump has arrived in Asia. Here’s what he said about Iran and Deutsche Bank CNBC In Manila, Trump praises Marcos family, 40 years after dictator was deposed The Washington Post Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、华盛顿、首脑、会谈、东南。RSS 中文摘要显示：特朗普抵达时正值东南亚峰会即将结束，但谈判仍笼罩在华盛顿邮报特朗普将缺席东盟峰会的大部分时间《纽约时报》特朗普在中国会谈之前赞扬与菲律宾的防务联盟路透社特朗普已抵达亚洲。以下是他对伊朗和德意志银行的评价 在独裁者被废黜 40 年后，特朗普在马尼拉赞扬马科斯家族 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
-- EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
-- 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
-
-### 8. [White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner - The New York Times](https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGRnUU9ZdGtxYmdSSGdvOVZOSkszR0JtaURtcXUxQ3c2REFWUEhrZGVublczMWprb0swWU44YlF1LTlRUzQ3YTg0bkRQVFVNX1dyM3huanQ0dWhCWUtoYjJxNFFZU0xId2VNV19JUFpLVGNIa2hjcmFQTEljeG5Ecg?oc=5)
-
-- Source / 来源: The New York Times. Published: `2026-11-18T01:23:27+00:00`.
-- Keywords / 关键词: white, house, withdraws, overton, heidi, commissioner, nomination, lead, administration, nominee
-- 中文关键词: 白色的、房子、撤回、奥弗顿、海蒂、专员、提名、带领、行政、被提名人
+- Source / 来源: BBC. Published: `2026-11-19T08:35:07+00:00`.
+- Keywords / 关键词: russell, brand, youtube, google, declines, request, removed, sources, video, say
+- 中文关键词: 罗素、品牌、YouTube、谷歌、拒绝、要求、已删除、来源、视频、说
 - Category / 分类: Politics and governance / 政治与治理
-- RSS Excerpt / RSS 摘要: White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner The New York Times White House withdraws nominee for FDA commissioner NPR White House pulls nomination of Heidi Overton to lead Food and Drug Administration – as it happened The Guardian Trump withdraws Heidi Overton as nominee to lead Food and Drug Administration, sources say Reuters White House Abandons Trump’s Pick to Lead the FDA WSJ
-- RSS 中文摘要: 白宫撤回对海蒂·奥弗顿 (Heidi Overton) 担任 FDA 职务的提名《纽约时报》 白宫撤回 FDA 专员提名 NPR 白宫撤回海蒂·奥弗顿 (Heidi Overton) 领导食品和药物管理局的提名 - 恰巧发生 《卫报》 消息人士称，特朗普撤回了海蒂·奥弗顿 (Heidi Overton) 领导食品和药物管理局的提名 路透社 白宫放弃了特朗普提名的 FDA 领导者 华尔街日报
+- RSS Excerpt / RSS 摘要: Google declines UK request for Russell Brand YouTube video to be removed, sources say BBC New law ‘may be needed’ after Google rejects call to remove Russell Brand’s YouTube prison message The Guardian UK Culture Minister Delivers Emotional Plea To YouTube To “Set An Example” & Remove Russell Brand’s Channel Yahoo Russell Brand: Deputy Labour leader criticises media for 'amplifying' prison message BBC Government ‘asks Google to deactivate Russell Brand’s YouTube account’ The Independent
+- RSS 中文摘要: 消息人士称，谷歌拒绝英国删除拉塞尔·布兰德 (Russell Brand) YouTube 视频的要求，消息人士称，在谷歌拒绝删除拉塞尔·布兰德 (Russell Brand) 的 YouTube 监狱信息的呼吁后，“可能需要”制定新法律 英国卫报英国文化大臣向 YouTube 发出情感恳求，要求“树立榜样”并删除拉塞尔·布兰德 (Russell Brand) 的雅虎频道 拉塞尔·布兰德 (Russell Brand)：副工党领袖批评媒体“放大”监狱信息 BBC 政府“要求谷歌停用拉塞尔·布兰德 (Russell Brand) 的 YouTube 帐户” 《独立报》
 - EN Summary: This story points to a shift in political power, public mandate, or policy direction.
 - 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
-- EN Detailed Reading: Key signals: white, house, withdraws, overton, and heidi. The available excerpt says: White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner The New York Times White House withdraws nominee for FDA commissioner NPR White House pulls nomination of Heidi Overton to lead Food and Drug Administration – as it happened The Guardian Trump withdraws Heidi Overton as nominee to lead Food and Drug Administration, sources say Reuters White House Abandons Trump’s Pick to Lead the FDA WSJ Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
-- 中文详细解读: 关键词信号：白色的、房子、撤回、奥弗顿、海蒂。RSS 中文摘要显示：白宫撤回对海蒂·奥弗顿 (Heidi Overton) 担任 FDA 职务的提名《纽约时报》 白宫撤回 FDA 专员提名 NPR 白宫撤回海蒂·奥弗顿 (Heidi Overton) 领导食品和药物管理局的提名 - 恰巧发生 《卫报》 消息人士称，特朗普撤回了海蒂·奥弗顿 (Heidi Overton) 领导食品和药物管理局的提名 路透社 白宫放弃了特朗普提名的 FDA 领导者 华尔街日报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN Detailed Reading: Key signals: russell, brand, youtube, google, and declines. The available excerpt says: Google declines UK request for Russell Brand YouTube video to be removed, sources say BBC New law ‘may be needed’ after Google rejects call to remove Russell Brand’s YouTube prison message The Guardian UK Culture Minister Delivers Emotional Plea To YouTube To “Set An Example” & Remove Russell Brand’s Channel Yahoo Russell Brand: Deputy Labour leader criticises media for 'amplifying' prison message BBC Government ‘asks Google to deactivate Russell Brand’s YouTube account’ The Independent Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：罗素、品牌、YouTube、谷歌、拒绝。RSS 中文摘要显示：消息人士称，谷歌拒绝英国删除拉塞尔·布兰德 (Russell Brand) YouTube 视频的要求，消息人士称，在谷歌拒绝删除拉塞尔·布兰德 (Russell Brand) 的 YouTube 监狱信息的呼吁后，“可能需要”制定新法律 英国卫报英国文化大臣向 YouTube 发出情感恳求，要求“树立榜样”并删除拉塞尔·布兰德 (Russell Brand) 的雅虎频道 拉塞尔·布兰德 (Russell Brand)：副工党领袖批评媒体“放大”监狱信息 BBC 政府“要求谷歌停用拉塞尔·布兰德 (Russell Brand) 的 YouTube 帐户” 《独立报》 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
 - EN What to watch: polling or vote margins; party reactions; policy promises after the result
 - 后续关注: 民调或票差；党派反应；结果后的政策承诺
 
-### 9. [Xi Jinping greets Trump as he arrives in China, a rare move ahead of Putin talks - NBC News](https://news.google.com/rss/articles/CBMitwFBVV95cUxOMGthR0pCT2Y1T2RUWTZscXdDRkgzS3R1c3Q1WExtblAtaUdfQTBVQVE0aGRhNzJwd2o1NHdCYnR2a0VvdWJCOFllaENNTnZJV3NjMjVlTUxHZEhhTVhkNmgwSGpzMlYtbUd0X2dLVC1tX1AwUkpkTnZpUGR6a1ZpRHFTVmh2bXNQeHp4OXVTU0dNUFpFaXZ4Q1BYQlp5NlN3UkxYRF93eVpDb1B2QVZzYm9DVk1IdEk?oc=5)
+### 8. [House Democrats Cast Wide Net as They Prepare Trump Investigations - The New York Times](https://news.google.com/rss/articles/CBMikAFBVV95cUxQWlJQTWo5ek5SZGlUalR6SFI1U3JNeTI3RVNkOVQydjZUcjM1YWc1cEhEUWtROHB6OEk2c3pNUkNhUTEzQU1iYXFFd3BMZl9MS2JFVmM0Rlk1cXo0UEl3Z3U5V2drZDEyVHhWMmh3aXVzRXhSSzc5TFppZTRxT2tJNFVFM2lkdDN2bUNSU3BvYWM?oc=5)
 
-- Source / 来源: NBC News. Published: `2026-11-18T10:37:23+00:00`.
-- Keywords / 关键词: trump, china, putin, jinping, arrives, greets, ahead, talks, rare, move
-- 中文关键词: 特朗普、中国、普京、金平、到达、问候、前面、会谈、稀有的、移动
+- Source / 来源: The New York Times. Published: `2026-11-18T21:03:47+00:00`.
+- Keywords / 关键词: trump, investigations, democrats, house, prepare, cast, wide, they, net, allies
+- 中文关键词: 特朗普、调查、民主党人、房子、准备、投掷、宽的、他们、网、盟国
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Xi Jinping greets Trump as he arrives in China, a rare move ahead of Putin talks NBC News Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi Reuters Former U.S. ambassador on Trump's joint summit with leaders of China and Russia NPR Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech The Guardian Xi Jinping breaks protocol to greet and hug Trump at China airport Axios
-- RSS 中文摘要: 习近平在特朗普抵达中国时向他致意，这是普京会谈前罕见的举动 NBC新闻 俄罗斯普京表示，他预计与特朗普和习近平的会面将带来“巨大的潜在好处” 路透社 前美国大使谈特朗普与中俄领导人的联合峰会 NPR亚太经合组织峰会直播：习近平欢迎特朗普访华，普京称欧洲在演讲中“羞辱性衰落” 卫报 习近平打破礼节，在中国机场迎接并拥抱特朗普 Axios
+- RSS Excerpt / RSS 摘要: House Democrats Cast Wide Net as They Prepare Trump Investigations The New York Times House Democrat warns 13 Trump allies to save their records for upcoming investigations NPR Leading House Democrat targets Trump’s inner circle for first investigations The Washington Post Democrats send letters to dozens of Trump officials and allies putting them on notice CNN Trump family and allies told to preserve records as Democrats prepare sweeping investigations The Guardian
+- RSS 中文摘要: 众议院民主党人在准备特朗普调查时广泛撒网 《纽约时报》众议院民主党人警告 13 名特朗普盟友保存他们的记录，以备即将进行的调查 NPR 众议院民主党领袖首先针对特朗普的核心圈子展开调查 《华盛顿邮报》民主党人致信数十名特朗普官员和盟友，提请注意 CNN 特朗普家人和盟友被告知在民主党人准备全面调查时保存记录 《卫报》
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: trump, china, putin, jinping, and arrives. The available excerpt says: Xi Jinping greets Trump as he arrives in China, a rare move ahead of Putin talks NBC News Russia's Putin says he expects 'big potential benefit' from meeting with Trump and Xi Reuters Former U.S. ambassador on Trump's joint summit with leaders of China and Russia NPR Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’ in speech The Guardian Xi Jinping breaks protocol to greet and hug Trump at China airport Axios Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：特朗普、中国、普京、金平、到达。RSS 中文摘要显示：习近平在特朗普抵达中国时向他致意，这是普京会谈前罕见的举动 NBC新闻 俄罗斯普京表示，他预计与特朗普和习近平的会面将带来“巨大的潜在好处” 路透社 前美国大使谈特朗普与中俄领导人的联合峰会 NPR亚太经合组织峰会直播：习近平欢迎特朗普访华，普京称欧洲在演讲中“羞辱性衰落” 卫报 习近平打破礼节，在中国机场迎接并拥抱特朗普 Axios 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: trump, investigations, democrats, house, and prepare. The available excerpt says: House Democrats Cast Wide Net as They Prepare Trump Investigations The New York Times House Democrat warns 13 Trump allies to save their records for upcoming investigations NPR Leading House Democrat targets Trump’s inner circle for first investigations The Washington Post Democrats send letters to dozens of Trump officials and allies putting them on notice CNN Trump family and allies told to preserve records as Democrats prepare sweeping investigations The Guardian Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：特朗普、调查、民主党人、房子、准备。RSS 中文摘要显示：众议院民主党人在准备特朗普调查时广泛撒网 《纽约时报》众议院民主党人警告 13 名特朗普盟友保存他们的记录，以备即将进行的调查 NPR 众议院民主党领袖首先针对特朗普的核心圈子展开调查 《华盛顿邮报》民主党人致信数十名特朗普官员和盟友，提请注意 CNN 特朗普家人和盟友被告知在民主党人准备全面调查时保存记录 《卫报》 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
-### 10. [Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China - AP News](https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDAtWFFGbDFuZ1pfbzdfUHUyYmM5QktTRkR5WndiUXpoenF6cE9VbGQ4ZE84MzY0czJoZFE3cWJXYm81ZDZtUlJzZU5sS3lueWFVV2ZBT2NtVXlkTVJ4N0NUXzhkaXRxUWRVRldGRUFTMERMcXVYcGtaWFI2bnFfY3U0YUFlenRnajRaZ2hOc3h3OFcteFYySg?oc=5)
+### 9. [Democrat Hakeem Jeffries nominated to be first Black speaker of House next year - The Washington Post](https://news.google.com/rss/articles/CBMirwFBVV95cUxNQmNzX0tUcG5xd3lWR09sUDdPc28zQUVnUUk1WnpSdDk2bEl0aGl5cUdaZl96YXYzVkVEYV9aMVVTQ1hhTUJDUktmLTMtaW9SWmhoc1M0TUhvWWdhU0JNSEZ3U3pYOW1IRml6dzI5WnFYWXNJLTBWTm5oM3FXY1lQYlNHa1BEOXdXS0V2eWlJaUhjaDlSb1doamJOUHdoWko5cFVldkZ6TFVuV3JHcklz?oc=5)
 
-- Source / 来源: AP News. Published: `2026-11-18T08:58:00+00:00`.
-- Keywords / 关键词: sanctions, trade, putin, trump, china, asia-pacific, condemns, arrives, needs, open
-- 中文关键词: 制裁、贸易、普京、特朗普、中国、亚太、谴责、到达、需要、打开
+- Source / 来源: The Washington Post. Published: `2026-11-19T04:56:05+00:00`.
+- Keywords / 关键词: jeffries, hakeem, speaker, house, washington, nominated, democrat, first, black, next
+- 中文关键词: 杰弗里斯、哈基姆、扬声器、房子、华盛顿、提名、民主党人、第一的、黑色的、下一个
+- Category / 分类: Politics and governance / 政治与治理
+- RSS Excerpt / RSS 摘要: Democrat Hakeem Jeffries nominated to be first Black speaker of House next year The Washington Post Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives CNN Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics live The Guardian Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History The New York Times Opinion | Hakeem Jeffries took a risk with his caucus vote – and it paid off MS NOW
+- RSS 中文摘要: 民主党人哈基姆·杰弗里斯被提名为明年第一位黑人众议院议长 《华盛顿邮报》哈基姆·杰弗里斯以压倒性优势赢得了众议院议长提名，尽管极端进步人士 CNN 哈基姆·杰弗里斯在参议院历史的边缘发出了威胁，因为他告诉民主党人“与马加战斗，而不是互相对抗”——美国政治现场 《卫报》民主党提名哈基姆·杰弗里斯为众议院议长，创造历史 《纽约时报》观点 |哈基姆·杰弗里斯 (Hakeem Jeffries) 冒着党团投票的风险，结果 MS NOW 得到了回报
+- EN Summary: This story points to a shift in political power, public mandate, or policy direction.
+- 中文概要: 这条新闻指向政治权力、公众授权或政策方向的变化。
+- EN Detailed Reading: Key signals: jeffries, hakeem, speaker, house, and washington. The available excerpt says: Democrat Hakeem Jeffries nominated to be first Black speaker of House next year The Washington Post Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives CNN Hakeem Jeffries on brink of Senate history as he tells Democrats to ‘fight Maga, not each other’ – US politics live The Guardian Democrats Nominate Hakeem Jeffries for Speaker of the House, Making History The New York Times Opinion | Hakeem Jeffries took a risk with his caucus vote – and it paid off MS NOW Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.
+- 中文详细解读: 关键词信号：杰弗里斯、哈基姆、扬声器、房子、华盛顿。RSS 中文摘要显示：民主党人哈基姆·杰弗里斯被提名为明年第一位黑人众议院议长 《华盛顿邮报》哈基姆·杰弗里斯以压倒性优势赢得了众议院议长提名，尽管极端进步人士 CNN 哈基姆·杰弗里斯在参议院历史的边缘发出了威胁，因为他告诉民主党人“与马加战斗，而不是互相对抗”——美国政治现场 《卫报》民主党提名哈基姆·杰弗里斯为众议院议长，创造历史 《纽约时报》观点 |哈基姆·杰弗里斯 (Hakeem Jeffries) 冒着党团投票的风险，结果 MS NOW 得到了回报 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。
+- EN What to watch: polling or vote margins; party reactions; policy promises after the result
+- 后续关注: 民调或票差；党派反应；结果后的政策承诺
+
+### 10. [Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again - CNN](https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzRmTXhmRm1jLWp1c2JoZGc4Z0VwR1lvMFNNUnVKTmZPbGZ6QVY5bS01Rl96M3Y4WWtQdEtOLUVKMTJ3Z1hLMVlLQllYWW5hbTVQV0hrb2trQ2dYZUZKSVNDUDNKNzgzVUliRDlqWHBaMER2R2VnT05UM2lPS0w5N3haenNObzNYc3VR?oc=5)
+
+- Source / 来源: CNN. Published: `2026-11-19T00:27:00+00:00`.
+- Keywords / 关键词: bridge, crimea, attack, russia, connecting, occupied, kerch, hit, ukraine, crimean
+- 中文关键词: 桥、克里米亚、袭击、俄罗斯、连接、占领、刻赤、打、乌克兰
 - Category / 分类: Geopolitics and security / 地缘政治与安全
-- RSS Excerpt / RSS 摘要: Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China AP News In Choosing Shenzhen for Trump-Putin Summit, Xi Shows Off His Tech Ambitions WSJ Xi criticizes Western ‘protectionism’ and calls for freer trade Yahoo Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China Reuters ‘We Simply Cannot Trust This Belligerent Neighbor’ The Atlantic
-- RSS 中文摘要: 习近平称亚太地区需要开放贸易，普京谴责特朗普访华期间的制裁 美联社新闻 习近平选择深圳举办特朗普-普京峰会，展示了他的科技野心 华尔街日报 习近平批评西方“保护主义”并呼吁更加自由的贸易 雅虎 习近平、普京在特朗普访华时抨击西方“保护主义”和制裁 路透社“我们根本不能信任这个好战的邻居” 大西洋月刊
+- RSS Excerpt / RSS 摘要: Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again CNN After Crippling Crimea Bridge, Ukraine Attacks It Again The New York Times Putin's Crimean Bridge comes under attack again, Russian official says BBC Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike The Guardian Ukraine strikes Crimean Bridge for third time in a week ahead of US-China-Russia summit Reuters
+- RSS 中文摘要: 刻赤袭击：连接俄罗斯与被占领克里米亚的桥梁再次遭到袭击 CNN 在克里米亚大桥瘫痪后，乌克兰再次袭击它 《纽约时报》 俄罗斯官员称，普京的克里米亚大桥再次遭到袭击 BBC 乌克兰战争简报：克里米亚大桥袭击后，俄罗斯询问荷兰是否加入冲突 《卫报》乌克兰在美中俄峰会前一周第三次袭击克里米亚大桥 路透
 - EN Summary: This is a security or diplomatic flashpoint with possible cross-border effects.
 - 中文概要: 这是一条安全或外交热点新闻，可能产生跨境影响。
-- EN Detailed Reading: Key signals: sanctions, trade, putin, trump, and china. The available excerpt says: Xi says Asia-Pacific needs open trade and Putin condemns sanctions as Trump arrives in China AP News In Choosing Shenzhen for Trump-Putin Summit, Xi Shows Off His Tech Ambitions WSJ Xi criticizes Western ‘protectionism’ and calls for freer trade Yahoo Xi, Putin blast Western 'protectionism' and sanctions as Trump lands in China Reuters ‘We Simply Cannot Trust This Belligerent Neighbor’ The Atlantic Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
-- 中文详细解读: 关键词信号：制裁、贸易、普京、特朗普、中国。RSS 中文摘要显示：习近平称亚太地区需要开放贸易，普京谴责特朗普访华期间的制裁 美联社新闻 习近平选择深圳举办特朗普-普京峰会，展示了他的科技野心 华尔街日报 习近平批评西方“保护主义”并呼吁更加自由的贸易 雅虎 习近平、普京在特朗普访华时抨击西方“保护主义”和制裁 路透社“我们根本不能信任这个好战的邻居” 大西洋月刊 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
+- EN Detailed Reading: Key signals: bridge, crimea, attack, russia, and connecting. The available excerpt says: Kerch attack: Bridge connecting Russia to occupied Crimea has been hit again CNN After Crippling Crimea Bridge, Ukraine Attacks It Again The New York Times Putin's Crimean Bridge comes under attack again, Russian official says BBC Ukraine war briefing: Russia asks if Netherlands has joined conflict after Crimea bridge strike The Guardian Ukraine strikes Crimean Bridge for third time in a week ahead of US-China-Russia summit Reuters Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.
+- 中文详细解读: 关键词信号：桥、克里米亚、袭击、俄罗斯、连接。RSS 中文摘要显示：刻赤袭击：连接俄罗斯与被占领克里米亚的桥梁再次遭到袭击 CNN 在克里米亚大桥瘫痪后，乌克兰再次袭击它 《纽约时报》 俄罗斯官员称，普京的克里米亚大桥再次遭到袭击 BBC 乌克兰战争简报：克里米亚大桥袭击后，俄罗斯询问荷兰是否加入冲突 《卫报》乌克兰在美中俄峰会前一周第三次袭击克里米亚大桥 路透 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。
 - EN What to watch: official responses; civilian and infrastructure impact; sanctions or diplomatic talks
 - 后续关注: 官方回应；平民与基础设施影响；制裁或外交谈判
 
