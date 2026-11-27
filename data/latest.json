@@ -1,91 +1,145 @@
 {
-  "generated_at": "2026-11-26T13:28:53+00:00",
+  "generated_at": "2026-11-27T13:25:03+00:00",
   "timezone": "UTC",
   "count": 10,
   "items": [
     {
       "rank": 1,
-      "title": "Thanksgiving Storm Threatens the East Coast: Live Weather Updates - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQajcxMndmT3daSmtBUHQxSjQ2TUFqam1FTHNaaTg0UHprYTVXRUREMmZJVHZON0ZmOWZuNTdwdjcxOFhSZGRDNXV0aVJpU0hqY2k1SEVVZjlfNVRFcmZXNXRTR0JSZnhBMDRHZXlNSGlEMzZRamgxSlRSOEhsRjNPOA?oc=5",
-      "published_at": "2026-11-26T13:16:19+00:00",
-      "description": "Thanksgiving Storm Threatens the East Coast: Live Weather Updates The New York Times Live updates: Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding FOX Weather Powerful Thanksgiving storm threatens East Coast with floods, damaging winds The Washington Post Thanksgiving storms live updates: Heavy rains, winds and king tides batter coastal areas; 70 million face flooding; Macy's parade postponed due to weather Yahoo Hundreds of flights canceled on Thanksgiving Day as storms hit and question swirl over Iowa detonation: Morning Rundown NBC News",
-      "description_zh": "感恩节风暴威胁东海岸：实时天气更新《纽约时报》实时更新：感恩节风暴目标为 2.5 亿米以上，伴有强风、暴雨和洪水福克斯天气强大的感恩节风暴以洪水和破坏性大风威胁东海岸《华盛顿邮报》感恩节风暴实时更新：大雨、大风和巨潮袭击沿海地区； 7000万人面临洪水；梅西百货游行因天气原因推迟 雅虎 感恩节当天暴风雨袭来，数百个航班被取消，爱荷华州爆炸引发质疑：晨间简报 NBC 新闻",
+      "title": "Spain’s Sánchez stood up against Trump. His own voters may be about to bring him down - CNN",
+      "source": "CNN",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcHByb0VWZ1U5THlzUnR2Q3l3alZ2bXJ0MkE0STJoZGQ5OF9LY3ZNb0pDb181RmJ6SEo3UFFld1FlMzVvY1FMRnVxamNpU2h4T29wR2VXSmYzbXhKRjBMdjNaM0xpdmFmbkdwS2ZvUFdGelRKV205OXRjWXhiMEJOenhlYS00MVdzeUZIY2VubVd5eHBPXzZkVS1WbFBzNzlQUEZWazJISFF2bVlHRDlWS3VubVVLb0I0RzRXTA?oc=5",
+      "published_at": "2026-11-27T11:00:15+00:00",
+      "description": "Spain’s Sánchez stood up against Trump. His own voters may be about to bring him down CNN Spain’s election could pull Madrid closer to Trump’s Washington CNBC Spain’s Far-Right Era Ended in 1975. Will This Man Change That? The New York Times Why all of Europe should be watching as Spain’s far-right Vox closes in on power | Eoghan Gilmartin The Guardian FACTBOX Spain election: what the main parties are proposing Reuters",
+      "description_zh": "西班牙桑切斯站出来反对特朗普。他自己的选民可能即将让他下台 CNN 西班牙大选可能会让马德里更接近特朗普的华盛顿 CNBC 西班牙的极右时代于 1975 年结束。这个人会改变这一点吗？纽约时报 为什么整个欧洲都应该关注西班牙极右翼 Vox 的掌权 | Eoghan Gilmartin 卫报 FACTBOX 西班牙选举：主要政党的提议 路透",
       "keywords": [
-        "thanksgiving",
-        "weather",
-        "updates",
-        "live",
-        "threatens",
-        "storm",
-        "coast",
-        "east",
-        "storms",
-        "winds"
+        "spain",
+        "trump",
+        "voters",
+        "nchez",
+        "stood",
+        "bring",
+        "down",
+        "his",
+        "own",
+        "him"
       ],
       "keywords_zh": [
-        "感恩",
-        "天气",
-        "更新",
-        "居住",
-        "威胁",
-        "风暴",
-        "海岸",
-        "东方",
-        "风"
+        "西班牙",
+        "特朗普",
+        "选民",
+        "恩切兹",
+        "站着",
+        "带来",
+        "向下",
+        "他的",
+        "自己的",
+        "他"
       ],
       "category": {
-        "en": "Technology",
-        "zh": "科技"
+        "en": "Politics and governance",
+        "zh": "政治与治理"
       },
       "interpretation": {
-        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
-        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: thanksgiving, weather, updates, live, and threatens. The available excerpt says: Thanksgiving Storm Threatens the East Coast: Live Weather Updates The New York Times Live updates: Thanksgiving storms target 250M+ with intense winds, heavy rain, flooding FOX Weather Powerful Thanksgiving storm threatens East Coast with floods, damaging winds The Washington Post Thanksgiving storms live updates: Heavy rains, winds and king tides batter coastal areas; 70 million face flooding; Macy's parade postponed due to weather Yahoo Hundreds of flights canceled on Thanksgiving Day as storms hit and question swirl over Iowa detonation: Morning Rundown NBC News Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：感恩、天气、更新、居住、威胁。RSS 中文摘要显示：感恩节风暴威胁东海岸：实时天气更新《纽约时报》实时更新：感恩节风暴目标为 2.5 亿米以上，伴有强风、暴雨和洪水福克斯天气强大的感恩节风暴以洪水和破坏性大风威胁东海岸《华盛顿邮报》感恩节风暴实时更新：大雨、大风和巨潮袭击沿海地区； 7000万人面临洪水；梅西百货游行因天气原因推迟 雅虎 感恩节当天暴风雨袭来，数百个航班被取消，爱荷华州爆炸引发质疑：晨间简报 NBC 新闻 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: spain, trump, voters, nchez, and stood. The available excerpt says: Spain’s Sánchez stood up against Trump. His own voters may be about to bring him down CNN Spain’s election could pull Madrid closer to Trump’s Washington CNBC Spain’s Far-Right Era Ended in 1975. Will This Man Change That? The New York Times Why all of Europe should be watching as Spain’s far-right Vox closes in on power | Eoghan Gilmartin The Guardian FACTBOX Spain election: what the main parties are proposing Reuters Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：西班牙、特朗普、选民、恩切兹、站着。RSS 中文摘要显示：西班牙桑切斯站出来反对特朗普。他自己的选民可能即将让他下台 CNN 西班牙大选可能会让马德里更接近特朗普的华盛顿 CNBC 西班牙的极右时代于 1975 年结束。这个人会改变这一点吗？纽约时报 为什么整个欧洲都应该关注西班牙极右翼 Vox 的掌权 | Eoghan Gilmartin 卫报 FACTBOX 西班牙选举：主要政党的提议 路透 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
         "what_to_watch_en": [
-          "regulatory reaction",
-          "enterprise adoption",
-          "security or privacy consequences"
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
         ],
         "what_to_watch_zh": [
-          "监管反应",
-          "企业采用情况",
-          "安全或隐私后果"
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
         ]
       }
     },
     {
       "rank": 2,
-      "title": "Trump's new tariffs would put rates right back where they were before the Supreme Court stepped in - Yahoo Finance",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTVg5UHpONGNFdFNFMDVfQlFwT1p3dDItcHg2TWRmdDFkT1hCMTlXSGoxM2JLTXViNG1pbUwtZXY2WnB2U050QkViTVJQQkJsSnozaE1ISDMyRGJtSUJuTGNtdjhNWVNoVHVsV1ExYUhyWVM4QVdzNXlmbUg2LWE4b1hraGFCYXdkNEEzYW9LTExIZExfalhEOUtfTUh4MFFlU2dvT0hWUDRXLW1aUDZzNDJlWTNELVRSc09TVFA3SGpRR2FwcF82bXVHUnk0dHQ2TkhIbFJuUFNtNTJjelpfWURfMEFPakhHX2c?oc=5",
-      "published_at": "2026-11-26T11:04:36+00:00",
-      "description": "Trump's new tariffs would put rates right back where they were before the Supreme Court stepped in Yahoo Finance Trump administration proposes new tariffs on goods from major U.S. trading partners NPR China and other U.S. trading partners hit back at Trump’s new tariff plans AP News U.S. proposes new tariffs on 14 trading partners, including China and the EU CNBC Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea Bloomberg.com",
-      "description_zh": "特朗普的新关税将使税率回到最高法院介入雅虎财经之前的水平 特朗普政府提议对美国主要贸易伙伴的商品征收新关税 NPR 中国和其他美国贸易伙伴反击特朗普的新关税计划 美联社新闻 美国提议对包括中国和欧盟在内的 14 个贸易伙伴征收新关税 CNBC 特朗普的最新关税削弱了“中国加一”的理念 Bloomberg.com",
+      "title": "Deadlocked final result in New Zealand’s election leaves a centrist newcomer as the decider - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaUYyNjdXYjlOWm12Ukd3XzJLSUQwM1JtSlV3REh2bmIyWHdzelNCajRoNU4zYllONWRVLXRZY0pDVm16MVNtdWZzTlFmS0xMUHpzVFRIQnlVR2J1TlY2WE1zZVNZVmczeDA0cG50Y0VlSUk0SE1XRnBkOHgxU2hBdlJFMkpZdzZDWDFyUEo0alJ3QQ?oc=5",
+      "published_at": "2026-11-27T12:20:00+00:00",
+      "description": "Deadlocked final result in New Zealand’s election leaves a centrist newcomer as the decider AP News Christopher Luxon favoured for second term as New Zealand Prime Minister Reuters New Zealand election results set up tricky talks for conservative incumbent Al Jazeera New Zealand election: final results show ruling coalition needs minor party to govern The Guardian New Zealand's ruling coalition falls short of parliamentary majority by one seat BBC",
+      "description_zh": "新西兰选举陷入僵局，中间派新人成为决定者 美联社新闻 克里斯托弗·卢克森 (Christopher Luxon) 有望连任新西兰总理 路透 新西兰选举结果为保守派现任半岛电视台的新西兰选举带来了棘手的谈判：最终结果显示执政联盟需要小党来执政 《卫报》 新西兰执政联盟以一个席位之差未能获得议会多数席位 BBC",
       "keywords": [
-        "tariffs",
-        "back",
-        "trump's",
-        "supreme",
-        "stepped",
-        "finance",
-        "before",
-        "would",
-        "rates",
-        "right"
+        "zealand",
+        "election",
+        "final",
+        "deadlocked",
+        "centrist",
+        "newcomer",
+        "decider",
+        "result",
+        "leaves",
+        "coalition"
       ],
       "keywords_zh": [
-        "关税",
-        "后退",
-        "特朗普的",
-        "最高",
-        "阶梯式",
-        "金融",
-        "前",
-        "会",
-        "费率",
-        "正确的"
+        "新西兰",
+        "选举",
+        "最终的",
+        "陷入僵局",
+        "中间派",
+        "新人",
+        "决定者",
+        "结果",
+        "树叶",
+        "联盟"
+      ],
+      "category": {
+        "en": "Politics and governance",
+        "zh": "政治与治理"
+      },
+      "interpretation": {
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: zealand, election, final, deadlocked, and centrist. The available excerpt says: Deadlocked final result in New Zealand’s election leaves a centrist newcomer as the decider AP News Christopher Luxon favoured for second term as New Zealand Prime Minister Reuters New Zealand election results set up tricky talks for conservative incumbent Al Jazeera New Zealand election: final results show ruling coalition needs minor party to govern The Guardian New Zealand's ruling coalition falls short of parliamentary majority by one seat BBC Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：新西兰、选举、最终的、陷入僵局、中间派。RSS 中文摘要显示：新西兰选举陷入僵局，中间派新人成为决定者 美联社新闻 克里斯托弗·卢克森 (Christopher Luxon) 有望连任新西兰总理 路透 新西兰选举结果为保守派现任半岛电视台的新西兰选举带来了棘手的谈判：最终结果显示执政联盟需要小党来执政 《卫报》 新西兰执政联盟以一个席位之差未能获得议会多数席位 BBC 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "what_to_watch_en": [
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
+        ],
+        "what_to_watch_zh": [
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "title": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pUEpPd01JNWRYcWp6dm9rMTNJNDA2aTlLNmhiazd3YWJVTEt1R18zWlQ2aXF0T29SSmMtTFQyX0N6TUlsSXZrSFpTM3JubU9BQWUzQmNqeExmaTdJRFhOeVRvdkNFZXlMell0SGZTVWhsbk91RGgyOWFISjE?oc=5",
+      "published_at": "2026-11-27T10:00:10+00:00",
+      "description": "Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors The New York Times See more headlines & perspectives on Google News",
+      "description_zh": "俄罗斯的牌匾消除了古拉格恐怖事件的记忆 《纽约时报》 在 Google 新闻上查看更多头条新闻和观点",
+      "keywords": [
+        "plaque",
+        "horrors",
+        "russia",
+        "erases",
+        "memory",
+        "gulag",
+        "perspectives",
+        "headlines",
+        "google",
+        "see"
+      ],
+      "keywords_zh": [
+        "牌匾",
+        "恐怖",
+        "俄罗斯",
+        "擦除",
+        "记忆",
+        "古拉格",
+        "观点",
+        "头条新闻",
+        "谷歌",
+        "看"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -94,8 +148,8 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: tariffs, back, trump's, supreme, and stepped. The available excerpt says: Trump's new tariffs would put rates right back where they were before the Supreme Court stepped in Yahoo Finance Trump administration proposes new tariffs on goods from major U.S. trading partners NPR China and other U.S. trading partners hit back at Trump’s new tariff plans AP News U.S. proposes new tariffs on 14 trading partners, including China and the EU CNBC Trump’s Latest Tariffs Undercut the ‘China Plus One’ Idea Bloomberg.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：关税、后退、特朗普的、最高、阶梯式。RSS 中文摘要显示：特朗普的新关税将使税率回到最高法院介入雅虎财经之前的水平 特朗普政府提议对美国主要贸易伙伴的商品征收新关税 NPR 中国和其他美国贸易伙伴反击特朗普的新关税计划 美联社新闻 美国提议对包括中国和欧盟在内的 14 个贸易伙伴征收新关税 CNBC 特朗普的最新关税削弱了“中国加一”的理念 Bloomberg.com 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: plaque, horrors, russia, erases, and memory. The available excerpt says: Plaque by Plaque, Russia Erases the Memory of the Gulag’s Horrors The New York Times See more headlines & perspectives on Google News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：牌匾、恐怖、俄罗斯、擦除、记忆。RSS 中文摘要显示：俄罗斯的牌匾消除了古拉格恐怖事件的记忆 《纽约时报》 在 Google 新闻上查看更多头条新闻和观点 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -109,195 +163,35 @@
       }
     },
     {
-      "rank": 3,
-      "title": "Macy's Thanksgiving parade postponed for the first time in the event's history - Axios",
-      "source": "Axios",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNU9fSWwxVXF0VnltZ3FiOWlpTzJ2ZzR3aWV0UVMycm50dWpLOExIZGlHMjJvNk9hUkhkbEdKTGZKcHBhODVPMFFDZ2s4N3hmU3RhWU5YaGxZRHd6MGpSYWVtcXA2NjItREttZHQzWXlZdTZNRG5WVUhrWVlfSE9WLXA2blk0a1E?oc=5",
-      "published_at": "2026-11-26T09:44:04+00:00",
-      "description": "Macy's Thanksgiving parade postponed for the first time in the event's history Axios The Thanksgiving Parade on Saturday. Can They Do That? The New York Times Macy's Thanksgiving Day Parade postponed to Saturday The Weather Channel Macy's parade postponed: Balloon inflation will not get second celebration Friday ABC7 New York ▶ Track live radar as strong winds and rain set to hit NYC area on Thanksgiving NBC New York",
-      "description_zh": "梅西百货感恩节游行在该活动历史上首次推迟 Axios 周六的感恩节游行。他们能做到吗？纽约时报 梅西百货感恩节大游行推迟至周六 天气频道 梅西百货大游行推迟：气球膨胀将不会在周五举行第二次庆祝活动 ABC7 纽约 ▶ 跟踪实时雷达，感恩节强风和降雨将袭击纽约地区 NBC New York",
-      "keywords": [
-        "thanksgiving",
-        "parade",
-        "postponed",
-        "macy's",
-        "event's",
-        "history",
-        "first",
-        "axios",
-        "time",
-        "saturday"
-      ],
-      "keywords_zh": [
-        "感恩",
-        "游行",
-        "推迟",
-        "梅西百货",
-        "事件的",
-        "历史",
-        "第一的",
-        "轴",
-        "时间",
-        "周六"
-      ],
-      "category": {
-        "en": "Economy and markets",
-        "zh": "经济与市场"
-      },
-      "interpretation": {
-        "summary_en": "This story is tied to business conditions, financial expectations, or the cost of goods and capital.",
-        "summary_zh": "这条新闻与商业环境、金融预期或商品与资金成本相关。",
-        "detailed_en": "Key signals: thanksgiving, parade, postponed, macy's, and event's. The available excerpt says: Macy's Thanksgiving parade postponed for the first time in the event's history Axios The Thanksgiving Parade on Saturday. Can They Do That? The New York Times Macy's Thanksgiving Day Parade postponed to Saturday The Weather Channel Macy's parade postponed: Balloon inflation will not get second celebration Friday ABC7 New York ▶ Track live radar as strong winds and rain set to hit NYC area on Thanksgiving NBC New York Read together with the source and timing, the story appears important because The practical effect may show up through investor sentiment, supply chains, company earnings, consumer prices, or central-bank expectations.",
-        "detailed_zh": "关键词信号：感恩、游行、推迟、梅西百货、事件的。RSS 中文摘要显示：梅西百货感恩节游行在该活动历史上首次推迟 Axios 周六的感恩节游行。他们能做到吗？纽约时报 梅西百货感恩节大游行推迟至周六 天气频道 梅西百货大游行推迟：气球膨胀将不会在周五举行第二次庆祝活动 ABC7 纽约 ▶ 跟踪实时雷达，感恩节强风和降雨将袭击纽约地区 NBC New York 结合来源与发布时间看，这条新闻值得关注，因为实际影响可能体现在投资者情绪、供应链、企业盈利、消费价格或央行预期上。",
-        "what_to_watch_en": [
-          "price movements",
-          "company and government guidance",
-          "second-round supply-chain effects"
-        ],
-        "what_to_watch_zh": [
-          "价格变化",
-          "企业与政府指引",
-          "供应链二次影响"
-        ]
-      }
-    },
-    {
       "rank": 4,
-      "title": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUlp4UDdpT1oxNzV4N0JzS3ktMXFGVFBMRnVYQWNkc3NKN29FdmR0MktUNl9IV0xGSjFVem02c3Nyd05hQ1RGX2wzUndQY2JXVWZsZGVoZlpETTJPNXNfdUVoTjdGQ051YXRmU0VrcUIxQnZtYjFyWHJwWFVuSktyOGh3dmRDUTZJek9VNGhYdUVKeGdwZjFzMlhTeUhpNjQ4a3ozdmhRNlBaSUdZa2tBRzVTTUdCWVNHQkRzZVcxRGktcWZl?oc=5",
-      "published_at": "2026-11-25T21:37:07+00:00",
-      "description": "Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes The New York Times At least 31 killed in fuel tanker fire near Cairo, Egyptian authorities say CNN Egypt detains a driver suspected of causing Cairo tanker crash that killed 31 The Hill Highway explosion in Giza: How deadly are Egypt’s roads and railways? Al Jazeera Thirty-one killed in fire after vehicle overturns in Egypt Reuters",
-      "description_zh": "开罗附近道路火灾造成数十人死亡，载满石油的卡车相撞 《纽约时报》 埃及当局称，开罗附近油罐车起火至少造成 31 人死亡 CNN 埃及拘留了一名涉嫌造成开罗油罐车事故、造成 31 人死亡的司机 吉萨希尔高速公路爆炸：埃及的公路和铁路有多致命？半岛电视台 埃及车辆翻车起火致31人死亡 路透社",
+      "title": "Russia’s hybrid war on Europe evolving, but failing: IISS - Al Jazeera",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSi1EdWxpNDFBQ2NFLWNNZUJjSHloMDd4cXM0QVIxY2dKOVk1SlA4SThmTWVEVGc1SFB3WTQ0WWZBejU0dUZlRE5CblRjbC04UTBJLWlGSzFEX0gxMVVHQkc4X1dhUmJMRHdKdjdlNV8tUkU3WnhfeHlCQ2h0OXoxUzVIdHI2cC1KMEN4cGUzTG9vTHo4MGxhR1lPTnHSAaIBQVVfeXFMT3ZGMERBTzlsUVd0a240SlpPNVhJYjB0akdlMXI1U1RwR2sxSHdpWjhLWVhNcTcxQWg0MVFZRzY0ZTZpZ0FZRHZ4SzFMdHhKYjNxaTY2RWdpNzcxMVZwXzRfVlpNakw2RlV6cXpKOGMySjJxWTl6QUVpQXBJZWJrOWhGNnhROHUtVzJMb196d3N5dVJjTldtZ19CSnFFYkUxMHNn?oc=5",
+      "published_at": "2026-11-27T11:48:45+00:00",
+      "description": "Russia’s hybrid war on Europe evolving, but failing: IISS Al Jazeera Alleged Russia-directed sabotage in Europe risks mass-casualty event, think tank warns CNN Russian sabotage attacks in Europe up 16%, IISS says Reuters UK warns companies of potential Russian sabotage threat Al Jazeera Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage BBC",
+      "description_zh": "俄罗斯对欧洲的混合战争不断发展，但失败了：半岛电视台称俄罗斯在欧洲进行的破坏活动可能造成大规模伤亡事件，智囊团警告CNN，俄罗斯在欧洲的破坏袭击增加了16%，路透社称，英国警告企业注意俄罗斯潜在的破坏威胁。",
       "keywords": [
-        "cairo",
-        "fire",
-        "near",
-        "petroleum-laden",
-        "crashes",
-        "dozens",
-        "kills",
-        "truck",
-        "road",
-        "killed"
-      ],
-      "keywords_zh": [
-        "开罗",
-        "火",
-        "靠近",
-        "石油装载量",
-        "崩溃",
-        "几十个",
-        "造成死亡",
-        "卡车",
-        "路",
-        "死亡"
-      ],
-      "category": {
-        "en": "Technology",
-        "zh": "科技"
-      },
-      "interpretation": {
-        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
-        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: cairo, fire, near, petroleum-laden, and crashes. The available excerpt says: Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes The New York Times At least 31 killed in fuel tanker fire near Cairo, Egyptian authorities say CNN Egypt detains a driver suspected of causing Cairo tanker crash that killed 31 The Hill Highway explosion in Giza: How deadly are Egypt’s roads and railways? Al Jazeera Thirty-one killed in fire after vehicle overturns in Egypt Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：开罗、火、靠近、石油装载量、崩溃。RSS 中文摘要显示：开罗附近道路火灾造成数十人死亡，载满石油的卡车相撞 《纽约时报》 埃及当局称，开罗附近油罐车起火至少造成 31 人死亡 CNN 埃及拘留了一名涉嫌造成开罗油罐车事故、造成 31 人死亡的司机 吉萨希尔高速公路爆炸：埃及的公路和铁路有多致命？半岛电视台 埃及车辆翻车起火致31人死亡 路透社 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
-        "what_to_watch_en": [
-          "regulatory reaction",
-          "enterprise adoption",
-          "security or privacy consequences"
-        ],
-        "what_to_watch_zh": [
-          "监管反应",
-          "企业采用情况",
-          "安全或隐私后果"
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "title": "Bay Area weather recap: Flood cleanup underway after waves slam Pacifica - NBC Bay Area",
-      "source": "NBC Bay Area",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVA4MkUxTmlMa3ZhR19JWkVoTWNyVGg1dFItbEpxUjczN09BZXN1ZlhZaVRvY0dMWmhURTlMamRlWkJ0bXJuRjRtX3B4cE1PYk9UQTRNMnQ0c2NJeEFfOVRuWXVvdkNxSUxneVF6OXRXbF9yWklwaDY5VTFWSFloR240bG5ia2djMzBwY2xzOEM1WllVZV9FTmVWaW5Xbzdv0gGoAUFVX3lxTE91ZTE1RXpDQ3g2Sm5wNnZUN2NnT3NISjl0QTFSbTlHajRHN205YlFNOTYtUHBVTVlISldWMDFtUlRzT1g3TU5hYWJsc2ExSjVyRTVFUUQ4NjZwZ3lSTlBfamlNcnhBazVFbDZOQ3JCd1ZVdmlySDlhZFp5WjNmZGl3dGNVblF5VVJsX1FUeV90cERGLVFUa3JtWWxsT2lfbjRmOHBCbkJDMA?oc=5",
-      "published_at": "2026-11-26T03:16:09+00:00",
-      "description": "Bay Area weather recap: Flood cleanup underway after waves slam Pacifica NBC Bay Area King tides and strong waves destroy part of Pacifica pier AP News Pier collapses, seawalls breached, homes flooded as big waves, historic high tides hit California Los Angeles Times King tides bring record coastal flooding to California Yale Climate Connections Watch: Part of Pacifica pier collapses during king tides KCRA",
-      "description_zh": "湾区天气回顾：海浪袭击 Pacifica 后正在进行洪水清理工作 NBC 湾区 大潮和强浪摧毁了 Pacifica 码头的一部分 美联社新闻 码头倒塌，海堤决口，房屋被大浪淹没，历史性高潮袭击加州 洛杉矶时报 大潮给加州带来创纪录的沿海洪水 耶鲁气候联系观察：大潮期间 Pacifica 码头的部分设施倒塌 KCRA",
-      "keywords": [
-        "pacifica",
-        "waves",
-        "area",
-        "bay",
-        "underway",
-        "weather",
-        "cleanup",
-        "recap",
-        "flood",
-        "tides"
-      ],
-      "keywords_zh": [
-        "太平洋",
-        "波浪",
-        "区域",
-        "湾",
-        "进行",
-        "天气",
-        "清理",
-        "回顾",
-        "洪水",
-        "潮汐"
-      ],
-      "category": {
-        "en": "Climate, environment, and safety",
-        "zh": "气候、环境与安全"
-      },
-      "interpretation": {
-        "summary_en": "This story concerns environmental risk, infrastructure safety, or public emergency response.",
-        "summary_zh": "这条新闻关系到环境风险、基础设施安全或公共应急响应。",
-        "detailed_en": "Key signals: pacifica, waves, area, bay, and underway. The available excerpt says: Bay Area weather recap: Flood cleanup underway after waves slam Pacifica NBC Bay Area King tides and strong waves destroy part of Pacifica pier AP News Pier collapses, seawalls breached, homes flooded as big waves, historic high tides hit California Los Angeles Times King tides bring record coastal flooding to California Yale Climate Connections Watch: Part of Pacifica pier collapses during king tides KCRA Read together with the source and timing, the story appears important because The impact can extend beyond the immediate location through insurance costs, infrastructure checks, public safety rules, or energy policy.",
-        "detailed_zh": "关键词信号：太平洋、波浪、区域、湾、进行。RSS 中文摘要显示：湾区天气回顾：海浪袭击 Pacifica 后正在进行洪水清理工作 NBC 湾区 大潮和强浪摧毁了 Pacifica 码头的一部分 美联社新闻 码头倒塌，海堤决口，房屋被大浪淹没，历史性高潮袭击加州 洛杉矶时报 大潮给加州带来创纪录的沿海洪水 耶鲁气候联系观察：大潮期间 Pacifica 码头的部分设施倒塌 KCRA 结合来源与发布时间看，这条新闻值得关注，因为影响可能超出事发地本身，延伸到保险成本、基础设施检查、公共安全规则或能源政策。",
-        "what_to_watch_en": [
-          "damage assessment",
-          "public safety advisories",
-          "policy or infrastructure reviews"
-        ],
-        "what_to_watch_zh": [
-          "损害评估",
-          "公共安全提示",
-          "政策或基础设施复盘"
-        ]
-      }
-    },
-    {
-      "rank": 6,
-      "title": "Ukraine tells Putin to ‘stop complaining’ about oil refinery attacks - The Hill",
-      "source": "The Hill",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSGdnYnBDUmwzZ0xlMlFHdnY3Tm9EREFvaFlSRmRFcTE2LWdDUnE3Nl9ueFcta1M4WDQzWXllb0xyQnNJbHZIQXlUN2FOMzNPT0FqcWdmUEhFZV9TTHhGTV9vd1h1RHpBYW1Jek83U2NMODgxWllJaDMyMTlMd053SUJSYlJQZmpYUXE1eXFR0gGTAUFVX3lxTE03RUV5bFNyZF9MNTBIU1VsdHZpcXRvWkYzWnRpZnJOZGFpT0F1SmwxSXl1NzNSbllDeUh1TU1hNkRQZGdBM2xQUDFKanJLWG1iQ0l2U0JrYTNpTWd0aG1mN2lwMjVzaEJ0OVFzUFhhSmZLSXU2RzR2eDVyMERhOUx3MEp0d0NUWnJkQjlVSWhfVTEyMA?oc=5",
-      "published_at": "2026-11-25T21:11:00+00:00",
-      "description": "Ukraine tells Putin to ‘stop complaining’ about oil refinery attacks The Hill Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation CNBC Russian Offensive Campaign Assessment, November 24, 2026 Institute for the Study of War Russia-Ukraine updates: Moscow will ‘respond’ to attacks on oil refineries Al Jazeera Ukrainian attacks drive Russian oil refining to 20-year low – Bloomberg Ukrinform",
-      "description_zh": "乌克兰要求普京“停止抱怨”炼油厂袭击 乌克兰山丘要求普京“停止抱怨”炼油厂袭击，因为俄罗斯承诺进行报复 CNBC 俄罗斯进攻战役评估，2026 年 11 月 24 日 俄罗斯-乌克兰战争研究所最新动态：莫斯科将对炼油厂袭击做出“回应”",
-      "keywords": [
-        "attacks",
-        "oil",
-        "complaining",
-        "refinery",
-        "ukraine",
-        "tells",
-        "putin",
-        "stop",
-        "hill",
+        "europe",
+        "jazeera",
+        "iiss",
+        "evolving",
+        "sabotage",
+        "failing",
+        "russia",
+        "hybrid",
+        "war",
         "russian"
       ],
       "keywords_zh": [
-        "袭击",
-        "石油",
-        "抱怨",
-        "炼油厂",
-        "乌克兰",
-        "告诉",
-        "普京",
-        "停止",
-        "爬坡道",
-        "俄罗斯"
+        "欧洲",
+        "半岛电视台",
+        "IISS",
+        "不断发展的",
+        "破坏",
+        "失败",
+        "俄罗斯",
+        "杂交种",
+        "战争"
       ],
       "category": {
         "en": "Geopolitics and security",
@@ -306,8 +200,114 @@
       "interpretation": {
         "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
         "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: attacks, oil, complaining, refinery, and ukraine. The available excerpt says: Ukraine tells Putin to ‘stop complaining’ about oil refinery attacks The Hill Ukraine tells Putin to ‘stop complaining’ over oil refinery attacks as Russia promises retaliation CNBC Russian Offensive Campaign Assessment, November 24, 2026 Institute for the Study of War Russia-Ukraine updates: Moscow will ‘respond’ to attacks on oil refineries Al Jazeera Ukrainian attacks drive Russian oil refining to 20-year low – Bloomberg Ukrinform Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：袭击、石油、抱怨、炼油厂、乌克兰。RSS 中文摘要显示：乌克兰要求普京“停止抱怨”炼油厂袭击 乌克兰山丘要求普京“停止抱怨”炼油厂袭击，因为俄罗斯承诺进行报复 CNBC 俄罗斯进攻战役评估，2026 年 11 月 24 日 俄罗斯-乌克兰战争研究所最新动态：莫斯科将对炼油厂袭击做出“回应” 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "detailed_en": "Key signals: europe, jazeera, iiss, evolving, and sabotage. The available excerpt says: Russia’s hybrid war on Europe evolving, but failing: IISS Al Jazeera Alleged Russia-directed sabotage in Europe risks mass-casualty event, think tank warns CNN Russian sabotage attacks in Europe up 16%, IISS says Reuters UK warns companies of potential Russian sabotage threat Al Jazeera Businesses supporting Ukraine told to 'act now' to protect against Russian sabotage BBC Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：欧洲、半岛电视台、IISS、不断发展的、破坏。RSS 中文摘要显示：俄罗斯对欧洲的混合战争不断发展，但失败了：半岛电视台称俄罗斯在欧洲进行的破坏活动可能造成大规模伤亡事件，智囊团警告CNN，俄罗斯在欧洲的破坏袭击增加了16%，路透社称，英国警告企业注意俄罗斯潜在的破坏威胁。 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "what_to_watch_en": [
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
+        ],
+        "what_to_watch_zh": [
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "title": "How Serbia’s students devised a winning strategy to bring down strongman Vucic - AP News",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeDc3UnV4eGxuckd6Rm9pclFHZ0E2NnFyMTYwOXJhX0xHRTZmbXdPcFJkYUZVZEVkUlhPSHVGdFpOSEZ4LVF0ejlMMFQyMlVmUWs1TmloOXNuRDR1Y01QUXJZVGtabU9yUUhLRUR5ZGtLT1UzU0ljVUN4U1ZDVVJ0Z2w5V2xvMHJ1Mkk1RkZZOFRZcDk2Nlo2am82ZnJaNFdu?oc=5",
+      "published_at": "2026-11-27T07:44:00+00:00",
+      "description": "How Serbia’s students devised a winning strategy to bring down strongman Vucic AP News Serbia's student movement yet to name prime minister as deadlines loom Reuters Serbia's new student-led government proposes a 4-day work week and no reality TV until 11 p.m. CBS News The Guardian view on Serbia’s new political era: a generational opportunity must not be wasted | Editorial The Guardian Serbian Parliament elects new members of the EU-Serbia Stabilisation and Association Parliamentary Committee European Western Balkans",
+      "description_zh": "塞尔维亚学生如何制定制胜战略，推翻强人武契奇 美联社新闻 塞尔维亚学生运动在最后期限临近时尚未任命总理 路透社 塞尔维亚新学生领导的政府提议每周工作 4 天，晚上 11 点之前不播放真人秀节目。哥伦比亚广播公司新闻《卫报》对塞尔维亚新政治时代的看法：绝不能浪费一代人的机会|社论《卫报》塞尔维亚议会选举欧盟-塞尔维亚稳定与结盟议会委员会欧洲西巴尔干地区新成员",
+      "keywords": [
+        "serbia",
+        "strongman",
+        "students",
+        "strategy",
+        "devised",
+        "winning",
+        "bring",
+        "vucic",
+        "down",
+        "serbia's"
+      ],
+      "keywords_zh": [
+        "塞尔维亚",
+        "大力士",
+        "学生",
+        "战略",
+        "设计的",
+        "获胜",
+        "带来",
+        "狼",
+        "向下",
+        "塞尔维亚的"
+      ],
+      "category": {
+        "en": "Politics and governance",
+        "zh": "政治与治理"
+      },
+      "interpretation": {
+        "summary_en": "This story points to a shift in political power, public mandate, or policy direction.",
+        "summary_zh": "这条新闻指向政治权力、公众授权或政策方向的变化。",
+        "detailed_en": "Key signals: serbia, strongman, students, strategy, and devised. The available excerpt says: How Serbia’s students devised a winning strategy to bring down strongman Vucic AP News Serbia's student movement yet to name prime minister as deadlines loom Reuters Serbia's new student-led government proposes a 4-day work week and no reality TV until 11 p.m. CBS News The Guardian view on Serbia’s new political era: a generational opportunity must not be wasted | Editorial The Guardian Serbian Parliament elects new members of the EU-Serbia Stabilisation and Association Parliamentary Committee European Western Balkans Read together with the source and timing, the story appears important because Political changes can alter regulation, alliances, fiscal choices, and market expectations, especially when they involve national leadership or legislative control.",
+        "detailed_zh": "关键词信号：塞尔维亚、大力士、学生、战略、设计的。RSS 中文摘要显示：塞尔维亚学生如何制定制胜战略，推翻强人武契奇 美联社新闻 塞尔维亚学生运动在最后期限临近时尚未任命总理 路透社 塞尔维亚新学生领导的政府提议每周工作 4 天，晚上 11 点之前不播放真人秀节目。哥伦比亚广播公司新闻《卫报》对塞尔维亚新政治时代的看法：绝不能浪费一代人的机会|社论《卫报》塞尔维亚议会选举欧盟-塞尔维亚稳定与结盟议会委员会欧洲西巴尔干地区新成员 结合来源与发布时间看，这条新闻值得关注，因为政治变化可能改变监管、联盟关系、财政选择和市场预期，尤其是涉及国家领导层或立法控制权时。",
+        "what_to_watch_en": [
+          "polling or vote margins",
+          "party reactions",
+          "policy promises after the result"
+        ],
+        "what_to_watch_zh": [
+          "民调或票差",
+          "党派反应",
+          "结果后的政策承诺"
+        ]
+      }
+    },
+    {
+      "rank": 6,
+      "title": "EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say - Reuters",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeVZ6VDRqcUU2ZDJ1UWdyUmYwNXRPMHAzR0pjRk8zLTJqYlF6YTVFV1Q5V3ZKV1IzZ0NDN2tKdkNxVmUtSmxpNnBNVmkzRWp5NkZ4SFdkaXZ6Zy1hUlhIUkdOY3ozaWVCLVI3M1FaRE9CQVZacHZ0c0tGM3AtUlFWaVR1Tnp4T084eVFjWDIxbVJQa1F0Z1RQRUdkU0YzdnZWMWJWNHRMT0JiQ1NHeDJF?oc=5",
+      "published_at": "2026-11-27T06:02:00+00:00",
+      "description": "EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say Reuters The Trump Administration Encouraged Iran And Venezuela To Leave OPEC: Report Yahoo Crude Oil Prices, 27 Nov 2026: OPEC Under US Pressure — CMB News CMB News Russia says it is unaware of any plans by Venezuela, Iraq to quit OPEC marketscreener.com Novak: Not heard Iraq, Venezuela could quit OPEC Breakingthenews.net",
+      "description_zh": "独家：消息人士称，美国敦促委内瑞拉和伊拉克考虑离开欧佩克 路透社 特朗普政府鼓励伊朗和委内瑞拉离开欧佩克：雅虎原油价格报告，2026 年 11 月 27 日：欧佩克在美国压力下 — CMB 新闻 CMB 新闻 俄罗斯表示不知道委内瑞拉、伊拉克有任何退出欧佩克的计划 marketscreener.com 诺瓦克：没有听说伊拉克、委内瑞拉可能退出欧佩克 Breakingthenews.net",
+      "keywords": [
+        "opec",
+        "venezuela",
+        "iraq",
+        "exclusive",
+        "consider",
+        "leaving",
+        "sources",
+        "pushed",
+        "say",
+        "quit"
+      ],
+      "keywords_zh": [
+        "欧佩克",
+        "委内瑞拉",
+        "伊拉克",
+        "独家的",
+        "考虑",
+        "离开",
+        "来源",
+        "推",
+        "说",
+        "辞职"
+      ],
+      "category": {
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
+      },
+      "interpretation": {
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: opec, venezuela, iraq, exclusive, and consider. The available excerpt says: EXCLUSIVE: US pushed Venezuela, Iraq to consider leaving OPEC, sources say Reuters The Trump Administration Encouraged Iran And Venezuela To Leave OPEC: Report Yahoo Crude Oil Prices, 27 Nov 2026: OPEC Under US Pressure — CMB News CMB News Russia says it is unaware of any plans by Venezuela, Iraq to quit OPEC marketscreener.com Novak: Not heard Iraq, Venezuela could quit OPEC Breakingthenews.net Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：欧佩克、委内瑞拉、伊拉克、独家的、考虑。RSS 中文摘要显示：独家：消息人士称，美国敦促委内瑞拉和伊拉克考虑离开欧佩克 路透社 特朗普政府鼓励伊朗和委内瑞拉离开欧佩克：雅虎原油价格报告，2026 年 11 月 27 日：欧佩克在美国压力下 — CMB 新闻 CMB 新闻 俄罗斯表示不知道委内瑞拉、伊拉克有任何退出欧佩克的计划 marketscreener.com 诺瓦克：没有听说伊拉克、委内瑞拉可能退出欧佩克 Breakingthenews.net 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
           "official responses",
           "civilian and infrastructure impact",
@@ -322,88 +322,35 @@
     },
     {
       "rank": 7,
-      "title": "Live - EU summit: Budget deal 'light years away', Meloni says as talks continue - Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbTNQLUtHb21Xd1FJMWJOaFRINDZKZ1ZnRUxGZC1GeHJSbS13MEZQUXE2dXlvNnNTWHVyRFVTYkdPZm9sZVNSMk12d1hGV1A1bmJGbzJlaUxtb3ZaM1JlLUZtamZEZXZYaHpJaW1jYXhXd0FfT3RBcWpMTFhYUzlxd3pxdjVjLUdPUml3M2RVWTVySEgtTUMxRUVmalpLRi1F?oc=5",
-      "published_at": "2026-11-26T07:00:51+00:00",
-      "description": "Live - EU summit: Budget deal 'light years away', Meloni says as talks continue Euronews.com Italy's Meloni talks tough on EU budget, warns Ukraine on Mediterranean strike Reuters EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live The Guardian Ukraine war must not spread to the Mediterranean says Meloni ANSA EU far from deal on bloc's budget, Italy PM Meloni says TradingView",
-      "description_zh": "直播 - 欧盟峰会：预算协议“遥遥无期”，梅洛尼表示谈判继续进行 Euronews.com 意大利梅洛尼在欧盟预算问题上态度强硬，警告乌克兰地中海袭击 路透社 欧盟领导人在峰会上就预算达成一致“遥遥无期”，乔治亚·梅洛尼警告 - 欧洲直播 卫报 乌克兰战争绝不能蔓延到地中海 梅洛尼表示乌克兰战争绝不能蔓延到地中海 意大利总理梅洛尼表示，欧盟远未就欧盟预算达成协议 TradingView",
+      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31 - BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwUGVkZU5HZHFBb1lzaTdPaUlqOUtqSWNXYWJkaG1iOGU4RmotelctbXNteENGR21ZTTdtOF81SkpwNEttRURTSHNHT0pEb1VGbWt5Q281djNpcmc?oc=5",
+      "published_at": "2026-11-26T12:16:06+00:00",
+      "description": "Egyptian authorities arrest motorist over tanker crash that killed 31 BBC Egyptians mourn, demand accountability after deadly tanker explosion kills 31 Reuters Pope Leo XIV prays for victims of Cairo fuel lorry explosion Vatican News Egypt detains driver suspected of causing Cairo fuel tanker crash and inferno that left 31 dead Fox News At least 31 killed in fuel tanker fire near Cairo, Egyptian authorities say CNN",
+      "description_zh": "埃及当局逮捕因油罐车事故造成 31 人死亡的司机 BBC 埃及人哀悼，要求追究致命油罐车爆炸造成 31 人死亡的责任 路透社 教皇利奥十四世为开罗油罐车爆炸的受害者祈祷 梵蒂冈新闻 埃及拘留了涉嫌造成开罗油罐车事故和造成 31 人死亡的大火的司机 福克斯新闻 埃及当局称，开罗附近的油罐车火灾至少有 31 人死亡",
       "keywords": [
-        "meloni",
-        "budget",
-        "summit",
-        "talks",
-        "live",
-        "deal",
-        "continue",
-        "euronews",
-        "light",
-        "years"
+        "tanker",
+        "authorities",
+        "egyptian",
+        "killed",
+        "crash",
+        "motorist",
+        "arrest",
+        "cairo",
+        "fuel",
+        "explosion"
       ],
       "keywords_zh": [
-        "瓜类",
-        "预算",
-        "首脑",
-        "会谈",
-        "居住",
-        "交易",
-        "继续",
-        "欧洲新闻报",
-        "光",
-        "年"
-      ],
-      "category": {
-        "en": "Geopolitics and security",
-        "zh": "地缘政治与安全"
-      },
-      "interpretation": {
-        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
-        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
-        "detailed_en": "Key signals: meloni, budget, summit, talks, and live. The available excerpt says: Live - EU summit: Budget deal 'light years away', Meloni says as talks continue Euronews.com Italy's Meloni talks tough on EU budget, warns Ukraine on Mediterranean strike Reuters EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live The Guardian Ukraine war must not spread to the Mediterranean says Meloni ANSA EU far from deal on bloc's budget, Italy PM Meloni says TradingView Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
-        "detailed_zh": "关键词信号：瓜类、预算、首脑、会谈、居住。RSS 中文摘要显示：直播 - 欧盟峰会：预算协议“遥遥无期”，梅洛尼表示谈判继续进行 Euronews.com 意大利梅洛尼在欧盟预算问题上态度强硬，警告乌克兰地中海袭击 路透社 欧盟领导人在峰会上就预算达成一致“遥遥无期”，乔治亚·梅洛尼警告 - 欧洲直播 卫报 乌克兰战争绝不能蔓延到地中海 梅洛尼表示乌克兰战争绝不能蔓延到地中海 意大利总理梅洛尼表示，欧盟远未就欧盟预算达成协议 TradingView 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
-        "what_to_watch_en": [
-          "official responses",
-          "civilian and infrastructure impact",
-          "sanctions or diplomatic talks"
-        ],
-        "what_to_watch_zh": [
-          "官方回应",
-          "平民与基础设施影响",
-          "制裁或外交谈判"
-        ]
-      }
-    },
-    {
-      "rank": 8,
-      "title": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream - The New York Times",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUxSQ20tSWhWSGQ2SzgxbGhaYnhvOF9ZVHF5bFpURncxcW4wOWNRbmRNSlBTeGhKMWZYSXozVUdIcmhVcUc5RDYxaHN0UG44UmxkSmNHcXU3V2FvYmlieXZCS3JzQ1QxNlM4T05WOE03RXBwNlhHanBMcVhEVWFTRmRDVFFBMmEycXlKUldBdEFIY2VraUpmcndvQm1LLVRodlVyUA?oc=5",
-      "published_at": "2026-11-26T10:02:53+00:00",
-      "description": "After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream The New York Times Prepping has come to Europe, and it's government advice, not just online doom-mongering, behind the trend CBS News New survey finds nearly 70% of respondents lack enough drinking water to last just 3 days Yahoo Survival Kit Sales Surge in Greece and Across Europe tovima.com For Europe, food security becomes national security GZERO Media",
-      "description_zh": "网络攻击和炸弹威胁袭击欧洲后，生存主义成为主流 《纽约时报》欧洲已做好准备，这一趋势的背后是政府的建议，而不仅仅是网上的末日散布 哥伦比亚广播公司新闻 最新调查发现，近 70% 的受访者缺乏足够的饮用水仅维持 3 天 雅虎求生工具包在希腊和整个欧洲的销售激增 tovima.com 对于欧洲来说，粮食安全成为国家安全 GZERO Media",
-      "keywords": [
-        "europe",
-        "cyberattacks",
-        "survivalism",
-        "mainstream",
-        "threats",
-        "bomb",
-        "goes",
-        "hit",
-        "security",
-        "just"
-      ],
-      "keywords_zh": [
-        "欧洲",
-        "网络攻击",
-        "生存主义",
-        "主流",
-        "威胁",
-        "炸弹",
-        "去",
-        "打",
-        "安全",
-        "只是"
+        "油船",
+        "当局",
+        "埃及人",
+        "死亡",
+        "碰撞",
+        "驾车者",
+        "逮捕",
+        "开罗",
+        "燃料",
+        "爆炸"
       ],
       "category": {
         "en": "Technology",
@@ -412,8 +359,8 @@
       "interpretation": {
         "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
         "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: europe, cyberattacks, survivalism, mainstream, and threats. The available excerpt says: After Cyberattacks and Bomb Threats Hit Europe, Survivalism Goes Mainstream The New York Times Prepping has come to Europe, and it's government advice, not just online doom-mongering, behind the trend CBS News New survey finds nearly 70% of respondents lack enough drinking water to last just 3 days Yahoo Survival Kit Sales Surge in Greece and Across Europe tovima.com For Europe, food security becomes national security GZERO Media Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：欧洲、网络攻击、生存主义、主流、威胁。RSS 中文摘要显示：网络攻击和炸弹威胁袭击欧洲后，生存主义成为主流 《纽约时报》欧洲已做好准备，这一趋势的背后是政府的建议，而不仅仅是网上的末日散布 哥伦比亚广播公司新闻 最新调查发现，近 70% 的受访者缺乏足够的饮用水仅维持 3 天 雅虎求生工具包在希腊和整个欧洲的销售激增 tovima.com 对于欧洲来说，粮食安全成为国家安全 GZERO Media 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "detailed_en": "Key signals: tanker, authorities, egyptian, killed, and crash. The available excerpt says: Egyptian authorities arrest motorist over tanker crash that killed 31 BBC Egyptians mourn, demand accountability after deadly tanker explosion kills 31 Reuters Pope Leo XIV prays for victims of Cairo fuel lorry explosion Vatican News Egypt detains driver suspected of causing Cairo fuel tanker crash and inferno that left 31 dead Fox News At least 31 killed in fuel tanker fire near Cairo, Egyptian authorities say CNN Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：油船、当局、埃及人、死亡、碰撞。RSS 中文摘要显示：埃及当局逮捕因油罐车事故造成 31 人死亡的司机 BBC 埃及人哀悼，要求追究致命油罐车爆炸造成 31 人死亡的责任 路透社 教皇利奥十四世为开罗油罐车爆炸的受害者祈祷 梵蒂冈新闻 埃及拘留了涉嫌造成开罗油罐车事故和造成 31 人死亡的大火的司机 福克斯新闻 埃及当局称，开罗附近的油罐车火灾至少有 31 人死亡 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
         "what_to_watch_en": [
           "regulatory reaction",
           "enterprise adoption",
@@ -427,36 +374,89 @@
       }
     },
     {
-      "rank": 9,
-      "title": "Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him - USA Today",
-      "source": "USA Today",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOakxqNjZmNDBjeERPdVRXTUY5MU8wVmJ3LWt6MWNMNXVvTE1WcEU0U19qdlo1Wm12dFAwTVF4MmptYlpvc1hFZHpRYVY0N2hUclJwYVQ1VFNoaGUzdVNQeVQ4RUJoYU8ydTc5VE1zZG96cWVMVjM4WDJfY2RNYWN2MUd4eW13ZXdBdnZyR1FTNTMxdFlBYjlLSlNZQUt0QWFPb2J3WEIwSWZvUQ?oc=5",
-      "published_at": "2026-11-26T05:05:00+00:00",
-      "description": "Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him USA Today Man who won $1 million lottery ticket is detained by ICE, days after he claimed his windfall The Boston Globe ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize The New York Times Illegal alien lottery winner’s luck runs out with ICE Boston arrest ICE | U.S. Immigration and Customs Enforcement (.gov) ICE nabs illegal immigrant $1M Mass Lottery winner in East Boston foot chase Boston Herald",
-      "description_zh": "男子赢得了马萨诸塞州 100 万美元的彩票奖金。几天后，ICE 逮捕了他 《今日美国》 赢得 100 万美元彩票的男子在领取意外之财几天后被 ICE 拘留 《波士顿环球报》 在赢得 100 万美元彩票奖金几天后，ICE 在波士顿逮捕了一名非法外星人彩票中奖者 ICE 波士顿逮捕 ICE | 非法外星人彩票中奖者的运气耗尽了美国移民和海关执法局 (.gov) ICE 在东波士顿徒步追逐中抓获非法移民 100 万美元大众彩票中奖者 波士顿先驱报",
+      "rank": 8,
+      "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ - CNBC",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXdZWk9aY1VrSmlEbExnWV93RnFxTDFwV3RLdjhtYW1SaXU0aXJCbGJBRUVOS0FramRyaVdva0VwUWRLQlBZdHcwYktUWVlwaEp4MTNEeUN3Y2Q1bi1RUG5TRTZoWlY0S2lFUVpqSVF3NzJQZ2hiUGFjU19LTW93cERfYzNNY3VKalHSAY8BQVVfeXFMTXlQSEhkZ20xOFJXTzlvczJPelo5S294dENlYTBpMzAxVHVxeHhFNUk3eHZVYVQzY0t6cWZ5T1hEYUdjbkc1SmROUVVTVWc4Mjdza3FYNXplRTE0Qk5NY1NyTTNwdEN6Z2JyWEJhOVRVd3RVOVRoTVlubGNUYTBsWS1zTkZ3czV6WThYWkk4RVU?oc=5",
+      "published_at": "2026-11-27T03:30:00+00:00",
+      "description": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ CNBC Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran CBS News Italians killed in Kuwait: Why is Iran denying responsibility? Al Jazeera Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement CNN Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention Fox News",
+      "description_zh": "两名意大利人在科威特无人机袭击中丧生；特朗普称伊朗战争“只要我愿意”就可以结束 CNBC 伊朗被指控在科威特发动致命无人机袭击，引发欧盟呼吁加大对德黑兰的压力半岛电视台 两名意大利人在伊朗无人机袭击科威特事件中丧生；德黑兰否认参与 CNN 伊朗指责泽伦斯基“假旗”科威特无人机袭击行动以引起特朗普的注意 福克斯新闻",
       "keywords": [
-        "ice",
-        "lottery",
-        "days",
-        "man",
-        "claimed",
-        "boston",
-        "prize",
-        "massachusetts",
-        "arrested",
-        "later"
+        "kuwait",
+        "drone",
+        "iran",
+        "italians",
+        "killed",
+        "attack",
+        "two",
+        "whenever",
+        "trump",
+        "ends"
       ],
       "keywords_zh": [
-        "冰",
-        "彩票",
-        "天",
-        "男人",
-        "声称",
-        "波士顿",
-        "奖",
-        "马萨诸塞州",
-        "被捕",
-        "之后"
+        "科威特",
+        "无人机",
+        "伊朗",
+        "意大利人",
+        "死亡",
+        "袭击",
+        "二",
+        "每当",
+        "特朗普",
+        "结束"
+      ],
+      "category": {
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
+      },
+      "interpretation": {
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: kuwait, drone, iran, italians, and killed. The available excerpt says: Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’ CNBC Iran accused of deadly drone attack in Kuwait that sparks EU call to step up pressure on Tehran CBS News Italians killed in Kuwait: Why is Iran denying responsibility? Al Jazeera Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement CNN Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention Fox News Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：科威特、无人机、伊朗、意大利人、死亡。RSS 中文摘要显示：两名意大利人在科威特无人机袭击中丧生；特朗普称伊朗战争“只要我愿意”就可以结束 CNBC 伊朗被指控在科威特发动致命无人机袭击，引发欧盟呼吁加大对德黑兰的压力半岛电视台 两名意大利人在伊朗无人机袭击科威特事件中丧生；德黑兰否认参与 CNN 伊朗指责泽伦斯基“假旗”科威特无人机袭击行动以引起特朗普的注意 福克斯新闻 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
+        "what_to_watch_en": [
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
+        ],
+        "what_to_watch_zh": [
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
+        ]
+      }
+    },
+    {
+      "rank": 9,
+      "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic - The New York Times",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QdFJ3YnVfVDdIay1IYTExN0MyU3cwM0dzSlN4ZENuLU9TVGVndF9YQ1BDVXhyczh6SVZZLXJERE1HRmpja0RKN1lOMWpXeEltWXRzeFBNa3FzLWZ6ZXJQR29uanc3VWpVOE84ZTZNdmVLYjJ3SkxLRUR3ZElOTjA?oc=5",
+      "published_at": "2026-11-26T18:52:50+00:00",
+      "description": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic The New York Times Chris Mason: Immigration stats are down but will that be the end of the issue? BBC Britain’s population is still becoming larger, poorer and less British The Telegraph Net migration plummets: has Labour solved immigration issue? The Week UK net migration falls to almost three-decade low, excluding pandemic slump Reuters",
+      "description_zh": "英国净移民人数降至 1997 年以来的最低水平（不包括流行病） 《纽约时报》克里斯·梅森：移民统计数据下降，但这会是问题的结束吗？ BBC 英国人口仍在变得越来越多、越来越穷、越来越不英国化 电讯网移民大幅下降：工党解决了移民问题吗？本周英国净移民人数跌至近三个十年来的最低点（不包括疫情造成的下滑） 路透",
+      "keywords": [
+        "migration",
+        "net",
+        "excluding",
+        "pandemic",
+        "falls",
+        "lowest",
+        "level",
+        "since",
+        "immigration",
+        "issue"
+      ],
+      "keywords_zh": [
+        "迁移",
+        "网",
+        "排除",
+        "大流行",
+        "瀑布",
+        "最低",
+        "等级",
+        "自从",
+        "移民",
+        "问题"
       ],
       "category": {
         "en": "Technology",
@@ -465,8 +465,8 @@
       "interpretation": {
         "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
         "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: ice, lottery, days, man, and claimed. The available excerpt says: Man claimed $1M Massachusetts lottery prize. Days later, ICE arrested him USA Today Man who won $1 million lottery ticket is detained by ICE, days after he claimed his windfall The Boston Globe ICE Arrests Man in Boston Days After He Wins $1 Million Lottery Prize The New York Times Illegal alien lottery winner’s luck runs out with ICE Boston arrest ICE | U.S. Immigration and Customs Enforcement (.gov) ICE nabs illegal immigrant $1M Mass Lottery winner in East Boston foot chase Boston Herald Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：冰、彩票、天、男人、声称。RSS 中文摘要显示：男子赢得了马萨诸塞州 100 万美元的彩票奖金。几天后，ICE 逮捕了他 《今日美国》 赢得 100 万美元彩票的男子在领取意外之财几天后被 ICE 拘留 《波士顿环球报》 在赢得 100 万美元彩票奖金几天后，ICE 在波士顿逮捕了一名非法外星人彩票中奖者 ICE 波士顿逮捕 ICE | 非法外星人彩票中奖者的运气耗尽了美国移民和海关执法局 (.gov) ICE 在东波士顿徒步追逐中抓获非法移民 100 万美元大众彩票中奖者 波士顿先驱报 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "detailed_en": "Key signals: migration, net, excluding, pandemic, and falls. The available excerpt says: Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic The New York Times Chris Mason: Immigration stats are down but will that be the end of the issue? BBC Britain’s population is still becoming larger, poorer and less British The Telegraph Net migration plummets: has Labour solved immigration issue? The Week UK net migration falls to almost three-decade low, excluding pandemic slump Reuters Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
+        "detailed_zh": "关键词信号：迁移、网、排除、大流行、瀑布。RSS 中文摘要显示：英国净移民人数降至 1997 年以来的最低水平（不包括流行病） 《纽约时报》克里斯·梅森：移民统计数据下降，但这会是问题的结束吗？ BBC 英国人口仍在变得越来越多、越来越穷、越来越不英国化 电讯网移民大幅下降：工党解决了移民问题吗？本周英国净移民人数跌至近三个十年来的最低点（不包括疫情造成的下滑） 路透 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
         "what_to_watch_en": [
           "regulatory reaction",
           "enterprise adoption",
@@ -481,53 +481,54 @@
     },
     {
       "rank": 10,
-      "title": "US Army says controlled blast of explosives in Iowa was 'huge success' - BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ta0dIVU1xb0xPTmZXZW5yVnZVblJDUkVsSVJlQXo2MDAydDFxZFhuc2g2QW4tR2ZpUTUyUVFsc0xBeS1PUnN4THY1VzZqd2ZIdjFKSmxSR0dvT3c?oc=5",
-      "published_at": "2026-11-26T10:38:35+00:00",
-      "description": "US Army says controlled blast of explosives in Iowa was 'huge success' BBC US Army releases post-detonation maps of potential lead dust exposure WQAD After Extraordinary Iowa Explosion, Officials and Scientists Assess Fallout Risks The New York Times U.S. Army says lead azide detonation a success; EPA says no lead found in air KWQC The government says Iowa detonation results exceeded expectations. Now what? CNN",
-      "description_zh": "美国陆军称爱荷华州的受控爆炸爆炸取得了“巨大成功” BBC 美国陆军发布了潜在铅尘暴露的爆炸后地图EPA 称空气中未发现铅 KWQC 政府称爱荷华州爆炸结果超出预期。现在怎么办？美国有线电视新闻网",
+      "title": "Macron accuses ‘arrogant’ Le Pen of speaking as if she already won - POLITICO.eu",
+      "source": "POLITICO.eu",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa0ZTelJyTGVBZ1llRS1odGNZRzhXUHQtdGtkWmVucEQ2TkhvN0FJeFBRY3dyTHhTRXBEQjlDM3cwWmdvUE1KWDBpZUpTdmJxVEw0Z1RmN1hEa3ZvQnRCdXQ4SHF4UEhnd1dyREhZcmxMRFA1aWFubzRtNU5rZFhlUkNqVUVpZU9tVTdqUklFMkVrbkNBN042Q0M3djcxVXNIa1hkMndR?oc=5",
+      "published_at": "2026-11-26T22:39:00+00:00",
+      "description": "Macron accuses ‘arrogant’ Le Pen of speaking as if she already won POLITICO.eu EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear The Guardian France and Germany want deal by year-end to 'Le Pen-proof' next EU budget and Ukraine funding Reuters 'A lot of political theatre': EU summit ends in disarray as leaders cling to red lines Euronews.com At odds over the EU budget, European leaders decided to cut summit short DW.com",
+      "description_zh": "马克龙指责“傲慢”的勒庞，就好像她已经赢得了乌克兰援助一样",
       "keywords": [
-        "army",
-        "iowa",
-        "controlled",
-        "explosives",
-        "success",
-        "blast",
-        "huge",
-        "lead",
-        "detonation",
-        "post-detonation"
+        "pen",
+        "arrogant",
+        "speaking",
+        "politico",
+        "accuses",
+        "already",
+        "macron",
+        "she",
+        "won",
+        "leaders"
       ],
       "keywords_zh": [
-        "军队",
-        "爱荷华州",
-        "受控",
-        "炸药",
-        "成功",
-        "爆炸",
-        "巨大的",
-        "带领",
-        "爆炸后"
+        "笔",
+        "傲慢的",
+        "请讲",
+        "政治报",
+        "指责",
+        "已经",
+        "马克龙",
+        "她",
+        "韩元",
+        "领导者"
       ],
       "category": {
-        "en": "Technology",
-        "zh": "科技"
+        "en": "Geopolitics and security",
+        "zh": "地缘政治与安全"
       },
       "interpretation": {
-        "summary_en": "This story reflects a change in technology, digital infrastructure, platform power, or data risk.",
-        "summary_zh": "这条新闻反映了技术、数字基础设施、平台影响力或数据风险的变化。",
-        "detailed_en": "Key signals: army, iowa, controlled, explosives, and success. The available excerpt says: US Army says controlled blast of explosives in Iowa was 'huge success' BBC US Army releases post-detonation maps of potential lead dust exposure WQAD After Extraordinary Iowa Explosion, Officials and Scientists Assess Fallout Risks The New York Times U.S. Army says lead azide detonation a success; EPA says no lead found in air KWQC The government says Iowa detonation results exceeded expectations. Now what? CNN Read together with the source and timing, the story appears important because Technology stories can reshape competition, privacy, security, productivity, and regulation because they spread quickly across sectors.",
-        "detailed_zh": "关键词信号：军队、爱荷华州、受控、炸药、成功。RSS 中文摘要显示：美国陆军称爱荷华州的受控爆炸爆炸取得了“巨大成功” BBC 美国陆军发布了潜在铅尘暴露的爆炸后地图EPA 称空气中未发现铅 KWQC 政府称爱荷华州爆炸结果超出预期。现在怎么办？美国有线电视新闻网 结合来源与发布时间看，这条新闻值得关注，因为科技新闻可能重塑竞争、隐私、安全、生产效率和监管，因为技术变化会快速传导到多个行业。",
+        "summary_en": "This is a security or diplomatic flashpoint with possible cross-border effects.",
+        "summary_zh": "这是一条安全或外交热点新闻，可能产生跨境影响。",
+        "detailed_en": "Key signals: pen, arrogant, speaking, politico, and accuses. The available excerpt says: Macron accuses ‘arrogant’ Le Pen of speaking as if she already won POLITICO.eu EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear The Guardian France and Germany want deal by year-end to 'Le Pen-proof' next EU budget and Ukraine funding Reuters 'A lot of political theatre': EU summit ends in disarray as leaders cling to red lines Euronews.com At odds over the EU budget, European leaders decided to cut summit short DW.com Read together with the source and timing, the story appears important because The main risk is escalation: military moves, sanctions, energy disruption, or a sharper diplomatic response could follow if the situation widens.",
+        "detailed_zh": "关键词信号：笔、傲慢的、请讲、政治报、指责。RSS 中文摘要显示：马克龙指责“傲慢”的勒庞，就好像她已经赢得了乌克兰援助一样 结合来源与发布时间看，这条新闻值得关注，因为主要风险在于局势升级：如果事件扩大，可能引发军事行动、制裁、能源扰动或更强烈的外交回应。",
         "what_to_watch_en": [
-          "regulatory reaction",
-          "enterprise adoption",
-          "security or privacy consequences"
+          "official responses",
+          "civilian and infrastructure impact",
+          "sanctions or diplomatic talks"
         ],
         "what_to_watch_zh": [
-          "监管反应",
-          "企业采用情况",
-          "安全或隐私后果"
+          "官方回应",
+          "平民与基础设施影响",
+          "制裁或外交谈判"
         ]
       }
     }
